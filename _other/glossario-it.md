@@ -454,3 +454,24 @@ Aree del libro: Capitolo 6: Il Vecchio Tritaossa (O1 Pianterreno, O2 Macina dell
 | *warding wind* / *gust of wind* / *dispel magic* / *absorb elements* | *vento protettivo* / *folata di vento* / *dissolvi magie* / *assorbire elementi* | |
 | *mage armor* / *fly* / *blight* / *minor illusion* / *fireball* / *polymorph* | *armatura magica* / *volare* / *avvizzire* / *illusione minore* / *palla di fuoco* / *metamorfosi* | |
 | lay on hands / healing touch | imposizione delle mani / tocco guaritore | |
+
+### Arco I
+
+Aree: I1 La strada per Krezk; I2 Le porte di Krezk; I3 La strada per Berez (I3a L'orda di aghi infestanti, I3b Il sentiero del fiume Luna); I4 Le rovine di Berez (I4a Avvicinarsi alle rovine, I4b La capanna di Baba Lysaga, I4c L'incantesimo di scrutamento); I5 Il ritorno a Krezk; I6 Il villaggio di Krezk (I6a Lo stagno benedetto, I6b L'Abbazia di Santa Markovia).
+
+Aree del libro: R. Crocevia del fiume Corvo; Approaching the Mansion → Avvicinarsi alla dimora; Capitolo 8 (S1 Incrocio, S2 Corpo di guardia, S3 Villaggio di Krezk, S4 Stagno e santuario, S13 Sala principale); Krezk Lore → Storie di Krezk; Capitolo 9: Il Passo di Tsolenka; Capitolo 10 (Avvicinarsi alle rovine, Spaventapasseri della palude, U1 Casupole abbandonate, U2 Villa Ulrich, U3 Capanna di Baba Lysaga, U4 Sagrato, U5 Monumento di Marina); Lost Battlefield → Il campo di battaglia perduto; Travel Pace → Andatura di viaggio; Webs → Ragnatele; Appendix D → Appendice D.
+
+| Inglese | Italiano | Note |
+|---|---|---|
+| Raven River | fiume Corvo | |
+| needle blight | ago infestante | ⚠ coerente con *ramoscello infestante* |
+| greater strix | strige maggiore | |
+| Barovian witch | strega baroviana | |
+| the Weaver | la Tessitrice | una delle Tre Dame |
+| Swamp Fane | Tempio della Palude | |
+| *ethereal jaunt* | *salto etereo* | |
+| *null tincture* | *tintura nullificante* | |
+| *scrying* | *scrutare* | |
+| «Death to Ravenovia» | «Morte a Ravenovia» | |
+| flesh golem | golem di carne | |
+| Forced March | Marcia forzata | |
