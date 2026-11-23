@@ -395,7 +395,7 @@ If Muriel is with the players in raven form, Madam Eva regards her with an emoti
 
 “I have only seen him once these past ten years, however,” Eva adds, somewhat mournfully. “Doubtless, he has gone wild without me.” (Madam Eva is referring to the **Roc of Mount Ghakis**, which served her when she retained the mantle of the Seeker of the Ladies Three.)
 
-If the players ask Eva about [[Act I - Into the Mists/Arc B - Welcome to Barovia#B3. Svalich Woods|Dalvan Olensky's corpse]], she shares only that he was a Barovian named Dalvan Olensky who came to her tent in the aftermath of Strahd’s siege on the village of Barovia, and that he insisted upon hearing— and then defying—his fate, a choice with tragic consequences. (As with Strahd, Eva can’t disclose the nature or content of Dalvan’s foretelling.)
+If the players ask Eva about [[Act I - Into the Mists/Arc B - Welcome to Barovia#B3. Boschi di Svalich|Dalvan Olensky's corpse]], she shares only that he was a Barovian named Dalvan Olensky who came to her tent in the aftermath of Strahd’s siege on the village of Barovia, and that he insisted upon hearing— and then defying—his fate, a choice with tragic consequences. (As with Strahd, Eva can’t disclose the nature or content of Dalvan’s foretelling.)
 
 If the players ask Madam Eva to read their fortunes, or request her guidance on how to defeat Strahd, her face darkens, and she says, "You stand upon a precipice of a cliff whose base you cannot yet see. Do you understand what you ask of me?"
 

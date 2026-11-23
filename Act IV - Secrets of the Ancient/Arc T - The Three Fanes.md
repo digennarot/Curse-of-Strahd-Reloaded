@@ -776,7 +776,7 @@ If confronted or pressed, Sergei can reluctantly share the following additional 
 * If he has previously met Ireena Kolyana, he believes her to be the third incarnation of Tatyana’s spirit. (Sergei won’t admit this willingly, and will, at most, admit it by muted silence if the players suggest it, his eyes downcast).
 
 > [!info]+ **Ireena’s Response**
-> If informed that Sergei believes her to be Tatyana’s reincarnation, Ireena pales, her face growing stony. She then steps away from the party to wrestle with Sergei’s words. (If she still possesses it, she retrieves [[Arc B - Welcome to Barovia#B5j. Lugdana's Knoll|Tatyana’s bracelet]] from her belongings and turns it over in her hands, staring silently at the inscription engraved inside it.)
+> If informed that Sergei believes her to be Tatyana’s reincarnation, Ireena pales, her face growing stony. She then steps away from the party to wrestle with Sergei’s words. (If she still possesses it, she retrieves [[Arc B - Welcome to Barovia#B5j. Il Poggio di Lugdana|Tatyana’s bracelet]] from her belongings and turns it over in her hands, staring silently at the inscription engraved inside it.)
 >
 > If approached, Ireena, who is grateful for any insights, reassurance, and guidance the players can provide, can share that she is struggling with the implications of Sergei’s tale. “If my soul is Tatyana’s," she whispers, fists clenched, “am I even *me*? Has my life just been a cosmic play—some paler imitation of a woman who came before me, who *meant* more than me? Has anything I’ve ever done even *meant* anything?"
 >
