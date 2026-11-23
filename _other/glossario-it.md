@@ -320,3 +320,50 @@ Incantesimi: *hallow* → *santificare* ⚠; *spirit guardians* → *guardiani s
 Profilo di Volenta: Fast Grappler → Lottatore rapido; Sunlight Hypersensitivity → Ipersensibilità alla luce del sole; Nimble Escape → Fuga agile; Awakened Bloodlust → Sete di sangue risvegliata; Hail of Daggers → Pioggia di pugnali; Tanglefoot → Borsa impaniante; Thunderstone → Pietra del tuono; Alchemist's Firebomb → Bomba di fuoco dell'alchimista; Smokestick → Bastoncino fumogeno; Blood Frenzy → Frenesia di sangue; Leap → Balzo; Dislocate → Slogarsi; Spit Blood → Sputo di sangue; Aggress → Assalto; Abscond → Svignarsela. Venti: 10 / 20 miglia orarie → 15 / 30 km/h.
 
 Forma di cortesia nei dialoghi: i PNG baroviani si rivolgono a una persona sola di riguardo con il *voi* (ambientazione storica, come nell'Atto I); il DM è *tu*; i testi da leggere ai giocatori usano *voi*.
+
+### Arco E
+
+Aree: E1 Giocattoli Blinsky; E2 L'accampamento vistani (E2a Il campo vistani, E2b Le catapecchie degli elfi del crepuscolo, E2c La catapecchia di Kasimir); E3 La villa del borgomastro (E3a Entrare nella villa, E3b Le ricerche in biblioteca, E3c Parlare con Victor); E4 Il Lago Zarovich; E5 La Strada di Svalich (E5a Il ponte sul fiume Luna, E5b Il crocevia del fiume Luna); E6 Il Lago Baratok (E6a Il carrozzone di Ezmerelda, E6b La torre: 1. La porta della torre, 2. L'impalcatura, 3. Dentro la torre); E7 La strada del ritorno; E8 Il ritorno a Vallaki (E8a Affrontare Rictavio, E8b Seguire Rictavio, E8c Il carrozzone di Rictavio).
+
+Aree del libro: N9 Accampamento vistani (N9a Catapecchia di Kasimir, N9b Catapecchie degli elfi del crepuscolo, N9c Tenda dei Vistani, N9d Cavalli, N9e Carrozzone di Luvash, N9f–N9i carrozzoni); N3 Villa del borgomastro (N3c Sala da pranzo, N3e Studio, N3f Alloggi della servitù, N3g Cucina, N3l Biblioteca, N3m Ripostiglio chiuso a chiave, N3o Camera padronale, N3p Abito da sposa e specchio degli spiriti, N3t Laboratorio di Victor); N2c Sala comune; L. Lago Zarovich; P. Crocevia del fiume Luna; Capitolo 11: La torre di Van Richten (V1 Carrozzone magico di Ezmerelda, V2 Porta della torre, V3 Impalcatura traballante, V4–V7 Torre, pianterreno / primo / secondo / terzo piano); Approaching the Tower → Avvicinarsi alla torre; Creepy Toys → Giocattoli inquietanti; Roleplaying the Vistani and the Elves → Interpretare i Vistani e gli elfi; Vallaki Lore → Storie di Vallaki; The Order of Combat → L'ordine di combattimento.
+
+| Inglese | Italiano | Note |
+|---|---|---|
+| dusk elves / hovels | elfi del crepuscolo / catapecchie | |
+| great grand-niece | pronipote | |
+| Rozana | Rozana | |
+| the Fanes | i Templi | |
+| Whispering Wall | Muro dei Sussurri | |
+| Ladies Three / the Dreamer | Tre Dame / la Sognatrice | |
+| the Sight | la Vista | dono vistani |
+| *talisman of echoes* | *talismano degli echi* | |
+| *speak with dead* | *parlare con i morti* | |
+| *antimagic field* | *campo anti-magia* | |
+| Sunset Gate / Zarovich Gate | Porta del Tramonto / Porta Zarovich | |
+| Luna River | fiume Luna | |
+| Forest Folk | Popolo della Foresta | |
+| Othrondil, the Forest of Twilight | Othrondil, la Foresta del Crepuscolo | |
+| bladesong | canto della lama | |
+| schools of magic | abiurazione, ammaliamento, divinazione, evocazione (*conjuration*), illusione, invocazione (*evocation*), necromanzia, trasmutazione | |
+| *Ethereal Entities: Denizens of the Unseen Realm* | *Entità eteree: gli abitanti del regno invisibile* | |
+| Deep Ethereal / Border Ethereal | Etereo Profondo / Etereo di Confine | |
+| Feywild / Hades / Lower Planes | Selva Fatata / Ade / Piani Inferiori | |
+| soul bag | sacco delle anime | |
+| phase spider | ragno fase | |
+| leyline | linea di forza | |
+| Monster Manual | Manuale dei Mostri | |
+| Curse of Strahd (manuale) | La maledizione di Strahd | |
+| twig blight | ramoscello infestante | ⚠ |
+| scarecrow | spaventapasseri | |
+| gargoyle | gargoyle | |
+| Eggsmerelda | Uovsmerelda | gioco di parole adattato |
+| Heart of Sorrow | Cuore della Tristezza | |
+| *broken blade* | *lama spezzata* | |
+| sword cane | bastone animato | |
+| *charm bracelet* / *lucid lens* | *braccialetto dei ciondoli* / *lente lucida* | |
+| *glyph of warding* / *fear* / *sending* | *glifo di interdizione* / *paura* / *inviare* | |
+| *greater invisibility* / *animate dead* | *invisibilità superiore* / *animare morti* | |
+| *counterspell* / *abjure spell* (2024) | *controincantesimo* / *abiurare incantesimo* | ⚠ |
+| *disguise self* / *detect evil and good* | *camuffare se stesso* / *individuazione del bene e del male* | |
+| *death ward* / *freedom of movement* | *interdizione alla morte* / *libertà di movimento* | |
+| Sneak Attack / Cunning Action / Uncanny Dodge | Attacco furtivo / Azione scaltra / Schivata prodigiosa | |

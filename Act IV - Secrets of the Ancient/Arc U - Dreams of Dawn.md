@@ -511,7 +511,7 @@ When the players emerge from [[#U3h. The Lonely Maid]], read:
 <p>An enormous butterfly, made of fog and swirling mist, hovers above the frozen lake to the north. The butterfly faces east—and as a pulse of crimson light flares through the eastern fog, the air seems to <em>tremble</em> around it, a deep, resonant hum echoing from the butterfly’s wings as it flares a deep, angry violet.</p>
 </div>
 
-Players who have previously visited this location in [[Arc E - The Missing Vistana#E4. Lake Zarovich|Arc E - The Missing Vistana]] recognize it as the mouth of the Luna River, which flows from Lake Zarovich beside Szoldar and Yevgeni’s shack. The players can also recognize the stars and skies as the sight of the Grand Conjunction in the present day.
+Players who have previously visited this location in [[Arc E - The Missing Vistana#E4. Il Lago Zarovich|Arc E - The Missing Vistana]] recognize it as the mouth of the Luna River, which flows from Lake Zarovich beside Szoldar and Yevgeni’s shack. The players can also recognize the stars and skies as the sight of the Grand Conjunction in the present day.
 
 If the players investigate the slab, they find that it bears a carving of a butterfly, its grooves lined with lichen and moss.
 

@@ -1367,7 +1367,7 @@ Rictavio si rifiuta di dire altro, per paura che gli agenti di Strahd possano ru
 Se non scopre i giocatori, Rictavio usa il *cappello del camuffamento* per assumere l'aspetto di un popolano vallakiano qualsiasi, poi sgattaiola fuori dalla stalla in strada. Poi si infila per le strade e i vicoli di Vallaki nel tentativo paranoico di seminare chi lo segue. Un giocatore che cerca di seguirlo deve superare una prova di Saggezza (Percezione) con CD 18, altrimenti lo perde tra la folla. 
 
 > [!abstract]+ **Seguire Rictavio**
-> Uscito dalla stalla della Locanda dell'Acqua Azzurra, Rictavio va al Recinto di Arasek, dove infila il pacco di cibo tra le assi della porta posteriore del suo carrozzone. Poi, inginocchiato davanti al carrozzone, racconta ad Arabelle le novità della città mentre lei mangia, come descritto nell'[[Arc E - The Missing Vistana#E8b. Following Rictavio|Arco E: La vistana scomparsa]].
+> Uscito dalla stalla della Locanda dell'Acqua Azzurra, Rictavio va al Recinto di Arasek, dove infila il pacco di cibo tra le assi della porta posteriore del suo carrozzone. Poi, inginocchiato davanti al carrozzone, racconta ad Arabelle le novità della città mentre lei mangia, come descritto nell'[[Arc E - The Missing Vistana#E8b. Seguire Rictavio|Arco E: La vistana scomparsa]].
 ### Uscire dalla locanda
 Quando i giocatori lasciano la Locanda dell'Acqua Azzurra la prima mattina a Vallaki, trovano la strada piena di gente. Se i giocatori non intervengono, si svolge questa scena:
 
