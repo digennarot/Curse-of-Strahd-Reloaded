@@ -203,3 +203,68 @@ Azioni del cumulo di carne: Close Quarters Fighter → Combattente ravvicinato; 
 | Persona / Motivations / Emotions | Personalità / Motivazioni / Emozioni |
 | Relationships / Inspirations / Resonance | Relazioni / Ispirazioni / Risonanza |
 | Morale | Morale |
+
+## Archi B e C
+
+Misure di viaggio: 1 miglio = 1,5 km (come nell'edizione italiana). Quindi 2 miglia = 3 km, 3 miglia = 4,5 km, 1/4 di miglio = circa 400 m.
+
+| Inglese | Italiano | Note |
+|---|---|---|
+| CR | GS (grado di sfida) | |
+| Combat Level: Bloody / Oppressive | sanguinoso / opprimente | |
+| Allies | Alleati | |
+| gp / XP | mo / PE | |
+| Blood of the Vine Tavern | Taverna Sangue della Vite | ⚠ |
+| Bildrath's Mercantile | Emporio di Bildrath | |
+| Burgomaster's Mansion | Villa del borgomastro | |
+| Gates of Barovia | Cancelli di Barovia | |
+| Barovian Overlook | Belvedere di Barovia | |
+| Lugdana's Knoll | Poggio di Lugdana | |
+| Pillarstone of Ravenloft | Pilastro di Ravenloft | ⚠ |
+| Ismark the Great / the Lesser | Ismark il Grande / il Minore | |
+| B.C. (Barovian Calendar) | C.B. (Calendario Baroviano) | |
+| Keepers of the Feather | Custodi della Piuma | |
+| Morninglord | Signore del Mattino | |
+| St. Andral's Church | Chiesa di Sant'Andral | |
+| Abbey of St. Markovia | Abbazia di Santa Markovia | |
+| undercroft | cripta | |
+| fire bottle | bottiglia incendiaria | |
+| Purple Grapemash No. 3, Red Dragon Crush | invariati (marchi di vino) | |
+| Van Richten's Guide to Vampires | Guida di Van Richten ai vampiri | |
+| Tasha's Cauldron of Everything | Calderone omnicomprensivo di Tasha | |
+| expert sidekick | spalla esperta | |
+| Healer (feat) / healer's kit | Guaritore / kit da guaritore | |
+| Lingering Injuries | Ferite persistenti | ⚠ |
+| Holy Symbol of Ravenkind | Simbolo Sacro di Ravenkind | |
+| Sunsword | Spada del Sole | ⚠ |
+| Grand Conjunction | Grande Congiunzione | |
+| Forest Fane | Tempio della Foresta | |
+| the Seeker / the Ladies Three | il Cercatore / le Tre Dame | |
+| Tser Falls | Cascate di Tser | |
+| River Ivlis Crossroads / Crossroads of Ravenloft | Crocevia del fiume Ivlis / Crocevia di Ravenloft | |
+| The Hanged One | l'Impiccato | |
+| Order of the Silver Dragon | Ordine del Drago d'Argento | |
+| Tsolenka Pass | Passo di Tsolenka | |
+| Lake Zarovich | Lago Zarovich | |
+| Blue Water Inn | Locanda dell'Acqua Azzurra | ⚠ |
+| Taproom | Sala comune | |
+| Blinsky Toys | Giocattoli Blinsky | |
+| Arasek Stockyard | Recinto di Arasek | |
+| Festival of the Blazing Sun | Festa del Sole Ardente | |
+| Morning Gate | Porta del Mattino | |
+| "All will be well." | «Andrà tutto bene.» | |
+| malicious unhappiness | scontento malevolo | |
+| dream pastries | dolci dei sogni | ⚠ |
+| Game of Stories | Gioco delle Storie | |
+| March of the Dead | La marcia dei morti | |
+| ringmaster | direttore di circo | |
+| Claw and Fang (mastini) | Artiglio e Zanna | |
+| Thorn and Chain (scimitarre di Rahadin) | Spina e Catena | |
+
+Tarokka: Darklord → il Signore Oscuro; Artifact → l'Artefatto; Innocent → l'Innocente; Broken One → lo Spezzato; Hooded One → l'Incappucciato; Evoker → l'Invocatore; Transmuter → il Trasmutatore; Traitor → il Traditore; Myrmidon → il Mirmidone; Bishop → il Vescovo; Horseman → il Cavaliere; Marionette → la Marionetta; The Mists → le Nebbie; Glyphs / Stars / Swords → Glifi / Stelle / Spade.
+
+Creature: wereraven → corvo mannaro; werewolf → lupo mannaro; dire wolf → lupo crudele; zombie plague spreader → zombi untore; wight → wight; ghast → ghast; berserker → berserker; scout → esploratore; commoner → popolano; veteran → veterano; noble → nobile; spy → spia; bandit → bandito; guard → guardia; mastiff → mastino; greater strix / swarm of lesser strix → strige maggiore / sciame di strigi minori; manticore → manticora; swarm of ravens / bats / wasps → sciame di corvi / pipistrelli / vespe; night hag → megera notturna; revenant → revenant; phantom warrior → guerriero fantasma; roc → roc; giant spider → ragno gigante; elk → alce.
+
+Incantesimi e oggetti: *phantom steed* → *destriero fantasma*; *nondetection* → *anti-individuazione*; *mind blank* → *vuoto mentale*; *misty step* → *passo velato*; *magic missile* → *dardo incantato*; *gentle repose* → *riposo inviolato*; *major image* → *immagine maggiore*; *vampiric touch* → *tocco del vampiro*; *harm* → *ferire* ⚠; *speak with animals* → *parlare con gli animali*; *blindness/deafness* → *cecità/sordità*; *telekinetic grasp* → *presa telecinetica*; *geas* → *costrizione*; *wish* → *desiderio*; *remove curse* → *rimuovi maledizione*; *detect magic* → *individuazione del magico*; *potion of healing* → *pozione di guarigione*; *holy water* → *acqua santa*; *hat of disguise* → *cappello del camuffamento*; *ring of mind shielding* → *anello di schermo mentale*; *amulet of proof against detection and location* → *amuleto anti-individuazione e localizzazione*.
+
+Tratti dei profili: Fey Ancestry → Ascendenza fatata; Mask of the Wild → Maschera della natura selvaggia; Innate Spellcasting → Incantesimi innati; Keen Hearing and Smell → Olfatto e udito acuti; Pack Tactics → Tattiche del branco; Regeneration → Rigenerazione; Shapechange → Mutare forma; Undead Fortitude → Tempra da non morto; Spider Climb → Movimento del ragno; Etherealness → Forma eterea; Divine Sense → Senso divino; Saving Throws / Skills / Proficiency Bonus → Tiri salvezza / Abilità / Bonus di competenza; Dash / Disengage / Dodge / Hide → Scatto / Disimpegno / Schivata / Nascondersi.
