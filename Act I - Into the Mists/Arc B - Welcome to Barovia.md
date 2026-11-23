@@ -138,7 +138,7 @@ Se i giocatori accettano, Muriel li segue fino alla piazza, restando in volo sop
 > [!design]+ **Nota di progettazione: l'ingresso nel villaggio**
 > Questa scena è scritta per far capire subito la diffidenza degli abitanti, presentare Ismark come un alleato con cui entrare in sintonia e introdurre il **corvo mannaro** Muriel Vinshaw e i corvi di Barovia, anticipando così i Custodi della Piuma. 
 >
-> Muriel ricomparirà più avanti nell'[[Act I - Into the Mists/Arc C - Into the Valley#C3. La strige|Arco C: Nella valle]], in fuga da una **strige maggiore** dopo aver origliato l'incontro di Strahd con Madam Eva, e accompagnerà i giocatori fino alla città di Vallaki per tutto il resto dell'Arco C. Muriel comparirà anche nella sua forma e nella sua identità umana nell'[[Arc J - The Stolen Gem#Meeting Muriel|Arco J: La gemma rubata]] per accompagnare i giocatori alla cantina del Mago dei Vini, e rivelerà la sua vera natura di licantropo sulla [[Arc J - The Stolen Gem#Ludmilla's Provocations|Collina di Yester]].
+> Muriel ricomparirà più avanti nell'[[Act I - Into the Mists/Arc C - Into the Valley#C3. La strige|Arco C: Nella valle]], in fuga da una **strige maggiore** dopo aver origliato l'incontro di Strahd con Madam Eva, e accompagnerà i giocatori fino alla città di Vallaki per tutto il resto dell'Arco C. Muriel comparirà anche nella sua forma e nella sua identità umana nell'[[Arc J - The Stolen Gem#L'incontro con Muriel|Arco J: La gemma rubata]] per accompagnare i giocatori alla cantina del Mago dei Vini, e rivelerà la sua vera natura di licantropo sulla [[Arc J - The Stolen Gem#Le provocazioni di Ludmilla|Collina di Yester]].
 ## B5b. La piazza
 Mentre i giocatori e Ismark attraversano le strade del villaggio, leggi:
 

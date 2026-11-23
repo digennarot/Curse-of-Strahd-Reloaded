@@ -548,3 +548,54 @@ Agganci del modulo originale ⚠: Plea for Help → Richiesta d'aiuto; Mysteriou
 ### Act III e Act IV Summary
 
 Timeline → Cronologia; Arc \ Day of Neyavr → Arco \ Giorno di Neyavr; New Moon → luna nuova; seance → seduta spiritica; day of downtime → giornata di pausa; Hall of Bones → Sala delle ossa; *Icon of Ravenloft* → *Icona di Ravenloft* (l'originale la chiama anche *Icon of Dawn's Grace*); Mt. Ghakis → Monte Ghakis. Nelle tabelle della cronologia le celle vuote usano il trattino medio «–».
+
+## Atto III
+
+Titoli degli archi (alias nei link): J La gemma rubata; K L'abbazia caduta; L La tana dei lupi; M Il maniero del drago; N Racconti di Vallaki; O Cena con il diavolo; P Il colpo a Ravenloft; Q Un faro splendente.
+
+### Arco J
+
+Aree: J1 La Locanda dell'Acqua Azzurra (J1a La richiesta di Urwin; J1b La partenza: L'incontro con Muriel, La richiesta di Ireena); J2 La Vecchia Strada di Svalich (J2a L'attraversamento del fiume, J2b Il sentiero per il Passo di Tsolenka, J2c Il Crocevia del fiume Corvo, J2d La fossa chiodata, J2e Il monumento della Cacciatrice); J3 Il Mago dei Vini (J3a Il rifugio dei Martikov: Giù per la scala, La richiesta di Davian, La rabbia di Elvir, Nel tunnel, La muffa bruna; J3b Dentro l'azienda; J3c Su per le scale: Le vasche di fermentazione; J3d Il pianterreno: La banchina di carico, Il deposito delle botti; J3e Il primo piano: La stamperia, L'argano di carico; J3f Il ritorno dei Martikov); J4 La strada per la Collina di Yester (J4a Il tumulo di Kavan; J4b L'incubo: Il saluto di Strahd, In cammino con Strahd, La scommessa di Strahd); J5 La Collina di Yester (J5a Dentro il cerchio, J5b La sfida di Ludmilla, J5c Il rituale comincia, J5d Le guardie druidiche, J5e La barricata di Ludmilla: Il velo di nebbia, Il muro di radici, Le provocazioni di Ludmilla; J5f Fermare il rituale); J6 Dopo il rituale (J6a La confessione di Muriel, J6b Il Muro dei Sussurri, J6c L'Albero Gulthias); J7 Il ritorno all'azienda (J7a Il racconto di Kavan, J7b La restituzione della gemma).
+
+Aree del libro: Capitolo 12: Il Mago dei Vini (Avvicinarsi al vigneto; W1 Stalle; W2 Banchina di carico; W3 Laboratorio del bottaio; W4 Deposito delle botti; W5 Veranda; W8 Magazzino; W9 Vasche di fermentazione; W10 Laboratorio del vetraio; W11 Scala a chiocciola; W12 Rampa; W13 Scala di servizio; W14 Cantina dei vini; W15 Muffa bruna; W16 Argano di carico; W17 Camera padronale; W18 Cucina e sala da pranzo; W19 Dormitorio; W20 Stamperia; L'attacco di Wintersplinter); Capitolo 14: Collina di Yester (Y1 Sentiero; Y2 Tumuli dei berserker; Y3 Cerchio dei druidi; Y4 Albero Gulthias; Y5 Muro di nebbia / Muro dei Sussurri; Tombe nascoste; Il rituale dei druidi); False Trail → Falsa pista; Crypt 39 → Cripta 39; Gulthias Staff → Bastone di Gulthias; Strahd's Animated Armor → Armatura animata di Strahd.
+
+| Inglese | Italiano | Note |
+|---|---|---|
+| blight / vine blight / needle blight | infestante / rampicante infestante / ago infestante | |
+| tree blight / elder twig blight | albero infestante / ramoscello infestante anziano | |
+| young Gulthias tree / cutting | giovane Albero Gulthias / talea | |
+| *Gulthias staff* | *bastone di Gulthias* | |
+| poison razorvine | liana rasoio velenosa | ⚠ |
+| brown mold | muffa bruna | |
+| winter wolf | lupo invernale | |
+| nightmare (creatura) | incubo | Beucephalus |
+| greater / lesser strix | strige maggiore / strige minore | |
+| Forest Folk / Mountain Folk / First Folk | Popolo della Foresta / Popolo della Montagna / Primo Popolo | |
+| the Shadowed Lord | il Signore Ombroso | nome di Strahd per il Popolo della Foresta |
+| the feathered ones | i pennuti | i Custodi per i druidi |
+| Mother of Darkness / Child of Blood | Madre delle Tenebre / Figlia del Sangue | Baba Lysaga / Ludmilla |
+| Kavan the Blood-Drinker | Kavan il Bevitore di Sangue | |
+| King Dostron the Hellborn | re Dostron il Nato dall'Inferno | |
+| the Devourer | il Divoratore | |
+| Lorghoth the Decayer | Lorghoth il Putrefattore | |
+| the Huntress's spear | lancia della Cacciatrice | |
+| Green God Chernovog | il Dio Verde Chernovog | |
+| cairn | tumulo | |
+| Sarmizeget / Girvisa / Soldav | invariati | Girvisa = «terra fertile» |
+| Champagne du le Stompe | invariato (marchio di vino) | |
+| Wintersplinter | Wintersplinter | invariato |
+| shroud of mist / wall of roots | velo di nebbia / muro di radici | |
+| shroud of shadows | manto d'ombre | |
+| *twilight crest* | *sigillo del crepuscolo* | ⚠ |
+| *gray / silver gemstone of desire* | *gemma grigia / argentata del desiderio* | |
+| *Keeper's whistle* | *fischietto del Custode* | |
+| glede | brace viva («occhio di drago») | parola arcaica resa nel senso |
+| *potion of greater healing* / *dust of disappearance* | *pozione di guarigione superiore* / *polvere della sparizione* | |
+| *grease* / *hypnotic pattern* / *dimension door* / *contingency* | *unto* / *trama ipnotica* / *porta dimensionale* / *contingenza* | |
+| *spike growth* / *silence* / *shatter* / *aid* / *enervation* / *locate object* | *crescita spinosa* / *silenzio* / *frantumare* / *aiuto* / *snervare* / *localizza oggetto* | |
+| Profilo di Ludmilla: Devil's Sight, Form of Mist, Entangling Slime, Disrupt Spell, Mage's Reprisal | Vista del diavolo, Forma di nebbia, Melma avviluppante, Interrompere incantesimo, Rappresaglia del mago | |
+| Muriel: Mimic, Plummet, Interpose | Imitazione, Picchiata, Interporsi | |
+| Lorghoth: Master of Blights, Guardian of the Gulthias, Mulchform | Signore degli infestanti, Guardiano del Gulthias, Forma di pacciame | |
+| Svarog: Bind Elements | Vincolare gli elementi | |
+| Beucephalus: Ethereal Escape / ethereal stride | Fuga eterea / passo etereo | |
+| Alerting the Druids | Mettere in allarme i druidi | |
