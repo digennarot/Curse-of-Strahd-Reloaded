@@ -643,3 +643,38 @@ Aree del libro: Avvicinarsi alla tana; Z1 Imbocco della grotta; Z2 Posto di guar
 | Maul (lupi) | Sbranare | |
 | "The Lunatic's Lament" | «Il lamento della lunatica» | canzone di Bianca, versi adattati |
 | Darkon | Darkon | |
+
+### Arco M
+
+Aree: M1 La strada per Argynvostholt; M2 L'avvicinamento alla dimora (M2a La statua del drago, M2b L'ingresso principale); M3 Dentro la dimora (M3a L'atrio, M3b La sala da pranzo, M3c La Cappella del Mattino: Che cosa sa Godfrey, Godfrey e i frammenti d'ambra, La richiesta di Godfrey, Procurarsi gli abiti, Il raccolto della strega, La fossa comune); M4 Il pianterreno (M4a Il cimitero; M4b L'ala dell'amministratore: La cucina, Gli alloggi della servitù, Il salotto, La tana del drago, La cantina; M4c La sala da ballo dei ragni; M4d L'esterno); M5 Il primo piano (M5a La sala centrale; M5b Le stanze nord: Le stanze degli ospiti, Il corridoio con la trappola, Gli alloggi dei cavalieri; M5c Le stanze sud; M5d La cappella superiore); M6 Il secondo piano (M6a Le sale dell'Ordine: I cavalieri dell'Ordine, La camera di Vladimir, Lo studio di Argynvost, La camera di Argynvost; M6b Il soffitto crollato e la sala delle udienze; M6c La galleria del piano di sopra: Le scale est, L'anticamera in rovina, La galleria del piano di sopra, Marek si lascia convincere, Marek non si lascia convincere; M6d Le stanze sud); M7 Il terzo piano (M7a Il tetto; M7b Il faro: L'incontro con Vladimir Horngaard, L'ira di Vladimir, La profezia del gargoyle).
+
+Aree del libro, Capitolo 7: Q1 Statua del drago; Q2 Ingresso principale; Q3 Atrio del drago; Q4 Sala da ballo dei ragni; Q5 Stalla in rovina; Q6 Tana del drago; Q7 Salotto; Q8 Cancello di ferro; Q9 Alloggi della servitù; Q10 Cucina; Q11 Cantina; Q12 Sala da pranzo; Q13 Cappella del Mattino; Q14 Scale della cappella; Q15 Cimitero; Q16 Mausoleo del drago; Q17 Scale ovest; Q18 Balconate; Q19 Camere da letto in rovina; Q20 Nicchia sud; Q21 Nicchia nord; Q22 Bagno; Q23 Ripostiglio; Q24 Balconata della cappella; Q25 Corridoio con la trappola; Q26 / Q29 Stanza degli ospiti nord-est / nord-ovest; Q27, Q28 Alloggi dei cavalieri; Q31 Scale est; Q32 Camere da letto in rovina; Q33 Soffitto crollato; Q34 Bagno in rovina; Q35 Galleria del piano di sopra; Q36 Sala delle udienze del drago; Q37 Cavalieri dell'Ordine; Q38 Armadio; Q39 Camera di Vladimir; Q40 Studio di Argynvost; Q41 Tesoro del drago; Q42 Camera di Argynvost; Q43 Buco nel tetto; Q44 Gargoyle a forma di drago; Q45 Antica balista; Q46 Balista distrutta; Q47 Torrette del tetto; Q48 Bordo del tetto; Q49 Porta della torre del faro; Q50 / Q51 Faro, pianerottolo inferiore / superiore; Q52 Torrette del faro; Q53 Faro di Argynvostholt. Capitolo 9: T2 Statue di demoni; T3 Cortina di fiamme verdi. Icon of Ravenloft (p. 222) → Icona di Ravenloft.
+
+| Inglese | Italiano | Note |
+|---|---|---|
+| oath of the Order of the Silver Dragon | «Giuro solennemente di onorare le virtù dell'Ordine del Drago d'Argento...» | testo completo nell'Arco M; traduzione mia |
+| "From this until the end of days" | «Da ora fino alla fine dei giorni» | anelli, giuramento e parola d'ordine |
+| "May the day's last light guide you home" | «Che l'ultima luce del giorno ti guidi a casa» | |
+| *The Oath Celestial* / *Prayer for the Departed* | *Il giuramento celeste* / *Preghiera per i defunti* | |
+| phantom warrior | guerriero fantasma | |
+| phase spider fang / venom | zanna / veleno di ragno fase | |
+| pseudodragon | pseudodrago | Zorya |
+| dire elk / giant elk | alce crudele / alce gigante | |
+| Turul / the Great Raven | Turul / il Grande Corvo | roc del Monte Ghakis |
+| Mother Lysaga | Madre Lysaga | |
+| Brother Marek | frate Marek | |
+| Brightblade | *Lama Lucente* | |
+| *bracelet of warding* / *warding bond* | *braccialetto di interdizione* / *legame di interdizione* | |
+| *amulet of knight's passage* | *amuleto del passaggio del cavaliere* | |
+| *moon-touched rapier* | *stocco toccato dalla luna* | |
+| *continual flame* / *gaseous form* / *Tasha's hideous laughter* | *fiamma perenne* / *forma gassosa* / *risata incontenibile di Tasha* | |
+| *geas* | *costrizione* | |
+| Vladimir: Vengeful Revenant / Knight of Death | revenant vendicativo / cavaliere della morte | |
+| Oathbind / Burning Hatred / Turn Immunity / Rejuvenation | Vincolo del giuramento / Odio ardente / Immunità allo scacciare / Ringiovanimento | |
+| Conjure Phantoms / Reaving Sweep / Umbral Snare | Evocare fantasmi / Fendente devastante / Laccio d'ombra | |
+| Sworn Retribution / Ghostly Command / Martial Reprisal | Rappresaglia giurata / Comando spettrale / Rappresaglia marziale | |
+| Black Flames / Gravepyre / Destructive Wave | Fiamme nere / Pira della tomba / Onda distruttiva | |
+| Vengeful Rush / Vengeful Glare / Sentinel's Strike | Carica vendicativa / Sguardo vendicativo / Colpo della sentinella | |
+| Zorya: Keen Senses, Limited Telepathy, Ghostfire, Ethereal Escape | Sensi acuti, Telepatia limitata, Fuoco spettrale, Fuga eterea | |
+| Etherbound / Pivot / Spectral Spear | Legato all'etere / Giravolta / Lancia spettrale | |
+| Impossible Encounters / Failing Forward | Scontri impossibili / Fallire in avanti | |

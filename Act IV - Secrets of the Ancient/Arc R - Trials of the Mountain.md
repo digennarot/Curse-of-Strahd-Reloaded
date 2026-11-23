@@ -967,7 +967,7 @@ In addition, increase the number of petrified vrocks to four. (If present, Kasim
 > |-|-|-|-|-|
 > | Vrock | 3 | 3 | 4 | 4 |
 
-A player who thinks to present the *amulet of knight’s passage* while within 30 feet of the portcullis can suppress the curtain of flame for 1 minute, as described in [[Arc M - The Dragon's Manor#Argynvost’s Study|Arc M - The Dragon's Manor]].
+A player who thinks to present the *amulet of knight’s passage* while within 30 feet of the portcullis can suppress the curtain of flame for 1 minute, as described in [[Arc M - The Dragon's Manor#Lo studio di Argynvost|Arc M - The Dragon's Manor]].
 
 The guard tower of the gatehouse is as described in <span class="citation">T4. Guard Tower, Ground Floor (p. 157)</span>, <span class="citation">T5. Guard Tower, Upper Floor (p. 159)</span>, and <span class="citation">T6. Guard Tower Rooftop (p. 159)</span>.
 ## R4f. The Tyrant’s Second Trial
@@ -1221,7 +1221,7 @@ When the players awaken the following morning, the weather is crisp and cold, wi
 > 
 > In addition, increase the number of petrified vrocks to four. (If present, Kasimir can identify the demon statues as guardians that attacked him the last time he came here, animating and pursuing him when he tried to bypass the gatehouse by means of a rope.)
 > 
-> A player who thinks to present the *amulet of knight’s passage* while within 30 feet of the portcullis can suppress the curtain of flame for 1 minute, as described in [[Arc M - The Dragon's Manor#Argynvost’s Study|Arc M - The Dragon's Manor]].
+> A player who thinks to present the *amulet of knight’s passage* while within 30 feet of the portcullis can suppress the curtain of flame for 1 minute, as described in [[Arc M - The Dragon's Manor#Lo studio di Argynvost|Arc M - The Dragon's Manor]].
 > 
 > The guard tower of the gatehouse is as described in <span class="citation">T4. Guard Tower, Ground Floor (p. 157)</span>, <span class="citation">T4. Guard Tower, Upper Floor (p. 159)</span>, and <span class="citation">T6. Guard Tower Rooftop (p. 159)</span>.
 

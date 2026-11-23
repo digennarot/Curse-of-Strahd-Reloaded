@@ -140,7 +140,7 @@ Se i giocatori sono interessati, Victor presta loro volentieri la sua copia di *
 > Per tenere a freno la loro natura egoista, le megere di una congrega devono stringere fra loro un contratto scritto, firmato da ciascuna con il suo vero nome. Le megere di una congrega custodiscono il contratto con gelosia, spesso sigillandolo nel cuore della loro tana, sempre attente a non far cadere i loro nomi in mani nemiche.
 
 > [!info]+ **Procurarsi parti di ragno fase**
-> Più avanti i giocatori incontreranno dei **ragni fase** ad Argynvostholt e avranno l'occasione di prenderne le zanne e il veleno per combattere i **guerrieri fantasma** che si annidano lì. Per come procurarsi e usare le parti dei ragni fase vedi l'[[Arc M - The Dragon's Manor#M4c. Spiders’ Ballroom|Arco M: Il maniero del drago]].
+> Più avanti i giocatori incontreranno dei **ragni fase** ad Argynvostholt e avranno l'occasione di prenderne le zanne e il veleno per combattere i **guerrieri fantasma** che si annidano lì. Per come procurarsi e usare le parti dei ragni fase vedi l'[[Arc M - The Dragon's Manor#M4c. La sala da ballo dei ragni|Arco M: Il maniero del drago]].
 # H3. Il campo dei profughi
 Se sono passate almeno sei ore dall'insediamento di Lady Wachter nell'[[Arc F - Lady Wachter's Wish|Arco F: Il desiderio di Lady Wachter]], il campo dei profughi è stato spostato in <span class="citation">N8. Piazza della città (p. 119)</span>. (I profughi però vivono ancora nelle tende, mentre Lady Wachter cerca per loro alloggi adatti.)
 

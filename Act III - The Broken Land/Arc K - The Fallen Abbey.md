@@ -328,7 +328,7 @@ Se glielo chiedono, Dmitri può raccontare queste cose:
 Dmitri si scusa con i giocatori di aver tenuto loro nascoste queste cose, e dice di capire se sono spaventati o turbati.
 
 > [!abstract]+ **La scelta dei giocatori**
-> I Krezkov, orgogliosi e abituati a cavarsela da soli, non si sognerebbero mai di chiedere ai giocatori di trovare Ilya o di fermare l'Abate al posto loro. Se però sono i giocatori a offrirsi, i Krezkov si commuovono fino alle lacrime per la gratitudine, anche se si scusano di non avere molto da offrire in cambio. (Anche se i giocatori non si offrono, Ezmerelda d'Avenir li recluterà per salvare Ilya e sconfiggere l'Abate dopo averli incontrati nel [[#K2c. L'ala est]].)
+> I Krezkov, orgogliosi e abituati a cavarsela da soli, non si sognerebbero mai di chiedere ai giocatori di trovare Ilya o di fermare l'Abate al posto loro. Se però sono i giocatori a offrirsi, i Krezkov si commuovono fino alle lacrime per la gratitudine, anche se si scusano di non avere molto da offrire in cambio. (Anche se i giocatori non si offrono, Ezmerelda d'Avenir li recluterà per salvare Ilya e sconfiggere l'Abate dopo averli incontrati nell'[[#K2c. L'ala est|ala est]].)
 > 
 > Per trovare Ilya e fermare l'Abate i Krezkov hanno anche un altro aiuto: Ezmerelda d'Avenir, una cacciatrice di mostri amica dei Krezkov, che dopo essere stata ospite all'Abbazia batte da diversi giorni i Boschi di Svalich alla ricerca di Ilya. Se i giocatori accettano di aiutare Dmitri e Anna in una delle due imprese, i Krezkov raccomandano caldamente di cercare Ezmerelda prima di tentare qualunque cosa da soli. (Vedi **La visita di Ezmerelda** più avanti.)
 

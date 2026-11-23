@@ -326,7 +326,7 @@ Se i giocatori lo trattano con gentilezza, invece di cercare solo di calmarlo, S
 
 Se i giocatori restano nella grotta di Skennis senza dargli da mangiare, curarlo, calmarlo, renderlo inoffensivo o nascondersi da lui, il suo ringhio cresce fino a diventare un brontolio minaccioso. Un round dopo lancia un ululato acuto e penetrante che rimbomba sulle pareti della grotta e fino alla valle.
 
-L'ululato di Skennis mette in allarme Ilya e Zuleika nel [[#L4e. Il santuario di Madre Notte]], i due **lupi mannari attaccabrighe** e i sei **lupi** di [[#L4d. Le grotte profonde]], Bianca nell'**Z8. Anello di pietra** e Azianka e Davanka (se sono ancora vive e abbastanza vicine alla tana da sentirlo). I lupi mannari attaccabrighe e i lupi arrivano dopo un round, Azianka e Davanka almeno due round dopo.
+L'ululato di Skennis mette in allarme Ilya e Zuleika nel [[#L4e. Il santuario di Madre Notte|santuario di Madre Notte]], i due **lupi mannari attaccabrighe** e i sei **lupi** di [[#L4d. Le grotte profonde]], Bianca nell'**Z8. Anello di pietra** e Azianka e Davanka (se sono ancora vive e abbastanza vicine alla tana da sentirlo). I lupi mannari attaccabrighe e i lupi arrivano dopo un round, Azianka e Davanka almeno due round dopo.
 ## L4d. Le grotte profonde
 <span class="citation"><em>Quest'area corrisponde a Z5. Grotte profonde (p. 203).</em></span>
 
