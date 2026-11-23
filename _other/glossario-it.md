@@ -544,3 +544,7 @@ Tarokka: «Nine of Glyphs—Traitor» → «Nove di Glifi: il Traditore»; Coins
 *Holy Symbol of Ravenkind*: Wondrous item, legendary (requires attunement by a creature of good alignment) → Oggetto meraviglioso, leggendario (richiede sintonia con una creatura di allineamento buono); Dawn's Embrace / Light of Hope / Sun's Blessing → Abbraccio dell'alba / Luce della speranza / Benedizione del sole; spellcasting focus → focus da incantatore; Hold Vampires / Turn Undead → *Bloccare vampiri* / *Scacciare non morti* ⚠; *Inspire* → ***Ispirare***.
 
 Agganci del modulo originale ⚠: Plea for Help → Richiesta d'aiuto; Mysterious Visitors → Visitatori misteriosi; Werewolves in the Mist → Lupi mannari nella nebbia; Creeping Fog → Nebbia strisciante. Titoli vecchi citati in grassetto: Arc R: The Tyrant's Trials → Arco R: Le prove del Tiranno; Arc X: Whispers of the Mists → Arco X: Sussurri delle Nebbie.
+
+### Act III e Act IV Summary
+
+Timeline → Cronologia; Arc \ Day of Neyavr → Arco \ Giorno di Neyavr; New Moon → luna nuova; seance → seduta spiritica; day of downtime → giornata di pausa; Hall of Bones → Sala delle ossa; *Icon of Ravenloft* → *Icona di Ravenloft* (l'originale la chiama anche *Icon of Dawn's Grace*); Mt. Ghakis → Monte Ghakis. Nelle tabelle della cronologia le celle vuote usano il trattino medio «–».
