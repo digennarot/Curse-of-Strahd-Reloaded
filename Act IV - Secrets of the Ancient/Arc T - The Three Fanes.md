@@ -1502,7 +1502,7 @@ If the players make themselves known, add:
 
 Arturi is deeply grateful for the players’ presence. He can share the following information:
 
-* Since he and the players first met in [[Arc C - Into the Valley#C4c. Vistani Hospitality|C4c. Vistani Hospitality]], he has continued his efforts to search the valley for Dr. Rudolph van Richten, hoping that "the good doctor" may hold the secret to curing what ails him. (Arturi’s mouth twists as he says the phrase “the good doctor.")
+* Since he and the players first met in [[Arc C - Into the Valley#C4c. L'ospitalità vistani|C4c. Vistani Hospitality]], he has continued his efforts to search the valley for Dr. Rudolph van Richten, hoping that "the good doctor" may hold the secret to curing what ails him. (Arturi’s mouth twists as he says the phrase “the good doctor.")
 * If asked, Arturi shares that his "ailment" is a curse: that the undead pursue him wherever he goes, and that they have haunted him each night for the past eighteen years. "Luvash and Arrigal have taken on a terrible danger in sheltering me," he says, wincing. “No matter the outcome of our meeting, I must be gone from their wagons before nightfall."
 * Arturi prefers not to share the cause of his "ailment" before meeting Dr. Van Richten. However, a player who succeeds on a DC 12 Charisma (Persuasion) check can convince Arturi to share that "a man once vowed that undead shall take me." Arturi chuckles weakly. "Although they have not yet succeeded, they have never failed to try." He then coughs, adding, "Please, I must see Dr. Van Richten. His life may be in urgent danger, as well as mine."
 
@@ -1523,7 +1523,7 @@ Arturi believes it clear that Madam Eva’s first words —the “man who forged
 Arturi asks the players to take him to Van Richten, believing that they, following their travels through the valley, may have knowledge of his location. "I heard what you did at the vampire's castle," he adds, a touch of desperation to his voice. “No others in this valley have the strength or courage to defy him. Please help me—I beg of you."
 
 > [!abstract]+ **The Sparrows and the Fox**
-> If asked, Arturi grimly confirms that his tale of the sparrows and the fox from [[Arc C - Into the Valley#Arturi’s Tale|Arc C - Into the Valley]] was a symbolic retelling of his and Van Richten’s tale, with the Radanaviches as the sparrows, Van Richten as the fox, and the undead as the rats. “All stories have a grain of truth within them," he coughs. “This one simply had more than most."
+> If asked, Arturi grimly confirms that his tale of the sparrows and the fox from [[Arc C - Into the Valley#Il racconto di Arturi|Arc C - Into the Valley]] was a symbolic retelling of his and Van Richten’s tale, with the Radanaviches as the sparrows, Van Richten as the fox, and the undead as the rats. “All stories have a grain of truth within them," he coughs. “This one simply had more than most."
 
 > [!info]+ **Finding Van Richten**
 > Unless the players’ actions have caused him to relocate, Rudolph van Richten remains wherever the players left him at the conclusion of [[Arc E - The Missing Vistana]]. If he’s not in or near Vallaki, the players can convince him to travel to them by sending a message with sufficient details to verify their identity. (If the players don’t think to do so, Ezmerelda urges them to include such details in their letter, preferably in vague or coded form, so that the ever-paranoid Van Richten knows to trust their words.)
