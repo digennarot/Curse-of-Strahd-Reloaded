@@ -476,6 +476,21 @@ Aree del libro: R. Crocevia del fiume Corvo; Approaching the Mansion → Avvicin
 | flesh golem | golem di carne | |
 | Forced March | Marcia forzata | |
 
+## Introduzione e capitoli
+
+Titoli dei capitoli (alias nei link; i nomi dei file restano in inglese): Using This Guide → Come usare questa guida; Character Creation → Creazione del personaggio; Session Zero → Sessione zero; History of Barovia → Storia di Barovia; Lore of Barovia → Leggende di Barovia ⚠; Adventure Summary → Riepilogo dell'avventura; Running the Adventure → Condurre l'avventura.
+
+| Inglese | Italiano | Note |
+|---|---|---|
+| Official Material | Materiale ufficiale | |
+| sidebar (collapsible) | riquadro | |
+| Info / Warning / Lore / Narrative / Profile / Item Sidebars | Riquadri informativi / di avvertimento / di ambientazione / narrativi / di profilo / degli oggetti | |
+| homebrew / homebrewed statblock | homebrew / profilo fatto in casa | |
+| third-party guides | guide di terze parti | |
+| load-bearing support | muro portante | |
+| Brewer Beware | Modifiche a tuo rischio | gioco di parole perso |
+| Don't Panic | Niente panico | |
+
 ## Appendici
 
 ### Glossary e Amber Shards
