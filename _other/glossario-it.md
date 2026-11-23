@@ -304,7 +304,19 @@ Titoli degli archi (alias nei link): D La festa di Sant'Andral; E La vistana sco
 | cult fanatic | fanatico del culto | |
 | poltergeist | poltergeist | |
 | downtime | giornata di pausa | |
-| Player's Handbook | Manuale del giocatore | |
+| Player's Handbook | Manuale del Giocatore | |
 | store credit | credito in negozio | |
 | Diverging Paths / The Zealous Crusaders / The Cautious Explorers | Percorsi divergenti / I crociati zelanti / Gli esploratori cauti | |
 | Quest Timeline | Cronologia delle missioni | |
+
+### Arco D
+
+Luoghi e aree: D1 La Chiesa di Sant'Andral (D1a Entrare in chiesa, D1b La cappella, D1c La scena del furto, D1d Parlare con Yeska); D2 La casa di Milivoj (D2a Affrontare Milivoj, D2b Lasciare la casa); D3 Il Recinto di Arasek; D4 La bottega del fabbricante di bare (D4a Entrare nella bottega, D4b Recuperare le ossa, D4c La trappola di Volenta); D5 Riportare le ossa; D6 La visita di Rahadin (D6a L'invito, D6b La sentenza). Coffin Maker's Shop (N6) → Bottega del fabbricante di bare; Vampire Nest (N6f) → Nido dei vampiri; Henrik's Bedroom (N6e) → Camera di Henrik; Kitchen (N6d) → Cucina; Workshop (N6c) → Laboratorio; Brazier Room (K78) → Stanza del braciere; Bones of St. Andral → Le ossa di Sant'Andral; Dream Pastries → Dolci dei sogni; Sunlight in Barovia → La luce del sole a Barovia; Carnival of Wonders → Carnevale delle Meraviglie.
+
+Altro: Most High Priest → Sommo Sacerdote; House Von Zarovich → casata Von Zarovich; teleportation brazier → braciere di teletrasporto; altar boy → chierichetto; ramson → aglio orsino; electrum pieces → monete di electrum; noisemaker → congegno rumoroso; «Is no fun, is no Blinsky!» → «Se non è divertente, non è Blinsky!»; Chamberlain of Castle Ravenloft → Ciambellano del Castello di Ravenloft; Monsters and Death / Death Saving Throws → Mostri e morte / Tiri salvezza contro la morte; Xanathar's Guide to Everything → Guida omnicomprensiva di Xanathar; Want a Hand? (callout Patreon) → Ti serve una mano?
+
+Incantesimi: *hallow* → *santificare* ⚠; *spirit guardians* → *guardiani spirituali*; *spiritual weapon* → *arma spirituale*; *sacred flame* → *fiamma sacra*; *guiding bolt* → *dardo guida*; *cure wounds* → *cura ferite*; *hold person* → *blocca persone*; *command* → *comando*; *mage hand* → *mano magica*. Privilegio *divine eminence* → *eminenza divina*. Trappola *poison needle* → *ago avvelenato*; *thieves' tools* → *arnesi da scasso*.
+
+Profilo di Volenta: Fast Grappler → Lottatore rapido; Sunlight Hypersensitivity → Ipersensibilità alla luce del sole; Nimble Escape → Fuga agile; Awakened Bloodlust → Sete di sangue risvegliata; Hail of Daggers → Pioggia di pugnali; Tanglefoot → Borsa impaniante; Thunderstone → Pietra del tuono; Alchemist's Firebomb → Bomba di fuoco dell'alchimista; Smokestick → Bastoncino fumogeno; Blood Frenzy → Frenesia di sangue; Leap → Balzo; Dislocate → Slogarsi; Spit Blood → Sputo di sangue; Aggress → Assalto; Abscond → Svignarsela. Venti: 10 / 20 miglia orarie → 15 / 30 km/h.
+
+Forma di cortesia nei dialoghi: i PNG baroviani si rivolgono a una persona sola di riguardo con il *voi* (ambientazione storica, come nell'Atto I); il DM è *tu*; i testi da leggere ai giocatori usano *voi*.

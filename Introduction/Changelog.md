@@ -37,7 +37,7 @@
 * Clarified how the zombies appear behind Rahadin in [[Arc B - Welcome to Barovia]]
 * Corrected Rahadin's damage output for saber and poisoned dart
 * Removed references to moonlight in [[Arc C - Into the Valley]] due to it being a new moon
-* Renamed The Trial to [[Arc D - St. Andral's Feast#D6b. The Sentencing|The Sentencing]] in [[Arc D - St. Andral's Feast]]
+* Renamed The Trial to [[Arc D - St. Andral's Feast#D6b. La sentenza|The Sentencing]] in [[Arc D - St. Andral's Feast]]
 * Removed Strahd's spying in [[Arc J - The Stolen Gem]] due to user feedback
 * Clarified the coloring of the gem in [[Arc J - The Stolen Gem]] as emerald green.
 * Clarified that the Abbot has no in depth knowledge of Tatyana, due to him arriving after her death, in [[Arc K - The Fallen Abbey]]

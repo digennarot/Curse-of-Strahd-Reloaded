@@ -25,7 +25,7 @@ I giocatori cominciano questo atto al 4º livello e lo concludono al 5º. Ognuno
 * farsi aprire le porte di Krezk (750 PE)
 
 > [!info]+ **I mercanti di Vallaki**
-> A Vallaki i giocatori possono comprare merci al Recinto di Arasek come descritto in <span class="citation">N5. Recinto di Arasek (p. 115)</span>, ma al prezzo normale indicato nel *Manuale del giocatore*.
+> A Vallaki i giocatori possono comprare merci al Recinto di Arasek come descritto in <span class="citation">N5. Recinto di Arasek (p. 115)</span>, ma al prezzo normale indicato nel *Manuale del Giocatore*.
 > 
 > Chi gira per le botteghe della città trova inoltre quasi tutti gli oggetti che costano 25 mo o meno, armi e armature comprese. Si possono comprare anche materiali per libri degli incantesimi e componenti di incantesimi fino a 50 mo ciascuno.
 > 
@@ -51,7 +51,7 @@ Izek Strazni e due **guardie** affiggono nella piazza della città i manifesti d
 >
 > All'incontro, che i giocatori ci siano o no, il barone respinge senza discutere ogni proposta di far entrare i profughi in città. Concede però a Ireena di andare e venire fra la città e il campo dei profughi senza pagare il pedaggio alle porte.
 > 
-> Se i giocatori sono presenti e si fanno amico o nemico il barone, lui reagisce come descritto in <span class="citation">Interpretare la famiglia Vallakovich (p. 105)</span>. Si vanta anche con loro della prossima Festa del Sole Ardente, durante la quale intende bruciare offerte al Signore del Mattino dentro un gigantesco sole di vimini: carni stagionate, incenso, gioielli e così via. «I cieli vedranno la nostra gioia e la nostra ricchezza e ci guarderanno con favore» proclama gonfio d'orgoglio. «Con il nostro buon umore ci avvicineremo sempre di più alla libertà da questa tenebra funesta.»
+> Se i giocatori sono presenti e si fanno amico o nemico il barone, lui reagisce come descritto in <span class="citation">Interpretare la famiglia Vallakovich (p. 105)</span>. Si vanta anche con loro della prossima Festa del Sole Ardente, durante la quale intende bruciare offerte al Signore del Mattino dentro un gigantesco sole di vimini: carni stagionate, incenso, gioielli e così via. «I cieli vedranno la nostra gioia e la nostra ricchezza e ci guarderanno con favore», proclama gonfio d'orgoglio. «Con il nostro buon umore ci avvicineremo sempre di più alla libertà da questa tenebra funesta.»
 
 Quella notte, se la prima mattina a Vallaki i giocatori hanno sfidato il barone Vallakovich o aiutato Willemina Rikalova, trovano un invito lasciato da Ernst Larnak: Lady Fiona Wachter li aspetta a cena a Wachterhaus. Se i giocatori accettano l'invito in questo momento, comincia l'[[Arc F - Lady Wachter's Wish|Arco F: Il desiderio di Lady Wachter]].
 ## Neyavr 4
