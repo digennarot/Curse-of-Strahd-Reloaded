@@ -708,3 +708,41 @@ Aree del libro, Capitolo 4: J. Cancelli di Ravenloft; I. Carrozza nera; B. Cance
 | She Who Seeks in Storm-Clouds | Colei che cerca fra le nubi della tempesta | il Cercatore per i corvi |
 | dhampir / warforged | dhampir / forgiato | |
 | Eberron: Rising from the Last War | Eberron: Rinascita dopo l'Ultima Guerra | |
+
+### Arco P
+
+Aree: P1 Prepararsi al colpo; P2 La Vecchia Strada di Svalich (P2a L'avvicinamento al crocevia, P2b L'avvicinamento al castello, P2c La partenza di Strahd, P2d Attraversare il baratro); P3 I terreni del castello (P3a–P3f); P4 Le sale comuni del castello; P5 L'ala della servitù; P6 Gli appartamenti del re; P7 Il campanile (P7a La falsa tesoreria, P7b Il corridoio d'accesso al campanile, P7c La cella campanaria, P7d La tesoreria); P8 La suite degli ospiti; P9 Gli alloggi della congrega (P9a La stanza dei famigli, P9b La stanza degli elementi, P9c La stanza del calderone); P10 La guarnigione (P10a–P10i); P11 Le segrete (P11a Il corridoio delle segrete, P11b/c Le segrete nord/sud, P11d La camera delle torture, P11e La stanza del braciere, P11f La scala ovest, P11g Il tunnel delle catacombe); P12 Le catacombe (Le cripte nord/centrali/sud, prima/seconda/terza fila; La tomba di Sergei; La tomba del re e della regina; La tomba di Strahd).
+
+Piani del castello: 1F pianterreno, 2F primo piano, 3F secondo piano, 4F terzo piano, ecc.; B1F/B2F primo/secondo piano interrato.
+
+| Inglese | Italiano | Note |
+|---|---|---|
+| Ravenloft Heist | Il colpo a Ravenloft | titolo dell'arco |
+| Castle Commons / Servants' Wing / King's Apartments | sale comuni del castello / ala della servitù / appartamenti del re | |
+| Coven's Quarters / Garrison / Dungeons / Catacombs | alloggi della congrega / guarnigione / segrete / catacombe | |
+| Archers' Post / Access Hall | postazione degli arcieri / corridoio d'accesso | |
+| Heart of Sorrow | Cuore della Tristezza | |
+| Kingsmen | uomini del re | |
+| Barovian hexwitch / bogwitch / stormwitch | strega baroviana delle maledizioni / delle torbiere / della tempesta | ⚠ |
+| Diavola | Diavola | capa della congrega |
+| *broom of inferior flying* | *scopa volante inferiore* | |
+| *potion of poison immunity* | *pozione di immunità al veleno* | |
+| invisible stalker / air form | cacciatore invisibile / forma d'aria | |
+| crawling zombie | zombi strisciante | |
+| iron maiden / rack / brazen bull / breaking wheel / scavenger's daughter | vergine di ferro / cavalletto / toro di bronzo / ruota / figlia dello spazzino | ⚠ figlia dello spazzino è calco del nome storico |
+| Anastrasya: Vampire Socialite / Vampiric Abomination | vampira di mondo / abominio vampirico | ⚠ socialite |
+| Skinchange / Flying Sword / Telekinetic Thrust / Call Defender | Muta della pelle / Spada volante / Spinta telecinetica / Chiamare un difensore | |
+| Vomit Blood / Telekinetic Storm / Horrific Screech / Wing Attack / Vampiric Command | Vomito di sangue / Tempesta telecinetica / Strillo orrendo / Attacco d'ala / Comando vampirico | |
+| Volenta: Alchemical Savant / Frenzied Spawn | sapiente alchimista / progenie frenetica | |
+| Froststar / Final Conflagration / Acrobatic Escape / Caustic Splash | Stella di gelo / Incendio finale / Fuga acrobatica / Spruzzo caustico | |
+| Reflexive Spellcasting / Split Mind | Incantesimi riflessi / Mente divisa | ritratto guardiano |
+| Khazan's Staff / arcane surge | bastone di Khazan / ondata arcana | |
+| *Amulet of Ravenloft* | *Amuleto di Ravenloft* | |
+| Sliver of Darkness | scheggia di oscurità | come nell'Arco O |
+| monkshood / wolfsbane | aconito / strozzalupo | indovinello del braciere |
+| brazier riddle | indovinello del braciere | ⚠ adattato in rima, non tradotto alla lettera |
+| St. Finderway, Saint of Lost Travelers | San Finderway, santo dei viaggiatori perduti | |
+| Elsa Fallona, Beloved Actor | Elsa Fallona, amata attrice | |
+| *orb of direction* | *globo della direzione* | |
+| *cape of the mountebank* / *pearl of power* / *driftglobe* | *mantella del ciarlatano* / *perla del potere* / *globo fluttuante* | |
+| *stone of good luck* | *pietra della fortuna* | |

@@ -205,7 +205,7 @@ Mentre i giocatori si avvicinano alla carrozza o fanno per superarla, notano un 
 Su uno dei sedili imbottiti della carrozza è stato lasciato un forziere di legno finemente intagliato, avvolto in un nastro rosso acceso. Il forziere, chiuso a chiave, largo circa trenta centimetri e profondo una quindicina, emana un'aura di magia di evocazione sotto un incantesimo *individuazione del magico*. Il forziere ha le proprietà di una *borsa conservante*, ma solo se viene aperto nel modo giusto. (Nonostante l'aspetto rigido, se aperto correttamente, l'apertura della scatola si allarga per accogliere qualunque oggetto ci si metta dentro, purché ci stia nel volume interno della scatola. La scatola torna alle dimensioni originali quando l'oggetto è tutto dentro.)
 
 > [!abstract]+ **Riporre il teschio**
-> Se i giocatori decidono di usarlo così, lo spazio extradimensionale dentro il forziere è abbastanza grande da contenere il teschio del drago d'argento Argynvost nell'[[Arc P - Ravenloft Heist#Hall of Bones|Arco P: Il colpo a Ravenloft]].
+> Se i giocatori decidono di usarlo così, lo spazio extradimensionale dentro il forziere è abbastanza grande da contenere il teschio del drago d'argento Argynvost nell'[[Arc P - Ravenloft Heist#La Sala delle ossa|Arco P: Il colpo a Ravenloft]].
 
 Sul davanti del forziere è intagliato un rompicapo scorrevole fatto di otto tasselli di legno che si possono far scorrere e di un nono spazio vuoto al centro. Su ogni tassello è intagliato un animale diverso. Quando i giocatori lo esaminano per la prima volta, le righe del rompicapo, dall'alto in basso, sono: pipistrello, ratto, alce; lupo, spazio vuoto, orso; ragno, corvo, farfalla.
 
@@ -816,7 +816,7 @@ Se a guidare i giocatori è Escher, lui è brusco e visibilmente ingobbito mentr
 > Se qualche giocatore disobbedisce alle istruzioni della guida e si separa dal resto del gruppo per esplorare il Castello di Ravenloft, mentre lo fa incontra queste scene.
 >
 > > [!info]- **Secondo piano interrato (B2F). Segrete e catacombe** 
-> > Se invece un giocatore scende di due piani per la <span class="citation">K21. Scala della torre sud (p. 59)</span> dalla <span class="citation">K9. Sala degli ospiti (p. 56)</span>, sbuca nel <span class="citation">K73. Corridoio delle segrete (p. 79)</span>. Quest'area è più o meno come descritta in <span class="citation">K73. Corridoio delle segrete (p. 79)</span>; togli però dalla descrizione dell'area il riferimento alla «richiesta di aiuto». Le trappole di teletrasporto funzionano come descritto nell'[[Arc P - Ravenloft Heist#P11d. Torture Chamber|Arco P: Il colpo a Ravenloft]]. Se il personaggio cade vittima di una delle trappole di teletrasporto, Rahadin lo va a riprendere in fretta e lo accompagna di sopra, nella suite degli ospiti.
+> > Se invece un giocatore scende di due piani per la <span class="citation">K21. Scala della torre sud (p. 59)</span> dalla <span class="citation">K9. Sala degli ospiti (p. 56)</span>, sbuca nel <span class="citation">K73. Corridoio delle segrete (p. 79)</span>. Quest'area è più o meno come descritta in <span class="citation">K73. Corridoio delle segrete (p. 79)</span>; togli però dalla descrizione dell'area il riferimento alla «richiesta di aiuto». Le trappole di teletrasporto funzionano come descritto nell'[[Arc P - Ravenloft Heist#P11d. La camera delle torture|Arco P: Il colpo a Ravenloft]]. Se il personaggio cade vittima di una delle trappole di teletrasporto, Rahadin lo va a riprendere in fretta e lo accompagna di sopra, nella suite degli ospiti.
 >
 > <br>
 >

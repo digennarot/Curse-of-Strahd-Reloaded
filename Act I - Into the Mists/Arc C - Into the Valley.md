@@ -873,7 +873,7 @@ L'area è come descritta in <span class="citation">Carrozza nera (p. 37)</span>.
 Il tragitto dal Crocevia di Ravenloft ai **Cancelli di Barovia** occidentali è lungo circa 400 metri e richiede cinque minuti. L'area è come descritta in <span class="citation">Cancelli di Barovia (p. 33)</span>, ma vista dal lato opposto.
 
 > [!abstract]+ **Visitare il Castello di Ravenloft**
-> Se i giocatori decidono di visitare il Castello di Ravenloft (per esempio per indagare sulla scomparsa di Gertruda), il tragitto dal crocevia è lungo circa 4 chilometri e richiede cinquanta minuti. Quando i giocatori arrivano, l'esterno del castello è come descritto nell'[[Arc P - Ravenloft Heist#P2b. Approaching the Castle|Arco P: Il colpo a Ravenloft]].
+> Se i giocatori decidono di visitare il Castello di Ravenloft (per esempio per indagare sulla scomparsa di Gertruda), il tragitto dal crocevia è lungo circa 4 chilometri e richiede cinquanta minuti. Quando i giocatori arrivano, l'esterno del castello è come descritto nell'[[Arc P - Ravenloft Heist#P2b. L'avvicinamento al castello|Arco P: Il colpo a Ravenloft]].
 # C9. Il Vecchio Tritaossa
 <span class="citation"><em>Questa scena si svolge nel Capitolo 6: Area O.</em></span>
 

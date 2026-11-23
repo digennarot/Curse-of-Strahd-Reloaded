@@ -764,7 +764,7 @@ Subito dopo che lo spirito ha risposto alla decima domanda dei giocatori, i gioc
 > * **Consigli e indicazioni**: evita di usare i PNG del gruppo per dare soluzioni dirette a enigmi, sfide o decisioni strategiche. Un PNG del gruppo può fare un commento discreto quando la questione riguarda la sua competenza, ma deve dare suggerimenti o indicazioni chiare solo quando glielo si chiede direttamente, e il suo aiuto deve restare piuttosto limitato.
 
 > [!info]+ **L'artefatto**
-> La statuetta mostrata nella seduta spiritica si trova al momento nella cripta di Santa Markovia, in <span class="citation">K84. Catacombe (p. 85)</span>, ed è descritta meglio nell'[[Arc P - Ravenloft Heist#South Crypts, Third Row|Arco P: Il colpo a Ravenloft]].
+> La statuetta mostrata nella seduta spiritica si trova al momento nella cripta di Santa Markovia, in <span class="citation">K84. Catacombe (p. 85)</span>, ed è descritta meglio nell'[[Arc P - Ravenloft Heist#Le cripte sud, terza fila|Arco P: Il colpo a Ravenloft]].
 
 ***Traguardo.*** Reclutare Ezmerelda d'Avenir come alleata completa un traguardo della storia. Quando i giocatori completano la seduta spiritica, assegna a ogni giocatore 1.000 PE.
 ##### Gli origliatori
