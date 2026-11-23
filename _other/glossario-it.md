@@ -2,7 +2,7 @@
 
 Riferimento unico per la traduzione di *Curse of Strahd: Reloaded*. Terminologia di D&D 5e, edizione italiana 2014.
 
-Legenda: ⚠ = resa incerta, da verificare sui manuali italiani o da decidere.
+Legenda: ⚠ = resa incerta, da decidere. Le voci incerte degli Atti I e II sono state confermate così come sono (23 novembre 2026).
 
 ## Prove, tiri e regole
 
@@ -25,7 +25,7 @@ Legenda: ⚠ = resa incerta, da verificare sui manuali italiani o da decidere.
 | difficult terrain | terreno difficile | |
 | bright light / dim light / darkness | luce intensa / luce fioca / oscurità | |
 | darkvision | scurovisione | |
-| Milestone | traguardo | ⚠ avanzamento per traguardi |
+| Milestone | traguardo | avanzamento per traguardi |
 | statblock | profilo (statistiche) | |
 | DM | DM | |
 | players / characters | giocatori / personaggi | |
@@ -88,7 +88,7 @@ Legenda: ⚠ = resa incerta, da verificare sui manuali italiani o da decidere.
 | Inglese | Italiano | Note |
 |---|---|---|
 | animated armor | armatura animata | |
-| broom of animated attack | scopa dell'attacco animato | ⚠ |
+| broom of animated attack | scopa dell'attacco animato | |
 | ghast | ghast | |
 | ghoul | ghoul | |
 | grick | grick | |
@@ -101,7 +101,7 @@ Legenda: ⚠ = resa incerta, da verificare sui manuali italiani o da decidere.
 | will-o'-wisp | fuoco fatuo | |
 | zombie | zombi | |
 | flesh mound | cumulo di carne | creatura di Reloaded, resa libera |
-| boneless | senz'ossa | ⚠ creatura di Reloaded, resa libera |
+| boneless | senz'ossa | creatura di Reloaded, resa libera |
 
 Azioni dei profili di Reloaded: *slam* → schianto; *forceful slam* → schianto poderoso; *crushing embrace* → abbraccio stritolante; *telekinetic thrust* → spinta telecinetica.
 
@@ -137,13 +137,13 @@ Nomi propri invariati: Barovia, Vallaki, Krezk, Argynvostholt, Strahd von Zarovi
 | Castle Ravenloft | Castello di Ravenloft | |
 | Amber Temple | Tempio d'Ambra | |
 | Wizard of Wines | Mago dei Vini | |
-| Tser Pool | Stagno di Tser | ⚠ |
-| Daggerford | Daggerford | ⚠ nome dei Forgotten Realms, lasciato invariato |
+| Tser Pool | Stagno di Tser | |
+| Daggerford | Daggerford | nome dei Forgotten Realms, lasciato invariato |
 | The Nightmare's Bridle | Le Briglie dell'Incubo | locanda di Reloaded, resa libera |
 | the Mists | le Nebbie | |
 | Darklord | Signore Oscuro | |
 | burgomaster | borgomastro | |
-| Highharvesttide | Altoraccolto | ⚠ festa dei Forgotten Realms |
+| Highharvesttide | Altoraccolto | festa dei Forgotten Realms |
 | Barovian | baroviano | |
 
 ## Etichette ricorrenti di Reloaded
@@ -202,7 +202,7 @@ Come nell'edizione italiana della 5e: 5 piedi = 1,5 m. Quindi 10 ft = 3 m, 15 ft
 
 Stanze: Entrance → Ingresso; Main Hall → Salone principale; Cloakroom → Guardaroba; Den of Wolves → Tana dei lupi; Dining Room → Sala da pranzo; Kitchen and Pantry → Cucina e dispensa; Upper Hall → Corridoio superiore; Servants' Room → Stanza della servitù; Conservatory → Sala della musica; Library → Biblioteca; Secret Room → Stanza segreta; Balcony → Balconata; Master Suite → Camera padronale; Bathroom → Bagno; Storage Room → Ripostiglio; Nursemaid's Suite → Appartamento della bambinaia; nursery → cameretta; Attic Hall → Corridoio della soffitta; Spare Bedroom → Camera libera; Guest Bedroom → Camera degli ospiti; Children's Room → Stanza dei bambini; Secret Stairs → Scala segreta; Family Crypts → Cripte di famiglia; Cult Initiates' Quarters → Alloggi degli iniziati del culto; Well and Cultist Quarters → Pozzo e alloggi dei cultisti; Hidden Spiked Pit → Fossa chiodata nascosta; Dining Hall → Refettorio; Larder → Dispensa sotterranea; Ghoulish Encounter → Incontro con i ghoul; Stairs Down → Scala verso il basso; Darklord's Shrine → Santuario del Signore Oscuro; Hidden Trapdoor → Botola nascosta; Cult Leader's Den / Quarters → Covo / Alloggi del capo del culto; Reliquary → Reliquiario; Prison → Prigione; Portcullis → Saracinesca; Ritual Chamber → Sala del rituale; Dungeon → Le segrete.
 
-Altro: *Waltz for Klara* → *Valzer per Klara*; *Blue-Blooded Lips* → *Labbra di sangue blu*; the Beast → la Bestia; Walter, the Graveborn → Walter, il Nato dalla Tomba; "He is the Ancient. He is the Land." → «Lui è l'Antico. Lui è la Terra.» ⚠ (verificare la resa dell'edizione italiana); Old Bonegrinder → Vecchio Tritaossa; night hag coven → congrega di megere notturne; Dark Powers → Poteri Oscuri; Old Svalich Road → Vecchia Strada di Svalich; Svalich Woods → Boschi di Svalich; Mists of Ravenloft → Nebbie di Ravenloft; River Ivlis Crossroads → Crocevia del fiume Ivlis; Van Richten's Guide to Ravenloft → Guida di Van Richten a Ravenloft; Dungeon Master's Guide → Guida del Dungeon Master.
+Altro: *Waltz for Klara* → *Valzer per Klara*; *Blue-Blooded Lips* → *Labbra di sangue blu*; the Beast → la Bestia; Walter, the Graveborn → Walter, il Nato dalla Tomba; "He is the Ancient. He is the Land." → «Lui è l'Antico. Lui è la Terra.»; Old Bonegrinder → Vecchio Tritaossa; night hag coven → congrega di megere notturne; Dark Powers → Poteri Oscuri; Old Svalich Road → Vecchia Strada di Svalich; Svalich Woods → Boschi di Svalich; Mists of Ravenloft → Nebbie di Ravenloft; River Ivlis Crossroads → Crocevia del fiume Ivlis; Van Richten's Guide to Ravenloft → Guida di Van Richten a Ravenloft; Dungeon Master's Guide → Guida del Dungeon Master.
 
 Azioni del cumulo di carne: Close Quarters Fighter → Combattente ravvicinato; Heavy Sleeper → Sonno pesante; Oozing Body → Corpo viscido; The Graveborn's Defense → Difesa del Nato dalla Tomba; Innocent Heart → Cuore innocente; Mother's Lullaby → Ninna nanna della madre; Bone Splinters → Schegge d'osso; Engulf → Inglobare; Rupture → Rottura; Quake → Scossa; Indomitable → Indomabile; Squelch → Schiacciata; Roll → Rotolare; Tentacle → Tentacolo; Bite → Morso; Gore Spray → Spruzzo di sangue; Wail → Lamento; Withdraw → Ritrarsi; Lash Out → Sferzata.
 
@@ -216,13 +216,13 @@ Misure di viaggio: 1 miglio = 1,5 km (come nell'edizione italiana). Quindi 2 mig
 | Combat Level: Bloody / Oppressive | sanguinoso / opprimente | |
 | Allies | Alleati | |
 | gp / XP | mo / PE | |
-| Blood of the Vine Tavern | Taverna Sangue della Vite | ⚠ |
+| Blood of the Vine Tavern | Taverna Sangue della Vite | |
 | Bildrath's Mercantile | Emporio di Bildrath | |
 | Burgomaster's Mansion | Villa del borgomastro | |
 | Gates of Barovia | Cancelli di Barovia | |
 | Barovian Overlook | Belvedere di Barovia | |
 | Lugdana's Knoll | Poggio di Lugdana | |
-| Pillarstone of Ravenloft | Pilastro di Ravenloft | ⚠ |
+| Pillarstone of Ravenloft | Pilastro di Ravenloft | |
 | Ismark the Great / the Lesser | Ismark il Grande / il Minore | |
 | B.C. (Barovian Calendar) | C.B. (Calendario Baroviano) | |
 | Keepers of the Feather | Custodi della Piuma | |
@@ -236,9 +236,9 @@ Misure di viaggio: 1 miglio = 1,5 km (come nell'edizione italiana). Quindi 2 mig
 | Tasha's Cauldron of Everything | Calderone omnicomprensivo di Tasha | |
 | expert sidekick | spalla esperta | |
 | Healer (feat) / healer's kit | Guaritore / kit da guaritore | |
-| Lingering Injuries | Ferite persistenti | ⚠ |
+| Lingering Injuries | Ferite persistenti | |
 | Holy Symbol of Ravenkind | Simbolo Sacro di Ravenkind | |
-| Sunsword | Spada del Sole | ⚠ |
+| Sunsword | Spada del Sole | |
 | Grand Conjunction | Grande Congiunzione | |
 | Forest Fane | Tempio della Foresta | |
 | the Seeker / the Ladies Three | il Cercatore / le Tre Dame | |
@@ -248,7 +248,7 @@ Misure di viaggio: 1 miglio = 1,5 km (come nell'edizione italiana). Quindi 2 mig
 | Order of the Silver Dragon | Ordine del Drago d'Argento | |
 | Tsolenka Pass | Passo di Tsolenka | |
 | Lake Zarovich | Lago Zarovich | |
-| Blue Water Inn | Locanda dell'Acqua Azzurra | ⚠ |
+| Blue Water Inn | Locanda dell'Acqua Azzurra | |
 | Taproom | Sala comune | |
 | Blinsky Toys | Giocattoli Blinsky | |
 | Arasek Stockyard | Recinto di Arasek | |
@@ -256,7 +256,7 @@ Misure di viaggio: 1 miglio = 1,5 km (come nell'edizione italiana). Quindi 2 mig
 | Morning Gate | Porta del Mattino | |
 | "All will be well." | «Andrà tutto bene.» | |
 | malicious unhappiness | scontento malevolo | |
-| dream pastries | dolci dei sogni | ⚠ |
+| dream pastries | dolci dei sogni | |
 | Game of Stories | Gioco delle Storie | |
 | March of the Dead | La marcia dei morti | |
 | ringmaster | direttore di circo | |
@@ -267,13 +267,13 @@ Tarokka: Darklord → il Signore Oscuro; Artifact → l'Artefatto; Innocent → 
 
 Creature: wereraven → corvo mannaro; werewolf → lupo mannaro; dire wolf → lupo crudele; zombie plague spreader → zombi untore; wight → wight; ghast → ghast; berserker → berserker; scout → esploratore; commoner → popolano; veteran → veterano; noble → nobile; spy → spia; bandit → bandito; guard → guardia; mastiff → mastino; greater strix / swarm of lesser strix → strige maggiore / sciame di strigi minori; manticore → manticora; swarm of ravens / bats / wasps → sciame di corvi / pipistrelli / vespe; night hag → megera notturna; revenant → revenant; phantom warrior → guerriero fantasma; roc → roc; giant spider → ragno gigante; elk → alce.
 
-Incantesimi e oggetti: *phantom steed* → *destriero fantasma*; *nondetection* → *anti-individuazione*; *mind blank* → *vuoto mentale*; *misty step* → *passo velato*; *magic missile* → *dardo incantato*; *gentle repose* → *riposo inviolato*; *major image* → *immagine maggiore*; *vampiric touch* → *tocco del vampiro*; *harm* → *ferire* ⚠; *speak with animals* → *parlare con gli animali*; *blindness/deafness* → *cecità/sordità*; *telekinetic grasp* → *presa telecinetica*; *geas* → *costrizione*; *wish* → *desiderio*; *remove curse* → *rimuovi maledizione*; *detect magic* → *individuazione del magico*; *potion of healing* → *pozione di guarigione*; *holy water* → *acqua santa*; *hat of disguise* → *cappello del camuffamento*; *ring of mind shielding* → *anello di schermo mentale*; *amulet of proof against detection and location* → *amuleto anti-individuazione e localizzazione*.
+Incantesimi e oggetti: *phantom steed* → *destriero fantasma*; *nondetection* → *anti-individuazione*; *mind blank* → *vuoto mentale*; *misty step* → *passo velato*; *magic missile* → *dardo incantato*; *gentle repose* → *riposo inviolato*; *major image* → *immagine maggiore*; *vampiric touch* → *tocco del vampiro*; *harm* → *ferire*; *speak with animals* → *parlare con gli animali*; *blindness/deafness* → *cecità/sordità*; *telekinetic grasp* → *presa telecinetica*; *geas* → *costrizione*; *wish* → *desiderio*; *remove curse* → *rimuovi maledizione*; *detect magic* → *individuazione del magico*; *potion of healing* → *pozione di guarigione*; *holy water* → *acqua santa*; *hat of disguise* → *cappello del camuffamento*; *ring of mind shielding* → *anello di schermo mentale*; *amulet of proof against detection and location* → *amuleto anti-individuazione e localizzazione*.
 
 Tratti dei profili: Fey Ancestry → Ascendenza fatata; Mask of the Wild → Maschera della natura selvaggia; Innate Spellcasting → Incantesimi innati; Keen Hearing and Smell → Olfatto e udito acuti; Pack Tactics → Tattiche del branco; Regeneration → Rigenerazione; Shapechange → Mutare forma; Undead Fortitude → Tempra da non morto; Spider Climb → Movimento del ragno; Etherealness → Forma eterea; Divine Sense → Senso divino; Saving Throws / Skills / Proficiency Bonus → Tiri salvezza / Abilità / Bonus di competenza; Dash / Disengage / Dodge / Hide → Scatto / Disimpegno / Schivata / Nascondersi.
 
 ## Atto II
 
-Titoli degli archi (alias nei link): D La festa di Sant'Andral; E La vistana scomparsa; F Il desiderio di Lady Wachter; G I fratelli Strazni; H L'anima perduta; I Le mura di Krezk; K L'abbazia caduta; M Il maniero del drago ⚠; O Cena con il diavolo.
+Titoli degli archi (alias nei link): D La festa di Sant'Andral; E La vistana scomparsa; F Il desiderio di Lady Wachter; G I fratelli Strazni; H L'anima perduta; I Le mura di Krezk; K L'abbazia caduta; M Il maniero del drago; O Cena con il diavolo.
 
 | Inglese | Italiano | Note |
 |---|---|---|
@@ -284,22 +284,22 @@ Titoli degli archi (alias nei link): D La festa di Sant'Andral; E La vistana sco
 | Dr. Rudolph van Richten | il dottor Rudolph van Richten | |
 | the Abbot | l'Abate | nome con cui è noto il personaggio |
 | Baron's Mansion | villa del barone | sinonimo di Villa del borgomastro |
-| Town Square (Vallaki, N8) | piazza della città / Piazza della città | ⚠ |
+| Town Square (Vallaki, N8) | piazza della città / Piazza della città | |
 | Servants' Quarters (Q9) | Alloggi della servitù | |
 | Roleplaying the Vallakovich Family | Interpretare la famiglia Vallakovich | |
 | refugees / refugee camp | profughi / campo dei profughi | |
 | groundskeeper | custode (della chiesa) | |
 | coffin-maker | fabbricante di bare | |
-| dressing shack (Szoldar e Yevgeni) | capanno di caccia | ⚠ |
+| dressing shack (Szoldar e Yevgeni) | capanno di caccia | |
 | wicker sun | sole di vimini | |
 | nameday | onomastico | |
 | signet ring | anello con sigillo | |
-| *heartstone* | *pietra del cuore* | ⚠ |
+| *heartstone* | *pietra del cuore* | |
 | *Tome of Strahd* | *Tomo di Strahd* | |
 | *spirit mirror* | *specchio degli spiriti* | |
-| *etherealness* (incantesimo) | *forma eterea* | ⚠ |
+| *etherealness* (incantesimo) | *forma eterea* | |
 | Ethereal Plane / Material Plane | Piano Etereo / Piano Materiale | |
-| cackle fever | febbre ghignante | ⚠ |
+| cackle fever | febbre ghignante | |
 | wolfsbane | aconito | |
 | cult fanatic | fanatico del culto | |
 | poltergeist | poltergeist | |
@@ -315,7 +315,7 @@ Luoghi e aree: D1 La Chiesa di Sant'Andral (D1a Entrare in chiesa, D1b La cappel
 
 Altro: Most High Priest → Sommo Sacerdote; House Von Zarovich → casata Von Zarovich; teleportation brazier → braciere di teletrasporto; altar boy → chierichetto; ramson → aglio orsino; electrum pieces → monete di electrum; noisemaker → congegno rumoroso; «Is no fun, is no Blinsky!» → «Se non è divertente, non è Blinsky!»; Chamberlain of Castle Ravenloft → Ciambellano del Castello di Ravenloft; Monsters and Death / Death Saving Throws → Mostri e morte / Tiri salvezza contro la morte; Xanathar's Guide to Everything → Guida omnicomprensiva di Xanathar; Want a Hand? (callout Patreon) → Ti serve una mano?
 
-Incantesimi: *hallow* → *santificare* ⚠; *spirit guardians* → *guardiani spirituali*; *spiritual weapon* → *arma spirituale*; *sacred flame* → *fiamma sacra*; *guiding bolt* → *dardo guida*; *cure wounds* → *cura ferite*; *hold person* → *blocca persone*; *command* → *comando*; *mage hand* → *mano magica*. Privilegio *divine eminence* → *eminenza divina*. Trappola *poison needle* → *ago avvelenato*; *thieves' tools* → *arnesi da scasso*.
+Incantesimi: *hallow* → *santificare*; *spirit guardians* → *guardiani spirituali*; *spiritual weapon* → *arma spirituale*; *sacred flame* → *fiamma sacra*; *guiding bolt* → *dardo guida*; *cure wounds* → *cura ferite*; *hold person* → *blocca persone*; *command* → *comando*; *mage hand* → *mano magica*. Privilegio *divine eminence* → *eminenza divina*. Trappola *poison needle* → *ago avvelenato*; *thieves' tools* → *arnesi da scasso*.
 
 Profilo di Volenta: Fast Grappler → Lottatore rapido; Sunlight Hypersensitivity → Ipersensibilità alla luce del sole; Nimble Escape → Fuga agile; Awakened Bloodlust → Sete di sangue risvegliata; Hail of Daggers → Pioggia di pugnali; Tanglefoot → Borsa impaniante; Thunderstone → Pietra del tuono; Alchemist's Firebomb → Bomba di fuoco dell'alchimista; Smokestick → Bastoncino fumogeno; Blood Frenzy → Frenesia di sangue; Leap → Balzo; Dislocate → Slogarsi; Spit Blood → Sputo di sangue; Aggress → Assalto; Abscond → Svignarsela. Venti: 10 / 20 miglia orarie → 15 / 30 km/h.
 
@@ -353,7 +353,7 @@ Aree del libro: N9 Accampamento vistani (N9a Catapecchia di Kasimir, N9b Catapec
 | leyline | linea di forza | |
 | Monster Manual | Manuale dei Mostri | |
 | Curse of Strahd (manuale) | La maledizione di Strahd | |
-| twig blight | ramoscello infestante | ⚠ |
+| twig blight | ramoscello infestante | |
 | scarecrow | spaventapasseri | |
 | gargoyle | gargoyle | |
 | Eggsmerelda | Uovsmerelda | gioco di parole adattato |
@@ -363,7 +363,7 @@ Aree del libro: N9 Accampamento vistani (N9a Catapecchia di Kasimir, N9b Catapec
 | *charm bracelet* / *lucid lens* | *braccialetto dei ciondoli* / *lente lucida* | |
 | *glyph of warding* / *fear* / *sending* | *glifo di interdizione* / *paura* / *inviare* | |
 | *greater invisibility* / *animate dead* | *invisibilità superiore* / *animare morti* | |
-| *counterspell* / *abjure spell* (2024) | *controincantesimo* / *abiurare incantesimo* | ⚠ |
+| *counterspell* / *abjure spell* (2024) | *controincantesimo* / *abiurare incantesimo* | |
 | *disguise self* / *detect evil and good* | *camuffare se stesso* / *individuazione del bene e del male* | |
 | *death ward* / *freedom of movement* | *interdizione alla morte* / *libertà di movimento* | |
 | Sneak Attack / Cunning Action / Uncanny Dodge | Attacco furtivo / Azione scaltra / Schivata prodigiosa | |
@@ -383,13 +383,13 @@ Wachterhaus (N4): N4a Porta d'ingresso e vestibolo; N4b Scalinata; N4c Cucina; N
 | *The Noble House of Wachter* | *La nobile casata Wachter* | |
 | House Wachter / House Dilisnya | casa Wachter / casa Dilisnya | |
 | Old Zarovia | Vecchia Zarovia | |
-| the Pillarstone | il Pilastro | ⚠ vedi Pillarstone of Ravenloft |
+| the Pillarstone | il Pilastro | vedi Pillarstone of Ravenloft |
 | Captain of the Guard | capitano della guardia | |
 | Baronet | baronetto | |
 | deputy guards | guardie ausiliarie | |
 | valet / manservant | valletto / domestico | Haliq |
 | Morning Gate | Porta del Mattino | |
-| Seriach, the Hell Hound Whisperer | Seriach, il Sussurratore dei Segugi Infernali | ⚠ frammento d'ambra |
+| Seriach, the Hell Hound Whisperer | Seriach, il Sussurratore dei Segugi Infernali | frammento d'ambra |
 | Amber Shards (appendice) | Frammenti d'ambra | |
 | *toll the dead* / *thaumaturgy* / *sanctuary* / *bane* | *rintocco dei morti* / *taumaturgia* / *santuario* / *anatema* | |
 | *zone of truth* / *lesser restoration* | *zona di verità* / *ristorare inferiore* | |
@@ -422,7 +422,7 @@ Aree del libro: Capitolo 6: Il Vecchio Tritaossa (O1 Pianterreno, O2 Macina dell
 
 | Inglese | Italiano | Note |
 |---|---|---|
-| gallows speaker | oratore della forca | ⚠ creatura della Guida di Van Richten |
+| gallows speaker | oratore della forca | creatura della Guida di Van Richten |
 | Speaker of the Gallows / Ba'al Verzi Avenger | Oratore della forca / Vendicatore dei Ba'al Verzi | profili |
 | The Bonegrinder Coven / The Nightmare Three | La Congrega del Tritaossa / Le Tre dell'incubo | profili |
 | Ba'al Verzi | Ba'al Verzi | «In Silence, Death» → «Nel silenzio, la morte» |
@@ -430,7 +430,7 @@ Aree del libro: Capitolo 6: Il Vecchio Tritaossa (O1 Pianterreno, O2 Macina dell
 | *nightmare haunting* | *infestazione degli incubi* | |
 | *hag eye* | *occhio della megera* | |
 | binding circle / binding ritual | cerchio di vincolo / rituale di vincolo | |
-| mongrelfolk | meticcio | ⚠ |
+| mongrelfolk | meticcio | |
 | *charm of mass heroism* / *potion of heroism* | *amuleto dell'eroismo di massa* / *pozione di eroismo* | |
 | *pale tincture* | *tintura pallida* | |
 | *lantern of revealing* | *lanterna rivelatrice* | |
@@ -446,9 +446,9 @@ Aree del libro: Capitolo 6: Il Vecchio Tritaossa (O1 Pianterreno, O2 Macina dell
 | Sigil of the Sun | *Sigillo del Sole* | |
 | Mount Baratok / Balinok Mountains | Monte Baratok / Monti Balinok | |
 | «I come in Dostron's memory» | «Vengo in memoria di Dostron» | |
-| *Tome of Strahd*, testo | traduzione mia | ⚠ «Io sono l'Antico. Io sono la Terra.»: verificare la resa dell'edizione italiana |
+| *Tome of Strahd*, testo | traduzione mia | «Io sono l'Antico. Io sono la Terra.» |
 | *arcane lock* / *knock* | *serratura arcana* / *scassinare* | |
-| *eyebite* | *sguardo malefico* | ⚠ |
+| *eyebite* | *sguardo malefico* | |
 | *bestow curse* / *cause fear* / *crown of madness* / *phantasmal force* | *scagliare maledizione* / *incutere paura* / *corona di follia* / *forza fantasmatica* | |
 | *ray of enfeeblement* / *ray of sickness* / *Melf's acid arrow* / *lightning bolt* | *raggio di indebolimento* / *raggio di malattia* / *freccia acida di Melf* / *fulmine* | |
 | *warding wind* / *gust of wind* / *dispel magic* / *absorb elements* | *vento protettivo* / *folata di vento* / *dissolvi magie* / *assorbire elementi* | |
@@ -464,7 +464,7 @@ Aree del libro: R. Crocevia del fiume Corvo; Approaching the Mansion → Avvicin
 | Inglese | Italiano | Note |
 |---|---|---|
 | Raven River | fiume Corvo | |
-| needle blight | ago infestante | ⚠ coerente con *ramoscello infestante* |
+| needle blight | ago infestante | coerente con *ramoscello infestante* |
 | greater strix | strige maggiore | |
 | Barovian witch | strega baroviana | |
 | the Weaver | la Tessitrice | una delle Tre Dame |
