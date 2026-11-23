@@ -912,7 +912,7 @@ La scena si svolge più o meno come descritto in <span class="citation">Dolci de
 > 
 > ***Morale.*** In combattimento Morgantha cercherebbe di trattare la pace, poi, se sembrasse inutile, userebbe la capacità ***forma eterea*** per fuggire nel Piano Etereo.
 > 
-> ***Relazioni.*** Morgantha è la madre delle **megere notturne** Bella e Offalia e la spacciatrice di dolci dei sogni del profugo baroviano [[Arc H - The Lost Soul#H3b. Franz’s Tent|Franz]].
+> ***Relazioni.*** Morgantha è la madre delle **megere notturne** Bella e Offalia e la spacciatrice di dolci dei sogni del profugo baroviano [[Arc H - The Lost Soul#H3b. La tenda di Franz|Franz]].
 
 Morgantha saluta calorosamente i giocatori, li chiama «viaggiatori stanchi» e si augura che la strada non sia stata troppo dura con loro. Se glielo chiedono, racconta volentieri quanto segue:
 
@@ -935,7 +935,7 @@ Prima di andarsene, Morgantha avverte i giocatori che le guardie ai cancelli di 
 > 
 > Se i giocatori insistono di sì, lei si inginocchia subito e implora con sarcasmo pietà e l'occasione di pentirsi. «Lasciatemi tornare a casa a riflettere sui miei peccati», aggiunge sogghignando. Se viene attaccata, svanisce con la sua ***forma eterea***, sghignazzando. 
 > 
-> Se i giocatori si avvicinano al mulino, Morgantha avverte Bella e Offalia, che la raggiungono nel Piano Etereo. Se i giocatori cercano di danneggiare o distruggere il mulino, le megere tornano sul Piano Materiale e li avvertono di smettere, pena la morte. Vedi [[Arc H - The Lost Soul#Morgantha Gets Suspicious|Morgantha si insospettisce]] per maggiori informazioni sui conflitti con le megere. (Per ora nel mulino non ci sono bambini, e non ce ne saranno finché non comincia l'[[Arc H - The Lost Soul|Arco H: L'anima perduta]].)
+> Se i giocatori si avvicinano al mulino, Morgantha avverte Bella e Offalia, che la raggiungono nel Piano Etereo. Se i giocatori cercano di danneggiare o distruggere il mulino, le megere tornano sul Piano Materiale e li avvertono di smettere, pena la morte. Vedi [[Arc H - The Lost Soul#Morgantha si insospettisce|Morgantha si insospettisce]] per maggiori informazioni sui conflitti con le megere. (Per ora nel mulino non ci sono bambini, e non ce ne saranno finché non comincia l'[[Arc H - The Lost Soul|Arco H: L'anima perduta]].)
 # C10. I boschi profondi
 Il tragitto dal Vecchio Tritaossa alla **città di Vallaki** è lungo circa 8,5 chilometri e richiede due ore. Mentre i giocatori lo percorrono, leggi:
 

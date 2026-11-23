@@ -413,3 +413,44 @@ Aree: G1 La Locanda dell'Acqua Azzurra (G1a La visita di Izek, G1b Il ritorno de
 | *cone of cold* | *cono di freddo* | |
 | Act III: The Broken Land | Atto III: La terra spezzata | |
 | No Double-Counting | Niente doppio conteggio | |
+
+### Arco H
+
+Aree: H1 La supplica di Erasmus; H2 La villa del borgomastro (Che cosa sa Victor); H3 Il campo dei profughi (H3a Dentro il campo, H3b La tenda di Franz); H4 Il piano di Victor (Il cuore del mulino, Il rituale di vincolo); H5 Wachterhaus; H6 La Vecchia Strada di Svalich (H6a La Porta del Mattino, H6b Il druido); H7 Il Vecchio Tritaossa (H7a Perquisire il mulino: Distrarre Morgantha, Morgantha si insospettisce; H7b Prendere la pietra del cuore: Il cerchio di vincolo, Affrontare le megere, La battaglia con le megere, La fuga mancata delle megere, La supplica di Morgantha; H7c La fuga dal Vecchio Tritaossa: L'interrogatorio di Morgantha, La richiesta di Morgantha, Fuggire dal mulino, Trovare una cura); H8 Il rituale (H8a Il rituale di *forma eterea*, H8b Il rituale di restituzione: Il fantasma di Erasmus van Richten, Le anime erranti, Il fantasma di Leo Dilisnya, Combattere l'oratore della forca, Ritorno al Piano Materiale); H9 Il Tomo di Strahd (H9a Leggere il Tomo).
+
+Aree del libro: Capitolo 6: Il Vecchio Tritaossa (O1 Pianterreno, O2 Macina delle ossa, O3 Camera da letto, O4 Soffitta a cupola); N4d Ripostiglio; N4r Ingresso della cantina; N4t Quartier generale del culto; K23 Ingresso della servitù; K62 Sala della servitù; K65 Cucina; K67 Sala delle ossa; K68 Camminamento delle guardie.
+
+| Inglese | Italiano | Note |
+|---|---|---|
+| gallows speaker | oratore della forca | ⚠ creatura della Guida di Van Richten |
+| Speaker of the Gallows / Ba'al Verzi Avenger | Oratore della forca / Vendicatore dei Ba'al Verzi | profili |
+| The Bonegrinder Coven / The Nightmare Three | La Congrega del Tritaossa / Le Tre dell'incubo | profili |
+| Ba'al Verzi | Ba'al Verzi | «In Silence, Death» → «Nel silenzio, la morte» |
+| *soul leech* / soul larva | *sanguisuga d'anime* / larva d'anima | |
+| *nightmare haunting* | *infestazione degli incubi* | |
+| *hag eye* | *occhio della megera* | |
+| binding circle / binding ritual | cerchio di vincolo / rituale di vincolo | |
+| mongrelfolk | meticcio | ⚠ |
+| *charm of mass heroism* / *potion of heroism* | *amuleto dell'eroismo di massa* / *pozione di eroismo* | |
+| *pale tincture* | *tintura pallida* | |
+| *lantern of revealing* | *lanterna rivelatrice* | |
+| *spirit mirror* | *specchio degli spiriti* | oggetto meraviglioso |
+| Mountain Fane / Swamp Fane | Tempio della Montagna / Tempio della Palude | |
+| vampiric mist | nebbia vampirica | |
+| Mordenkainen Presents: Monsters of the Multiverse | Mordenkainen presenta: Mostri del Multiverso | |
+| dretch / imp / druid / deva | dretch / imp / druido / deva | |
+| will-o'-wisp | fuoco fatuo | |
+| truesight | vista pura | |
+| lair actions | azioni di tana | |
+| bloodied | sanguinante | |
+| Sigil of the Sun | *Sigillo del Sole* | |
+| Mount Baratok / Balinok Mountains | Monte Baratok / Monti Balinok | |
+| «I come in Dostron's memory» | «Vengo in memoria di Dostron» | |
+| *Tome of Strahd*, testo | traduzione mia | ⚠ «Io sono l'Antico. Io sono la Terra.»: verificare la resa dell'edizione italiana |
+| *arcane lock* / *knock* | *serratura arcana* / *scassinare* | |
+| *eyebite* | *sguardo malefico* | ⚠ |
+| *bestow curse* / *cause fear* / *crown of madness* / *phantasmal force* | *scagliare maledizione* / *incutere paura* / *corona di follia* / *forza fantasmatica* | |
+| *ray of enfeeblement* / *ray of sickness* / *Melf's acid arrow* / *lightning bolt* | *raggio di indebolimento* / *raggio di malattia* / *freccia acida di Melf* / *fulmine* | |
+| *warding wind* / *gust of wind* / *dispel magic* / *absorb elements* | *vento protettivo* / *folata di vento* / *dissolvi magie* / *assorbire elementi* | |
+| *mage armor* / *fly* / *blight* / *minor illusion* / *fireball* / *polymorph* | *armatura magica* / *volare* / *avvizzire* / *illusione minore* / *palla di fuoco* / *metamorfosi* | |
+| lay on hands / healing touch | imposizione delle mani / tocco guaritore | |

@@ -387,7 +387,7 @@ Il laboratorio di Victor è più o meno come descritto in <span class="citation"
 
 > [!Warning]+ Controincantesimo 2024
 > 
-> Questa guida è stata scritta per gli incantesimi del 2014. Se usi quelli del 2024, aggiungi al libro degli incantesimi di Victor un incantesimo chiamato *abiurare incantesimo*. Per lo scontro dell'[[Arc H - The Lost Soul#Battle with the Hags|Arco H: L'anima perduta]], l'incantesimo funziona come un *controincantesimo* di 5º livello secondo le regole del 2014 (Regole base, p. 228).
+> Questa guida è stata scritta per gli incantesimi del 2014. Se usi quelli del 2024, aggiungi al libro degli incantesimi di Victor un incantesimo chiamato *abiurare incantesimo*. Per lo scontro dell'[[Arc H - The Lost Soul#La battaglia con le megere|Arco H: L'anima perduta]], l'incantesimo funziona come un *controincantesimo* di 5º livello secondo le regole del 2014 (Regole base, p. 228).
 
 
 Victor inoltre ha un solo **gatto** scheletro, i resti rianimati di Murka, la gatta della sua infanzia. Il cerchio di teletrasporto di Victor è costruito alla perfezione, sullo scaffale non ci sono ossa, non ci sono bambole di legno vestite da «allievi disobbedienti», e Victor ha appoggiato alla parete accanto al tappeto lo specchio a figura intera di <span class="citation">N3p. Abito da sposa e specchio degli spiriti (p. 108)</span>.

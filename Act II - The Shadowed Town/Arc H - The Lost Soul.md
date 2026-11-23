@@ -1,548 +1,548 @@
-_An adventure for five 5th-level characters._
+_Un'avventura per cinque personaggi di 5º livello._
 
-In this arc, following either a ghostly visitation at the Blue Water Inn or a wary bargain at the Baron’s mansion, Victor Vallakovich asks the players to help him restore the soul of Stella Wachter to her body by finding a means of accessing the Ethereal Plane, where her spirit is trapped. To do so, the players must help Victor obtain the heartstone of a **night hag** by the night of the full moon, which will take place on the sixth day after the players first arrive in Vallaki.
+In questo arco, dopo una visita spettrale alla Locanda dell'Acqua Azzurra o un patto guardingo alla villa del barone, Victor Vallakovich chiede ai giocatori di aiutarlo a restituire l'anima di Stella Wachter al suo corpo, trovando un modo per entrare nel Piano Etereo, dove il suo spirito è intrappolato. Per farlo, i giocatori devono aiutare Victor a procurarsi la pietra del cuore di una **megera notturna** entro la notte di luna piena, che cade il sesto giorno dopo il loro arrivo a Vallaki.
 
-Should the players accept Victor’s request, he tells them that Stella, from her place in the Ethereal Plane, has seen a **night hag** preying upon the dreams of several members of the Barovian refugee camp. He advises them to visit the camp to investigate the hag’s location while he prepares the rituals necessary to transport the players to the Ethereal Plane and return Stella’s soul to her body.
+Se i giocatori accettano, Victor racconta che Stella, dal Piano Etereo, ha visto una **megera notturna** nutrirsi dei sogni di diversi abitanti del campo dei profughi baroviani. Consiglia loro di andare al campo a indagare su dove si trovi la megera, mentre lui prepara i rituali necessari per trasportare i giocatori nel Piano Etereo e restituire a Stella la sua anima.
 
-In the refugee camp, the players can learn about the peddler Morgantha, who has regularly sold dream pastries to the refugees and several Vallakians since the refugees’ arrival nearly three months ago. While there, the players can also meet Franz, a widower refugee who has suffered from a wasting disease for the past two nights. Franz confesses to the players that he sold his children, Myrtle and Feodor, to Morgantha two days ago to pay for his dreams, and that he is now suffering the penance of his sins. The players can learn from the refugees that Morgantha hasn’t visited the town since Franz sold her his children.
+Al campo dei profughi i giocatori possono sentir parlare della venditrice ambulante Morgantha, che da quando i profughi sono arrivati, quasi tre mesi fa, vende regolarmente dolci dei sogni a loro e a parecchi vallakiani. Lì possono anche conoscere Franz, un profugo vedovo che da due notti soffre di una malattia consuntiva. Franz confessa ai giocatori di aver venduto due giorni fa i suoi figli, Myrtle e Feodor, a Morgantha per pagarsi i sogni e di stare scontando ora la pena dei suoi peccati. Dai profughi i giocatori possono sapere che Morgantha non si è più fatta vedere in città da quando Franz le ha venduto i figli.
 
-Shortly after speaking with Franz, the players receive a *sending* spell from Victor inviting them to return to the attic of the Baron’s mansion. There, Victor provides them with two paths they can take in order to obtain the night hag’s heartstone: they can bargain with her to obtain it, or they can attempt to seal her in a binding circle and then kill her. If the players select the latter, Victor will gather books from his father's library to research the binding circle before they can set off for Morgantha’s lair.
+Poco dopo aver parlato con Franz, i giocatori ricevono da Victor un incantesimo *inviare* che li invita a tornare nella soffitta della villa del barone. Lì Victor propone due strade per procurarsi la pietra del cuore della megera notturna: trattare con lei per ottenerla, oppure cercare di chiuderla in un cerchio di vincolo e poi ucciderla. Se i giocatori scelgono la seconda, Victor raccoglierà libri dalla biblioteca del padre per studiare il cerchio di vincolo prima che partano per la tana di Morgantha.
 
-Upon finishing his research, Victor anxiously informs the players that he has been unable to find a means of performing the binding ritual. However, Stella can inform the group that a similar circle of enormous size surrounds the entirety of Wachterhaus, which Stella saw while exploring through the Ethereal Plane.
+Finite le ricerche, Victor informa ansioso i giocatori di non aver trovato il modo di celebrare il rituale di vincolo. Stella però può raccontare al gruppo che un cerchio simile, enorme, circonda tutta Wachterhaus: l'ha visto esplorando il Piano Etereo.
 
-If the players request Lady Wachter’s help, she assists them only if they have already won her favor by killing Izek Strazni, or if they can persuade her to lower the binding circle around Wachterhaus to allow Stella to communicate her presence. Otherwise, Lady Wachter assumes that they and Victor are playing a cruel joke upon her and dismisses them with disgust. 
+Se i giocatori chiedono aiuto a Lady Wachter, lei li aiuta solo se hanno già conquistato il suo favore uccidendo Izek Strazni, o se riescono a convincerla ad abbassare il cerchio di vincolo intorno a Wachterhaus, così che Stella possa manifestare la sua presenza. Altrimenti Lady Wachter crede che i giocatori e Victor le stiano facendo uno scherzo crudele e li manda via disgustata.
 
-If the players successfully obtain Lady Wachter’s aid, she and four of her **cult fanatics** join the players for a journey to Morgantha’s lair at Old Bonegrinder. Lady Wachter warns the players that they will need to obtain the names of all hags within the windmill in order to bind them, lest any members of the coven escape to attack her or her cultists. Once the players have obtained the names of Morgantha’s daughters (and, hopefully, rescued the children imprisoned inside the windmill), Bella Sunbane and Offalia Wormwiggle, Lady Wachter leads her cultists in creating an enormous binding circle that binds the **night hags** to the Material Plane, allowing the players and Victor to destroy them.
+Se i giocatori ottengono l'aiuto di Lady Wachter, lei e quattro dei suoi **fanatici del culto** li accompagnano alla tana di Morgantha, il Vecchio Tritaossa. Lady Wachter avverte i giocatori che, per vincolarle, dovranno conoscere i nomi di tutte le megere nel mulino, perché nessun membro della congrega fugga per attaccare lei o i suoi cultisti. Quando i giocatori hanno scoperto i nomi delle figlie di Morgantha, Bella Sunbane e Offalia Wormwiggle (e, si spera, hanno salvato i bambini prigionieri nel mulino), Lady Wachter guida i suoi cultisti nel tracciare un enorme cerchio di vincolo che lega le **megere notturne** al Piano Materiale, così che i giocatori e Victor possano distruggerle.
 
-If the players fail to obtain Lady Wachter’s aid and instead elect to bargain with Morgantha for a loan of her heartstone, Morgantha agrees to lend it to the players on the condition that the players promise to later deliver a *soul leech* to the desk of Strahd’s chamberlain, Rahadin, whose twisted soul Morgantha craves. As collateral, Morgantha takes the players’ dreams, preventing the players from gaining the benefits of a long rest if they fail to fulfill Morgantha’s request within the next fourteen days.
+Se i giocatori non ottengono l'aiuto di Lady Wachter e scelgono invece di trattare con Morgantha perché presti loro la sua pietra del cuore, Morgantha accetta, a condizione che i giocatori promettano di portare più avanti una *sanguisuga d'anime* sulla scrivania del ciambellano di Strahd, Rahadin, di cui Morgantha brama l'anima contorta. Come garanzia Morgantha si prende i sogni dei giocatori: se non soddisfano la sua richiesta entro quattordici giorni, non potranno più godere dei benefici di un riposo lungo.
 
-Should the players successfully obtain a heartstone through assault or negotiation, Victor sends the group—and Lady Wachter, if she is present—into the Ethereal Plane to perform the ritual and defend Stella’s spirits from a tide of ravenous spirits intent on taking her soulless body for their own. The horde, however, is not alone, and their leader—a sadistic **gallows speaker** dominated by the spirit of Leo Dilisnya—bears an ancient enmity for the house of Wachter...
+Se i giocatori ottengono una pietra del cuore con la forza o con la trattativa, Victor manda il gruppo, e Lady Wachter se c'è, nel Piano Etereo a celebrare il rituale e a difendere lo spirito di Stella da una marea di spiriti affamati, decisi a prendersi il suo corpo senz'anima. L'orda però non è sola, e il suo capo, un sadico **oratore della forca** dominato dallo spirito di Leo Dilisnya, nutre un odio antico per la casata dei Wachter...
 
-> [!lore]+ **The Fate of Stella Wachter**
+> [!lore]+ **La sorte di Stella Wachter**
 >
-> Three years ago, Victor found a spellbook in his father’s library, as described in **N3t. Victor’s Workroom** (p. 109). It was not, however, just any spellbook—it was the lost spellbook of the lich Khazan himself, long thought destroyed in the accident that had led to Khazan’s death. Victor studied its secrets intensely, using Khazan’s precise notes and his own powerful intellect to master many of the spells within.
+> Tre anni fa Victor ha trovato un libro degli incantesimi nella biblioteca del padre, come descritto in **N3t. Laboratorio di Victor** (p. 109). Non era però un libro qualsiasi: era il libro degli incantesimi perduto del lich Khazan in persona, che si credeva distrutto da tempo nell'incidente che aveva causato la morte di Khazan. Victor ne ha studiato i segreti con passione, e grazie agli appunti precisi di Khazan e alla sua intelligenza potente ha padroneggiato molti degli incantesimi che conteneva.
 > 
-> Six months ago, Victor met Stella Wachter, the youngest child of Lady Fiona Wachter, while skipping stones by Lake Zarovich. Stella and Victor were surprised to find that they shared a mutual interest in magic, myths, and philosophy. Despite their parents’ clear disapproval, the two became fast friends.
+> Sei mesi fa Victor ha conosciuto Stella Wachter, la figlia minore di Lady Fiona Wachter, mentre faceva rimbalzare sassi sul Lago Zarovich. Stella e Victor hanno scoperto con sorpresa di avere in comune la passione per la magia, i miti e la filosofia. Nonostante l'evidente disapprovazione dei genitori, sono diventati subito amici.
 > 
-> After swearing Stella to secrecy, Victor shyly showed her his spellbook and some of the magic he could perform. Stella was fascinated, and immediately volunteered to serve as his research assistant, an offer that left Victor stunned and flattered.
+> Dopo aver fatto giurare a Stella di mantenere il segreto, Victor le ha mostrato timidamente il suo libro degli incantesimi e un po' della magia che sapeva fare. Stella ne è rimasta affascinata e si è subito offerta di fargli da assistente di ricerca, un'offerta che ha lasciato Victor sbalordito e lusingato.
 > 
-> When Strahd awoke from his hibernation, Victor and Stella agreed that escaping his tyranny was imperative. (Victor also hoped for an opportunity to escape his parents’ grasp, while Stella hoped to bring her family with her from Barovia.) The two dove together into a new research project: the construction of a teleportation circle capable of escaping Barovia.
+> Quando Strahd si è risvegliato dal letargo, Victor e Stella hanno convenuto che sfuggire alla sua tirannia era indispensabile. (Victor sperava anche di liberarsi dei genitori, mentre Stella sperava di portare via da Barovia la sua famiglia.) Si sono buttati insieme in un nuovo progetto di ricerca: costruire un cerchio di teletrasporto capace di far fuggire da Barovia.
 > 
-> Ten weeks ago, their prototype teleportation circle was complete. After the two performed some minor experiments using undead rabbits Victor animated from animal bones, Stella excitedly insisted on a live, human trial and volunteered to go first. Victor reluctantly did so—and tragedy struck.
+> Dieci settimane fa il loro cerchio di teletrasporto sperimentale era pronto. Dopo qualche piccolo esperimento con conigli non morti che Victor aveva animato da ossa di animali, Stella ha insistito entusiasta per una prova dal vivo, su un essere umano e si è offerta per prima. Victor ha accettato a malincuore, e si è consumata la tragedia.
 > 
-> Neither Stella nor Victor could have known it, but the Mists of Barovia formed a unique metaphysical barrier against Victor’s teleportation circle. The spell failed—and the psychic backlash briefly exposed Stella’s soul to the raw energies of the Ethereal Plane.
+> Né Stella né Victor potevano saperlo, ma le Nebbie di Barovia formavano una barriera metafisica unica contro il cerchio di teletrasporto di Victor. L'incantesimo è fallito, e il contraccolpo psichico ha esposto per un istante l'anima di Stella alle energie grezze del Piano Etereo.
 > 
-> There, the vengeful spirit of Leo Dilisnya, a **gallows speaker** lured by the magical beacon of Victor’s spell, sensed the presence of its ancient enemy and struck, severing Stella’s soul from her body.
+> Lì lo spirito vendicativo di Leo Dilisnya, un **oratore della forca** attirato dal richiamo magico dell'incantesimo di Victor, ha percepito la presenza della sua antica nemica e ha colpito, recidendo l'anima di Stella dal suo corpo.
 > 
-> Before Leo could kill her, however, the ghost of Erasmus van Richten swiftly swept her away, concealing her from sight.
+> Prima che Leo potesse ucciderla, però, il fantasma di Erasmus van Richten l'ha portata via in fretta, nascondendola alla vista.
 > 
-> Back on the Material Plane, when the smoke and light cleared, Victor saw Stella standing limply at the center of the circle, her eyes dull and unresponsive.
+> Sul Piano Materiale, quando il fumo e la luce si sono diradati, Victor ha visto Stella in piedi, inerte, al centro del cerchio, con lo sguardo spento e senza reazioni.
 > 
-> Terrified that his father might learn of Victor’s magical abilities—or, worse, blame Victor for Stella’s fate— Victor told him that she had abruptly become catatonic for no apparent reason. Vargas, displeased with Stella's presence from the beginning, was all too glad to have an excuse to be rid of “the Wachter girl,” and directed Izek to return her to Wachterhaus immediately. Fiona was horrified by Stella’s fate and began plotting the downfall of the Vallakovich family in quiet fury.
+> Terrorizzato all'idea che il padre scoprisse le sue capacità magiche o, peggio, desse a lui la colpa di quello che era successo a Stella, Victor gli ha raccontato che lei era caduta all'improvviso in catatonia, senza un motivo evidente. Vargas, a cui la presenza di Stella non era mai piaciuta, è stato ben felice di avere una scusa per liberarsi di «quella ragazza dei Wachter» e ha ordinato a Izek di riportarla subito a Wachterhaus. Fiona è rimasta inorridita dalla sorte di Stella e, in una furia silenziosa, ha cominciato a tramare la rovina della famiglia Vallakovich.
 > 
-> Victor spent two weeks wracked with guilt and sorrow before, strangely, one of the servants mentioned seeing a spirit resembling Stella in the mirror in his mother’s parlor. It was through the *spirit mirror* that Victor learned that Stella’s soul still lived in the Ethereal Plane—and it was through that mirror, communicating with handsigns and lip-reading, that the two—now aided by the ghost of Erasmus van Richten—began to work to restore Stella’s soul to her body.
+> Victor ha passato due settimane divorato dal senso di colpa e dal dolore, finché, stranamente, uno dei servitori non ha detto di aver visto uno spirito somigliante a Stella nello specchio del salotto di sua madre. È stato attraverso lo *specchio degli spiriti* che Victor ha scoperto che l'anima di Stella viveva ancora nel Piano Etereo, ed è stato attraverso quello specchio, comunicando a gesti e leggendo il labiale, che i due, aiutati ora dal fantasma di Erasmus van Richten, hanno cominciato a lavorare per restituire a Stella la sua anima.
 > 
-> Since then, Victor has been rapidly attempting to enhance his magical abilities, either to somehow repurpose the faulty *teleportation circle* to restore Stella’s soul or to become powerful enough to cast the high-level _etherealness_ spell in Khazan’s spellbook.
+> Da allora Victor cerca in tutta fretta di potenziare le sue capacità magiche, o per riadattare in qualche modo il *cerchio di teletrasporto* difettoso e restituire l'anima a Stella, o per diventare abbastanza potente da lanciare l'incantesimo di alto livello _forma eterea_ che si trova nel libro di Khazan.
 > 
-> However, both Victor, Stella, and Erasmus have recently realized that they are running out of time. The Border Ethereal is full of other wandering spirits, many of whom are far less friendly than Stella herself, and Erasmus can’t keep her safe forever. Worse still, Stella’s spirit appears to slowly be fading, drawn further and further away by the pull of the Ethereal Plane with each passing day. If her soul isn’t returned to her body soon, Stella may lose herself—forever.
+> Di recente, però, Victor, Stella ed Erasmus si sono resi conto che il tempo sta per scadere. L'Etereo di Confine è pieno di altri spiriti erranti, molti dei quali sono tutt'altro che amichevoli come Stella, ed Erasmus non può proteggerla per sempre. Peggio ancora, lo spirito di Stella sembra svanire a poco a poco, attirato ogni giorno più lontano dal richiamo del Piano Etereo. Se la sua anima non tornerà presto nel corpo, Stella potrebbe perdersi per sempre.
 
-# H1. Erasmus' Plea
-Shortly before dawn on the first night after the players reach 5th level, the party is awoken in the night by the sound of a window slamming open and the feel of a cold draft filling the room. Closer inspection reveals that one of the windows has flown open, seemingly of its own accord. (The window was opened by the **poltergeist** of Erasmus van Richten.)
+# H1. La supplica di Erasmus
+Poco prima dell'alba della prima notte dopo che i giocatori hanno raggiunto il 5º livello, il gruppo viene svegliato dal rumore di una finestra che si spalanca e da una corrente gelida che riempie la stanza. Guardando meglio si vede che una delle finestre si è aperta, a quanto pare da sola. (L'ha aperta il **poltergeist** di Erasmus van Richten.)
 
-The players can notice that the panes of the windows looking into the room have frosted over, and that their breath now mists in the chill air. Shortly afterward, several items in the room begin levitating into the air, and the shutters to the room’s windows begin rattling. As they do, an invisible finger begins inscribing a message in the frost on one of the windows: *Help Victor.* After a moment, it then adds—almost hesitantly—*Please.*
+I giocatori notano che i vetri delle finestre della stanza si sono ricoperti di brina, e che il loro fiato si condensa nell'aria gelida. Poco dopo diversi oggetti nella stanza cominciano a sollevarsi in aria, e le imposte delle finestre cominciano a sbattere. Intanto un dito invisibile comincia a scrivere un messaggio nella brina di una delle finestre: *Aiutate Victor.* Dopo un momento aggiunge, quasi esitante: *Per favore.*
 
-If the players ask for the spirit’s name, it writes its name in the frost: *Erasmus.* If the players agree to carry out his request, the items then fall to the ground and the shutters stop rattling, the frost slowly evaporating. Erasmus’s spirit then departs.
+Se i giocatori chiedono allo spirito il suo nome, lui lo scrive nella brina: *Erasmus.* Se i giocatori accettano di esaudire la sua richiesta, gli oggetti cadono a terra, le imposte smettono di sbattere e la brina evapora piano piano. Poi lo spirito di Erasmus se ne va.
 
-While Erasmus’s spirit is present, a player who succeeds on a DC 10 Wisdom (Insight or Perception) check senses a ghostly presence within the room—a presence that shines with innocence and a sense of fierce determination.
+Finché lo spirito di Erasmus è presente, un giocatore che supera una prova di Saggezza (Intuizione o Percezione) con CD 10 percepisce nella stanza una presenza spettrale, che risplende d'innocenza e di una determinazione feroce.
 
-The players can learn from Urwin Martikov, Danika Dorakova, Father Lucian Petrovich, or Lady Fiona Wachter that “Victor” is the name of Baron Vallakovich’s teenage son.
-# H2. Burgomaster’s Mansion
-<span class="citation"><em>This scene takes place in Chapter 5: Area N3t.</em></span>
+Urwin Martikov, Danika Dorakova, padre Lucian Petrovich o Lady Fiona Wachter possono dire ai giocatori che «Victor» è il nome del figlio adolescente del barone Vallakovich.
+# H2. La villa del borgomastro
+<span class="citation"><em>Questa scena si svolge nel Capitolo 5: Area N3t.</em></span>
 
-If the players received [[#H1. Erasmus' Plea]] and ask to speak with Victor, Baron Vallakovich allows them to do so with a successful DC 12 Charisma (Persuasion or Deception) check, or automatically if they sufficiently flatter him or if Lady Wachter has already seized power. 
+Se i giocatori hanno ricevuto la visita di [[#H1. La supplica di Erasmus]] e chiedono di parlare con Victor, il barone Vallakovich glielo permette se superano una prova di Carisma (Persuasione o Inganno) con CD 12, oppure automaticamente se lo lusingano abbastanza o se Lady Wachter ha già preso il potere.
 
-If the players describe Erasmus' visitation to Victor, Victor glances at the *spirit mirror* in his workroom and says, sounding hurt, “I thought I told you I had this under control!” 
+Se i giocatori raccontano a Victor la visita di Erasmus, Victor lancia un'occhiata allo *specchio degli spiriti* nel suo laboratorio e dice, ferito: «Credevo di avervi detto che avevo tutto sotto controllo!»
 
-A moment later, Victor's face softens, and he reluctantly tells the players that “Stella” and "Erasmus" have decided that he needs help, and that they might not be entirely wrong. He then asks the players if they would be willing to assist him “Stella,” and "Erasmus"—the spirit that they encountered—with a particular task.
-### What Victor Knows
-If the players express an interest in assisting him, [[Non-Player Characters#Victor Vallakovich|Victor]] first introduces them to Stella’s spirit through her reflection in the *spirit mirror.* Stella greets them with a shy wave, but cannot be heard. (Victor explains that her soul is trapped in the Ethereal Plane, and though the mirror reflects shapes from the other plane, it does not transmit sound.) 
+Un momento dopo il viso di Victor si addolcisce, e a malincuore dice ai giocatori che «Stella» ed «Erasmus» hanno deciso che gli serve aiuto e che forse non hanno tutti i torti. Poi chiede ai giocatori se sarebbero disposti ad aiutare lui, «Stella» ed «Erasmus», lo spirito che hanno incontrato, in un compito particolare.
+### Che cosa sa Victor
+Se i giocatori si mostrano interessati ad aiutarlo, [[Non-Player Characters#Victor Vallakovich|Victor]] per prima cosa li presenta allo spirito di Stella attraverso il suo riflesso nello *specchio degli spiriti.* Stella li saluta con un timido cenno della mano, ma non la si può sentire. (Victor spiega che la sua anima è intrappolata nel Piano Etereo, e che lo specchio riflette le forme dell'altro piano ma non trasmette i suoni.)
 ![[Stella Wachter.png]]
-<span class="credit">"Stella Wachter's Ghost" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">«Stella Wachter's Ghost» di Caleb Cleveland. Sostienilo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-Victor then shares the following information:
+Poi Victor racconta queste cose:
 
-* Three months ago, Victor and his friend, Stella Wachter, heard that the Devil Strahd had returned to the land and agreed that escape was imperative. Using knowledge that Victor had gleaned from an old spellbook, they began construction of a *teleportation circle* that would allow them to free themselves from the valley.
-* Ten weeks ago, they’d finally finished a prototype circle. After two experiments involving undead rabbits that Victor animated using bones purchased from Szoldar and Yevgeni, Stella insisted on volunteering as a live, human trial. However, the test went horribly wrong—the circle failed to teleport Stella’s body anywhere, and the backlash exposed her soul to the Ethereal Plane. 
-* During the brief moments that her spirit was within the Ethereal Plane, Stella was attacked by a dark shadow, whose claws severed her soul from her body. She would have died had Erasmus not spirited her away to safety.
-* After two weeks of worrying that he had accidentally somehow destroyed his friend’s mind, Victor learned that one of his parents’ servants had seen the ghost of a young woman reflected in a mirror in his mother’s parlor. Victor learned that the mirror was a *spirit mirror* that reflected both the Material and Ethereal Planes. Using it, he was able to see and communicate with Stella’s wandering spirit—first through gestures and crude lip-reading, and eventually through handsigns learned from a book in his father’s library.
-* Since then, Victor and Stella have been working hard to restore her soul to her body, but nothing has worked. In the meantime, Stella has had to conceal herself from the many wandering spirits that roam the Border Ethereal, many of which would harm her if they could. 
-* Stella feels like she’s slowly losing memories of her life, even as her form in the Ethereal Plane is slowly growing more insubstantial. Sometimes, she can’t tell whether she’s herself or someone else; when that happens, she feels as though a part of her is curled up in a warm and wet place, with a comforting heartbeat echoing through the darkness.
-* To make matters worse, the tether between Stella’s shoulder blades that once connected her soul to her body is slowly growing shorter, leaving Victor fearing that she has little more than a week left before she disappears forever. (The shorter it gets, the more frequent Stella’s visions become, and the foggier her memory grows.)
-* Neither Victor, Stella, nor Erasmus know the identity of the spirit that severed Stella’s soul from her body. However, Victor can inform the players that Erasmus has seen it haunting the Ethereal Plane around Vallaki numerous times since its arrival—seemingly searching for Stella—and has identified it as a *gallows speaker*. (Erasmus, who learned of the creatures while reading his father’s notes, has provided Victor with all of the information about gallows speakers provided on <span class="citation">p. 234 of Van Richten's Guide to Ravenloft</span>.)
-* If asked why they haven’t sought others’ help, Victor stubbornly insists that he doesn’t trust Lady Fiona Wachter; that his own father, the Baron, would be worse than useless; and that he and Stella are perfectly capable of solving her problem on their own. 
+* Tre mesi fa Victor e la sua amica Stella Wachter hanno saputo che il Diavolo Strahd era tornato nella terra e hanno convenuto che bisognava fuggire. Con le conoscenze che Victor aveva ricavato da un vecchio libro degli incantesimi, hanno cominciato a costruire un *cerchio di teletrasporto* che permettesse loro di liberarsi dalla valle.
+* Dieci settimane fa hanno finalmente finito un cerchio sperimentale. Dopo due esperimenti con conigli non morti che Victor aveva animato con ossa comprate da Szoldar e Yevgeni, Stella ha insistito per offrirsi come prova dal vivo, su un essere umano. Ma la prova è andata malissimo: il cerchio non ha teletrasportato il corpo di Stella da nessuna parte, e il contraccolpo ha esposto la sua anima al Piano Etereo.
+* Nei brevi istanti in cui il suo spirito è stato nel Piano Etereo, Stella è stata attaccata da un'ombra scura, i cui artigli hanno reciso la sua anima dal corpo. Sarebbe morta se Erasmus non l'avesse portata via in salvo.
+* Dopo due settimane passate a temere di aver distrutto in qualche modo la mente dell'amica, Victor ha saputo che uno dei servitori dei genitori aveva visto il fantasma di una ragazza riflesso in uno specchio del salotto della madre. Victor ha scoperto che lo specchio era uno *specchio degli spiriti*, che riflette sia il Piano Materiale sia quello Etereo. Usandolo, è riuscito a vedere lo spirito errante di Stella e a comunicare con lei, prima a gesti e leggendo alla buona il labiale, poi con il linguaggio dei segni imparato da un libro della biblioteca del padre.
+* Da allora Victor e Stella lavorano sodo per restituirle l'anima, ma niente ha funzionato. Nel frattempo Stella ha dovuto nascondersi dai molti spiriti erranti che vagano nell'Etereo di Confine, molti dei quali le farebbero del male, se potessero.
+* Stella sente di perdere a poco a poco i ricordi della sua vita, mentre la sua forma nel Piano Etereo si fa sempre più evanescente. A volte non riesce a capire se è sé stessa o qualcun altro; quando succede, le sembra che una parte di lei sia raggomitolata in un posto caldo e umido, con un battito rassicurante che riecheggia nel buio.
+* Come se non bastasse, il filo che dalle scapole di Stella collegava la sua anima al corpo si accorcia a poco a poco, e Victor teme che le resti poco più di una settimana prima di sparire per sempre. (Più il filo si accorcia, più le visioni di Stella diventano frequenti e più i suoi ricordi si annebbiano.)
+* Né Victor, né Stella, né Erasmus sanno chi sia lo spirito che ha reciso l'anima di Stella dal corpo. Victor può però dire ai giocatori che Erasmus l'ha visto aggirarsi molte volte nel Piano Etereo intorno a Vallaki dal suo arrivo, apparentemente in cerca di Stella e l'ha riconosciuto come un *oratore della forca*. (Erasmus, che ha conosciuto queste creature leggendo gli appunti del padre, ha passato a Victor tutte le informazioni sugli oratori della forca riportate a <span class="citation">p. 234 della Guida di Van Richten a Ravenloft</span>.)
+* Se gli chiedono perché non abbiano cercato aiuto, Victor ripete ostinato che non si fida di Lady Fiona Wachter, che suo padre, il barone, sarebbe peggio che inutile, e che lui e Stella sono perfettamente in grado di risolvere il problema da soli.
 
-If confronted with the fact that he and Stella *haven’t* been capable of solving her problem on their own, Victor’s face crumples, and he briefly looks to be on the verge of tears as he struggles to find a retort.
+Se gli si fa notare che lui e Stella *non* sono riusciti a risolvere il problema da soli, il viso di Victor si contrae e per un attimo sembra sul punto di piangere mentre cerca una risposta.
 
-Victor is surprised to hear of the “hauntings” that his family has experienced in the mansion floors below. However, Stella’s spirit—looking bashful—uses handsigns to communicate that she never intended to scare anyone, but that after accidentally learning that she retained some small ability to interact with the Material Plane, she couldn’t resist playing an occasional practical joke on an unsuspecting victim. (If the players ask why she hasn’t used this ability to communicate with her mother, Lady Wachter, Stella confesses that some strange force prevents her from entering the grounds of the estate.)
+Victor è sorpreso di sentir parlare delle «infestazioni» che la sua famiglia ha subito ai piani di sotto. Lo spirito di Stella, però, con aria imbarazzata, spiega con il linguaggio dei segni che non voleva spaventare nessuno, ma che quando ha scoperto per caso di poter ancora interagire un po' con il Piano Materiale, non ha resistito a fare ogni tanto uno scherzo a qualche vittima ignara. (Se i giocatori le chiedono perché non abbia usato questa capacità per comunicare con sua madre, Lady Wachter, Stella confessa che una strana forza le impedisce di entrare nella tenuta.)
 
-If the players agree to help him and Stella, Victor shares with them the following plan:
+Se i giocatori accettano di aiutare lui e Stella, Victor spiega loro questo piano:
 
-* To guide Stella’s soul back into her body, he needs to find a way to enter the Ethereal Plane in his own, mortal body and perform an altered version of the teleportation ritual from the other side of the veil.
-* There is a spell—*etherealness*—that would allow him to enter the Ethereal Plane using his own power, but despite his best efforts, he has been unable to master it thus far, and is unlikely to be able to cast it before Stella’s soul disappears into the Deep Ethereal.
-* In the book *Ethereal Entities: Denizens of the Unseen Realm,* written by the archmage Mordenkainen, Victor learned of a ritual that can replicate the effects of the *etherealness* spell for up to nine creatures. The ritual must be performed on the night of the full moon, and requires the heartstone of a **night hag** as a material component. 
+* Per guidare l'anima di Stella di nuovo nel corpo, deve trovare il modo di entrare nel Piano Etereo con il suo corpo mortale e celebrare una versione modificata del rituale di teletrasporto dall'altra parte del velo.
+* C'è un incantesimo, *forma eterea*, che gli permetterebbe di entrare nel Piano Etereo con le sue forze, ma nonostante tutti i suoi sforzi finora non è riuscito a padroneggiarlo, ed è improbabile che riesca a lanciarlo prima che l'anima di Stella sparisca nell'Etereo Profondo.
+* Nel libro *Entità eteree: gli abitanti del regno invisibile*, scritto dall'arcimago Mordenkainen, Victor ha scoperto un rituale che riproduce gli effetti dell'incantesimo *forma eterea* fino a nove creature. Il rituale va celebrato la notte di luna piena e richiede come componente materiale la pietra del cuore di una **megera notturna**.
 
-> [!info]+ **When’s the Full Moon?**
+> [!info]+ **Quando c'è la luna piena?**
 >
-> The players’ first full moon in Barovia always takes place on the night of their sixth full day in Vallaki. (For example, if the players arrive in Vallaki on Sunday night, the full moon will take place on Saturday night.) Victor is aware of this date.
+> La prima luna piena dei giocatori a Barovia cade sempre la notte del loro sesto giorno pieno a Vallaki. (Per esempio, se i giocatori arrivano a Vallaki la domenica sera, la luna piena sarà il sabato sera.) Victor conosce questa data.
 
-Victor informs the players that Stella, while exploring the Ethereal Plane, has regularly seen a gaunt, female figure with sallow, gray-blue skin, deep-set eyes, matted hair, small ram's horns, and a wide mouth of sharp, yellowed teeth haunting the area of the Border Ethereal that overlaps with the Barovian refugee camp. While neither Victor nor Stella are sure what the night hag wants with the refugees, Victor is confident that Stella’s description perfectly matches the appearance of a **night hag** as described in Mordenkainen’s book.
+Victor racconta ai giocatori che Stella, esplorando il Piano Etereo, ha visto spesso una figura femminile emaciata, con la pelle grigio-azzurra e giallastra, gli occhi infossati, i capelli arruffati, piccole corna d'ariete e una bocca larga piena di denti aguzzi e ingialliti, aggirarsi nella zona dell'Etereo di Confine che si sovrappone al campo dei profughi baroviani. Né Victor né Stella sanno bene che cosa voglia la megera notturna dai profughi, ma Victor è sicuro che la descrizione di Stella corrisponda perfettamente all'aspetto di una **megera notturna** descritto nel libro di Mordenkainen.
 
-Victor asks the players to visit the refugee camp and investigate the night hag’s presence. While Stella has only seen the hag in the Ethereal Plane thus far, Victor strongly suspects that her interest in it extends into the Material Plane as well. While the players investigate, Victor will continue his research into the *etherealness* ritual and the ritual to return Stella’s soul to her body.
+Victor chiede ai giocatori di andare al campo dei profughi e indagare sulla presenza della megera notturna. Finora Stella l'ha vista solo nel Piano Etereo, ma Victor sospetta fortemente che il suo interesse si estenda anche al Piano Materiale. Mentre i giocatori indagano, Victor continuerà le sue ricerche sul rituale di *forma eterea* e su quello per restituire a Stella la sua anima.
 
-If the players express an interest in it, Victor is glad to lend them his copy of *Ethereal Entities* to read. 
+Se i giocatori sono interessati, Victor presta loro volentieri la sua copia di *Entità eteree* da leggere.
 
-> [!lore]+ **Ethereal Entities**
+> [!lore]+ **Entità eteree**
 >
-> _Ethereal Entities: Denizens of the Unseen Realm_ by Mordenkainen is a slim hardback book with a leather cover dyed a deep, midnight blue. Its title and author's name are embossed in silver script along the spine and front cover, and the corners of the book are adorned with small, silver filigree resembling ethereal wisps. Its pages are filled with neatly-written text and beautifully detailed illustrations.
+> _Entità eteree: gli abitanti del regno invisibile_, di Mordenkainen, è un volume sottile rilegato, con la copertina di pelle tinta di un blu notte intenso. Il titolo e il nome dell'autore sono impressi in caratteri d'argento sul dorso e sulla copertina, e gli angoli del libro sono ornati da piccole filigrane d'argento che ricordano volute eteree. Le pagine sono piene di testo scritto con cura e di illustrazioni bellissime e dettagliate.
 >
-> The book is a treatise on the Ethereal Plane and the creatures that dwell within or visit it. It contains all of the information provided in **Ethereal Plane** (<span class="citation">Dungeon Master's Guide, p. 48</span>), as well as a bestiary divided into the following three sections:
+> Il libro è un trattato sul Piano Etereo e sulle creature che ci vivono o lo visitano. Contiene tutte le informazioni di **Piano Etereo** (<span class="citation">Guida del Dungeon Master, p. 48</span>), più un bestiario diviso in tre sezioni:
 >
-> - _**Etherborn: Natives of the Deep Ethereal**_, containing information about creatures that are said to dwell solely in the Deep Ethereal, such as the mythological mistfiends, ethershades, and shimmerlings.
-> - _**Phantomfolk: Travelers from the Border Ethereal**_, containing information about incorporeal creatures that dwell in the Border Ethereal and often cross into the Material Plane, such as **ghosts** (_Monster Manual_, p. 147) and **phantom warriors** (_Curse of Strahd_, p. 235).
-> - _**Veil-Walkers: Visitors to the Ethereal**_, containing information about physical creatures that can cross into the Ethereal Plane, such as **night hags** (_Monster Manual_, p. 178), **nightmares** (_Monster Manual_, p. 235), and **phase spiders** (_Monster Manual_, p. 334). (See **Matrons of Malevolence** below for the chapter on night hags.)
+> - _**Nati dall'Etere: gli abitanti dell'Etereo Profondo**_, con informazioni sulle creature che si dice vivano solo nell'Etereo Profondo, come i mitologici demoni della nebbia, le ombre eteree e i luccicanti.
+> - _**Il popolo dei fantasmi: viaggiatori dell'Etereo di Confine**_, con informazioni sulle creature incorporee che vivono nell'Etereo di Confine e passano spesso nel Piano Materiale, come i **fantasmi** (_Manuale dei Mostri_, p. 147) e i **guerrieri fantasma** (_La maledizione di Strahd_, p. 235).
+> - _**Viandanti del velo: visitatori dell'Etereo**_, con informazioni sulle creature corporee che possono passare nel Piano Etereo, come le **megere notturne** (_Manuale dei Mostri_, p. 178), gli **incubi** (_Manuale dei Mostri_, p. 235) e i **ragni fase** (_Manuale dei Mostri_, p. 334). (Per il capitolo sulle megere notturne vedi **Matrone della malvagità** più avanti.)
 >
-> The subsection discussing **phase spiders** includes a brief sidenote discussing the immunity that most incorporeal undead have to elemental, natural, and nonmagical weapon damage while on the Material Plane, as well as the natural means that phase spiders have developed to counteract those immunities through the use of their fangs and venom. It notes that a spellcaster can deal damage to an incorporeal spirit normally by using a phase spider's fang as an additional material component to cast their spells, while a martial combatant can deal damage to an incorporeal spirit by coating one weapon or up to three pieces of ammunition with phase spider venom or holy water.
+> La parte sui **ragni fase** contiene una breve nota sull'immunità che quasi tutti i non morti incorporei hanno ai danni elementali, naturali e da armi non magiche quando si trovano sul Piano Materiale, e sui mezzi naturali con cui i ragni fase, grazie alle zanne e al veleno, hanno imparato ad aggirare queste immunità. Spiega che un incantatore può danneggiare normalmente uno spirito incorporeo usando una zanna di ragno fase come componente materiale aggiuntiva dei suoi incantesimi, mentre un combattente può danneggiare uno spirito incorporeo spalmando un'arma o fino a tre munizioni con veleno di ragno fase o con acqua santa.
 >
-> The subsection discussing **night hags** includes a brief sidenote discussing a ritual that uses a night hag's ***heartstone*** and the energies of a leyline to replicate the effects of the *Etherealness* spell for up to ten individuals for one hour on the night of the full moon.
+> La parte sulle **megere notturne** contiene una breve nota su un rituale che usa la ***pietra del cuore*** di una megera notturna e le energie di una linea di forza per riprodurre gli effetti dell'incantesimo *forma eterea* su un massimo di dieci persone, per un'ora, nella notte di luna piena.
 >
-> The chapter regarding **night hags** is titled "Night Hags: Matrons of Malevolence." It reads as follows:
+> Il capitolo sulle **megere notturne** si intitola «Megere notturne: matrone della malvagità». Dice così:
 > 
 > <hr>
 >
-> Sly and subversive, night hags are the epitome of wickedness. They represent all that is evil and cruel in the world and want nothing more than to see the virtuous turn to villainy: love turned into obsession, kindness turned to hate, devotion to disregard, and generosity to selfishness.
+> Furbe e sovversive, le megere notturne sono la malvagità fatta persona. Incarnano tutto ciò che di cattivo e crudele c'è al mondo, e non desiderano altro che vedere i virtuosi diventare malvagi: l'amore che si trasforma in ossessione, la gentilezza in odio, la devozione in indifferenza, la generosità in egoismo.
 >
-> Once, night hags were creatures of the Feywild, a realm of enchantment and beauty. However, their foulness saw them exiled to the bleak realm of Hades long ago, where they degenerated into fiends. The foul taint of Hades twisted their once-fey nature, and the night hags have long since spread their malevolence across the Lower Planes.
+> Un tempo le megere notturne erano creature della Selva Fatata, un regno d'incanto e di bellezza. Ma la loro malvagità le fece esiliare, molto tempo fa, nel desolato regno dell'Ade, dove degenerarono in immondi. La sozzura dell'Ade deformò la loro natura un tempo fatata, e da allora le megere notturne hanno diffuso la loro malvagità in tutti i Piani Inferiori.
 >
-> Though night hags resemble withered crones, there is nothing mortal about them. Their withered faces are framed by long, frayed hair and curled ram's horns; horrid moles and warts dot their blotchy pale-blue skin; and their long, skinny fingers are tipped by claws that can slice open flesh with a touch.
+> Le megere notturne somigliano a vecchie raggrinzite, ma non hanno niente di mortale. I loro volti avvizziti sono incorniciati da lunghi capelli sfilacciati e da corna d'ariete ricurve; orribili nei e verruche costellano la loro pelle chiazzata di un azzurro pallido; le loro dita lunghe e magre finiscono in artigli che squarciano la carne al minimo tocco.
 >
-> All hags possess magical powers, including the ability to alter their forms or curse their foes. A hag also bears some resistance to magic and mortal weapons alike, though the touch of silver wounds her like any other.
+> Tutte le megere possiedono poteri magici, fra cui quello di cambiare forma o di maledire i nemici. Una megera resiste anche in parte alla magia e alle armi mortali, ma l'argento la ferisce come qualunque altra creatura.
 >
-> Arrogant to a fault, hags believe themselves to be the most cunning of creatures—and very often are. They are open to dealing with mortals, and will always keep their word—but a bargain with a hag is always dangerous. Hags enjoy watching mortals bring about their own downfall through these bargains, which often involve compromising their principles or giving up something dear.
+> Superbe fino all'eccesso, le megere si credono le creature più astute che esistano, e molto spesso lo sono. Sono disposte a trattare con i mortali e mantengono sempre la parola data, ma un patto con una megera è sempre pericoloso. Le megere si divertono a guardare i mortali andare in rovina con le loro stesse mani attraverso questi patti, che spesso li costringono a tradire i propri principi o a rinunciare a qualcosa di caro.
 >
-> A night hag's ultimate prize, however, is the soul of a corrupted mortal. While her victim sleeps, the night hag passes into the Ethereal Plane through the aid of her twisted onyx heartstone—an artifact that allows her to become Ethereal at the speed of thought. There, she invades her victim's very dreams, filling their head with doubts and fears in the hope of tricking it into performing evil acts in the waking world.
+> Il premio più ambito per una megera notturna, però, è l'anima di un mortale corrotto. Mentre la vittima dorme, la megera notturna passa nel Piano Etereo grazie alla sua contorta pietra del cuore d'onice, un artefatto che le permette di diventare eterea alla velocità del pensiero. Lì invade i sogni della vittima e le riempie la testa di dubbi e di paure, sperando di indurla a compiere azioni malvagie nel mondo della veglia.
 >
-> Night after night, she continues her visitations until the victim finally expires in its sleep—at which point she traps its corrupted soul in her soul bag as a dark trophy of her success. The blacker the stains upon the soul, the greater the night hag's bounty.
+> Notte dopo notte la megera continua le sue visite, finché la vittima non spira nel sonno; a quel punto ne imprigiona l'anima corrotta nel suo sacco delle anime, come trofeo oscuro del suo successo. Più l'anima è macchiata, più ricco è il bottino della megera notturna.
 >
-> Like all hags, night hags propagate by snatching and devouring human infants. A week later, the hag gives birth to a daughter who appears human until her thirteenth birthday—at which point the child transforms into the spitting image of her hag mother.
+> Come tutte le megere, le megere notturne si riproducono rapendo e divorando neonati umani. Una settimana dopo la megera partorisce una figlia che sembra umana fino al tredicesimo compleanno, quando si trasforma nel ritratto sputato della madre megera.
 >
-> Some hags raise the daughters they spawn, creating covens that magnify their power. The members of a coven gain a slew of unnatural abilities, including the power to control the elements and—once each day—to dispel foreign magic in the vicinity of their lairs. As is true for all hag magic, however, such power comes at a price—for a wound suffered by a single hag in a coven is suffered by all.
+> Alcune megere crescono le figlie che generano e formano congreghe che moltiplicano il loro potere. Le componenti di una congrega acquisiscono una serie di capacità innaturali, fra cui il potere di controllare gli elementi e, una volta al giorno, di dissolvere la magia estranea nei dintorni della loro tana. Come ogni magia delle megere, però, questo potere ha un prezzo: una ferita subita da una sola megera della congrega la subiscono tutte.
 >
-> To combat their inherently selfish natures, the hags in a coven must enter into a written contract with the others, signed by each hag's true name. The hags of a coven guard their contract jealously, often sealing it within the heart of their lair, ever-careful to keep their names from falling into enemy hands.
+> Per tenere a freno la loro natura egoista, le megere di una congrega devono stringere fra loro un contratto scritto, firmato da ciascuna con il suo vero nome. Le megere di una congrega custodiscono il contratto con gelosia, spesso sigillandolo nel cuore della loro tana, sempre attente a non far cadere i loro nomi in mani nemiche.
 
-> [!info]+ **Harvesting Phase Spiders**
-> The players will later encounter **phase spiders** in Argynvostholt and have an opportunity to harvest their fangs and venom to combat the **phantom warriors** that lurk there. See [[Arc M - The Dragon's Manor#M4c. Spiders’ Ballroom|Arc M - The Dragon's Manor]] for more information regarding the harvesting and use of phase spider parts.
-# H3. The Refugee Camp
-If it's been at least six hours since Lady Wachter's inauguration in [[Arc F - Lady Wachter's Wish]], the refugee camp has been relocated to <span class="citation">N8. Town Square (p. 119)</span>. (The refugees are still living in tents, however, while Lady Wachter works to find them suitable housing.)
+> [!info]+ **Procurarsi parti di ragno fase**
+> Più avanti i giocatori incontreranno dei **ragni fase** ad Argynvostholt e avranno l'occasione di prenderne le zanne e il veleno per combattere i **guerrieri fantasma** che si annidano lì. Per come procurarsi e usare le parti dei ragni fase vedi l'[[Arc M - The Dragon's Manor#M4c. Spiders’ Ballroom|Arco M: Il maniero del drago]].
+# H3. Il campo dei profughi
+Se sono passate almeno sei ore dall'insediamento di Lady Wachter nell'[[Arc F - Lady Wachter's Wish|Arco F: Il desiderio di Lady Wachter]], il campo dei profughi è stato spostato in <span class="citation">N8. Piazza della città (p. 119)</span>. (I profughi però vivono ancora nelle tende, mentre Lady Wachter cerca per loro alloggi adatti.)
 
-If Lady Wachter hasn't yet relocated the refugees, when the players first enter the refugee camp, read:
+Se Lady Wachter non ha ancora spostato i profughi, la prima volta che i giocatori entrano nel campo, leggi:
 
 <div class="description">
-<p>Past Vallaki's gates lies a cluster of ramshackle tents huddled against the wall, as though seeking shelter beneath the looming silhouette of the town's palisade walls. The tents themselves are laid out in a simple two-sided thoroughfare, with crude wooden barricades and muddy ditches beyond the far side facing out against the dark forest beyond.</p>
-<p>Through gaps in the threadbare canvas, you can see crude wooden pallets, makeshift bedrolls, and the occasional battered cooking pot. Small, low-burning cookfires dot the grimy narrow avenue, and piles of sticks and half-rotted logs rest haphazardly beside them.</p>
-<p>Dozens of people, their bodies gaunt and their faces drawn, move slowly about the camp. Their eyes are sunken and hollow, their clothes hanging loose on their thin frames. A few of them huddle about the campfires, bodies hunched against the chill air and hands outstretched for the meager warmth.</p>
+<p>Oltre le porte di Vallaki c'è un gruppo di tende sgangherate addossate al muro, come se cercassero riparo sotto la sagoma incombente della palizzata della città. Le tende sono disposte lungo un semplice viale a due file, e oltre l'ultima fila barricate di legno grezzo e fossati fangosi fronteggiano la foresta scura.</p>
+<p>Dai buchi nella tela logora si vedono giacigli di legno grezzo, coperte da letto improvvisate e qualche pentola ammaccata. Piccoli fuochi da campo che ardono bassi punteggiano lo stretto viale sudicio, e accanto ci sono mucchi di rami e di ceppi mezzi marci ammassati alla rinfusa.</p>
+<p>Decine di persone, emaciate e con il viso tirato, si muovono lente per il campo. Hanno gli occhi infossati e vuoti, e i vestiti pendono larghi sui corpi magri. Alcune si stringono intorno ai fuochi, curve contro l'aria gelida e con le mani tese verso quel poco di calore.</p>
 </div>
 
-## H3a. Inside the Camp
-If the players enter the camp, they are soon warily greeted by Emeric, a melancholy older man with graying hair, and Magda, a grief-stricken young woman with deep circles under their eyes. (While the camp doesn’t have any official leadership, Emeric and Magda were part of the initial wave of refugees from Barovia, and have pioneered the effort to welcome and organize the newcomers following Strahd’s siege.)
+## H3a. Dentro il campo
+Se i giocatori entrano nel campo, presto li accolgono con diffidenza Emeric, un uomo anziano e malinconico con i capelli grigi, e Magda, una giovane donna affranta dal dolore, con profonde occhiaie. (Il campo non ha capi ufficiali, ma Emeric e Magda facevano parte della prima ondata di profughi da Barovia, e dopo l'assedio di Strahd sono stati i primi ad accogliere e organizzare i nuovi arrivati.)
 
-Emeric and Magda are cautious of outsiders, but curious to know why the players have come to their camp. (Magda is briefly hopeful that the players are servants of Baron Vallakovich and that they have come to invite the refugees into Vallaki—a hope that Emeric, pointing to the players’ strange appearances, soon disabuses her of.)
+Emeric e Magda diffidano dei forestieri, ma sono curiosi di sapere perché i giocatori siano venuti al loro campo. (Per un attimo Magda spera che i giocatori siano servitori del barone Vallakovich venuti a invitare i profughi a entrare a Vallaki, una speranza che Emeric, indicando l'aspetto strano dei giocatori, le toglie presto.)
 
-Emeric and Magda can share the following general information about the camp (modified as necessary depending on current events):
+Emeric e Magda possono dare queste informazioni generali sul campo (modificate secondo gli eventi in corso):
 
-* The first Barovian refugees arrived at Vallaki's gates three months ago, but were barred from entering. When they attempted to breach the gates by force, the guards summoned a man they called Izek, who bore a twisted devil's arm and conjured fire to drive the refugees back.
-* Since then, the refugees have set up camp outside the town's walls, clustering together for protection and warmth. They've managed to secure some minor necessities, such as the tents, by bribing the guards at the gates, but have been unable to persuade the guards to allow them entry or to even invite the town's Baron to discuss their plight.
-* Swarms of bats and packs of wolves have plagued the camp each night since they've arrived. Thankfully, no one has died yet, but several refugees have been wounded.
-* Due to losses they suffered on the road and the threat of the Devil in Castle Ravenloft, the refugees are unwilling to risk the journey back home, instead hoping to wait until the Baron sees reason and allows them to enter the walls.
-* Roughly one-quarter of the refugees have become addicted to "dream pastries," a foodstuff sold by the peddler Morgantha. These refugees seek an escape from the misery and despair of their situation. Those who eat a dream pastry fall into a trance as described in <span class="citation">Dream Pastries (p. 125)</span>. (Emeric and Magda can add that Morgantha hasn't been to the camp in a few days.)
+* I primi profughi baroviani sono arrivati alle porte di Vallaki tre mesi fa, ma non li hanno fatti entrare. Quando hanno cercato di forzare le porte, le guardie hanno chiamato un uomo che chiamavano Izek, con un braccio di diavolo contorto, che ha evocato il fuoco per respingere i profughi.
+* Da allora i profughi si sono accampati fuori dalle mura della città, stretti l'uno all'altro per proteggersi e scaldarsi. Sono riusciti a procurarsi qualche piccolo bene di prima necessità, come le tende, corrompendo le guardie alle porte, ma non sono riusciti a convincerle a farli entrare né a invitare il barone della città a discutere della loro situazione.
+* Da quando sono arrivati, ogni notte il campo è tormentato da sciami di pipistrelli e branchi di lupi. Per fortuna nessuno è ancora morto, ma diversi profughi sono stati feriti.
+* Per le perdite subite lungo la strada e per la minaccia del Diavolo nel Castello di Ravenloft, i profughi non vogliono rischiare il viaggio di ritorno a casa e sperano invece di aspettare che il barone ragioni e li lasci entrare dentro le mura.
+* Circa un quarto dei profughi è diventato dipendente dai «dolci dei sogni», un cibo venduto dalla venditrice ambulante Morgantha. Questi profughi cercano una fuga dalla miseria e dalla disperazione della loro condizione. Chi mangia un dolce dei sogni cade in trance, come descritto in <span class="citation">Dolci dei sogni (p. 125)</span>. (Emeric e Magda possono aggiungere che Morgantha non si fa vedere al campo da qualche giorno.)
 
-If the players ask about the **night hag**, Emeric and Magda exchange glances and inform them that their description matches that of a recurring nightmare that Franz, another refugee, has been suffering for the past two nights. 
+Se i giocatori chiedono della **megera notturna**, Emeric e Magda si scambiano un'occhiata e spiegano che la descrizione corrisponde a quella di un incubo ricorrente che da due notti tormenta Franz, un altro profugo.
 
-Emeric and Magda are glad to take the players to see him, but warn them that Franz, a widower, has recently lost his children as well and is likely still grieving or disturbed. Magda further adds that Franz has suffered from a strange wasting disease ever since the nightmares first began, and offers her hope that the players may be able to treat him.
-## H3b. Franz’s Tent
-Emeric and Magda lead the players to a small, lonely tent set up at the end of the camp’s muddy avenue. When the players enter, read:
+Emeric e Magda accompagnano volentieri i giocatori da lui, ma li avvertono che Franz, vedovo, ha perso da poco anche i figli, ed è probabilmente ancora sconvolto dal dolore. Magda aggiunge che da quando sono cominciati gli incubi Franz soffre di una strana malattia consuntiva, e spera che i giocatori possano curarlo.
+## H3b. La tenda di Franz
+Emeric e Magda accompagnano i giocatori a una piccola tenda solitaria in fondo al viale fangoso del campo. Quando i giocatori entrano, leggi:
 
 <div class="description">
-<p>Within this sagging, cramped tent lie three stained pallets, two of which are child-sized. An old and patched stuffed rabbit lies across the closest pallet, its black button eyes staring sightlessly into the air.</p>
-<p>A young woman kneels in the mud beside the full-size pallet, clutching a bundle of wilted herbs in one fist and holding a damp rag over the forehead of a frail, gaunt-looking man lying across the pallet. The man's skin is pale and drenched in sweat, his clothes torn and ragged. Wispy, scraggled hair rises from his wrinkled scalp, while his face, illuminated beneath the dying light of a single, sputtering candle, is etched with exhaustion. A full moment passes before you realize that this ghost of a man is likely scarcely older than thirty.</p>
+<p>In questa tenda angusta e afflosciata ci sono tre giacigli macchiati, due dei quali da bambino. Sul giaciglio più vicino è posato un vecchio coniglio di pezza rattoppato, con gli occhi neri a bottone che fissano ciechi il vuoto.</p>
+<p>Una giovane donna è inginocchiata nel fango accanto al giaciglio da adulto: stringe in un pugno un mazzetto di erbe appassite e tiene uno straccio umido sulla fronte di un uomo fragile ed emaciato, disteso sul giaciglio. L'uomo ha la pelle pallida e fradicia di sudore, e i vestiti strappati e logori. Ciuffi di capelli radi e arruffati spuntano dal cuoio capelluto rugoso, mentre il viso, illuminato dalla luce morente di un'unica candela che sfrigola, è segnato dalla stanchezza. Passa un momento intero prima che vi rendiate conto che questo fantasma d'uomo ha probabilmente poco più di trent'anni.</p>
 </div>
 
-The man is Franz. The woman is his sister, a woman named Nyanka. Nyanka has been tending to Franz since morning, but has been unable to identify or treat his condition.
+L'uomo è Franz. La donna è sua sorella, che si chiama Nyanka. Nyanka assiste Franz da stamattina, ma non è riuscita a capire che cosa abbia né a curarlo.
 
-Upon seeing the players, Franz wheezes with laughter and asks whether they are demons sent by Mother Night, come to drag his soul into the Mists. Nyanka apologizes for his behavior and mentions that he’s been delirious ever since the nightmares and sickness began.
+Quando vede i giocatori, Franz ride ansimando e chiede se sono demoni mandati da Madre Notte, venuti a trascinare la sua anima nelle Nebbie. Nyanka si scusa per il suo comportamento e spiega che delira da quando sono cominciati gli incubi e la malattia.
 
-If the players ask Franz about the **night hag**, he first demands that Nyanka, Emeric, and Magda depart and leave him alone with the players. (None of the three other refugees mind this request.) Franz can then share the following information with the players:
+Se i giocatori chiedono a Franz della **megera notturna**, lui pretende prima che Nyanka, Emeric e Magda se ne vadano e lo lascino solo con i giocatori. (Nessuno dei tre ha niente in contrario.) Poi Franz può raccontare ai giocatori queste cose:
 
-* Three months ago, not long after his wife, Alana died of illness, Franz joined the first two-dozen refugees who left the village of Barovia for the fortified town of Vallaki to the west. Franz brought their two children—seven-year-old Fyodor and five-year-old Myrtle—with him to Vallaki, hoping to keep them safe from Strahd’s servants.
-* A few weeks after arriving in the camp, Franz began to purchase dream pastries from the peddler Morgantha. The visions brought by these pastries allowed him to dream of Alana, returned to his arms as though she had never died at all.
-* Franz purchased Morgantha’s dream pastries regularly, spending hours, then days lost in peaceful dreams. Eventually, however, his savings ran out, and Morgantha refused to sell him additional pastries—unless he paid a terrible price.
-* Three nights ago, Franz led Fyodor and Myrtle down past the tree line at the edge of the woods. There, Morgantha placed the children into a magical sleep and stuffed them into a sack that she carried over her shoulder. In return, she promised Franz as many dream pastries as he could eat, each time she returned, for the rest of his life.
-* As Morgantha turned to depart, Franz heard Myrtle cry out for him in her sleep, and immediately regretted what he had done. He demanded Morgantha return his children at once; when she laughed and told him their bargain was final, he attempted to take his children by force. With a wave of her hands, however, she put him to sleep—and when he awoke, she was nowhere to be found.
-* Franz searched the woods for hours, but found no trace of Morgantha or his children. When he finally collapsed, exhausted, back in his tent at the camp, he suffered terrible nightmares, which have repeated each night since.
-* In the nightmare, he is strapped to a millstone, its four arms raised above him. On his chest sits a gaunt, female figure with sallow, gray-blue skin, deep-set eyes, matted hair, small ram's horns, and a wide mouth of sharp, yellowed teeth, holding a twisted onyx-black stone against his forehead and whispering of damnation. In the background, he can hear Fyodor and Myrtle sobbing beyond his view, a pair of high-pitched cackles, and the sound of a windmill’s blades grinding in the wind. 
-* For the duration of the nightmare, Franz is paralyzed and unable to look away or even twitch a single muscle. Each time he awakens, his body wastes away before him. (Morgantha hasn't returned to the camp since the first nightmare.)
+* Tre mesi fa, poco dopo che sua moglie Alana era morta di malattia, Franz si è unito alla prima ventina di profughi che hanno lasciato il villaggio di Barovia per la città fortificata di Vallaki, a ovest. Franz ha portato con sé a Vallaki i loro due figli, Fyodor di sette anni e Myrtle di cinque, sperando di proteggerli dai servitori di Strahd.
+* Qualche settimana dopo l'arrivo al campo, Franz ha cominciato a comprare dolci dei sogni dalla venditrice ambulante Morgantha. Le visioni di quei dolci gli permettevano di sognare Alana, tornata fra le sue braccia come se non fosse mai morta.
+* Franz ha continuato a comprare i dolci dei sogni di Morgantha, perdendosi in sogni sereni per ore, poi per giorni. Alla fine però i suoi risparmi sono finiti, e Morgantha si è rifiutata di vendergli altri dolci, a meno che non pagasse un prezzo terribile.
+* Tre notti fa Franz ha portato Fyodor e Myrtle oltre il limitare del bosco. Lì Morgantha ha fatto cadere i bambini in un sonno magico e li ha infilati in un sacco che si è caricata in spalla. In cambio ha promesso a Franz tutti i dolci dei sogni che riuscisse a mangiare, ogni volta che fosse tornata, per il resto della sua vita.
+* Mentre Morgantha si voltava per andarsene, Franz ha sentito Myrtle chiamarlo nel sonno e si è subito pentito di quello che aveva fatto. Ha preteso che Morgantha gli restituisse i figli; quando lei ha riso dicendo che il patto era definitivo, ha cercato di riprenderseli con la forza. Ma con un gesto delle mani lei lo ha fatto addormentare, e quando si è svegliato Morgantha non c'era più.
+* Franz ha cercato per ore nel bosco, ma non ha trovato traccia di Morgantha né dei figli. Quando alla fine è crollato, sfinito, nella sua tenda al campo, ha avuto incubi terribili, che si ripetono ogni notte da allora.
+* Nell'incubo è legato a una macina, con le sue quattro pale alzate sopra di lui. Sul suo petto siede una figura femminile emaciata, con la pelle grigio-azzurra e giallastra, gli occhi infossati, i capelli arruffati, piccole corna d'ariete e una bocca larga piena di denti aguzzi e ingialliti, che gli tiene premuta sulla fronte una pietra contorta, nera come l'onice, e gli sussurra di dannazione. In sottofondo sente Fyodor e Myrtle singhiozzare, fuori dalla sua vista, due risatine stridule e il rumore delle pale di un mulino che macinano nel vento.
+* Per tutta la durata dell'incubo Franz è paralizzato, non può distogliere lo sguardo né muovere un solo muscolo. Ogni volta che si sveglia, il suo corpo si consuma un po' di più. (Morgantha non è più tornata al campo dal primo incubo.)
 
-With a croaking voice, Franz begs the players to save Fyodor and Myrtle from Morgantha’s clutches. While he believes that his current condition is a curse sent by the gods as punishment for his sins and welcomes the penance of death, he believes that his children don’t deserve the suffering that Morgantha is likely inflicting upon them. He can offer the players no gold and no treasure for their efforts—only his gratitude. 
+Con voce gracchiante, Franz supplica i giocatori di salvare Fyodor e Myrtle dalle grinfie di Morgantha. Crede che la sua condizione sia una maledizione mandata dagli dèi come punizione per i suoi peccati, e accoglie volentieri la morte come penitenza, ma crede che i suoi figli non meritino le sofferenze che Morgantha probabilmente sta infliggendo loro. Non può offrire ai giocatori né oro né tesori per il loro aiuto: solo la sua gratitudine.
 
-If the players ask, Franz can tell them that his sister Nyanka, who currently believes the children were devoured by werewolves in the Svalich Wood, would gladly watch and care for them while he recovers. "I know I don't deserve to be their father," he rasps, tears falling from his eyes. "All I want is to see them safe and happy."
+Se i giocatori glielo chiedono, Franz spiega che sua sorella Nyanka, che per ora crede che i bambini siano stati divorati dai lupi mannari nel Bosco di Svalich, si occuperebbe volentieri di loro mentre lui si riprende. «So di non meritare di essere il loro padre», rantola, con le lacrime agli occhi. «Voglio solo vederli al sicuro e felici.»
 
-Before the players leave Franz’s tent, he grabs for the closest one and rasps, "I could feel it—the heart of the windmill—three black hearts beating as one in the millstone beneath me. The gnarled arm holds the key." He then collapses, falling into a deep, fitful sleep.
+Prima che i giocatori lascino la tenda, Franz afferra quello più vicino e rantola: «Lo sentivo, il cuore del mulino: tre cuori neri che battono all'unisono nella macina sotto di me. Il braccio nodoso custodisce la chiave.» Poi crolla e cade in un sonno profondo e agitato.
 
-> [!abstract]+ **Franz’s Fate**
+> [!abstract]+ **La sorte di Franz**
 >
-> The players can identify the nature of Franz’s current condition by consulting *Ethereal Entities* or by asking Dr. Rudolph van Richten for a diagnosis of his symptoms. If consulted, Van Richten informs the players that the only true way to end a **night hag's** ***nightmare haunting*** is to kill the hag herself or to strike a bargain with her. 
-# H4. Victor’s Plan
-<span class="citation"><em>This scene takes place in Chapter 5: Area N3t.</em></span>
+> I giocatori possono capire la natura della malattia di Franz consultando *Entità eteree* o chiedendo al dottor Rudolph van Richten una diagnosi dei sintomi. Se lo si consulta, Van Richten spiega che l'unico vero modo per porre fine all'***infestazione degli incubi*** di una **megera notturna** è uccidere la megera stessa o stringere un patto con lei.
+# H4. Il piano di Victor
+<span class="citation"><em>Questa scena si svolge nel Capitolo 5: Area N3t.</em></span>
 
-As the players depart the refugee camp, one among them receives the following *sending* spell from [[Non-Player Characters#Victor Vallakovich|Victor]]: “Did you find her? Come back to the attic. I have a plan.”
+Mentre i giocatori lasciano il campo dei profughi, uno di loro riceve da [[Non-Player Characters#Victor Vallakovich|Victor]] questo incantesimo *inviare*: «L'avete trovata? Tornate in soffitta. Ho un piano.»
 
-When the players return to Victor’s workroom at the Burgomaster’s mansion, he provides them with the following information:
+Quando i giocatori tornano al laboratorio di Victor nella villa del borgomastro, lui dà loro queste informazioni:
 
-* There are two possible ways to obtain a heartstone from a night hag: willingly, or by force. 
-* To obtain the heartstone willingly, the players must likely bargain something of great value in exchange for a loan of the heartstone. Hags are legendary dealmakers, and can be trusted to hew to the letter of their word—but *only* the letter.
-* To obtain the heartstone by force, the players will need to incapacitate or kill the hag. However, this is far more difficult for multiple reasons. First, hags tend to gather in covens of three, a practice that makes each hag stronger and provides easy access to allies. (Victor asks the players nervously whether the hag is known to have any “sisters” or “daughters.”) Second, **night hags** in particular can use their heartstones to flee into the Ethereal Plane as soon as they feel threatened—an escape mechanism that can’t be counteracted.
-* To prevent the hag from escaping into the Ethereal Plane mid-combat, the players will need to seal her in a binding circle before initiating hostilities. Victor also advises the players to obtain silvered weapons, which will be needed to bypass the hags’ strong demonic defenses.
-### The Heart of the Windmill
-If the players tell Victor about Franz's words, he recognizes the "twisted, onyx-black stone" as resembling the description of a night hag's heartstone provided in *Ethereal Entities.* 
+* Ci sono due modi per avere la pietra del cuore di una megera notturna: con il suo consenso o con la forza.
+* Per averla con il suo consenso, probabilmente i giocatori dovranno offrire in cambio qualcosa di grande valore per farsela prestare. Le megere sono leggendarie nel trattare, e si può contare che rispettino la lettera della parola data, ma *solo* la lettera.
+* Per averla con la forza, i giocatori dovranno rendere inoffensiva o uccidere la megera. È però molto più difficile, per diverse ragioni. Prima di tutto le megere tendono a riunirsi in congreghe di tre, il che rende ognuna più forte e le fornisce alleate a portata di mano. (Victor chiede nervoso ai giocatori se si sa se la megera abbia «sorelle» o «figlie».) In secondo luogo le **megere notturne**, in particolare, possono usare la loro pietra del cuore per fuggire nel Piano Etereo appena si sentono minacciate, una via di fuga che non si può contrastare.
+* Per impedire alla megera di fuggire nel Piano Etereo nel mezzo del combattimento, i giocatori dovranno chiuderla in un cerchio di vincolo prima di attaccare. Victor consiglia anche ai giocatori di procurarsi armi argentate, che serviranno per superare le potenti difese demoniache delle megere.
+### Il cuore del mulino
+Se i giocatori raccontano a Victor le parole di Franz, lui riconosce nella «pietra contorta, nera come l'onice» la descrizione della pietra del cuore di una megera notturna riportata in *Entità eteree.*
 
-Victor isn't sure what Franz meant about "the heart of the windmill." (He's sure it's not a heartstone, because night hags always keep their heartstones on their person.)
+Victor non sa bene che cosa intendesse Franz con «il cuore del mulino». (È sicuro che non si tratti di una pietra del cuore, perché le megere notturne la tengono sempre addosso.)
 
-Victor recalls seeing information about the windmill in an old book of records in his father's library. (Victor recalls the book bitterly because Vargas made him write a report on Vallakian history as punishment when Victor spoke ill of the town's founder, Boris Vallakovich.)
+Victor ricorda di aver visto informazioni sul mulino in un vecchio libro di registri della biblioteca del padre. (Lo ricorda con amarezza perché Vargas, per punirlo di aver parlato male del fondatore della città, Boris Vallakovich, gli aveva fatto scrivere una relazione sulla storia di Vallaki.)
 
-Upon retrieving the book, Victor opens it to reveal a blueprint of the windmill, located alongside the original assignment of land from Baron Boris Vallakovich to Gustav and Elisabeth Durst. He points out excitedly that the design for the millstone contains a compartment built into its side—likely as a place for storage. If the hags are hiding something other than a heartstone in the windmill, it's likely located in that compartment.
-### The Binding Ritual
-Victor anxiously informs the players that he has been unable to find a means of performing the binding ritual. Turning to the relevant page in his spellbook, he shows them an illustration that depicts a binding circle, but complains that the book itself provides no information about how to actually create one.
+Recuperato il libro, Victor lo apre su una pianta del mulino, accanto all'atto originale con cui il barone Boris Vallakovich assegnava la terra a Gustav ed Elisabeth Durst. Fa notare entusiasta che il progetto della macina prevede uno scomparto ricavato in un fianco, probabilmente come ripostiglio. Se le megere nascondono nel mulino qualcosa che non sia una pietra del cuore, probabilmente si trova in quello scomparto.
+### Il rituale di vincolo
+Victor informa ansioso i giocatori di non aver trovato il modo di celebrare il rituale di vincolo. Apre il libro degli incantesimi alla pagina giusta e mostra loro un'illustrazione di un cerchio di vincolo, ma si lamenta che il libro non spiega affatto come crearne uno.
 
-Soon thereafter, Stella’s spirit can be seen excitedly gesturing from the *spirit mirror*. As he interprets her handsigns, Victor’s eyes widen and his face pales. “You can’t be serious,” he stammers. “Absolutely not!”
+Poco dopo si vede lo spirito di Stella gesticolare eccitato dallo *specchio degli spiriti*. Mentre Victor interpreta i suoi segni, gli si sgranano gli occhi e il viso gli impallidisce. «Non dirai sul serio», balbetta. «Assolutamente no!»
 
-If confronted by the players, Victor reluctantly reveals that Stella claims to have seen a similar binding circle while exploring the Ethereal Plane, but on a much larger scale: an enormous circle that surrounds the entirety of Wachterhaus and prevents her from entering the grounds. (Stella has been attempting to enter the estate in order to communicate with her mother, but has failed due to the circle’s presence.) Stella suspects that her mother, Lady Wachter, might know how to create one to bind the hags as well.
+Se i giocatori lo incalzano, Victor rivela a malincuore che Stella dice di aver visto un cerchio di vincolo simile esplorando il Piano Etereo, ma molto più grande: un cerchio enorme che circonda tutta Wachterhaus e le impedisce di entrare nella tenuta. (Stella ha cercato di entrare nella tenuta per comunicare con sua madre, ma non ci è riuscita per colpa del cerchio.) Stella sospetta che sua madre, Lady Wachter, sappia crearne uno anche per vincolare le megere.
 
-Stella, through Victor, suggests that the players visit Wachterhaus to request Lady Wachter’s help in binding the night hags. Stella warns them that her mother is a cautious and skeptical woman, especially where the Vallakoviches are concerned; if Lady Wachter doesn’t believe the players’ story, they will likely need to ask her to disable Wachterhaus’s protective circle in order to allow Stella to show her presence.
+Attraverso Victor, Stella suggerisce ai giocatori di andare a Wachterhaus a chiedere a Lady Wachter di aiutarli a vincolare le megere notturne. Li avverte che sua madre è una donna prudente e scettica, soprattutto quando si tratta dei Vallakovich; se Lady Wachter non crede alla storia dei giocatori, probabilmente dovranno chiederle di disattivare il cerchio protettivo di Wachterhaus perché Stella possa mostrare la sua presenza.
 
-> [!lore]+ **Wachterhaus’s Protective Circle**
+> [!lore]+ **Il cerchio protettivo di Wachterhaus**
 >
-> **_The Betrayal of Leo Dilisnya._** Strahd von Zarovich made many enemies over the course of his many conquests. One of them was a man named Leo Dilisnya, who hated Strahd for the death of his brother, Reinhold Dilisnya, the captain of a platoon that Strahd had knowingly sent to die in order to win a battle against the Order of the Silver Dragon.
+> **_Il tradimento di Leo Dilisnya._** Strahd von Zarovich si fece molti nemici nel corso delle sue numerose conquiste. Uno di loro era un uomo di nome Leo Dilisnya, che odiava Strahd per la morte del fratello, Reinhold Dilisnya, capitano di un plotone che Strahd aveva mandato consapevolmente a morire per vincere una battaglia contro l'Ordine del Drago d'Argento.
 >
-> When Strahd settled in Castle Ravenloft, Leo—a member of the Ba’al Verzi, a mysterious guild of assassins—began to plot his revenge. Hoping to gain closer access to Strahd, Leo became a castle guard, wearing the Von Zarovich livery while preparing the right moment to strike.
+> Quando Strahd si stabilì nel Castello di Ravenloft, Leo, membro dei Ba'al Verzi, una misteriosa gilda di assassini, cominciò a tramare la sua vendetta. Sperando di avvicinarsi di più a Strahd, Leo si arruolò fra le guardie del castello, indossando la livrea dei Von Zarovich mentre aspettava il momento giusto per colpire.
 >
-> That moment finally came on the morning of Sergei’s wedding. With all attention focused on the blushing bride-to-be, Leo disguised himself in assassin’s clothes and climbed the stonework to reach Strahd’s private chambers. Even taken by surprise, however, Strahd was more than a match for Leo, disarming him of his cursed Ba’al Verzi blade and sending him fleeing through the window.
+> Quel momento arrivò finalmente la mattina delle nozze di Sergei. Con tutta l'attenzione rivolta alla sposa arrossita, Leo si travestì da assassino e si arrampicò sulla muratura fino alle stanze private di Strahd. Anche preso alla sprovvista, però, Strahd era molto più forte di Leo: lo disarmò della sua lama maledetta dei Ba'al Verzi e lo fece fuggire dalla finestra.
 >
-> **_A New Opportunity._** Bitter and enraged, Leo hid himself away in his quarters to lick his wounds—until he learned that Sergei had been found murdered in his quarters, and that Strahd had chased Tatyana into the gardens while vowing to take her hand in marriage. Seeing an immediate opportunity, Leo gathered a contingent of the castle guards and directed them to attack Strahd in vengeance for the death of the beloved prince, Sergei.
+> **_Una nuova occasione._** Amareggiato e furioso, Leo si nascose nei suoi alloggi a leccarsi le ferite, finché non venne a sapere che Sergei era stato trovato assassinato nelle sue stanze e che Strahd aveva inseguito Tatyana nei giardini giurando di prenderla in moglie. Vedendo subito un'occasione, Leo radunò un drappello di guardie del castello e le mandò ad attaccare Strahd per vendicare la morte dell'amato principe Sergei.
 >
-> However, Leo’s plot did not go unopposed. Leo’s elder sister, Lovina Wachter née Dilisnya—now the wife of Vladislav Wachter—led her family’s personal guards in Strahd’s defense. Leo’s traitorous guards drove the Wachters into **K62. Servants' Hall**, killing Lovina’s husband and butchering many of his relatives. There, Lovina and her family took shelter alongside Katarina, a castle servant and (unknown to Strahd) Strahd’s secret half-sister, in <span class="citation">K65. Kitchen (p. 78)</span>.
+> Il piano di Leo però incontrò resistenza. La sorella maggiore di Leo, Lovina Wachter, nata Dilisnya, ormai moglie di Vladislav Wachter, guidò le guardie personali della sua famiglia in difesa di Strahd. Le guardie traditrici di Leo respinsero i Wachter in **K62. Sala della servitù**, uccidendo il marito di Lovina e massacrando molti dei suoi parenti. Lì Lovina e la sua famiglia trovarono rifugio, insieme a Katarina, una serva del castello e (all'insaputa di Strahd) sua sorellastra segreta, in <span class="citation">K65. Cucina (p. 78)</span>.
 >
-> When Strahd arose as a vampire, Leo fled into <span class="citation">K23. Servants' Entrance (p. 59)</span>, down through **K62. Servants’ Hall**, and through <span class="citation">K67. Hall of Bones (p. 78)</span> into <span class="citation">K68. Guards' Run (p. 79)</span>. As Strahd pursued, he slaughtered the guards terrorizing the Wachters, and—in a moment of rare lucidity—thanked the Wachters for their loyalty and allowed Lovina and Katarina to depart in peace. As Strahd bathed the stone of Castle Ravenloft in the blood of the castle guards—both innocent and traitorous alike—their spirits combined in death to form a dreadful **gallows speaker** (<span class="citation">Van Richten’s Guide to Ravenloft, p. 234</span>) that would haunt Castle Ravenloft for years to come.
+> Quando Strahd risorse come vampiro, Leo fuggì in <span class="citation">K23. Ingresso della servitù (p. 59)</span>, giù per **K62. Sala della servitù** e attraverso <span class="citation">K67. Sala delle ossa (p. 78)</span> fino a <span class="citation">K68. Camminamento delle guardie (p. 79)</span>. Inseguendolo, Strahd massacrò le guardie che terrorizzavano i Wachter e, in un raro momento di lucidità, ringraziò i Wachter per la loro fedeltà e lasciò andare in pace Lovina e Katarina. Mentre Strahd bagnava le pietre del Castello di Ravenloft con il sangue delle guardie del castello, innocenti e traditori senza distinzione, i loro spiriti si fusero nella morte in un terribile **oratore della forca** (<span class="citation">Guida di Van Richten a Ravenloft, p. 234</span>), che avrebbe infestato il Castello di Ravenloft per molti anni.
 >
-> **_Leo's Punishment._** Leo successfully escaped Castle Ravenloft along with a half-dozen of the traitorous guards. Years later, however, with Lovina’s aid, Strahd tracked Leo to the darkened corridors of the now-abandoned Abbey of Saint Markovia.
+> **_La punizione di Leo._** Leo riuscì a fuggire dal Castello di Ravenloft insieme a una mezza dozzina di guardie traditrici. Anni dopo, però, con l'aiuto di Lovina, Strahd lo rintracciò nei corridoi bui dell'Abbazia di Santa Markovia, ormai abbandonata.
 >
-> Strahd transformed Leo into a vampire spawn and, with Lovina’s approval, entombed him in a mausoleum beneath the Wachters’ manor where he would suffer for his crimes for all eternity. As a safeguard in the chance that Leo somehow escaped, Strahd crafted for Lovina a magical ruby amulet that, when broken, would kill Leo instantly.
+> Strahd trasformò Leo in una progenie vampirica e, con il consenso di Lovina, lo seppellì in un mausoleo sotto la dimora dei Wachter, dove avrebbe espiato i suoi crimini per l'eternità. Come precauzione, nel caso in cui Leo fosse riuscito in qualche modo a fuggire, Strahd forgiò per Lovina un amuleto magico di rubino che, se spezzato, avrebbe ucciso Leo all'istante.
 > 
-> **_Enter Fiona Wachter._** Centuries passed, and Fiona Wachter was born, the daughter of Balthazar and Lavinia Wachter and the younger sister of Frederich Wachter. Although Fiona’s parents never told her the true nature of the vampire sealed below their estate, they often told her of the “monster in the basement” that fed on disobedient children and forbade her from ever entering the cellar.
+> **_Arriva Fiona Wachter._** Passarono i secoli e nacque Fiona Wachter, figlia di Balthazar e Lavinia Wachter e sorella minore di Frederich Wachter. I genitori di Fiona non le rivelarono mai la vera natura del vampiro sigillato sotto la tenuta, ma le parlavano spesso del «mostro in cantina» che si nutriva dei bambini disobbedienti, e le proibivano di entrare in cantina.
 >
-> When she was sixteen years old, the teenage Fiona had an explosive argument with her parents and brother. In her anger, Fiona toppled a shelf of fine porcelain and jewelry—including, among them, the magical amulet that Strahd had once forged for Lovina Wachter. Though Fiona had no knowledge of Leo’s existence or the amulet’s true nature, Leo died the moment that it shattered, his soul finally freed from the prison of his body.
+> A sedici anni Fiona ebbe una lite furibonda con i genitori e il fratello. Nella rabbia rovesciò uno scaffale di porcellane fini e di gioielli, fra cui l'amuleto magico che Strahd aveva forgiato per Lovina Wachter. Fiona non sapeva niente dell'esistenza di Leo né della vera natura dell'amuleto, ma Leo morì nell'istante in cui l'amuleto andò in frantumi, e la sua anima fu finalmente liberata dalla prigione del corpo.
 >
-> **_The Haunted Estate._** Soon after Fiona fled from Wachterhaus, Leo’s spirit—now a part of the **gallows speaker** that had arisen from his compatriots’ gruesome deaths centuries before—returned to haunt and terrorize the estate. Objects were found in strange places, and food mysteriously spoiled. Portraits were found damaged or defaced, and the family was often awoken by chilling howls or loud knocks on their doors and windows.
+> **_La tenuta infestata._** Poco dopo che Fiona era fuggita da Wachterhaus, lo spirito di Leo, ormai parte dell'**oratore della forca** nato secoli prima dalla morte orribile dei suoi compagni, tornò a infestare e terrorizzare la tenuta. Gli oggetti finivano in posti strani e il cibo andava a male senza motivo. I ritratti venivano trovati danneggiati o sfregiati, e spesso la famiglia veniva svegliata da ululati agghiaccianti o da colpi forti alle porte e alle finestre.
 >
-> Fiona’s father, Balthazar Wachter, sought the advice of an amateur occultist that dwelled in Vallaki. The family stripped the flesh from Leo’s bones and sealed them in a chest under lock and key. That, however, only enraged Leo further. That same night, the **gallows speaker** began appearing to the Wachters as an apparition in reflections in mirrors and windows. Within days, it had escalated its activities to physical violence, throwing items across rooms, shattering glass windows, and even starting spontaneous fires.
+> Il padre di Fiona, Balthazar Wachter, chiese consiglio a un occultista dilettante che viveva a Vallaki. La famiglia scarnificò le ossa di Leo e le chiuse a chiave in una cassa. Questo però fece solo infuriare ancora di più Leo. Quella stessa notte l'**oratore della forca** cominciò ad apparire ai Wachter come un'apparizione riflessa negli specchi e nelle finestre. Nel giro di pochi giorni passò alla violenza fisica, scagliando oggetti da una parte all'altra delle stanze, mandando in frantumi vetri e appiccando persino incendi.
 >
-> Desperate for a solution, Frederich Wachter, Fiona’s elder brother, learned that a powerful witch named Baba Lysaga dwelled in the swamps of Berez nearby. Alone, and without his parents’ knowledge, Frederich traveled to Berez in search of answers. When a **will-’o-wisp** lured Frederich into a hidden bog, however, he was rescued by Fiona herself, who had since become a student and disciple of Baba Lysaga.
+> In cerca disperata di una soluzione, Frederich Wachter, il fratello maggiore di Fiona, venne a sapere che nelle paludi della vicina Berez viveva una potente strega di nome Baba Lysaga. Da solo, e all'insaputa dei genitori, Frederich andò a Berez in cerca di risposte. Quando però un **fuoco fatuo** lo attirò in una palude nascosta, a salvarlo fu proprio Fiona, che nel frattempo era diventata allieva e discepola di Baba Lysaga.
 >
-> Frederich begged her to return to Wachterhaus to help them, but Fiona—wary of her brothers’ intentions and still harboring resentment from her fight with their parents—lied and told him harshly that Baba Lysaga had no magic with which to help him. (In truth, Baba Lysaga taught all of her students the means to create a protective circle soon after they arrived in Berez, as a means of defense against the **phase spiders** that haunted the swamps.)
+> Frederich la supplicò di tornare a Wachterhaus ad aiutarli, ma Fiona, diffidente verso le intenzioni del fratello e ancora piena di risentimento per la lite con i genitori, mentì e gli disse con durezza che Baba Lysaga non aveva magie per aiutarlo. (In realtà Baba Lysaga insegnava a tutti i suoi allievi, poco dopo il loro arrivo a Berez, a creare un cerchio protettivo, per difendersi dai **ragni fase** che infestavano le paludi.)
 >
-> **_Leo's Revenge._** Despondent, Frederich returned to Vallaki empty-handed. Bereft of a better solution, Balthazar Wachter obtained candles, incense, and holy invocations from the occultist and led the family in a seance to exorcise the spirit from Wachterhaus.
+> **_La vendetta di Leo._** Disperato, Frederich tornò a Vallaki a mani vuote. In mancanza di una soluzione migliore, Balthazar Wachter si procurò dall'occultista candele, incenso e invocazioni sacre e guidò la famiglia in una seduta spiritica per esorcizzare lo spirito da Wachterhaus.
 >
-> The seance, however, proved unsuccessful. Rather than banishing Leo’s spirit, it provided him an opening into the Material Plane that allowed him to fulfill his murderous vengeance. Two weeks later, the Baron’s guards found the three Wachters dead—though by all signs untouched—on the floor of Wachterhaus’s master bedroom. Leo had killed them before returning to haunt Castle Ravenloft, satisfied with his revenge at last.
+> La seduta però fallì. Invece di scacciare lo spirito di Leo, gli aprì un varco verso il Piano Materiale che gli permise di compiere la sua vendetta assassina. Due settimane dopo le guardie del barone trovarono i tre Wachter morti, all'apparenza senza un graffio, sul pavimento della camera padronale di Wachterhaus. Leo li aveva uccisi prima di tornare a infestare il Castello di Ravenloft, finalmente soddisfatto della sua vendetta.
 >
-> **_Fiona's Return._** Two weeks later, one of Baba Lysaga’s other disciples, following a routine trip to Vallaki to obtain supplies, told Fiona that her family had been found dead in their house in the midst of a seance. Realizing the depths of her mistake and overcome with guilt, Fiona confronted Baba Lysaga and told her that she intended to return to her family home. Baba Lysaga banished Fiona for her decision, and Fiona departed Berez for good.
+> **_Il ritorno di Fiona._** Due settimane dopo, un'altra discepola di Baba Lysaga, di ritorno da uno dei soliti viaggi a Vallaki per le provviste, raccontò a Fiona che la sua famiglia era stata trovata morta in casa nel mezzo di una seduta spiritica. Capendo la gravità del suo errore e sopraffatta dal senso di colpa, Fiona affrontò Baba Lysaga e le disse che voleva tornare alla casa di famiglia. Baba Lysaga la bandì per quella scelta, e Fiona lasciò Berez per sempre.
 >
-> Soon after her return to Wachterhaus, Fiona—now bearing the title of “Lady Wachter” following her parents’ death—determined that a spirit had been responsible for the death of her family. Although the spirit appeared to have departed, she feared that it might choose to one day return. With the magic that Baba Lysaga had taught her, she established a protective circle around the entirety of the Wachterhaus estate, barring any ethereal creature that may wish to cross its boundaries. The **gallows speaker** hasn’t returned in all the years since then, but Lady Wachter renews the protective circle once each year, both out of habit and from a wariness that her parents’ killer might one day return.
+> Poco dopo il ritorno a Wachterhaus, Fiona, che dopo la morte dei genitori portava ormai il titolo di «Lady Wachter», capì che dietro la morte della sua famiglia c'era uno spirito. Lo spirito sembrava essersene andato, ma lei temeva che un giorno potesse decidere di tornare. Con la magia che le aveva insegnato Baba Lysaga, tracciò un cerchio protettivo intorno a tutta la tenuta di Wachterhaus, che sbarrava il passo a qualunque creatura eterea volesse attraversarne i confini. In tutti questi anni l'**oratore della forca** non è più tornato, ma Lady Wachter rinnova il cerchio protettivo una volta all'anno, per abitudine e per il timore che l'assassino dei suoi genitori possa un giorno tornare.
 # H5. Wachterhaus
-<span class="citation"><em>This scene takes place in Chapter 5: Area N4.</em></span>
+<span class="citation"><em>Questa scena si svolge nel Capitolo 5: Area N4.</em></span>
 
-Wachterhaus is as described in [[Arc F - Lady Wachter's Wish]]. Visitors to the estate are received as described <span class="citation">N4a. Front Door and Vestibule (p. 110)</span>. 
+Wachterhaus è come descritta nell'[[Arc F - Lady Wachter's Wish|Arco F: Il desiderio di Lady Wachter]]. I visitatori della tenuta vengono accolti come descritto in <span class="citation">N4a. Porta d'ingresso e vestibolo (p. 110)</span>.
 
-Players that have previously dined with Lady Wachter are welcomed and swiftly admitted, while players that have not previously done so are asked to make an appointment for the following day. Players who insist that they are here to assist Stella, Lady Wachter’s daughter and make a successful DC 10 Charisma (Persuasion) check can bypass the need to make an appointment and are admitted immediately.
+I giocatori che hanno già cenato con Lady Wachter vengono accolti e fatti entrare subito, mentre a quelli che non l'hanno fatto viene chiesto di prendere appuntamento per il giorno dopo. I giocatori che insistono di essere lì per aiutare Stella, la figlia di Lady Wachter e superano una prova di Carisma (Persuasione) con CD 10 possono saltare l'appuntamento ed entrare subito.
 
-Upon entering the manor, the players are ushered into <span class="citation">N4i. Parlor (p. 112)</span>, where [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] greets them shortly thereafter. Haliq, Lady Wachter’s valet, serves tea to her and the guests a few moments later. 
+Entrati nella dimora, i giocatori vengono accompagnati in <span class="citation">N4i. Salotto (p. 112)</span>, dove poco dopo li saluta [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]]. Qualche istante dopo Haliq, il valletto di Lady Wachter, serve il tè a lei e agli ospiti.
 
-Lady Wachter then asks the players what brings them to her manor. If Victor Vallakovich is accompanying the players, her eyes visibly narrow, and her voice is polite, but cold. If Victor is not with the players, her demeanor is far warmer and more comfortable.
+Poi Lady Wachter chiede ai giocatori che cosa li porti alla sua dimora. Se con i giocatori c'è Victor Vallakovich, i suoi occhi si stringono a vista d'occhio e la sua voce è educata ma fredda. Se Victor non c'è, i suoi modi sono molto più calorosi e distesi.
 
-If the players reveal Stella’s fate, Lady Wachter’s eyes tighten, and she asks them for a full explanation of how Stella came to inhabit her current state. 
+Se i giocatori rivelano la sorte di Stella, gli occhi di Lady Wachter si stringono, e lei chiede una spiegazione completa di come Stella sia finita nello stato attuale.
 
-When the players have finished their story, Lady Wachter states that she believes them to be playing a cruel joke upon her and her family, and asks whether they have any means of proving their claims.
+Quando i giocatori hanno finito di raccontare, Lady Wachter dichiara di credere che stiano facendo uno scherzo crudele a lei e alla sua famiglia e chiede se possono dimostrare quello che dicono.
 
-The players can persuade Lady Wachter to deactivate the protective circle around Wachterhaus and allow Stella to manifest there (and so prove the players’ story) with a successful DC 10 Charisma (Persuasion) check. The players succeed on the check automatically if they have previously won Lady Wachter’s favor (such as by killing Izek).
+I giocatori possono convincere Lady Wachter a disattivare il cerchio protettivo intorno a Wachterhaus e a permettere a Stella di manifestarsi lì (dimostrando così la loro storia) superando una prova di Carisma (Persuasione) con CD 10. La prova riesce automaticamente se i giocatori si sono già conquistati il favore di Lady Wachter (per esempio uccidendo Izek).
 
-Lady Wachter is shocked by and wary of the players’ knowledge of the protective circle and demands to know how the players learned of it. If asked, she is willing to share the following information about it:
+Lady Wachter è scioccata e diffidente davanti a ciò che i giocatori sanno del cerchio protettivo, e pretende di sapere come l'hanno scoperto. Se glielo chiedono, è disposta a raccontare queste cose:
 
-* When Lady Wachter was a young woman, her parents and brother were killed in a mysterious incident that left their bodies apparently unharmed. Lady Wachter was the sole survivor, having been away from Wachterhaus at the time of the killing.
-* When she returned to Wachterhaus, she determined that a malevolent spirit had been responsible for her family’s death. Though the spirit appeared to have departed by the time Lady Wachter returned, she was wary of the prospect that it might one day return.
-* Using magic that she had learned from her mentor, Lysa, Lady Wachter erected a protective barrier around Wachterhaus that would prevent any creature within the Ethereal Plane from crossing over the boundary of the property.
+* Quando Lady Wachter era giovane, i suoi genitori e suo fratello sono morti in un incidente misterioso che ha lasciato i loro corpi apparentemente intatti. Lady Wachter è stata l'unica a salvarsi, perché all'epoca dell'omicidio era lontana da Wachterhaus.
+* Tornata a Wachterhaus, ha capito che dietro la morte della sua famiglia c'era uno spirito malvagio. Quando lei è tornata lo spirito sembrava essersene andato, ma temeva che un giorno potesse tornare.
+* Con la magia imparata dalla sua maestra, Lysa, Lady Wachter ha eretto intorno a Wachterhaus una barriera protettiva che impedisce a qualunque creatura del Piano Etereo di varcare i confini della proprietà.
 
-Upon agreeing to deactivate the protective circle, Lady Wachter retreats to <span class="citation">N4o. Master Bedroom (p. 113)</span> and retrieves the scale model of Wachterhaus from the high shelf beside the iron chest. She then returns to the parlor and sets the model upon the central table. 
+Accettato di disattivare il cerchio protettivo, Lady Wachter si ritira in <span class="citation">N4o. Camera padronale (p. 113)</span> e prende il modellino di Wachterhaus dalla mensola alta accanto alla cassa di ferro. Poi torna in salotto e posa il modellino sul tavolo centrale.
 
-With her eyes closed, Lady Wachter murmurs an incantation, causing a circle of ethereal grey light to briefly manifest around the scale model before vanishing again. She then informs the players that the circle has been lowered and sits back expectantly on the sofa while sipping her tea.
+Con gli occhi chiusi, Lady Wachter mormora un incantesimo, e intorno al modellino compare per un istante un cerchio di luce grigia eterea, che poi svanisce. Poi informa i giocatori che il cerchio è stato abbassato e si riappoggia al divano, in attesa, sorseggiando il tè.
 
-Assuming the players do not otherwise intervene, the scene then unfolds as follows:
+A meno che i giocatori non intervengano, la scena si svolge così:
 
-* A few moments later, Stella—unseen, but present in the Ethereal Plane—levitates a peony from a flower vase on a nearby side table and deposits it in Lady Wachter’s lap. 
-* In disbelief, Lady Wachter drops her teacup on the parlor floor, where it shatters. She picks up the peony, her hands trembling with emotion. She notes, with a quavering voice, that peonies have always been Stella’s favorite flower. “If this is some kind of trick—” she warns.
-* Before Lady Wachter can finish her warning, Stella moves the teacup shards across the floor, forming the shape of a crescent. Lady Wachter’s eyes fill with tears, and she calls out Stella’s name, looking around the room almost as if she expects to see her daughter there. (The crescent resembles the crescent-shaped birthmark on the fur of a cat that Stella kept as a child, which was named Luna.)
-* Haliq, Lady Wachter’s valet, opens the door to the room and asks if Lady Wachter was calling for someone. Lady Wachter wipes her eyes, shakes her head, and dismisses him.
+* Qualche istante dopo Stella, invisibile ma presente nel Piano Etereo, solleva una peonia da un vaso di fiori su un tavolino lì accanto e la posa in grembo a Lady Wachter.
+* Incredula, Lady Wachter lascia cadere la tazza da tè sul pavimento del salotto, dove va in frantumi. Prende la peonia, con le mani che tremano per l'emozione, e osserva con voce rotta che le peonie sono sempre state i fiori preferiti di Stella. «Se questo è un qualche trucco...» avverte.
+* Prima che Lady Wachter possa finire l'avvertimento, Stella sposta sul pavimento i cocci della tazza, formando una mezzaluna. Gli occhi di Lady Wachter si riempiono di lacrime, e lei chiama Stella per nome, guardandosi intorno quasi aspettandosi di vedere la figlia nella stanza. (La mezzaluna ricorda la voglia a forma di mezzaluna sul pelo di una gatta che Stella aveva da bambina, di nome Luna.)
+* Haliq, il valletto di Lady Wachter, apre la porta e chiede se Lady Wachter stesse chiamando qualcuno. Lady Wachter si asciuga gli occhi, scuote la testa e lo congeda.
 
-After a moment, she wipes her eyes and says, “Let us assume that I believe you. What need have you of me?”
+Dopo un momento si asciuga gli occhi e dice: «Supponiamo che vi creda. Che cosa vi serve da me?»
 
-If the players successfully persuade Lady Wachter to assist them and ask her for aid in creating a binding circle to entrap the hags within the Material Plane, she reluctantly and cautiously reveals the following information:
+Se i giocatori convincono Lady Wachter ad aiutarli e le chiedono di aiutarli a creare un cerchio di vincolo per intrappolare le megere nel Piano Materiale, lei rivela con riluttanza e cautela queste cose:
 
-* She is indeed capable of crafting such things, though she is long out of practice. To create a circle large enough to entrap an entire windmill from a distance would require the aid of several of Lady Wachter’s “associates,” whose aid it may take some time to secure. (Lady Wachter can direct Ernst and Haliq to recruit her associates—four **cult fanatics**—and gather them within as little as four hours if necessary.)
+* Sa creare davvero cose del genere, anche se non lo fa da molto tempo. Per creare a distanza un cerchio abbastanza grande da intrappolare un intero mulino servirà l'aiuto di alcuni «soci» di Lady Wachter, e potrebbe volerci un po' per ottenerlo. (Se serve, Lady Wachter può mandare Ernst e Haliq a reclutare i suoi soci, quattro **fanatici del culto** e radunarli in appena quattro ore.)
 
-* There are two ways for such a circle to work: it can keep things out, or it can keep things in. To keep the hags from escaping the circle, the players will first need to secure the true names of any hags within the windmill, including those that are not the players’ primary target. Should even a single hag remain free to escape, it could attack Lady Wachter and her associates and bring the entire circle crashing down.
+* Un cerchio del genere può funzionare in due modi: tenere fuori le cose o tenerle dentro. Perché le megere non sfuggano al cerchio, i giocatori dovranno prima procurarsi i veri nomi di tutte le megere nel mulino, comprese quelle che non sono il loro obiettivo principale. Se anche una sola megera restasse libera di fuggire, potrebbe attaccare Lady Wachter e i suoi soci e far crollare l'intero cerchio.
 
-If Victor is present, or if he is informed of the need to obtain the hags' true names, he recalls the relevant section from *Ethereal Entities* (see **Matrons of Malevolence** above) and shares it with the players, pointing out the section that discusses coven contracts and wondering aloud where Morgantha's coven might have hidden their contract.
+Se Victor è presente, o se gli si dice che bisogna procurarsi i veri nomi delle megere, ricorda il passo di *Entità eteree* che ne parla (vedi **Matrone della malvagità** più sopra) e lo riferisce ai giocatori, indicando la parte sui contratti delle congreghe e chiedendosi ad alta voce dove la congrega di Morgantha possa aver nascosto il suo contratto.
 
-If Lady Wachter is informed of the possible presence of children within the windmill, she insists that the players rescue them before making any assault. (Fortunately, she notes, the players’ efforts to obtain the hags’ names may prove a useful distraction that allows others within their group to raid the other rooms of the windmill in the meantime.)
+Se Lady Wachter viene a sapere che nel mulino potrebbero esserci dei bambini, insiste perché i giocatori li salvino prima di qualunque assalto. (Per fortuna, osserva, gli sforzi dei giocatori per procurarsi i nomi delle megere potrebbero fare da utile diversivo, permettendo ad altri membri del gruppo di perlustrare intanto le altre stanze del mulino.)
 
-If the players and Lady Wachter come to an agreement, she promises to meet them—along with her associates—at Vallaki’s eastern Morning Gate at the allotted time, once she’s prepared herself for the journey.
-# H6. The Old Svalich Road
-## H6a. The Morning Gate
-If the players recruit [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] to their cause, she and her four **cult fanatic** associates meet them promptly at the Morning Gate at the chosen time. Lady Wachter has exchanged her dress for a practical pair of pants, flat-soled leather boots, and a chain shirt tucked under a forest-green tunic, with a round-headed mace hanging from her belt and a black hooded riding cloak covering the ensemble. Majesto, her **imp** familiar, accompanies her in **crow** form.
+Se i giocatori e Lady Wachter si accordano, lei promette di trovarsi, con i suoi soci, alla Porta del Mattino di Vallaki, a est, all'ora stabilita, una volta pronta per il viaggio.
+# H6. La Vecchia Strada di Svalich
+## H6a. La Porta del Mattino
+Se i giocatori hanno ottenuto l'aiuto di [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]], lei e i suoi quattro soci **fanatici del culto** li raggiungono puntuali alla Porta del Mattino all'ora stabilita. Lady Wachter ha cambiato l'abito con un paio di pantaloni pratici, stivali di cuoio senza tacco e una camicia di maglia infilata sotto una tunica verde bosco, con una mazza dalla testa rotonda appesa alla cintura e un mantello da cavallerizza nero con il cappuccio sopra tutto. Majesto, il suo famiglio **imp**, la accompagna in forma di **corvo**.
 
-The fanatics are as described in <span class="citation">N4t. Cult Headquarters (p. 114)</span> and are named Andrej, Boris, Miruna, and Ruxandra, respectively. None of the fanatics are particularly talkative.
-## H6b. The Druid
-The journey from the Town of Vallaki to Old Bonegrinder is five-and-three-quarter miles long and takes two hours.
+I fanatici sono come descritti in <span class="citation">N4t. Quartier generale del culto (p. 114)</span> e si chiamano Andrej, Boris, Miruna e Ruxandra. Nessuno di loro è particolarmente loquace.
+## H6b. Il druido
+Dalla città di Vallaki al Vecchio Tritaossa ci sono circa 9 km, che si percorrono in due ore.
 
-Midway through the trip, the players are disturbed by a rustling in the trees above. Read:
+A metà strada i giocatori vengono disturbati da un fruscio fra gli alberi sopra di loro. Leggi:
 
 <div class="description">
-<p>A gaunt figure with wild hair and bare feet crouches on a thick, gnarled branch above your heads, wearing a tattered gown of stitched animal skins. Red streaks run across its cheeks, with two more fang-shaped streaks staining the skin beneath its lips.  It stops, sniffs the air, and laughs like a lunatic. “Little songbirds wandering the dark woods?” it asks, leering down at you.</p>
+<p>Una figura emaciata, con i capelli selvaggi e i piedi nudi, è accovacciata su un ramo grosso e nodoso sopra le vostre teste, con indosso una veste lacera di pelli di animali cucite insieme. Strisce rosse le attraversano le guance, e altre due, a forma di zanne, le macchiano la pelle sotto le labbra. Si ferma, annusa l'aria e ride come una pazza. «Uccellini canterini che vagano nei boschi bui?» chiede, guardandovi dall'alto con un sorriso lascivo.</p>
 </div>
 
-The figure is a **druid** of Yester Hill, and a spy for Strahd. They intend no harm toward the players, but are eager to provoke them in interesting ways.
+La figura è un **druido** della Collina di Yester e una spia di Strahd. Non ha intenzione di fare del male ai giocatori, ma non vede l'ora di provocarli in modi interessanti.
 
-If [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] is with the players, the conversation proceeds as follows unless the players intervene:
+Se [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] è con i giocatori, a meno che i giocatori non intervengano la conversazione prosegue così:
 
-* Lady Wachter steps forward and says, “I am no songbird, child of Yester Hill. You know me, and my sign. Do the Forest Folk demand tolls to travel the Svalich Wood?”
-* The druid’s eyes linger on Majesto, and they reply, “No tolls, dear ones. Mere . . . curiosity. You keep strange company, daughter of Mother Night.”
-* Lady Wachter replies curtly, “My company is no concern of yours. Trouble us no more, and tell your master that the House of Wachter remembers its debts.”
-* “Debts indeed!” the druid rasps. “But to whom, this one wonders?” With a mud-stained grin and a cackle, they vanish into the trees and disappear from sight.
+* Lady Wachter fa un passo avanti e dice: «Non sono un uccellino, figlio della Collina di Yester. Conosci me, e il mio segno. Il Popolo della Foresta pretende un pedaggio per attraversare il Bosco di Svalich?»
+* Lo sguardo del druido si sofferma su Majesto, e risponde: «Nessun pedaggio, miei cari. Solo... curiosità. Hai strane compagnie, figlia di Madre Notte.»
+* Lady Wachter risponde secca: «Le mie compagnie non ti riguardano. Non disturbarci più, e di' al tuo padrone che la casata dei Wachter ricorda i suoi debiti.»
+* «Debiti, già!» gracchia il druido. «Ma verso chi, si chiede questo qui?» Con un ghigno sporco di fango e una risata stridula, sparisce fra gli alberi.
 
-If the players ask about her conversation with the druid, Lady Wachter is willing to provide the following information:
+Se i giocatori le chiedono della conversazione con il druido, Lady Wachter è disposta a raccontare queste cose:
 
-* The individual was a druid of the Forest Folk, a loose society of hermits that dwell amidst the Svalich Woods and generally shun the civilized settlements. The druids treat Yester Hill, a hill at the southwest edge of the Barovian valley, as a sacred place, and worship Strahd as a deity for his control over the land and weather.
-* Lady Wachter first encountered and learned of the druids while a student of her mentor, Lysa. Lysa, a woodswitch who dwelled in the swamps of Berez, was a worshipper of Mother Night, a deity of darkness, trickery, and the occult. Lady Wachter was never able to hear the “voice” of Mother Night (as Lysa called it), however, and adopted the faith of Ezra soon after returning to Vallaki.
-* Lysa did not take Lady Wachter’s departure lightly. A prideful woman, she considered her students her children, and took Lady Wachter’s decision to return to Vallaki as a personal betrayal. Lady Wachter has been banished from Berez ever since.
-* Lady Wachter’s “debt” to Strahd arises from his effort to save Lady Wachter’s ancestor, Lady Lovina Wachter, from death at the hands of the traitor Leo Dilisnya centuries ago. When a traitor and assassin named Leo Dilisnya murdered Lovina’s husband and attempted to kill Lovina as well, Strahd defended her, then hunted Dilisnya down to punish him for his treachery. House Wachter has remained loyal to Strahd ever since.
-# H7. Old Bonegrinder
-<span class="citation"><em>This scene takes place in Chapter 6: Area O.</em></span>
+* Era un druido del Popolo della Foresta, una società informale di eremiti che vivono nei Boschi di Svalich e di solito evitano gli insediamenti civili. I druidi considerano sacra la Collina di Yester, un'altura al margine sud-occidentale della valle di Barovia, e adorano Strahd come una divinità per il suo controllo sulla terra e sul clima.
+* Lady Wachter ha incontrato e conosciuto i druidi per la prima volta quando era allieva della sua maestra, Lysa. Lysa, una strega dei boschi che viveva nelle paludi di Berez, adorava Madre Notte, una divinità delle tenebre, dell'inganno e dell'occulto. Lady Wachter però non è mai riuscita a sentire la «voce» di Madre Notte (come la chiamava Lysa) e poco dopo il ritorno a Vallaki ha abbracciato la fede di Ezra.
+* Lysa non ha preso alla leggera la partenza di Lady Wachter. Donna orgogliosa, considerava i suoi allievi come figli, e ha preso la decisione di Lady Wachter di tornare a Vallaki come un tradimento personale. Da allora Lady Wachter è bandita da Berez.
+* Il «debito» di Lady Wachter verso Strahd nasce da quando, secoli fa, lui salvò la sua antenata, Lady Lovina Wachter, dalla morte per mano del traditore Leo Dilisnya. Quando un traditore e assassino di nome Leo Dilisnya uccise il marito di Lovina e cercò di uccidere anche lei, Strahd la difese, poi diede la caccia a Dilisnya per punirlo del suo tradimento. Da allora casa Wachter è rimasta fedele a Strahd.
+# H7. Il Vecchio Tritaossa
+<span class="citation"><em>Questa scena si svolge nel Capitolo 6: Area O.</em></span>
 
-Old Bonegrinder is largely as described in <span class="citation">Chapter 6: Old Bonegrinder (p. 125)</span>. However, there are no ravens at or near the windmill. Additionally, Freek is named Fyodor instead, and both he and Myrtle are the children of the Barovian refugee Franz. Finally, the millstone in <span class="citation">O2. Bone Mill (p. 127)</span> bears a stone keyhole on one side, and contains a compartment that holds the hags' contract. 
+Il Vecchio Tritaossa è più o meno come descritto in <span class="citation">Capitolo 6: Il Vecchio Tritaossa (p. 125)</span>. Nel mulino e nei dintorni però non ci sono corvi. Inoltre Freek si chiama invece Fyodor, ed è figlio, come Myrtle, del profugo baroviano Franz. Infine la macina di <span class="citation">O2. Macina delle ossa (p. 127)</span> ha su un lato una serratura di pietra e contiene uno scomparto con il contratto delle megere.
 
-If [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] is present as the players approach the windmill, she first gathers the players, [[Non-Player Characters#Victor Vallakovich|Victor]], and the four **cult fanatics** in a darkened copse of trees beside the Old Svalich Road to assemble a plan of attack.
+Se [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] è presente quando i giocatori si avvicinano al mulino, per prima cosa raduna i giocatori, [[Non-Player Characters#Victor Vallakovich|Victor]] e i quattro **fanatici del culto** in un boschetto buio accanto alla Vecchia Strada di Svalich per mettere a punto un piano d'attacco.
 
-Lady Wachter then attempts to confirm the following details:
+Lady Wachter cerca di avere conferma di questi dettagli:
 
-* how many hags reside in the windmill, and how the players intend to obtain their names
-* whether there are children within the windmill, and how the players intend to rescue them
-* how the players intend to combat the hags once the binding circle is raised
+* quante megere vivono nel mulino, e come i giocatori intendono procurarsi i loro nomi;
+* se nel mulino ci sono bambini, e come i giocatori intendono salvarli;
+* come i giocatori intendono combattere le megere una volta eretto il cerchio di vincolo.
 
-Lady Wachter is glad to offer the players the service of her **imp** familiar Majesto as a scout. (Majesto can use his **crow**, **spider**, and **rat** forms to surveil the exterior and interior of the windmill while remaining invisible using his ***invisibility*** ability.) Meanwhile, Victor offers to aid the players in retrieving Franz’s children from the windmill, using his *misty step*, *fly*, and *greater invisibility* spells as-needed to assist with the rescue mission.
+Lady Wachter offre volentieri ai giocatori i servigi del suo famiglio **imp** Majesto come esploratore. (Majesto può usare le sue forme di **corvo**, **ragno** e **ratto** per sorvegliare l'esterno e l'interno del mulino, restando invisibile grazie alla sua capacità di ***invisibilità***.) Intanto Victor si offre di aiutare i giocatori a recuperare i figli di Franz dal mulino, usando secondo il bisogno gli incantesimi *passo velato*, *volare* e *invisibilità superiore*.
 
-> [!info]+ **Layout of the Windmill**
-> The windmill rests upon a small, bare, grassy hill approximately one thousand feet in diameter, with a hilltop approximately four hundred feet in diameter. Its north and western edges are flanked by the trees of the Svalich Wood, which press closely toward its base.
+> [!info]+ **La disposizione del mulino**
+> Il mulino sorge su una piccola collina erbosa e spoglia, di circa 300 m di diametro, con una sommità di circa 120 m di diametro. I lati nord e ovest sono fiancheggiati dagli alberi del Bosco di Svalich, che si spingono fin quasi ai suoi piedi.
 
-> [!info]+ **Victor's Spellbook**
-> Victor's spellbook largely contains the spells described in <span class="citation">N3t. Victor's Workroom (p. 109)</span>, except it also contains the _sending_ and _fear_ spells and does not contain _remove curse._ On the day he ventures to Old Bonegrinder, he has largely prepared the spells described in the **mage** statblock, but has prepared _blight_ instead of _cone of cold_.
+> [!info]+ **Il libro degli incantesimi di Victor**
+> Il libro degli incantesimi di Victor contiene più o meno gli incantesimi descritti in <span class="citation">N3t. Laboratorio di Victor (p. 109)</span>, ma contiene anche gli incantesimi _inviare_ e _paura_ e non contiene _rimuovi maledizione._ Il giorno in cui si avventura al Vecchio Tritaossa ha preparato più o meno gli incantesimi descritti nel profilo del **mago**, ma ha preparato _avvizzire_ al posto di _cono di freddo_.
 
-> [!Warning]+ Counterspell 2024
+> [!Warning]+ Controincantesimo 2024
 > 
-> This guide was written for the use of 2014 spells. If using 2024 spells, add a spell called *abjure spell* to Victor’s spellbook. The spell functions as a 5th-level *counterspell* following the 2014 rules (Basic Rules, p. 228) for the combat in [[Arc H - The Lost Soul#Battle with the Hags|Battle with the Hags]].
+> Questa guida è stata scritta per gli incantesimi del 2014. Se usi quelli del 2024, aggiungi al libro degli incantesimi di Victor un incantesimo chiamato *abiurare incantesimo*. Per lo scontro di [[Arc H - The Lost Soul#La battaglia con le megere|La battaglia con le megere]], l'incantesimo funziona come un *controincantesimo* di 5º livello secondo le regole del 2014 (Regole base, p. 228).
 
-However, Victor warns the players that, according to *Ethereal Entities*, hag covens often possess the ability to dispel enchantments while within close proximity to their lair. Once Lady Wachter's binding circle is erected, he'll need to stay close to the windmill to protect it with his *counterspell.* 
+Victor però avverte i giocatori che, secondo *Entità eteree*, le congreghe di megere spesso hanno la capacità di dissolvere gli incantamenti quando si trovano vicino alla loro tana. Una volta eretto il cerchio di vincolo di Lady Wachter, dovrà restare vicino al mulino per proteggerlo con il suo *controincantesimo.*
 
-As such, he'll need to conserve his strength—and, specifically, his 5th- and 4th-level spell slots—until then. (**Under no circumstances does Victor spend his 5th-level spell slot before the end of the battle with the hags.**)
+Per questo dovrà risparmiare le forze, e in particolare gli slot incantesimo di 5º e di 4º livello, fino a quel momento. (**Victor non spende in nessun caso il suo slot di 5º livello prima della fine della battaglia con le megere.**)
 
-> [!abstract]+ **Bargaining with the Hags**
+> [!abstract]+ **Trattare con le megere**
 >
-> If the players visit Old Bonegrinder without first obtaining Lady Wachter’s help, they can attempt to bargain with the hags in order to obtain a *heartstone.* The players do not need to first disguise themselves as dream pastry addicts to do so—Morgantha is always happy to do business with willing customers.
+> Se i giocatori vanno al Vecchio Tritaossa senza aver prima ottenuto l'aiuto di Lady Wachter, possono cercare di trattare con le megere per avere una *pietra del cuore.* Per farlo non devono travestirsi da dipendenti dai dolci dei sogni: Morgantha è sempre felice di fare affari con clienti ben disposti.
 >
-> To borrow Morgantha's heartstone for a period of three days, the players must promise to undertake a particular task for her. As a form of insurance to ensure their compliance, Morgantha takes their dreams as collateral once the players accept her offer, bottling them up in a glass vial that she wears on a cord around her neck.
+> Per farsi prestare la pietra del cuore di Morgantha per tre giorni, i giocatori devono promettere di svolgere per lei un compito preciso. Come garanzia che lo faranno, una volta accettata l'offerta Morgantha si prende in pegno i loro sogni, che imbottiglia in una fiala di vetro appesa a un cordino al collo.
 >
-> Morgantha warns the players that, if they fail to complete her task within fourteen days, fail to return the heartstone within three days, or betray her, she will immediately devour their dreams, preventing them from gaining the benefits of a long rest forever. (Morgantha can devour the players’ dreams as an action while the vial is in her possession.)
+> Morgantha avverte i giocatori che, se non svolgono il compito entro quattordici giorni, se non restituiscono la pietra del cuore entro tre giorni o se la tradiscono, divorerà subito i loro sogni, e non potranno mai più godere dei benefici di un riposo lungo. (Morgantha può divorare i sogni dei giocatori come azione, finché ha con sé la fiala.)
 >
-> If the players complete Morgantha's task within the allotted time, however, she will release their dreams and allow them to return to their owners. In either case, the players can take long rests normally until the fourteen days have elapsed.
+> Se invece i giocatori svolgono il compito di Morgantha nel tempo stabilito, lei libera i loro sogni e li lascia tornare ai legittimi proprietari. In entrambi i casi, finché non sono passati i quattordici giorni, i giocatori possono fare riposi lunghi normalmente.
 >
-> Morgantha’s task is simple. The players must deliver a **soul leech**—a Tiny **fiend** resembling a leech with ghost-white, translucent flesh and purple-blue veins, and which Morgantha has imprisoned in a corked glass vial—to the office of Strahd’s chamberlain, Rahadin. Upon arriving in Rahadin’s office, the players must uncork the vial and allow the leech to attach itself to the underside of his desk, where it will render itself invisible and virtually undetectable.
+> Il compito di Morgantha è semplice. I giocatori devono portare una **sanguisuga d'anime**, un **immondo** Minuscolo che somiglia a una sanguisuga dalla carne traslucida, bianca come un fantasma, e dalle vene viola-azzurre, che Morgantha tiene prigioniera in una fiala di vetro tappata, nello studio del ciambellano di Strahd, Rahadin. Arrivati nello studio di Rahadin, devono stappare la fiala e lasciare che la sanguisuga si attacchi sotto la sua scrivania, dove si renderà invisibile e praticamente impossibile da individuare.
 > 
 >![[Soul Leech.png]]
-><span class="credit">"Soul Leech" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+><span class="credit">«Soul Leech» di Caleb Cleveland. Sostienilo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 >
->The players can convince Morgantha to reveal her plans for the leech with a DC 10 Charisma (Persuasion) check: When Rahadin returns, the leech will secretly attach itself to his flesh, ensuring that—when Rahadin eventually dies—his evil soul will be ensnared and entrapped in Morgantha’s *soul bag,* where it will be transformed into a **soul larva** that Morgantha can use for nefarious purposes.
+>I giocatori possono convincere Morgantha a rivelare i suoi piani per la sanguisuga con una prova di Carisma (Persuasione) con CD 10: quando Rahadin tornerà, la sanguisuga gli si attaccherà di nascosto alla carne, così che, quando alla fine Rahadin morirà, la sua anima malvagia resterà presa e intrappolata nel *sacco delle anime* di Morgantha, dove si trasformerà in una **larva d'anima** che Morgantha potrà usare per scopi malvagi.
 >
-> Morgantha can tell the players that Rahadin’s office is located in the cellar of Castle Ravenloft, not far from the kitchens. However, Morgantha won’t share where she obtained her information. (Her source is, of course, the **mongrelfolk** Cyrus Belview, the unwitting bearer of the coven’s *hag eye.*)
+> Morgantha può dire ai giocatori che lo studio di Rahadin si trova nei sotterranei del Castello di Ravenloft, non lontano dalle cucine. Non rivela però da dove ha avuto l'informazione. (La sua fonte è, naturalmente, il **meticcio** Cyrus Belview, che porta senza saperlo l'*occhio della megera* della congrega.)
 
-> [!info]+ **The Megaliths**
+> [!info]+ **I megaliti**
 >
-> The megaliths beyond Old Bonegrinder demarcate the boundaries of the Mountain Fane: the shrine to the Seeker of the Ladies Three. Once atop the windmill's hill, the players can see the megaliths in the valley below. Read:
+> I megaliti oltre il Vecchio Tritaossa segnano i confini del Tempio della Montagna, il santuario del Cercatore delle Tre Dame. Dalla cima della collina del mulino i giocatori vedono i megaliti nella valle sottostante. Leggi:
 >
 ><hr>
 >
-> A circle of tall, slender megaliths stands shrouded amidst thick clouds of fog at the forest's edge below, with only the stones’ jagged tops visible as they poke through the mist.
+> Un cerchio di megaliti alti e sottili si erge avvolto in fitte nubi di nebbia al margine della foresta, più in basso; delle pietre si vedono solo le cime frastagliate, che sbucano dalla foschia.
 > 
 > <hr>
 >
-> The area within the cloud of fog is heavily obscured. If the players enter the cloud of fog, after one minute their presence draws the attention of four **vampiric mists** (<span class="citation">Mordenkainen Presents: Monsters of the Multiverse, p. 250</span>). The mists swirl about the players lazily for three rounds, after which one mist attempts to use a single ***life drain*** attack on the nearest player, like a shark inquisitively nipping its prey. If the players remain within the fog, all of the vampiric mists attack the following round.
+> L'area dentro la nube di nebbia è pesantemente oscurata. Se i giocatori entrano nella nebbia, dopo un minuto la loro presenza attira l'attenzione di quattro **nebbie vampiriche** (<span class="citation">Mordenkainen presenta: Mostri del Multiverso, p. 250</span>). Le nebbie vorticano pigre intorno ai giocatori per tre round, poi una cerca di usare un solo attacco di ***risucchio vitale*** sul giocatore più vicino, come uno squalo che morde la preda per curiosità. Se i giocatori restano nella nebbia, il round successivo attaccano tutte le nebbie vampiriche.
 
 
-## H7a. Raiding the Windmill
-The players can obtain the hags' true names by retrieving the contract from the locked stone compartment in the millstone in <span class="citation">O2. Bone Mill (p. 127)</span>. 
+## H7a. Perquisire il mulino
+I giocatori possono procurarsi i veri nomi delle megere recuperando il contratto dallo scomparto di pietra chiuso a chiave nella macina di <span class="citation">O2. Macina delle ossa (p. 127)</span>.
 
-One of the arms of the millstone in the bone mill is more gnarled than the rest, and is visibly segmented at the end. Twisting the end of the gnarled arm detaches it, revealing an iron key hidden inside. The players can unlock the millstone compartment by using the iron key, or by succeeding on a DC 15 Dexterity (Thieves' Tools) check. The compartment contains the hags' contract, as well as the treasure described in <span class="citation">O3. Bedroom (p. 127)</span>.
+Uno dei bracci della macina è più nodoso degli altri, e all'estremità è visibilmente diviso in segmenti. Girando l'estremità del braccio nodoso la si stacca, e dentro si trova nascosta una chiave di ferro. I giocatori possono aprire lo scomparto della macina con la chiave di ferro o superando una prova di Destrezza (arnesi da scasso) con CD 15. Lo scomparto contiene il contratto delle megere e il tesoro descritto in <span class="citation">O3. Camera da letto (p. 127)</span>.
 
-The hags' contract is written in Abyssal on a piece of leather made of human skin, and is signed with their true names at the bottom: Morgantha Stormreaver, Belladonna Sunbane, and Offalia Wormwiggle. (If none of the players can read Abyssal, Lady Wachter is able to read the hags' names instead, having learned the language's alphabet as a student of Baba Lysaga.)
+Il contratto delle megere è scritto in Abissale su un pezzo di cuoio fatto di pelle umana, e in fondo è firmato con i loro veri nomi: Morgantha Stormreaver, Belladonna Sunbane e Offalia Wormwiggle. (Se nessuno dei giocatori sa leggere l'Abissale, può leggere i nomi delle megere Lady Wachter, che ne ha imparato l'alfabeto da allieva di Baba Lysaga.)
 
-> [!info]+ **Damaging the Contract**
-> The hags' contract, which has AC 20 and 1 hit point, is immune to all damage except damage dealt by the hags' own ***claws*** attack, a fact that a player can recall with a successful DC 20 Intelligence (Arcana) check. If the contract is destroyed, the coven is disbanded, leaving all three members to use the statistics of an ordinary **night hag**.
+> [!info]+ **Danneggiare il contratto**
+> Il contratto delle megere, che ha CA 20 e 1 punto ferita, è immune a tutti i danni tranne quelli inflitti dall'attacco con gli ***artigli*** delle megere stesse, un fatto che un giocatore può ricordare superando una prova di Intelligenza (Arcano) con CD 20. Se il contratto viene distrutto, la congrega si scioglie, e tutte e tre le megere usano le statistiche di una normale **megera notturna**.
 
-The stone compartment also contains a *charm of mass heroism*, resembling a golden medallion adorned with three interlocking rings engraved at its center. 
+Nello scomparto di pietra c'è anche un *amuleto dell'eroismo di massa*, che ha l'aspetto di un medaglione d'oro con tre anelli intrecciati incisi al centro.
 
-> [!item]+ **Charm of Mass Heroism**
-> As an action, the wielder of this charm can give any number of creatures within 30 feet the benefit of a *potion of heroism*. Once they do so, the charm vanishes from their person.
+> [!item]+ **Amuleto dell'eroismo di massa**
+> Come azione, chi impugna questo amuleto può dare a un numero qualsiasi di creature entro 9 m il beneficio di una *pozione di eroismo*. Una volta fatto, l'amuleto sparisce.
 
-Fyodor and Myrtle are imprisoned on the third floor of the windmill and guarded by the **night hags** Belladonna "Bella" Sunbane and Offalia Wormwiggle, as described in <span class="citation">O3. Bedroom (p. 127)</span>. However, Fyodor and Myrtle have no particular knowledge of Ireena or Ismark, and wish only to be returned to their father, Franz.
+Fyodor e Myrtle sono prigionieri al secondo piano del mulino, sorvegliati dalle **megere notturne** Belladonna «Bella» Sunbane e Offalia Wormwiggle, come descritto in <span class="citation">O3. Camera da letto (p. 127)</span>. Fyodor e Myrtle però non sanno niente di particolare su Ireena o Ismark e vogliono solo tornare dal padre, Franz.
 
 ![[The Three Hags.png]]
-<span class="credit">"The Three Hags" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-### Distracting Morgantha
-<span class="citation"><em>This scene takes place in Chapter 6: Area O1.</em></span>
+<span class="credit">«The Three Hags» di Caleb Cleveland. Sostienilo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+### Distrarre Morgantha
+<span class="citation"><em>Questa scena si svolge nel Capitolo 6: Area O1.</em></span>
 
-If one or more players knock on the door to <span class="citation">O1. Ground Floor (p. 126)</span>, Morgantha descends from <span class="citation">O2. Bone Mill (p. 127)</span> and opens the door to greet them. She is glad to invite the players inside, and asks if they have come to purchase her wares. 
+Se uno o più giocatori bussano alla porta di <span class="citation">O1. Pianterreno (p. 126)</span>, Morgantha scende da <span class="citation">O2. Macina delle ossa (p. 127)</span> e apre la porta per accoglierli. Li invita volentieri a entrare e chiede se sono venuti a comprare la sua merce.
 
-The players can convince Morgantha that they are visiting to purchase additional dream pastries with a successful DC 10 Charisma (Deception) check. 
+I giocatori possono convincere Morgantha di essere venuti a comprare altri dolci dei sogni superando una prova di Carisma (Inganno) con CD 10.
 
-Alternatively, if the players use a different convincing cover story, they can convince Morgantha that they’re harmless with a successful DC 16 Charisma (Deception) check.
+In alternativa, se usano un'altra storia di copertura convincente, possono convincere Morgantha di essere innocui superando una prova di Carisma (Inganno) con CD 16.
 
-If the players successfully convince Morgantha that they're addicted to dream pastries or are otherwise harmless, Morgantha informs them that her current batch of dream pastries is still baking and invites them to remain until they're done. Until then, she's glad to make smalltalk.
+Se i giocatori riescono a convincere Morgantha di essere dipendenti dai dolci dei sogni o comunque innocui, lei spiega che l'infornata attuale di dolci dei sogni sta ancora cuocendo e li invita a restare finché non sono pronti. Nel frattempo chiacchiera volentieri.
 
-The players can also persuade Morgantha to invite her daughters down into the kitchen (in order to lure them away from the children upstairs) with a successful DC 16 Charisma (Persuasion or Deception) check. If they succeed in doing so, Bella and Offalia introduce themselves with a pair of clumsy curtsies.
+I giocatori possono anche convincere Morgantha a chiamare le figlie in cucina (per attirarle lontano dai bambini al piano di sopra) superando una prova di Carisma (Persuasione o Inganno) con CD 16. Se ci riescono, Bella e Offalia si presentano con due goffe riverenze.
 
-On a failure, a wary Morgantha claims that her daughters are, unfortunately, too busy to speak with visitors, but that she would be glad to relay any compliments or other comments to them should the players desire. She then asks the players what they thought of her dream pastries and what dreams they experienced upon eating them. 
+Se falliscono, Morgantha, diffidente, dice che purtroppo le sue figlie sono troppo occupate per ricevere visite, ma che sarà lieta di riferire loro complimenti o altro, se i giocatori lo desiderano. Poi chiede ai giocatori che cosa pensano dei suoi dolci dei sogni e che sogni hanno fatto mangiandoli.
 
-A player can ease Morgantha's paranoia by sharing a story of a beautiful dream that they experienced after eating a dream pastry and succeeding on a DC 16 Charisma (Deception) check, which succeeds automatically if the player is telling the truth. On a failure, Morgantha gets suspicious. (See **Morgantha Gets Suspicious** below.)
+Un giocatore può calmare la paranoia di Morgantha raccontando un sogno bellissimo fatto dopo aver mangiato un dolce dei sogni e superando una prova di Carisma (Inganno) con CD 16, che riesce automaticamente se il giocatore dice la verità. Se la prova fallisce, Morgantha si insospettisce. (Vedi **Morgantha si insospettisce** più avanti.)
 
-Unlike their mother, Bella and Offalia are easily distracted. They can be lured to <span class="citation">O2. Bone Mill (p. 127)</span> or <span class="citation">O4. Domed Attic (p. 127)</span> with a successful DC 13 Charisma (Performance) check and any reasonably relevant means (e.g., a *minor illusion* spell).
-### Morgantha Gets Suspicious
-<span class="citation"><em>This scene takes place in Chapter 6: Area O1.</em></span>
+A differenza della madre, Bella e Offalia si distraggono facilmente. Le si può attirare in <span class="citation">O2. Macina delle ossa (p. 127)</span> o in <span class="citation">O4. Soffitta a cupola (p. 127)</span> superando una prova di Carisma (Intrattenere) con CD 13 e con un qualsiasi mezzo ragionevolmente adatto (per esempio un incantesimo *illusione minore*).
+### Morgantha si insospettisce
+<span class="citation"><em>Questa scena si svolge nel Capitolo 6: Area O1.</em></span>
 
-If the players fail to convince Morgantha of a comforting cover story, she immediately becomes suspicious of their motives and presence. Too wary to entertain their presence any longer, she says, regretfully, that she and her daughters are tired, and asks that the players return the following day to speak further. (A player who succeeds on a DC 17 Wisdom (Insight) check discerns that Morgantha is suspicious, not tired.)
+Se i giocatori non riescono a convincere Morgantha con una storia di copertura rassicurante, lei si insospettisce subito delle loro intenzioni e della loro presenza. Troppo diffidente per trattenerli ancora, dice con rammarico che lei e le figlie sono stanche, e chiede ai giocatori di tornare il giorno dopo per parlare ancora. (Un giocatore che supera una prova di Saggezza (Intuizione) con CD 17 capisce che Morgantha è sospettosa, non stanca.)
 
-If the players leave, Morgantha watches them depart from the window, then ascends to  <span class="citation">O3. Bedroom (p. 127)</span> one round later to alert Bella and Offalia of the players' suspicious visit.
+Se i giocatori se ne vanno, Morgantha li guarda allontanarsi dalla finestra, poi un round dopo sale in <span class="citation">O3. Camera da letto (p. 127)</span> ad avvertire Bella e Offalia della visita sospetta.
 
-If the players fail to leave, after a brief period of time (during which she reveals nothing of note to the players), Morgantha briefly excuses herself to withdraw a tray of dream pastries from the oven, then calls upstairs, “Girls, it’s time to taste the fresh batch!” (The dream pastries are obviously near-raw. Morgantha’s words are a signal informing the other two **night hags** that undesired guests have arrived in the windmill and must be dealt with.)
+Se i giocatori non se ne vanno, dopo un po' (durante il quale non rivela loro niente di importante) Morgantha si scusa un momento per tirare fuori dal forno una teglia di dolci dei sogni, poi chiama verso il piano di sopra: «Ragazze, è ora di assaggiare l'infornata nuova!» (I dolci dei sogni sono palesemente quasi crudi. Le parole di Morgantha sono un segnale per le altre due **megere notturne**: nel mulino sono arrivati ospiti indesiderati, e bisogna occuparsene.)
 
-While Bella and Offalia descend from <span class="citation">O3. Bedroom (p. 127)</span>, Morgantha smiles pleasantly at the players and informs them that her daughters are her most valued taste-testers and she is always grateful for their opinions. (“Folks warn you about old age, but it’s true,” she says pleasantly. “It can be so difficult to run a business like this on your own.”)
+Mentre Bella e Offalia scendono da <span class="citation">O3. Camera da letto (p. 127)</span>, Morgantha sorride amabile ai giocatori e spiega che le figlie sono le sue assaggiatrici più preziose e che le è sempre grata dei loro pareri. («La gente ti avverte della vecchiaia, ma è vero», dice amabile. «Mandare avanti da sola un'attività del genere può essere così difficile.»)
 
-When Bella and Offalia arrive, they greet the players with awkward, overdramatic curtsies. Bella then frowns and exclaims, “Mother! I thought you said you were going to get the front door fixed!” 
+Quando arrivano, Bella e Offalia salutano i giocatori con riverenze goffe ed esagerate. Poi Bella si acciglia ed esclama: «Mamma! Non avevi detto che avresti fatto aggiustare la porta d'ingresso?»
 
-Assuming the players do not interfere, Bella sweeps across the room toward the front entrance to the windmill. She then pretends to inspect the hinges, obstructing the players’ exit, and complains, “Its squeaking is driving me mad!” 
+A meno che i giocatori non intervengano, Bella attraversa la stanza fino all'ingresso del mulino. Finge di esaminare i cardini, bloccando l'uscita ai giocatori, e si lamenta: «Quel cigolio mi fa impazzire!»
 
-Morgantha replies, “Don’t worry, child—I’ll make sure those little squeaks come to an end.” Morgantha, Bella, and Offalia then immediately move to attack. Upon entering combat, Bella opens the front entrance to the windmill to bring the combat into the open, with the other hags following suit.
+Morgantha risponde: «Non preoccuparti, bambina mia, farò in modo che quei piccoli cigolii smettano.» Poi Morgantha, Bella e Offalia passano subito all'attacco. Appena comincia il combattimento, Bella apre la porta d'ingresso del mulino per portare lo scontro all'aperto, e le altre megere fanno lo stesso.
 
-If the players are defeated, Morgantha also feeds the two strongest players the concoctions from <span class="citation">O1. Ground Floor (p. 126)</span> marked "Laughter" and "Mother's Milk," infecting one of them with cackle fever and poisoning the other with *pale tincture*. 
+Se i giocatori vengono sconfitti, Morgantha fa anche bere ai due giocatori più forti le pozioni di <span class="citation">O1. Pianterreno (p. 126)</span> con l'etichetta «Risata» e «Latte di mamma», contagiando uno con la febbre ghignante e avvelenando l'altro con la *tintura pallida*.
 
-The players then reawaken 1d4 + 1 hours later in the attic of Old Bonegrinder. See **Escape From Old Bonegrinder** below for more information regarding the players’ escape.
-## H7b. Claiming the Heartstone
-### The Binding Circle
-If the players successfully obtain the names of Morgantha’s daughters and rescue the children imprisoned inside of the windmill, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] directs her four **cult fanatics** to form a five-pointed formation around the base of the hill where Old Bonegrinder sits. 
+I giocatori si risvegliano 1d4 + 1 ore dopo nella soffitta del Vecchio Tritaossa. Per la loro fuga vedi **La fuga dal Vecchio Tritaossa** più avanti.
+## H7b. Prendere la pietra del cuore
+### Il cerchio di vincolo
+Se i giocatori riescono a procurarsi i nomi delle figlie di Morgantha e a salvare i bambini prigionieri nel mulino, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] ordina ai suoi quattro **fanatici del culto** di disporsi a stella a cinque punte intorno alla base della collina su cui sorge il Vecchio Tritaossa.
 
-If the players recovered the *charm of mass heroism*, Victor can identify it as such from his time spent reading in his father's library. [[Non-Player Characters#Victor Vallakovich|Victor]] warns the players that the hags are likely to be dangerous enemies and advises them to activate the charm immediately before hostilities erupt.
+Se i giocatori hanno recuperato l'*amuleto dell'eroismo di massa*, Victor può riconoscerlo grazie alle sue letture nella biblioteca del padre. [[Non-Player Characters#Victor Vallakovich|Victor]] avverte i giocatori che le megere saranno probabilmente nemiche pericolose e consiglia di attivare l'amuleto subito prima che scoppino le ostilità.
 
-Lady Wachter then warns the players that, once raised, the binding circle will last for only ten minutes. She further informs them that, should she or any of the four **cult fanatics** be knocked unconscious, the ritual will immediately fail and the hags will be free to escape. (Due to the height of the hill, it is unlikely that the night hags will be able to attack the cultists during the battle.)
+Lady Wachter avverte poi i giocatori che, una volta eretto, il cerchio di vincolo durerà soltanto dieci minuti. Li informa anche che, se lei o uno dei quattro **fanatici del culto** perdesse i sensi, il rituale fallirebbe all'istante e le megere sarebbero libere di fuggire. (Data l'altezza della collina, è improbabile che durante la battaglia le megere notturne riescano ad attaccare i cultisti.)
 
-When the players direct her to do so, Lady Wachter begins the ritual. Read:
+Quando i giocatori glielo dicono, Lady Wachter comincia il rituale. Leggi:
 
 <div class="description">
-<p>Lady Wachter raises her hands toward the darkened sky. Her voice, firm and resonant, booms through the stillness of the air as words of power roll off her tongue.</p>
-<p>Lady Wachter’s four followers soon join the chant, raising their arms as their voices swell in harmony with hers. The air around the hill begins to crackle and hum, the atmosphere tinged with the scent of ozone.</p>
-<p>Small clouds of mist begin to rise from the ground beneath the ritualists, extruding long tendrils of wisping fog that bathe the earth in pale, ethereal light.</p>
-<p>As the chant continues, the billowing clouds of mist grow brighter, casting long, dancing shadows across the sides of the hill. The fog seems to undulate in rhythm with their words, the very air seeming to thrum with arcane resonance. From deep within the seas of roiling grey, you think you can almost hear a woman’s distant, murmuring voice, joined by the echo of a thousand whispers.</p>
-<p>The tendrils of fog interlock—and snap together, forming a circle: a tight ring of shimmering, swirling mist. Lady Wachter’s hands curl into fists, and she pulls both arms across her chest. In a low, melodic voice, she recites a trio of names again and again: “<em>Morgantha Stormreaver. Belladonna Sunbane. Offalia Wormwiggle.</em>” Her gaze meets yours, and she gives a single, near-imperceptible nod.</p>
+<p>Lady Wachter alza le mani verso il cielo buio. La sua voce, ferma e risonante, rimbomba nell'aria immobile mentre le parole di potere le scorrono dalle labbra.</p>
+<p>Presto i suoi quattro seguaci si uniscono al canto, alzando le braccia mentre le loro voci si gonfiano in armonia con la sua. L'aria intorno alla collina comincia a crepitare e a ronzare, e l'atmosfera si impregna di odore di ozono.</p>
+<p>Dal terreno sotto chi celebra il rituale cominciano a levarsi piccole nubi di foschia, che allungano lunghi filamenti di nebbia e bagnano la terra di una luce pallida ed eterea.</p>
+<p>Mentre il canto prosegue, le nubi di foschia che si gonfiano diventano più luminose e proiettano lunghe ombre danzanti sui fianchi della collina. La nebbia sembra ondeggiare al ritmo delle loro parole, e l'aria stessa sembra vibrare di una risonanza arcana. Dal profondo di quel mare grigio e ribollente vi sembra quasi di sentire la voce lontana e sommessa di una donna, accompagnata dall'eco di mille sussurri.</p>
+<p>I filamenti di nebbia si intrecciano e si chiudono di scatto, formando un cerchio: un anello stretto di foschia scintillante e vorticante. Lady Wachter stringe i pugni e incrocia le braccia sul petto. Con voce bassa e melodiosa, ripete più e più volte tre nomi: «<em>Morgantha Stormreaver. Belladonna Sunbane. Offalia Wormwiggle.</em>» Il suo sguardo incrocia il vostro, e fa un unico cenno, quasi impercettibile.</p>
 </div>
 
-The circle, which extends five hundred feet vertically into the air, remains for the next ten minutes. During this time, any night hags named by Lady Wachter who remain within the circle cannot use their ***etherealness*** ability to enter the Ethereal Plane.
-### Confronting the Hags
-<span class="citation"><em>This scene takes place in Chapter 6: Area O.</em></span>
+Il cerchio, che si alza per 150 m nell'aria, dura per i dieci minuti successivi. In questo tempo, le megere notturne nominate da Lady Wachter che restano dentro il cerchio non possono usare la loro capacità di ***forma eterea*** per entrare nel Piano Etereo.
+### Affrontare le megere
+<span class="citation"><em>Questa scena si svolge nel Capitolo 6: Area O.</em></span>
 
-As the players ascend the hill, Lady Wachter’s crow familiar, Majesto, gives a haughty, defiant caw and joins them from the skies, assuming its true **imp** form before becoming invisible. 
+Mentre i giocatori salgono sulla collina, il famiglio corvo di Lady Wachter, Majesto, lancia un gracchio altezzoso e provocatorio e li raggiunge dal cielo, riprende la sua vera forma di **imp** e poi diventa invisibile.
 
-Meanwhile, [[Non-Player Characters#Victor Vallakovich|Victor]] casts the *mage armor* spell on any players who request it. He also uses a single fourth-level spell slot to cast *greater invisibility* on himself. 
+Intanto [[Non-Player Characters#Victor Vallakovich|Victor]] lancia l'incantesimo *armatura magica* sui giocatori che lo chiedono. Usa anche un solo slot incantesimo di 4º livello per lanciare su di sé *invisibilità superiore*.
 
-Victor reminds the players that, according to *Ethereal Entities*, he'll need to remain close to the windmill—within sixty feet—in order use his _counterspell_ to protect the circle from the coven's ability to dispel it. He asks the players to protect him accordingly.
+Victor ricorda ai giocatori che, secondo *Entità eteree*, dovrà restare vicino al mulino, entro 18 m, per usare il suo _controincantesimo_ e proteggere il cerchio dalla capacità della congrega di dissolverlo. Chiede ai giocatori di proteggerlo.
 
-As the players approach the windmill, if the night hags have noticed the children's disappearance, the hilltop around the windmill is now sparsely filled by the hundred **toads** once stored in Morgantha's wooden trunk in <span class="citation">O1. Ground Floor (p. 126)</span>. (Morgantha released them in order to use the coven's ***Amphibious Cacophony*** lair action to lure the children back to the windmill.)
+Mentre i giocatori si avvicinano al mulino, se le megere notturne si sono accorte della scomparsa dei bambini, la cima della collina intorno al mulino è ora punteggiata qua e là dal centinaio di **rospi** che prima stavano nel baule di legno di Morgantha in <span class="citation">O1. Pianterreno (p. 126)</span>. (Morgantha li ha liberati per usare l'azione di tana ***Cacofonia anfibia*** della congrega e attirare i bambini di nuovo al mulino.)
 
-If the players aren't invisible, Morgantha leads her daughters out of the windmill to meet them as they approach, arranging herself and her daughters directly in front of the door of the windmill and greeting the players once they approach within thirty feet. The following conversation then unfolds unless diverted, though the hags attack in self-defense if necessary.
+Se i giocatori non sono invisibili, Morgantha esce dal mulino con le figlie per andare loro incontro, si piazza con le figlie proprio davanti alla porta del mulino e saluta i giocatori quando arrivano a meno di 9 m. A meno che non la si devii, si svolge poi questa conversazione, anche se, se serve, le megere attaccano per difendersi.
 
-Morgantha greets the players warmly and congratulates them on taking their "ransom." She then asks, pleasantly, what items or boons they've come to bargain for.
+Morgantha saluta i giocatori con calore e si congratula con loro per essersi presi il «riscatto». Poi chiede, amabile, quali oggetti o favori sono venuti a contrattare.
 
-If informed that the players want to borrow a heartstone, Morgantha is glad to allow them to do so for a period of three days—if the players return the "livestock" that they "stole." (Unless the players were detected doing so, Morgantha hasn't yet realized that the players stole the contract.)
+Se le dicono che i giocatori vogliono farsi prestare una pietra del cuore, Morgantha glielo concede volentieri per tre giorni, se restituiscono il «bestiame» che hanno «rubato». (A meno che i giocatori non siano stati scoperti, Morgantha non si è ancora accorta che le hanno rubato il contratto.)
 
-If the players challenge Morgantha's predation of Franz and the children, she scoffs, noting, "Child, their souls were forfeit from the moment that they were born into these Mists—a soul bag larger than any one I could craft, and holding a far deeper evil. What difference does it make who claims them, or when?" 
+Se i giocatori contestano a Morgantha di aver fatto di Franz e dei bambini le sue prede, lei sbuffa: «Bambina mia, le loro anime erano perdute dal momento in cui sono nati in queste Nebbie: un sacco delle anime più grande di qualunque io possa cucire, che custodisce un male molto più profondo. Che differenza fa chi le reclama, o quando?»
 
-Morgantha declines to explain her statement further, noting only that "darker powers" than Strahd von Zarovich command the Mists that encircle the valley—and that she may be willing to share more information if the players return the children. (If the players then do so, Morgantha shares the three secrets noted in [[#Morgantha's Plea]] below.)
+Morgantha non spiega oltre e dice soltanto che le Nebbie che circondano la valle sono comandate da «poteri più oscuri» di Strahd von Zarovich, e che potrebbe essere disposta a dire di più se i giocatori le restituiscono i bambini. (Se poi i giocatori lo fanno, Morgantha rivela i tre segreti di [[#La supplica di Morgantha]] più avanti.)
 
 ![[The Bonegrinder Coven.png]]
-<span class="credit">"The Bonegrinder Coven" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">«The Bonegrinder Coven» di Caleb Cleveland. Sostienilo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-### Battle with the Hags
-The hags fight in self-defense, or if the players make clear that they will not otherwise return the children or the coven's contract. If the combat starts inside the windmill, the hags will quickly try and bring the fight into the open. The combatants fight as follows:
+### La battaglia con le megere
+Le megere combattono per difendersi, o se i giocatori fanno capire chiaramente che non restituiranno in nessun altro modo i bambini o il contratto della congrega. Se lo scontro comincia dentro il mulino, le megere cercano di portarlo presto all'aperto. I combattenti si comportano così:
 
-> [!info]+ **Lair Actions**
+> [!info]+ **Azioni di tana**
 >
-> While the coven is within 100 feet of the windmill, it can take lair actions as long as it isn't incapacitated.
+> Finché si trova entro 30 m dal mulino, la congrega può effettuare azioni di tana, purché non sia incapacitata.
 >
-> In both phases, on initiative count 20 (losing initiative ties), the coven can take one of the following lair action options centered on or originating from the windmill, or forgo using any of them in that round:
+> In entrambe le fasi, a iniziativa 20 (perdendo i pareggi di iniziativa), la congrega può effettuare una di queste azioni di tana, centrata sul mulino o che parte dal mulino, oppure rinunciare a usarle in quel round:
 >
-> - **_Warding Wind._** The coven casts _warding wind._
-> - **_Gust of Wind._** The coven casts _gust of wind._
-> - **_Amphibious Cacophony._** The coven causes the frogs in the grass around the windmill to croak a strangely hypnotic song. Each creature (excluding the hags) within 120 feet of the windmill that can hear the frogs must succeed on a DC 10 Charisma saving throw or use all of its movement at the start of its next turn to move as far as it can toward the mill.
-> - **_Dispel Magic (1/day)._** The coven casts _dispel magic_ at 5th level.
+> - **_Vento protettivo._** La congrega lancia _vento protettivo._
+> - **_Folata di vento._** La congrega lancia _folata di vento._
+> - **_Cacofonia anfibia._** La congrega fa gracidare alle rane nell'erba intorno al mulino un canto stranamente ipnotico. Ogni creatura (megere escluse) entro 36 m dal mulino che può sentire le rane deve superare un tiro salvezza su Carisma con CD 10, altrimenti all'inizio del suo turno successivo usa tutto il suo movimento per avvicinarsi il più possibile al mulino.
+> - **_Dissolvi magie (1/giorno)._** La congrega lancia _dissolvi magie_ al 5º livello.
 
-> [!info]+ **The Hag Coven**
+> [!info]+ **La congrega di megere**
 >
-> While Morgantha and her two daughters are all within 1 mile of one another, they share the statistics of **The Bonegrinder Coven** and **The Nightmare Three**, rather than using their individual **night hag** statblocks.
+> Finché Morgantha e le due figlie si trovano tutte entro 1,5 km l'una dall'altra, condividono le statistiche della **Congrega del Tritaossa** e delle **Tre dell'incubo**, invece di usare i loro singoli profili di **megera notturna**.
 >
-> While the coven exists, damage dealt to each individual hag is instead subtracted from the coven’s hit points, causing similar wounds or injuries to visibly appear on the bodies of all three hags. (If damage is dealt to multiple hags at once, the damage is subtracted from the coven’s hit points that many times.)
+> Finché la congrega esiste, i danni inflitti a ogni singola megera vengono invece sottratti ai punti ferita della congrega, e ferite o lesioni simili compaiono visibilmente sul corpo di tutte e tre le megere. (Se i danni vengono inflitti a più megere insieme, vengono sottratti ai punti ferita della congrega altrettante volte.)
 >
-> The hags do not gain access to the **_Shared Spellcasting_** feature ordinarily available to hag covens. However, each hag within the coven retains the use of her **_Innate Spellcasting_** and **_Night Hag Items_** features, as well as her **_Claws_**, **_Change Shape_**, **_Etherealness_**, and **_Nightmare Haunting_** actions. For **Innate Spellcasting***, the spellcasting ability is Intelligence, their spell save DC is 17, and their spellcasting attack bonus is +9.
+> Le megere non ottengono il privilegio **_Incantesimi condivisi_**, di cui di solito dispongono le congreghe di megere. Ogni megera della congrega conserva però i privilegi **_Incantesimi innati_** e **_Oggetti della megera notturna_**, e le azioni **_Artigli_**, **_Cambiare forma_**, **_Forma eterea_** e **_Infestazione degli incubi_**. Per gli **Incantesimi innati**, la caratteristica da incantatore è Intelligenza, la CD del tiro salvezza degli incantesimi è 17 e il bonus di attacco con gli incantesimi è +9.
 
 <div class="statblock">
-<h2>The Bonegrinder Coven</h2>
-<em>Trio of three medium fiends, neutral evil</em>
+<h2>La Congrega del Tritaossa</h2>
+<em>Trio di tre immondi Medi, neutrale malvagio</em>
 <hr>
-<strong>Armor Class</strong> 17 (natural armor)
+<strong>Classe Armatura</strong> 17 (armatura naturale)
 <br>
-<strong>Hit Points</strong> 210 (28d8 + 84)
+<strong>Punti Ferita</strong> 210 (28d8 + 84)
 <br>
-<strong>Speed</strong> 30 ft.
+<strong>Velocità</strong> 9 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -557,40 +557,40 @@ The hags fight in self-defense, or if the players make clear that they will not 
   </tbody>
 </table>
 <hr>
-<strong>Skills</strong> Deception +8, Insight +7, Perception +7, Stealth +7<br>
-<strong>Damage Resistances</strong> cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered<br>
-<strong>Condition Immunities</strong> charmed<br>
-<strong>Senses</strong> darkvision 120 ft., passive Perception 16<br>
-<strong>Languages</strong> Abyssal, Common, Infernal, Primordial<br>
-<strong>Challenge</strong> CR 14, or 12 when fought with silvered weapons<br>
-<strong>Proficiency Bonus.</strong> +5<br>
+<strong>Abilità</strong> Inganno +8, Intuizione +7, Percezione +7, Furtività +7<br>
+<strong>Resistenze ai danni</strong> freddo, fuoco; contundente, perforante e tagliente da attacchi non magici con armi non argentate<br>
+<strong>Immunità alle condizioni</strong> affascinato<br>
+<strong>Sensi</strong> scurovisione 36 m, Percezione passiva 16<br>
+<strong>Linguaggi</strong> Abissale, Comune, Infernale, Primordiale<br>
+<strong>Sfida</strong> GS 14, o 12 se affrontata con armi argentate<br>
+<strong>Bonus di competenza</strong> +5<br>
 <hr>
-<p><strong><em>Hag Coven.</em></strong> The coven includes three hags: Morgantha, Bella, and Offalia. A hag acts on her own initiative, keeps concentration and suffers conditions independently, and has her own action, bonus action, reaction, and movement. Any damage a hag takes is subtracted from the coven's hit points. (If multiple hags take damage from the same source, the coven loses hit points that many times.)</p>
-<p><strong><em>Close Quarters Fighter.</em></strong> The coven doesn't have disadvantage on their ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Magic Resistance.</em></strong> The coven has advantage on saving throws against spells and magical effects.</p>
-<p><strong><em>Spellcasting.</em></strong> The coven's spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks).
-<p><strong><em>Complex Casting.</em></strong> If a hag casts a spell on her turn using a bonus action, she can also use her action to cast a non-cantrip spell on the same turn.</p>
-<p><strong><em>Second Phase.</em></strong> If the coven is reduced to 0 hit points, its statistics are instantly replaced by those of <strong>The Nightmare Three</strong>. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form. Any spells requiring concentration end.</p>
-<h3>Actions</h3>
-<p><strong><em>Blindness/Deafness (Bella Only).</em></strong> Bella casts <em>blindness/deafness</em>. A target takes an additional 7 (2d6) necrotic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Putrid Radiance (Bella Only).</em></strong> <em>2nd-level necromancy</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em>: Dim, greenish light bursts within a 10-foot-radius sphere centered on a point that Bella chooses within range. Each creature within that area must succeed on a DC 17 Constitution saving throw or take 2d6 radiant damage and be poisoned until the end of its next turn.</p>
-<p><strong><em>Ray of Enfeeblement (Offalia Only).</em></strong> Offalia casts <em>ray of enfeeblement</em>. A target takes an additional 9 (2d8) necrotic damage on a hit.</p>
-<p><strong><em>Acid Arrow (Offalia Only).</em></strong> Offalia casts <em>Melf's acid arrow</em>.</p>
-<p><strong><em>Ray of Sickness (Morgantha Only).</em></strong> Morgantha casts <em>ray of sickness</em>.</p>
-<p><strong><em>Withering Rot (Morgantha Only).</em></strong> <em>1st-level necromancy</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em> Necromantic energy washes over a creature of Morgantha's choice within range, which must make a Constitution saving throw. The target takes 13 (3d8) necrotic damage on a failed save, or half as much damage on a successful one.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Crown of Madness (Bella Only).</em></strong> Bella casts <em>crown of madness</em>. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success. (Bella can use her bonus action to maintain control over the target, rather than her action.)</p>
-<p><strong><em>Phantasmal Force (Bella Only).</em></strong> Bella casts <em>phantasmal force</em>. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Cause Fear (Offalia Only).</em></strong> Offalia casts <em>cause fear</em> at 2nd level. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Bestow Curse (Offalia Only).</em></strong> Offalia casts <em>bestow curse</em> with a range of up to 30 feet. A target takes an additional 7 (2d6) necrotic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Hold Person (Morgantha Only).</em></strong> Morgantha casts <em>hold person</em> at 3rd level. A target takes an additional 5 (2d4) necrotic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Lightning Bolt (Morgantha Only, Recharge 5-6).</em></strong> Morgantha casts <em>lightning bolt</em>.</p>
-<p><strong><em>Claws (Any).</em></strong> <em>Melee Weapon Attack:</em> +9 to hit, reach 5 ft., one target. <em>Hit:</em> 13 (2d8 + 4) slashing damage.
-<h3>Reactions</h3>
-<p><strong><em>Spectral Shadows (Bella Only).</em></strong> <em>1st-level illusion</em>, self, components V S, instantaneous. <em>Effect:</em> In response to being hit by an attack, Bella can use her reaction to briefly conjure two illusory duplicates in her space. The attacker must roll a d6, hitting Bella on a 5 or 6 and hitting a duplicate otherwise.</p>
-<p><strong><em>Maniacal Mirth (Offalia Only).</em></strong> <em>1st-level enchantment</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em> In response to taking damage from a creature that Offalia can see within range, Offalia can use her reaction to force that creature to make a DC 17 Wisdom saving throw. On a failure, the creature falls into fits of laughter, falling prone and becoming incapacitated and unable to stand up until the end of the creature's next turn, or until it takes damage.</p>
-<p><strong><em>Witchlight Arc (Morgantha Only).</em></strong> <em>1st-level evocation</em>, 30 feet, components V S M, 1 round. <em>Effect:</em> In response to taking damage from a creature that Morgantha can see within range, Morgantha can use her reaction to send a beam of crackling blue energy toward her attacker, forcing them to succeed on a DC 17 Constitution saving throw or take 6 (1d12) lightning damage. On a failure, the beam forms an arc of lightning connecting Morgantha to the attacker until the start of its next turn. While the arc lasts, Morgantha has resistance to all damage, and each time she takes damage, the connected creature takes the same amount of damage.</p>
-<p><strong><em>Misty Step (Any).</em></strong> In response to taking damage, a hag can use her reaction to cast <em>misty step</em>.</p>
+<p><strong><em>Congrega di megere.</em></strong> La congrega comprende tre megere: Morgantha, Bella e Offalia. Ogni megera agisce con la propria iniziativa, mantiene la concentrazione e subisce le condizioni per conto suo e ha la propria azione, azione bonus, reazione e il proprio movimento. I danni subiti da una megera vengono sottratti ai punti ferita della congrega. (Se più megere subiscono danni dalla stessa fonte, la congrega perde punti ferita altrettante volte.)</p>
+<p><strong><em>Combattente ravvicinato.</em></strong> La congrega non subisce svantaggio ai tiri per colpire a distanza quando si trova entro 1,5 m da una creatura ostile.</p>
+<p><strong><em>Resistenza alla magia.</em></strong> La congrega ha vantaggio ai tiri salvezza contro incantesimi ed effetti magici.</p>
+<p><strong><em>Incantesimi.</em></strong> La caratteristica da incantatore della congrega è Intelligenza (CD del tiro salvezza degli incantesimi 17, +9 al tiro per colpire con gli attacchi con incantesimo).
+<p><strong><em>Lancio complesso.</em></strong> Se nel suo turno una megera lancia un incantesimo usando un'azione bonus, nello stesso turno può usare anche l'azione per lanciare un incantesimo che non sia un trucchetto.</p>
+<p><strong><em>Seconda fase.</em></strong> Se la congrega scende a 0 punti ferita, le sue statistiche vengono subito sostituite da quelle delle <strong>Tre dell'incubo</strong>. L'iniziativa resta la stessa. I danni in eccesso non passano alla nuova forma, ma la congrega conserva le condizioni che aveva nella forma precedente. Gli incantesimi che richiedono concentrazione terminano.</p>
+<h3>Azioni</h3>
+<p><strong><em>Cecità/sordità (solo Bella).</em></strong> Bella lancia <em>cecità/sordità</em>. Un bersaglio subisce 7 (2d6) danni necrotici aggiuntivi se fallisce il tiro salvezza, o la metà se lo supera.</p>
+<p><strong><em>Radiosità putrida (solo Bella).</em></strong> <em>Necromanzia di 2º livello</em>, 9 m, componenti V S M, istantaneo. <em>Effetto:</em> una luce fioca e verdastra esplode in una sfera di 3 m di raggio centrata su un punto entro gittata a scelta di Bella. Ogni creatura nell'area deve superare un tiro salvezza su Costituzione con CD 17, altrimenti subisce 2d6 danni radiosi ed è avvelenata fino alla fine del suo turno successivo.</p>
+<p><strong><em>Raggio di indebolimento (solo Offalia).</em></strong> Offalia lancia <em>raggio di indebolimento</em>. Se colpito, un bersaglio subisce 9 (2d8) danni necrotici aggiuntivi.</p>
+<p><strong><em>Freccia acida (solo Offalia).</em></strong> Offalia lancia <em>freccia acida di Melf</em>.</p>
+<p><strong><em>Raggio di malattia (solo Morgantha).</em></strong> Morgantha lancia <em>raggio di malattia</em>.</p>
+<p><strong><em>Marciume avvizzente (solo Morgantha).</em></strong> <em>Necromanzia di 1º livello</em>, 9 m, componenti V S M, istantaneo. <em>Effetto:</em> un'ondata di energia necromantica investe una creatura entro gittata a scelta di Morgantha, che deve effettuare un tiro salvezza su Costituzione. Se lo fallisce il bersaglio subisce 13 (3d8) danni necrotici, se lo supera la metà.</p>
+<h3>Azioni bonus</h3>
+<p><strong><em>Corona di follia (solo Bella).</em></strong> Bella lancia <em>corona di follia</em>. Un bersaglio subisce 5 (2d4) danni psichici aggiuntivi se fallisce il tiro salvezza, o la metà se lo supera. (Per mantenere il controllo sul bersaglio Bella può usare l'azione bonus invece dell'azione.)</p>
+<p><strong><em>Forza fantasmatica (solo Bella).</em></strong> Bella lancia <em>forza fantasmatica</em>. Un bersaglio subisce 5 (2d4) danni psichici aggiuntivi se fallisce il tiro salvezza, o la metà se lo supera.</p>
+<p><strong><em>Incutere paura (solo Offalia).</em></strong> Offalia lancia <em>incutere paura</em> al 2º livello. Un bersaglio subisce 5 (2d4) danni psichici aggiuntivi se fallisce il tiro salvezza, o la metà se lo supera.</p>
+<p><strong><em>Scagliare maledizione (solo Offalia).</em></strong> Offalia lancia <em>scagliare maledizione</em> con una gittata fino a 9 m. Un bersaglio subisce 7 (2d6) danni necrotici aggiuntivi se fallisce il tiro salvezza, o la metà se lo supera.</p>
+<p><strong><em>Blocca persone (solo Morgantha).</em></strong> Morgantha lancia <em>blocca persone</em> al 3º livello. Un bersaglio subisce 5 (2d4) danni necrotici aggiuntivi se fallisce il tiro salvezza, o la metà se lo supera.</p>
+<p><strong><em>Fulmine (solo Morgantha, ricarica 5-6).</em></strong> Morgantha lancia <em>fulmine</em>.</p>
+<p><strong><em>Artigli (tutte).</em></strong> <em>Attacco con arma da mischia:</em> +9 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 13 (2d8 + 4) danni taglienti.
+<h3>Reazioni</h3>
+<p><strong><em>Ombre spettrali (solo Bella).</em></strong> <em>Illusione di 1º livello</em>, incantatore, componenti V S, istantaneo. <em>Effetto:</em> quando viene colpita da un attacco, Bella può usare la reazione per evocare per un istante due duplicati illusori nel suo spazio. L'attaccante deve tirare un d6: con 5 o 6 colpisce Bella, altrimenti colpisce un duplicato.</p>
+<p><strong><em>Ilarità maniacale (solo Offalia).</em></strong> <em>Ammaliamento di 1º livello</em>, 9 m, componenti V S M, istantaneo. <em>Effetto:</em> quando subisce danni da una creatura entro gittata che può vedere, Offalia può usare la reazione per costringere quella creatura a effettuare un tiro salvezza su Saggezza con CD 17. Se lo fallisce, la creatura viene presa da un attacco di risa, cade prona ed è incapacitata e incapace di rialzarsi fino alla fine del suo turno successivo o finché non subisce danni.</p>
+<p><strong><em>Arco di luce stregata (solo Morgantha).</em></strong> <em>Invocazione di 1º livello</em>, 9 m, componenti V S M, 1 round. <em>Effetto:</em> quando subisce danni da una creatura entro gittata che può vedere, Morgantha può usare la reazione per scagliare contro l'attaccante un raggio di energia blu crepitante, che deve superare un tiro salvezza su Costituzione con CD 17, altrimenti subisce 6 (1d12) danni da fulmine. Se fallisce, il raggio forma un arco di fulmine che collega Morgantha all'attaccante fino all'inizio del turno successivo di quest'ultimo. Finché l'arco dura, Morgantha ha resistenza a tutti i danni, e ogni volta che subisce danni la creatura collegata subisce la stessa quantità di danni.</p>
+<p><strong><em>Passo velato (tutte).</em></strong> Quando subisce danni, una megera può usare la reazione per lanciare <em>passo velato</em>.</p>
 </div>
 
 
@@ -599,27 +599,27 @@ The hags fight in self-defense, or if the players make clear that they will not 
 ![[Offalia.png]]
 
 ![[Morgantha.png]]
-<span class="credit">"The Nightmare Three" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">«The Nightmare Three» di Caleb Cleveland. Sostienilo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 <div class="statblock">
-<h2>The Nightmare Three</h2>
-<em>Trio of one medium fiend and two huge fiends, neutral evil</em>
+<h2>Le Tre dell'incubo</h2>
+<em>Trio di un immondo Medio e due immondi Enormi, neutrale malvagio</em>
 <hr>
-<strong>Armor Class</strong> 17 (natural armor)
+<strong>Classe Armatura</strong> 17 (armatura naturale)
 <br>
-<strong>Hit Points</strong> 210 (28d8 + 84)
+<strong>Punti Ferita</strong> 210 (28d8 + 84)
 <br>
-<strong>Speed</strong> 30 ft.
+<strong>Velocità</strong> 9 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -634,443 +634,442 @@ The hags fight in self-defense, or if the players make clear that they will not 
   </tbody>
 </table>
 <hr>
-<strong>Skills</strong> Deception +8, Insight +7, Perception +7, Stealth +7<br>
-<strong>Damage Resistances</strong> cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered<br>
-<strong>Condition Immunities</strong> charmed<br>
-<strong>Senses</strong> darkvision 120 ft., passive Perception 16<br>
-<strong>Languages</strong> Abyssal, Common, Infernal, Primordial<br>
-<strong>Challenge</strong> CR 15, or 13 when fought with silvered weapons<br>
-<strong>Proficiency Bonus.</strong> +5<br>
+<strong>Abilità</strong> Inganno +8, Intuizione +7, Percezione +7, Furtività +7<br>
+<strong>Resistenze ai danni</strong> freddo, fuoco; contundente, perforante e tagliente da attacchi non magici con armi non argentate<br>
+<strong>Immunità alle condizioni</strong> affascinato<br>
+<strong>Sensi</strong> scurovisione 36 m, Percezione passiva 16<br>
+<strong>Linguaggi</strong> Abissale, Comune, Infernale, Primordiale<br>
+<strong>Sfida</strong> GS 15, o 13 se affrontate con armi argentate<br>
+<strong>Bonus di competenza</strong> +5<br>
 <hr>
-<p><strong><em>Hag Coven.</em></strong> The coven includes three hags: Morgantha, Bella, and Offalia. If the coven is reduced to 0 hit points, all hags die. Until then, a hag acts on her own initiative, suffers conditions independently, and has her own action, bonus action, reaction, and movement. Any damage a hag takes is subtracted from the coven's hit points.</p>
-<p><strong><em>Nightmare Forms.</em></strong> In this phase, Bella assumes the form of a Huge crocodile, Offalia assumes the form of a Huge elephant, and Morgantha is surrounded by a shroud of swirling shadows.</p>
-<p><strong><em>Magic Resistance.</em></strong> The coven has advantage on saving throws against spells and magical effects.</p>
-<p><strong><em>Charge (Offalia Only).</em></strong> If Offalia moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 11 (2d10) piercing damage. If the target is a creature, it must succeed on a DC 18 Strength saving throw or be pushed up to 10 feet away and knocked prone.</p>
-<h3>Actions</h3>
-<p><strong><em>Bite (Bella Only).</em></strong> <em>Melee weapon attack:</em> +10 to hit, reach 5 ft., one target. <em>Hit:</em> 16 (2d10 + 5) piercing damage and the target is grappled (escape DC 17). Until this grapple ends, the target is restrained, and Bella can't bite another target.</p>
-<p><strong><em>Tail (Bella Only).</em></strong> <em>Melee weapon attack:</em> +10 to hit, reach 10 ft., one target not grappled by Bella. <em>Hit:</em> 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Gore (Offalia Only).</em></strong> <em>Melee weapon attack:</em> +10 to hit, reach 5 ft., one target. <em>Hit:</em> 14 (2d8 +5) piercing damage.</p>
-<p><strong><em>Eyebite (Morgantha Only).</em></strong> Morgantha casts or uses <em>eyebite</em> (DC 17). A target that succeeds on the saving throw is dazed instead until the end of its next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
+<p><strong><em>Congrega di megere.</em></strong> La congrega comprende tre megere: Morgantha, Bella e Offalia. Se la congrega scende a 0 punti ferita, tutte le megere muoiono. Fino ad allora ogni megera agisce con la propria iniziativa, subisce le condizioni per conto suo e ha la propria azione, azione bonus, reazione e il proprio movimento. I danni subiti da una megera vengono sottratti ai punti ferita della congrega.</p>
+<p><strong><em>Forme dell'incubo.</em></strong> In questa fase Bella assume la forma di un coccodrillo Enorme, Offalia quella di un elefante Enorme, e Morgantha è avvolta da un velo di ombre vorticanti.</p>
+<p><strong><em>Resistenza alla magia.</em></strong> La congrega ha vantaggio ai tiri salvezza contro incantesimi ed effetti magici.</p>
+<p><strong><em>Carica (solo Offalia).</em></strong> Se Offalia si muove di almeno 6 m in linea retta verso un bersaglio e nello stesso turno lo colpisce con un attacco di incornata, il bersaglio subisce 11 (2d10) danni perforanti extra. Se il bersaglio è una creatura, deve superare un tiro salvezza su Forza con CD 18, altrimenti viene spinto fino a 3 m di distanza e cade prono.</p>
+<h3>Azioni</h3>
+<p><strong><em>Morso (solo Bella).</em></strong> <em>Attacco con arma da mischia:</em> +10 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 16 (2d10 + 5) danni perforanti, e il bersaglio è afferrato (CD 17 per sfuggire). Finché la presa dura, il bersaglio è trattenuto e Bella non può mordere un altro bersaglio.</p>
+<p><strong><em>Coda (solo Bella).</em></strong> <em>Attacco con arma da mischia:</em> +10 al tiro per colpire, portata 3 m, un bersaglio non afferrato da Bella. <em>Colpito:</em> 14 (2d8 + 5) danni contundenti. Se il bersaglio è una creatura, deve superare un tiro salvezza su Forza con CD 17, altrimenti cade prono.</p>
+<p><strong><em>Incornata (solo Offalia).</em></strong> <em>Attacco con arma da mischia:</em> +10 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 14 (2d8 +5) danni perforanti.</p>
+<p><strong><em>Sguardo malefico (solo Morgantha).</em></strong> Morgantha lancia o usa <em>sguardo malefico</em> (CD 17). Un bersaglio che supera il tiro salvezza è invece frastornato fino alla fine del suo turno successivo. (Nel suo turno una creatura frastornata può muoversi o effettuare un'azione, non entrambe le cose. Non può nemmeno effettuare azioni bonus o reazioni.)</p>
 <br><br>
-<h3>Bonus Actions</h3>
-<p><strong><em>Tail Swipe (Bella Only).</em></strong> Bella swipes her tail in a 10-foot cone. Each creature within that area must make a DC 18 Dexterity saving throw, taking 9 (2d8) bludgeoning damage and falling prone on a failure. A creature that succeeds on the saving throw takes half as much damage and doesn't fall prone.</p>
-<p><strong><em>Hallucinatory Mist (Bella Only).</em></strong> Bella sprays a 30-foot cone of pearlescent mist. Each creature within the mist must make a DC 17 Constitution saving throw or be dazed until the start of Bella's next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
-<p><strong><em>Stomp (Offalia Only).</em></strong> Offalia stomps the ground around her. Each creature within a 5-foot radius must make a DC 18 Dexterity saving throw, taking 11 (2d10) bludgeoning damage on a failure and half as much damage on a success.</p>
-<p><strong><em>Fiend's Trumpet (Offalia Only).</em></strong> Offalia releases a sonorous, low-pitched trumpet from her trunk. Each humanoid creature within a 60-foot radius must make a DC 17 Wisdom saving throw or subtract 1d4 from their next attack roll, ability check, or saving throw.</p>
-<p><strong><em>Enervating Ring (Morgantha Only).</em></strong> Tendrils of inky darkness reach out from Morgantha, touching each creature within a 10-foot radius. Each target must make a DC 16 Constitution saving throw or take 9 (2d8) necrotic damage and be slowed until the end of its next turn. (A slowed creature must spend 1 extra foot of movement for every foot it moves using its speed, attack rolls against it have advantage, and it has disadvantage on Dexterity saving throws.)</p>
-<p><strong><em>Inflict Nightmares (Morgantha Only).</em></strong> Morgantha conjures a cloud of ethereal mist around a creature she can see within 30 feet, forcing it to succeed on a DC 17 Wisdom saving throw or be stunned until it takes damage or another creature uses its action to shake them awake. The creature takes 9 (2d8) psychic damage at the end of its turn if it's still stunned.</p>
-<h3>Reactions</h3>
-<p><strong><em>Tail Lash (Bella Only).</em></strong> In response to taking damage from a creature within 10 feet, Bella makes a <strong><em>tail</strong></em> attack against her attacker.</p>
-<p><strong><em>Tusks (Offalia Only).</em></strong> In response to taking damage from a melee attack, Offalia makes a <strong><em>gore</strong></em> attack against her attacker.</p>
-<p><strong><em>Shadow Step (Morgantha Only).</em></strong> In response to taking damage from a creature that she can see, Morgantha instead takes half as much damage (rounded down) and teleports up to 30 feet.</p>
-<p><strong><em>Matron's Rebuke (Morgantha Only).</em></strong> In response to taking damage from a creature within 60 feet of her that she can see, Morgantha points her finger and surrounds the creature that damaged her with writhing shadows, forcing it to succeed on a DC 17 Dexterity saving throw or take 11 (2d10) necrotic damage.</p>
-<p><strong><em>Absorb Elements (Any).</em></strong> In response to taking acid, cold, fire, lightning, or thunder damage, the hag uses her reaction to cast <em>absorb elements</em>.</p>
+<h3>Azioni bonus</h3>
+<p><strong><em>Spazzata di coda (solo Bella).</em></strong> Bella spazza con la coda un cono di 3 m. Ogni creatura nell'area deve effettuare un tiro salvezza su Destrezza con CD 18: se lo fallisce subisce 9 (2d8) danni contundenti e cade prona. Una creatura che supera il tiro salvezza subisce la metà dei danni e non cade prona.</p>
+<p><strong><em>Nebbia allucinatoria (solo Bella).</em></strong> Bella spruzza un cono di 9 m di nebbia perlacea. Ogni creatura nella nebbia deve effettuare un tiro salvezza su Costituzione con CD 17, altrimenti è frastornata fino all'inizio del turno successivo di Bella. (Nel suo turno una creatura frastornata può muoversi o effettuare un'azione, non entrambe le cose. Non può nemmeno effettuare azioni bonus o reazioni.)</p>
+<p><strong><em>Pestone (solo Offalia).</em></strong> Offalia pesta il terreno intorno a sé. Ogni creatura entro un raggio di 1,5 m deve effettuare un tiro salvezza su Destrezza con CD 18: se lo fallisce subisce 11 (2d10) danni contundenti, se lo supera la metà.</p>
+<p><strong><em>Barrito immondo (solo Offalia).</em></strong> Offalia emette dalla proboscide un barrito sonoro e profondo. Ogni creatura umanoide entro un raggio di 18 m deve effettuare un tiro salvezza su Saggezza con CD 17, altrimenti sottrae 1d4 dal suo prossimo tiro per colpire, prova di caratteristica o tiro salvezza.</p>
+<p><strong><em>Anello debilitante (solo Morgantha).</em></strong> Tentacoli di oscurità nera come l'inchiostro si allungano da Morgantha e toccano ogni creatura entro un raggio di 3 m. Ogni bersaglio deve effettuare un tiro salvezza su Costituzione con CD 16, altrimenti subisce 9 (2d8) danni necrotici ed è rallentato fino alla fine del suo turno successivo. (Una creatura rallentata deve spendere 30 cm di movimento extra per ogni 30 cm che percorre con la sua velocità, i tiri per colpire contro di lei hanno vantaggio e ha svantaggio ai tiri salvezza su Destrezza.)</p>
+<p><strong><em>Infliggere incubi (solo Morgantha).</em></strong> Morgantha evoca una nube di foschia eterea intorno a una creatura che può vedere entro 9 m, che deve superare un tiro salvezza su Saggezza con CD 17, altrimenti è stordita finché non subisce danni o un'altra creatura non usa la sua azione per svegliarla scuotendola. Se è ancora stordita, alla fine del suo turno la creatura subisce 9 (2d8) danni psichici.</p>
+<h3>Reazioni</h3>
+<p><strong><em>Frustata di coda (solo Bella).</em></strong> Quando subisce danni da una creatura entro 3 m, Bella effettua un attacco con la <strong><em>coda</em></strong> contro l'attaccante.</p>
+<p><strong><em>Zanne (solo Offalia).</em></strong> Quando subisce danni da un attacco in mischia, Offalia effettua un attacco di <strong><em>incornata</em></strong> contro l'attaccante.</p>
+<p><strong><em>Passo d'ombra (solo Morgantha).</em></strong> Quando subisce danni da una creatura che può vedere, Morgantha subisce invece la metà dei danni (arrotondando per difetto) e si teletrasporta fino a 9 m.</p>
+<p><strong><em>Rimprovero della matrona (solo Morgantha).</em></strong> Quando subisce danni da una creatura entro 18 m che può vedere, Morgantha punta il dito e circonda la creatura che l'ha ferita di ombre che si contorcono: la creatura deve superare un tiro salvezza su Destrezza con CD 17, altrimenti subisce 11 (2d10) danni necrotici.</p>
+<p><strong><em>Assorbire elementi (tutte).</em></strong> Quando subisce danni da acido, freddo, fuoco, fulmine o tuono, la megera usa la reazione per lanciare <em>assorbire elementi</em>.</p>
 </div>
 
-> [!combat]- **Combat - The Hags**  
-> **Combat Level**: Bruising (first phase), Bruising (second phase)
-> **Expected Character Level**: 5
-> **Allies:** Majesto (CR 1), Victor Vallakovich (CR 6)
-> **Expected HP Consumption:** 34% (first phase), 58% (second phase), for a total of 92%
+> [!combat]- **Combattimento: le megere**  
+> **Livello di combattimento**: impegnativo (prima fase), impegnativo (seconda fase)
+> **Livello previsto dei personaggi**: 5
+> **Alleati:** Majesto (GS 1), Victor Vallakovich (GS 6)
+> **Consumo previsto di pf:** 34% (prima fase) e 58% (seconda fase), per un totale del 92%
 > 
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
+> ### **Bilanciamento:**
+> Se i giocatori sono meno o più di 5, modifica lo scontro così:
 >
-> | Number of Players | Modification |
+> | Numero di giocatori | Modifica |
 > |-|-|
-> | 3 | Reduce the hags’ hit points to 156 in each phase. For their first phase, reduce: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow*** ***curse*** bonus action to 5 (2d4) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 7 (2d6) damage; their ***withering rot*** action to 10 (3d6) damage; their Melf’s Acid Arrow action to 7 (2d6) damage and 3 (1d6) the next turn; their ***crown*** ***of*** ***madness***, ***phantasmal*** ***force***, ***cause*** ***fear***, and ***hold*** ***person*** bonus actions to 4 (1d8) damage; and their ***lightning*** ***bolt*** bonus action to 21 (8d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s rebuke*** reaction to 7 (2d6) damage; their ***bite*** attack to 12 (2d6+5) damage; their ***tail*** and ***gore*** attacks to 10 (2d4+5) damage; and their ***tail swipe***, ***enervating ring***, and ***inflict nightmares*** bonus actions to 7 (2d6) damage. |
-> | 4 | Reduce the hags’ hit points to 183 in each phase. For their first phase, reduce: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow curse*** bonus action to 6 (1d12) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 7 (2d6) damage; their ***withering rot*** action to 10 (3d6) damage; their ***Melf’s Acid Arrow*** action to 9 (2d8) damage and 4 (1d8) the next turn; their ***crown of madness***, ***phantasmal force***, ***cause fear***, and ***hold person*** bonus actions to 4 (1d8) damage; and their ***lightning bolt*** bonus action to 25 (10d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s rebuke*** reaction to 9 (2d8) damage; their ***bite*** attack to 16 (2d8+5) damage; and their ***tail swipe***, ***enervating ring***, and ***inflict nightmares*** bonus actions to 7 (2d6) damage. |
-> | 6 | Increase the hags’ hit points to 237 in each phase. For their first phase, increase: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow curse*** bonus action to 7 (2d6) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 9 (2d10) damage; their ***withering rot*** action to 15 (6d4) damage; their ***crown*** ***of madness***, ***phantasmal*** ***force***, ***cause*** ***fear***, and ***hold*** ***person*** bonus actions to 6 (1d12) damage; and their ***lightning*** ***bolt*** bonus action to 32 (13d4) damage. For their second phase, increase: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s*** ***rebuke*** reaction to 11 (2d12) damage; their ***bite*** attack to 18 (2d12+5) damage; their ***tail*** and ***gore*** attacks to 16 (2d10+5) damage; and their ***tail swipe, enervating ring***, and ***inflict nightmares*** bonus actions to 9 (2d10) damage. |
+> | 3 | Riduci i punti ferita delle megere a 156 in ogni fase. Nella prima fase riduci: le azioni ***cecità/sordità*** e ***radiosità putrida*** e l'azione bonus ***scagliare maledizione*** a 5 (2d4) danni; le azioni ***raggio di indebolimento*** e ***raggio di malattia*** a 7 (2d6) danni; l'azione ***marciume avvizzente*** a 10 (3d6) danni; l'azione freccia acida di Melf a 7 (2d6) danni e 3 (1d6) il turno successivo; le azioni bonus ***corona di follia***, ***forza fantasmatica***, ***incutere paura*** e ***blocca persone*** a 4 (1d8) danni; e l'azione bonus ***fulmine*** a 21 (8d4) danni. Nella seconda fase riduci: il privilegio ***carica***, l'azione bonus ***pestone*** e la reazione ***rimprovero della matrona*** a 7 (2d6) danni; l'attacco con il ***morso*** a 12 (2d6+5) danni; gli attacchi con la ***coda*** e di ***incornata*** a 10 (2d4+5) danni; e le azioni bonus ***spazzata di coda***, ***anello debilitante*** e ***infliggere incubi*** a 7 (2d6) danni. |
+> | 4 | Riduci i punti ferita delle megere a 183 in ogni fase. Nella prima fase riduci: le azioni ***cecità/sordità*** e ***radiosità putrida*** e l'azione bonus ***scagliare maledizione*** a 6 (1d12) danni; le azioni ***raggio di indebolimento*** e ***raggio di malattia*** a 7 (2d6) danni; l'azione ***marciume avvizzente*** a 10 (3d6) danni; l'azione ***freccia acida di Melf*** a 9 (2d8) danni e 4 (1d8) il turno successivo; le azioni bonus ***corona di follia***, ***forza fantasmatica***, ***incutere paura*** e ***blocca persone*** a 4 (1d8) danni; e l'azione bonus ***fulmine*** a 25 (10d4) danni. Nella seconda fase riduci: il privilegio ***carica***, l'azione bonus ***pestone*** e la reazione ***rimprovero della matrona*** a 9 (2d8) danni; l'attacco con il ***morso*** a 16 (2d8+5) danni; e le azioni bonus ***spazzata di coda***, ***anello debilitante*** e ***infliggere incubi*** a 7 (2d6) danni. |
+> | 6 | Aumenta i punti ferita delle megere a 237 in ogni fase. Nella prima fase aumenta: le azioni ***cecità/sordità*** e ***radiosità putrida*** e l'azione bonus ***scagliare maledizione*** a 7 (2d6) danni; le azioni ***raggio di indebolimento*** e ***raggio di malattia*** a 9 (2d10) danni; l'azione ***marciume avvizzente*** a 15 (6d4) danni; le azioni bonus ***corona di follia***, ***forza fantasmatica***, ***incutere paura*** e ***blocca persone*** a 6 (1d12) danni; e l'azione bonus ***fulmine*** a 32 (13d4) danni. Nella seconda fase aumenta: il privilegio ***carica***, l'azione bonus ***pestone*** e la reazione ***rimprovero della matrona*** a 11 (2d12) danni; l'attacco con il ***morso*** a 18 (2d12+5) danni; gli attacchi con la ***coda*** e di ***incornata*** a 16 (2d10+5) danni; e le azioni bonus ***spazzata di coda***, ***anello debilitante*** e ***infliggere incubi*** a 9 (2d10) danni. |
 
-> [!design]- **Design Note: Innate Spellcasting**
-> Multiple spellcasters in this guide, including the hags of Old Bonegrinder, have had spell slots replaced with at-will abilities. This change has been made to simplify the process of controlling these characters in battle. However, this is an intentional abstraction made solely for the sake of combat, which is guaranteed to end after a limited number of turns. This change does not indicate that these spells can be cast an unlimited number of times outside of combat.
+> [!design]- **Nota di progettazione: incantesimi innati**
+> In questa guida diversi incantatori, comprese le megere del Vecchio Tritaossa, hanno visto i loro slot incantesimo sostituiti da capacità a volontà. Il cambiamento serve a semplificare la gestione di questi personaggi in battaglia. È però un'astrazione voluta, fatta solo per il combattimento, che di sicuro finisce dopo un numero limitato di turni: non significa che fuori dal combattimento questi incantesimi si possano lanciare un numero illimitato di volte.
 
-***The Coven.*** The hags begin in their **Bonegrinder Coven** phase. Each hag prioritizes a different target—Bella attacking whichever player seems most attractive, Offalia attacking whichever player seems most confident, and Morgantha attacking whichever player seems physically strongest. (If two hags share the same preferred target, they have a brief argument, after which one of them shifts to target the next player who meets her qualifications.)
+***La congrega.*** Le megere cominciano nella fase della **Congrega del Tritaossa**. Ognuna ha un bersaglio preferito diverso: Bella attacca il giocatore che le sembra più attraente, Offalia quello che le sembra più sicuro di sé e Morgantha quello che le sembra fisicamente più forte. (Se due megere hanno lo stesso bersaglio preferito, litigano brevemente, poi una delle due passa al giocatore successivo che corrisponde ai suoi criteri.)
 
-When the hags assume their **Nightmare Three** phase, Bella assumes the form of a monstrous giant crocodile, its scales jagged and irregular and its eyes glowing with a baleful light. Offalia takes the shape of a demonic elephant, its skin mottled with black veins and its tusks blackened and twisted like corkscrews. Finally, Morgantha's skin becomes pitch-black, her eyes becoming inky voids as shadows swirl around her.
+Quando le megere entrano nella fase delle **Tre dell'incubo**, Bella assume la forma di un mostruoso coccodrillo gigante, con le scaglie frastagliate e irregolari e gli occhi che brillano di una luce sinistra. Offalia prende la forma di un elefante demoniaco, con la pelle chiazzata di vene nere e le zanne annerite e attorcigliate come cavatappi. Infine la pelle di Morgantha diventa nera come la pece e i suoi occhi diventano vuoti d'inchiostro, mentre le ombre le vorticano intorno.
 
-***Victor Vallakovich.*** In battle, [[Non-Player Characters#Victor Vallakovich|Victor]] remains invisible through the use of his *greater invisibility* spell, remaining within 60 feet of the windmill at all times. 
+***Victor Vallakovich.*** In battaglia [[Non-Player Characters#Victor Vallakovich|Victor]] resta invisibile grazie al suo incantesimo *invisibilità superiore*, sempre entro 18 m dal mulino.
 
-Victor casts *counterspell* at 3rd or 4th level as-needed to counter Morgantha's *lightning bolt* and *eyebite* spells. Otherwise, he casts *magic missile* at 2nd and 1st level to avoid collateral damage and minimize the hags' magic resistance. 
+Victor lancia *controincantesimo* al 3º o al 4º livello quando serve per contrastare gli incantesimi *fulmine* e *sguardo malefico* di Morgantha. Altrimenti lancia *dardo incantato* al 2º e al 1º livello, per evitare danni collaterali e aggirare la resistenza alla magia delle megere.
 
-Victor retains his lone 5th-level spell slot to cast *counterspell* in response to the hags' ***dispel magic*** lair action. (See **Dispel Magic** below.) If using 2024 spells, Victor retains the 5th-level spell slot for his one use of *abjure spell*.
+Victor tiene il suo unico slot di 5º livello per lanciare *controincantesimo* in risposta all'azione di tana ***dissolvi magie*** delle megere. (Vedi **Dissolvi magie** più avanti.) Se usi gli incantesimi del 2024, Victor tiene lo slot di 5º livello per il suo unico uso di *abiurare incantesimo*.
 
-***Majesto.*** In battle, Lady Wachter’s **imp** Majesto uses his ***sting*** to attack whichever hags are currently concentrating on spells.
-### The Hags' Failed Escape
-The coven conserves its ***dispel magic*** lair action for the bulk of the encounter. On her first turn after the coven's **Nightmare Three** phase is bloodied, Morgantha attempts to use her ***etherealness*** action to escape—which is prevented by Lady Wachter's binding circle. 
+***Majesto.*** In battaglia l'**imp** di Lady Wachter, Majesto, usa il ***pungiglione*** per attaccare le megere che in quel momento si stanno concentrando su un incantesimo.
+### La fuga mancata delle megere
+Per gran parte dello scontro la congrega tiene da parte l'azione di tana ***dissolvi magie***. Nel suo primo turno dopo che la fase delle **Tre dell'incubo** della congrega è sanguinante, Morgantha cerca di usare l'azione ***forma eterea*** per fuggire, ma il cerchio di vincolo di Lady Wachter glielo impedisce.
 
-> [!info]+ **Bloodied**
-> A creature is **bloodied** when reduced to half of its ordinary maximum hit points or fewer.
+> [!info]+ **Sanguinante**
+> Una creatura è **sanguinante** quando scende alla metà o meno del suo massimo normale di punti ferita.
 
-Horrified by Morgantha's failure, the coven uses its ***dispel magic*** lair action at the next available opportunity. When it does, read:
+Inorridita dal fallimento di Morgantha, la congrega usa l'azione di tana ***dissolvi magie*** alla prima occasione. Quando lo fa, leggi:
 
 <div class="description">
-<p>The air grows thick with power—and then a terrible, screeching groan cuts through the wind. As the coven's eyes glow with unified purpose, the massive vanes of the windmill begin to rotate—slowly at first, then gaining momentum, the creaking of its ancient wood melding with the grinding of its weathered gears to form a terrible cacophony.</p>
-<p>The wind betwixt the vanes shimmers with shadows, shrieking with a baleful glee as the windmill's crescendo becomes a blur of light and dark. Then, with a sound like booming thunder, a shockwave of arcane force bursts from the vanes' central joint, distorting the very air with the intensity of its power.</p>
-<p>"<em>Begone!</em>" screech the hags.</p>
+<p>L'aria si fa densa di potere, poi un gemito terribile e stridente squarcia il vento. Mentre gli occhi della congrega brillano di un unico proposito, le enormi pale del mulino cominciano a girare, prima lente, poi sempre più veloci, e lo scricchiolio del legno antico si fonde con il digrignare degli ingranaggi consumati in una cacofonia terribile.</p>
+<p>Il vento fra le pale scintilla di ombre, e strilla di una gioia sinistra mentre il crescendo del mulino diventa un vortice di luce e di buio. Poi, con un boato come di tuono, un'onda d'urto di forza arcana esplode dal perno centrale delle pale, deformando l'aria stessa con l'intensità del suo potere.</p>
+<p>«<em>Sparite!</em>» stridono le megere.</p>
 </div>
 
-[[Non-Player Characters#Victor Vallakovich|Victor]] immediately responds by casting *counterspell* at 5th level (or *abjure spell* if using 2024 spells). Read:
+[[Non-Player Characters#Victor Vallakovich|Victor]] risponde subito lanciando *controincantesimo* al 5º livello (o *abiurare incantesimo* se usi gli incantesimi del 2024). Leggi:
 
 <div class="description">
-<p>With a flourish of his hand and a whispered incantation, Victor conjures a complex tapestry of sigils and runes in the air before him. The coven's blast, a swirling maelstrom of shadows and baleful light, meets the shimmering shield of Victor's counterspell—a radiant lattice that shimmers with power.</p>
-<p>For a moment, the two forces collide in a deafening clash, a spectacle of light and dark that seems to strain the very air around it. Then, with a resonant sound like the shattering of glass, Victor's spell triumphs—and the coven's shockwave dissipates, its dark energy unraveling into harmless wisps of shadow.</p>
-<p>The hags release a bloodcurdling scream of rage, their voices melding into a single, resonant note of high-pitched fury.</p>
+<p>Con un gesto ampio della mano e un incantesimo sussurrato, Victor evoca nell'aria davanti a sé un arazzo complesso di sigilli e di rune. L'esplosione della congrega, un turbine di ombre e di luce sinistra, si scontra con lo scudo scintillante del controincantesimo di Victor, un reticolo radioso che vibra di potere.</p>
+<p>Per un istante le due forze si scontrano in un fragore assordante, uno spettacolo di luce e di buio che sembra mettere alla prova l'aria stessa. Poi, con un suono squillante come di vetro che va in frantumi, l'incantesimo di Victor ha la meglio, e l'onda d'urto della congrega si dissolve, mentre la sua energia oscura si sfilaccia in innocui fili d'ombra.</p>
+<p>Le megere lanciano un urlo di rabbia agghiacciante, e le loro voci si fondono in un'unica nota acuta e risonante di furia.</p>
 </div>
 
 ![[Victor's Counterspell.jpg]]
-<span class="credit">"Victor's Counterspell" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">«Victor's Counterspell» di Caleb Cleveland. Sostienilo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-### Morgantha's Plea
+### La supplica di Morgantha
 
-Immediately following Victor's _counterspell_, Morgantha calls for a parley, promising to reveal three pieces of secret knowledge to the players in exchange for the coven's lives. 
+Subito dopo il _controincantesimo_ di Victor, Morgantha chiede di trattare, promettendo di rivelare ai giocatori tre conoscenze segrete in cambio della vita della congrega.
 
-Morgantha initially refuses to reveal anything until Lady Wachter’s binding circle is taken down, but can be convinced to share one of her three secrets as a show of good faith if the players threaten to kill her otherwise. 
+All'inizio Morgantha si rifiuta di rivelare qualcosa finché il cerchio di vincolo di Lady Wachter non viene abbassato, ma la si può convincere a svelare uno dei tre segreti come prova di buona fede se i giocatori la minacciano di ucciderla.
 
-Morgantha's secrets are as follows:
+I segreti di Morgantha sono questi:
 
-* Strahd’s most carefully guarded secret is a temple of forbidden lore hidden in the mountains. It is known as the Amber Temple, and it is the place where he first met the entity with which he forged his terrible pact. (Morgantha doesn’t know the temple’s location or the nature of Strahd’s pact.)
-* Strahd von Zarovich seeks to escape from the grasp of the Mists. He has prepared a dark and secret plot to do so, harnessing the power of three ancient shrines to defy the will of the Dark Powers that rule this land. (Morgantha doesn’t know the specifics of his plot or the nature of the shrines, but knows that one of the three shrines is located among the circle of standing stones located at the base of the windmill’s hill.)
-* Unbeknownst to Strahd, a traitor lurks in his midst: his eldest wife and **vampire spawn** Sasha Ivliskova. (Morgantha is wildly amused by this treachery, and has taken no action to warn Strahd of her conflicted loyalties.)
+* Il segreto più gelosamente custodito di Strahd è un tempio di sapere proibito nascosto fra le montagne. Si chiama Tempio d'Ambra, ed è il luogo in cui incontrò per la prima volta l'entità con cui strinse il suo terribile patto. (Morgantha non sa dove si trovi il tempio né quale sia la natura del patto di Strahd.)
+* Strahd von Zarovich cerca di sfuggire alla presa delle Nebbie. Ha preparato un piano oscuro e segreto per farlo, sfruttando il potere di tre antichi santuari per sfidare il volere dei Poteri Oscuri che governano questa terra. (Morgantha non conosce i dettagli del suo piano né la natura dei santuari, ma sa che uno dei tre si trova fra il cerchio di pietre erette ai piedi della collina del mulino.)
+* All'insaputa di Strahd, in mezzo ai suoi si nasconde una traditrice: la sua prima moglie, la **progenie vampirica** Sasha Ivliskova. (Morgantha trova questo tradimento estremamente divertente e non ha fatto niente per avvertire Strahd della sua fedeltà vacillante.)
 
-Before the binding circle is lowered, the players can also demand that Morgantha lend them a heartstone with a successful DC 10 Charisma (Intimidation) check. If persuaded to do so, Morgantha commands Bella to produce her heartstone, which—after a loud and vehement dissent—Bella grimly offers to the players.
+Prima che il cerchio di vincolo venga abbassato, i giocatori possono anche pretendere che Morgantha presti loro una pietra del cuore, superando una prova di Carisma (Intimidire) con CD 10. Se si lascia convincere, Morgantha ordina a Bella di tirare fuori la sua pietra del cuore, che Bella, dopo una protesta rumorosa e veemente, porge di malavoglia ai giocatori.
 
-If Morgantha’s request for parley is denied, the coven fights to the death.
-## H7c. Escape From Old Bonegrinder
-If the hags knock the players unconscious, the players awaken 1d4 + 1 hours after their defeat in <span class="citation">O4. Domed Attic (p. 128)</span>. They have been gagged and bound using ragged strips torn from bed sheets and dirty clothing, which have the statistics of *hempen rope*. The two strongest members of the party have been infected with cackle fever and poisoned with *pale tincture*, respectively.
+Se la richiesta di trattare di Morgantha viene respinta, la congrega combatte fino alla morte.
+## H7c. La fuga dal Vecchio Tritaossa
+Se le megere mettono fuori combattimento i giocatori, i giocatori si risvegliano 1d4 + 1 ore dopo la sconfitta in <span class="citation">O4. Soffitta a cupola (p. 128)</span>. Sono imbavagliati e legati con strisce stracciate di lenzuola e di vestiti sporchi, che hanno le statistiche della *corda di canapa*. I due membri più forti del gruppo sono stati contagiati con la febbre ghignante e avvelenati con la *tintura pallida*.
 
-While the players’ legs are bound, they are **restrained.** While the players’ hands are bound, they move at half speed, have disadvantage on weapon attacks, and can’t use somatic components for spells. 
+Finché hanno le gambe legate, i giocatori sono **trattenuti.** Finché hanno le mani legate, si muovono a velocità dimezzata, hanno svantaggio agli attacchi con le armi e non possono usare le componenti somatiche degli incantesimi.
 
-The players find that they are also surrounded and guarded by six **dretches**, which Morgantha has summoned from the barrel of ichor in <span class="citation">O1. Ground Floor (p. 126)</span>. Their weapons, magic items, arcane or druidic focii, holy symbols, and armor have been confiscated and placed in the empty crate in <span class="citation">O3. Bedroom (p. 127)</span>.
-### Morgantha’s Interrogation
-As soon as the players awaken, Morgantha mounts the ladder to the attic and leers over them, still wearing her humanoid disguise. She chooses a player, seemingly at random (though making sure to choose the player infected with cackle fever), and removes their gag, though not their binds. 
+I giocatori scoprono anche di essere circondati e sorvegliati da sei **dretch**, che Morgantha ha evocato dal barile di icore in <span class="citation">O1. Pianterreno (p. 126)</span>. Armi, oggetti magici, focus arcani o druidici, simboli sacri e armature sono stati confiscati e messi nella cassa vuota di <span class="citation">O3. Camera da letto (p. 127)</span>.
+### L'interrogatorio di Morgantha
+Appena i giocatori si svegliano, Morgantha sale la scala a pioli fino alla soffitta e li guarda dall'alto con un ghigno, ancora travestita da umana. Sceglie un giocatore, apparentemente a caso (ma facendo in modo che sia quello contagiato dalla febbre ghignante), e gli toglie il bavaglio, ma non le corde.
 
-Morgantha then pleasantly asks them to tell her who they are and why they have come to the windmill.
+Poi Morgantha gli chiede, amabile, di dirle chi sono e perché sono venuti al mulino.
 
-***Defying Morgantha.*** If the player proves obstinate or defiant, Morgantha releases her disguise and returns to her horrifying **night hag** form. She leans in close toward that player, baring her sharp, yellowed teeth, and whispers in their ear, “Children always fancy themselves heroes in their dreams. But dreams can so easily become nightmares—and nightmares are my bread and meat.” Morgantha then casts *bestow curse* on that player, cursing their Constitution saving throws and recasting the spell if it is initially unsuccessful.
+***Sfidare Morgantha.*** Se il giocatore si mostra ostinato o insolente, Morgantha abbandona il travestimento e torna alla sua orribile forma di **megera notturna**. Si avvicina a quel giocatore mostrando i denti aguzzi e ingialliti e gli sussurra all'orecchio: «I bambini si credono sempre eroi nei loro sogni. Ma i sogni diventano incubi così facilmente, e gli incubi sono il mio pane quotidiano.» Poi lancia su quel giocatore *scagliare maledizione*, maledicendo i suoi tiri salvezza su Costituzione, e rilancia l'incantesimo se la prima volta non riesce.
 
-Once the player is cursed, Morgantha draws a single claw across that player’s cheek, making an ***unarmed strike*** against that player and choosing to deal 1 damage on a hit. (Assuming the player expended hit dice to recover hit points during a short rest while unconscious, this shouldn’t render that player unconscious.) Any damage taken forces that player to make a Constitution saving throw against the effects of cackle fever. Morgantha continues to make small scratches across the player’s flesh until the player succumbs to the effects of cackle fever, forcing all other humanoids in the attic to make DC 10 Constitution saving throws or be infected with cackle fever themselves.
+Maledetto il giocatore, Morgantha gli passa un solo artiglio sulla guancia, effettuando contro di lui un ***colpo senz'armi*** e scegliendo di infliggere 1 danno se lo colpisce. (Se il giocatore ha speso dadi vita per recuperare punti ferita durante un riposo breve mentre era privo di sensi, questo non dovrebbe fargli perdere i sensi.) Qualunque danno subito costringe quel giocatore a effettuare un tiro salvezza su Costituzione contro gli effetti della febbre ghignante. Morgantha continua a fargli piccoli graffi sulla pelle finché il giocatore non soccombe agli effetti della febbre ghignante, costringendo tutti gli altri umanoidi in soffitta a effettuare un tiro salvezza su Costituzione con CD 10, altrimenti vengono contagiati anche loro.
 
-Morgantha then warmly informs the players that there are two children imprisoned in the bedroom below. Tonight, the hags will kill them and grind their bones into flour to make more dream pastries. When the players inevitably fall asleep, the hags will ensure that they suffer horrible nightmares and gain no rest from their sleep. In the morning, the players will be fed the dream pastries made from the children’s remains and provided an additional opportunity to answer Morgantha’s questions. 
+Poi Morgantha spiega ai giocatori, con calore, che nella camera da letto di sotto ci sono due bambini prigionieri. Stanotte le megere li uccideranno e macineranno le loro ossa per farne farina per altri dolci dei sogni. Quando i giocatori, prima o poi, si addormenteranno, le megere faranno in modo che abbiano incubi orribili e che il sonno non dia loro alcun riposo. La mattina dopo daranno loro da mangiare i dolci dei sogni fatti con i resti dei bambini, e gli daranno un'altra possibilità di rispondere alle domande di Morgantha.
 
-Morgantha then wishes the players “sweet dreams”  and exits the attic, leaving the players alone in the darkness guarded by the six **dretches**. See **Escaping the Windmill** below.
+Poi Morgantha augura ai giocatori «sogni d'oro» ed esce dalla soffitta, lasciandoli soli al buio, sorvegliati dai sei **dretch**. Vedi **Fuggire dal mulino** più avanti.
 
-***Answering Morgantha.*** If the player instead confesses to plotting to kill Morgantha and steal her heartstone, she strokes the player’s cheek softly and says, “Such *brave* children you are.” She clicks her tongue, shakes her head sadly, and says, “And look where that gets you. If you wanted to borrow my heartstone, all you needed to do was ask.”
+***Rispondere a Morgantha.*** Se invece il giocatore confessa di aver tramato per uccidere Morgantha e rubarle la pietra del cuore, lei gli accarezza piano la guancia e dice: «Che bambini *coraggiosi* che siete.» Schiocca la lingua, scuote la testa con tristezza e aggiunge: «E guarda dove vi porta. Se volevate farvi prestare la mia pietra del cuore, bastava chiedere.»
 
-Morgantha is willing to bargain with the players by freeing them and lending them the use of her heartstone. She asks the ungagged player which among them is qualified to speak for the rest of the group. Morgantha then re-gags the first player, ungags the chosen player, and sweetly invites that player to join her on the ground floor below for a more in-depth and civilized discussion. She offers to unbind that player’s legs (though not their hands) as a sign of good faith, but warns them that any attempts to escape shall cause their friends to suffer gruesome punishments.
+Morgantha è disposta a trattare con i giocatori, liberandoli e prestando loro la sua pietra del cuore. Chiede al giocatore senza bavaglio chi fra loro sia autorizzato a parlare a nome del gruppo. Poi rimette il bavaglio al primo giocatore, lo toglie a quello scelto e lo invita con dolcezza a scendere con lei al pianterreno per una discussione più approfondita e civile. Come prova di buona fede si offre di slegargli le gambe (ma non le mani), ma lo avverte che qualunque tentativo di fuga costerà ai suoi amici punizioni raccapriccianti.
 
-If the player agrees to Morgantha’s terms, she unties the bindings around their legs (though not their hands) and instructs them to descend the ladder and stairs to the ground floor. Bella and Offalia are waiting to meet the player in <span class="citation">O3. Bedroom (p. 127)</span>, and roughly guide them down the stairs before sitting them down on the toad-filled trunk in <span class="citation">O1. Ground Floor (p. 126)</span>. See **Morgantha's Request** below.
-### Morgantha’s Request
-If a player agrees to bargain with Morgantha for her heartstone and the players' escape, Morgantha follows them into the ground floor kitchen. Upon entering the room, the player can immediately see that the fire in the oven has reduced to embers, casting a dim, crimson glow on a lumpy, man-shaped form wrapped in a burlap sack within. Quiet, pleading grunts occasionally escape the figure in the oven. (The figure is actually the remaining three **dretches** stacked upon one another’s shoulders, and have strict orders from Morgantha to remain in the oven and occasionally make panicked grunts.)
+Se il giocatore accetta le condizioni di Morgantha, lei gli slega le gambe (ma non le mani) e gli ordina di scendere la scala a pioli e poi le scale fino al pianterreno. Bella e Offalia lo aspettano in <span class="citation">O3. Camera da letto (p. 127)</span>, lo spingono giù per le scale con malgarbo e lo fanno sedere sul baule pieno di rospi in <span class="citation">O1. Pianterreno (p. 126)</span>. Vedi **La richiesta di Morgantha** più avanti.
+### La richiesta di Morgantha
+Se un giocatore accetta di trattare con Morgantha per la sua pietra del cuore e per la fuga dei giocatori, Morgantha lo segue nella cucina al pianterreno. Entrando nella stanza, il giocatore vede subito che il fuoco nel forno si è ridotto a braci, che gettano un fioco bagliore cremisi su una forma bitorzoluta, a forma d'uomo, avvolta in un sacco di iuta, dentro il forno. Ogni tanto dalla figura nel forno escono grugniti sommessi e imploranti. (In realtà la figura è fatta dai tre **dretch** rimasti, in piedi uno sulle spalle dell'altro, che hanno l'ordine tassativo di Morgantha di restare nel forno e di grugnire ogni tanto in preda al panico.)
 
-Morgantha thanks the player for their willingness to bargain, and praises them for their friends’ clear faith in them. Morgantha is glad to lend the players her heartstone for a period of three days. However, because the players have broken her trust by attempting to murder her and her daughters, the players must first bargain for their freedom.
+Morgantha ringrazia il giocatore per la sua disponibilità a trattare e lo loda per l'evidente fiducia che i suoi amici ripongono in lui. È felice di prestare ai giocatori la sua pietra del cuore per tre giorni. Ma poiché i giocatori hanno tradito la sua fiducia cercando di uccidere lei e le sue figlie, prima devono contrattare la loro libertà.
 
-To win their freedom, the chosen player must immediately perform a small task for Morgantha. (Once they’ve done so, Morgantha is glad to discuss the terms of any loan of her heartstone.) Additionally, as collateral to ensure that the players do not raise their hands against Morgantha or her daughters again, each of the players must willingly provide each of the three hags with a lock of hair, a nail clipping, or another part of their body. (Morgantha doesn’t reveal it to the players, but she plans to use these body parts to create a trio of protective amulets for the hags to wear. A hag wearing such an amulet is under the effects of a permanent *sanctuary* spell against any creature whose body parts are contained within the amulet.)
+Per ottenere la libertà, il giocatore scelto deve svolgere subito per Morgantha un piccolo compito. (Fatto questo, Morgantha è felice di discutere i termini del prestito della pietra del cuore.) Inoltre, come garanzia che i giocatori non alzino più le mani contro Morgantha o le sue figlie, ogni giocatore deve dare spontaneamente a ciascuna delle tre megere una ciocca di capelli, un pezzo d'unghia o un'altra parte del proprio corpo. (Morgantha non lo rivela ai giocatori, ma intende usare quelle parti del corpo per creare tre amuleti protettivi che le megere porteranno addosso. Una megera che porta un amuleto del genere è sotto l'effetto di un incantesimo *santuario* permanente contro qualunque creatura le cui parti del corpo siano contenute nell'amuleto.)
 
-***The First Task.*** If the player asks about Morgantha’s “small task” or indicates an interest in accepting the deal, Morgantha stands beside the figure in the oven and gently strokes its “cheek.” “This is Franz,” she says sweetly. “Franz has been a very bad man.” She turns to the player and rolls a bundle of kindling in her left hand as she picks up a flickering candle with her right. “Franz needs someone to punish him for his bad decisions. Will you do that for him?” She extends the kindling toward the player and smiles cheerfully as, behind her, the figure in the oven begins grunting more loudly.
+***Il primo compito.*** Se il giocatore chiede del «piccolo compito» di Morgantha o si mostra interessato ad accettare l'accordo, Morgantha si mette accanto alla figura nel forno e le accarezza piano la «guancia». «Questo è Franz», dice con dolcezza. «Franz è stato un uomo molto cattivo.» Si volta verso il giocatore e si rigira nella mano sinistra un fascio di legnetti, mentre con la destra prende una candela che tremola. «Franz ha bisogno che qualcuno lo punisca per le sue cattive scelte. Lo farai tu per lui?» Porge i legnetti al giocatore e sorride allegra, mentre alle sue spalle la figura nel forno comincia a grugnire più forte.
 
-To complete Morgantha’s task, the player must light the kindling on fire, place it in the oven, and pile the fire high with additional logs of wood, thereby burning “Franz” alive. As the oven grows hotter and the damp sack slowly catches fire, “Franz’s” grunts grow faster and more desperate, the figure wriggling until it finally falls still. The entire process takes a little less than five minutes once begun. 
+Per svolgere il compito di Morgantha, il giocatore deve accendere i legnetti, metterli nel forno e ammucchiare sul fuoco altri ceppi, bruciando così vivo «Franz». Mentre il forno si scalda e il sacco umido prende fuoco a poco a poco, i grugniti di «Franz» si fanno più rapidi e disperati, e la figura si dimena finché non resta immobile. Una volta cominciato, tutto dura poco meno di cinque minuti.
 
-If the player agrees to complete Morgantha’s task, Bella unties the binding around the player’s hands and directs them to begin. As the player works, Morgantha praises them, saying, “Everything becomes as it should. The hero, bringing justice to the villain.” Throughout the process, Bella and Offalia giggle and clap their hands, encouraging the player to work faster and faster. 
+Se il giocatore accetta di svolgere il compito di Morgantha, Bella gli slega le mani e gli ordina di cominciare. Mentre il giocatore lavora, Morgantha lo loda: «Tutto torna com'è giusto che sia. L'eroe che porta giustizia al cattivo.» Per tutto il tempo Bella e Offalia ridacchiano e battono le mani, incitando il giocatore ad andare sempre più veloce.
 
-***The Second Task.*** When "Franz" finally dies, Morgantha claps the player on the shoulder and says, "Well done. How did it feel, dearie, to bring justice to a man like that?" 
+***Il secondo compito.*** Quando «Franz» finalmente muore, Morgantha dà una pacca sulla spalla al giocatore e dice: «Ben fatto. Che effetto ti ha fatto, tesoro, portare giustizia a un uomo così?»
 
-Regardless of the player's answer, Morgantha then provides the player with a pair of scissors and asks them to complete the second part of their deal: to willingly provide a lock of hair, nail clipping, or other small body part, and to convince their friends to do the same. 
+Qualunque cosa risponda il giocatore, Morgantha gli dà poi un paio di forbici e gli chiede di completare la seconda parte dell'accordo: dare spontaneamente una ciocca di capelli, un pezzo d'unghia o un'altra piccola parte del corpo e convincere gli amici a fare lo stesso.
 
-If the players fulfill this part of the deal, Morgantha distributes the body parts among three glass vials, with each vial carrying a piece of each player’s contribution. A hag wearing such a vial is under the effects of a permanent *sanctuary* spell against any creature whose body parts are contained within it. 
+Se i giocatori rispettano questa parte dell'accordo, Morgantha distribuisce le parti del corpo in tre fiale di vetro, in ognuna delle quali c'è un pezzo di ciò che ha dato ciascun giocatore. Una megera che porta una di queste fiale è sotto l'effetto di un incantesimo *santuario* permanente contro qualunque creatura le cui parti del corpo siano contenute nella fiala.
 
-Morgantha distributes the vials to herself and her daughters, and then directs Bella and Offalia to release the players and lead them down to the kitchen.
+Morgantha distribuisce le fiale a sé e alle figlie, poi ordina a Bella e Offalia di liberare i giocatori e di portarli giù in cucina.
 
-> [!abstract]+ **A Twinge of Conscience**
+> [!abstract]+ **Un rimorso di coscienza**
 >
-> If the player refuses to complete Morgantha’s task, intentionally delays the process, or attempts to flee, the coven attacks. As the player falls into unconsciousness, Morgantha strokes their hair and whispers, "A pity. I'd thought of you as stronger stock. We'll have to try again tomorrow." The player later awakens back in the attic with the others. Proceed to **Escaping the Windmill** below.
+> Se il giocatore si rifiuta di svolgere il compito di Morgantha, rallenta di proposito o cerca di fuggire, la congrega attacca. Mentre il giocatore perde i sensi, Morgantha gli accarezza i capelli e sussurra: «Peccato. Ti credevo di una pasta più forte. Riproveremo domani.» Il giocatore si risveglia più tardi in soffitta con gli altri. Passa a **Fuggire dal mulino** più avanti.
 
-***The Bargain.*** If the player completes Morgantha’s request and successfully delivers the body parts she needs to craft her protective amulets, she is willing to lend them her hearthstone for a period of three days in exchange for a promise to undertake a particular task. The players must deliver a **soul leech**—a Tiny **fiend** resembling a leech with ghost-white, translucent flesh and purple-blue veins, and which Morgantha has imprisoned in a corked glass vial—to the office of Strahd’s chamberlain, Rahadin. Upon arriving in Rahadin’s office, the players must uncork the vial and allow the leech to attach itself to the underside of his desk, where it will render itself invisible and virtually undetectable. 
+***Il patto.*** Se il giocatore svolge il compito di Morgantha e le consegna le parti del corpo che le servono per gli amuleti protettivi, lei è disposta a prestare ai giocatori la sua pietra del cuore per tre giorni in cambio della promessa di svolgere un compito preciso. I giocatori devono portare una **sanguisuga d'anime**, un **immondo** Minuscolo che somiglia a una sanguisuga dalla carne traslucida, bianca come un fantasma, e dalle vene viola-azzurre, che Morgantha tiene prigioniera in una fiala di vetro tappata, nello studio del ciambellano di Strahd, Rahadin. Arrivati nello studio di Rahadin, devono stappare la fiala e lasciare che la sanguisuga si attacchi sotto la sua scrivania, dove si renderà invisibile e praticamente impossibile da individuare.
 
-The players can convince Morgantha to reveal her plans for the leech with a DC 10 Charisma (Persuasion) check: When Rahadin returns, the leech will secretly attach itself to his flesh, ensuring that—when Rahadin eventually dies—his evil soul will be ensnared and entrapped in Morgantha’s *soul bag,* where it will be transformed into a **soul larva** that Morgantha can use for nefarious purposes.
+I giocatori possono convincere Morgantha a rivelare i suoi piani per la sanguisuga con una prova di Carisma (Persuasione) con CD 10: quando Rahadin tornerà, la sanguisuga gli si attaccherà di nascosto alla carne, così che, quando alla fine Rahadin morirà, la sua anima malvagia resterà presa e intrappolata nel *sacco delle anime* di Morgantha, dove si trasformerà in una **larva d'anima** che Morgantha potrà usare per scopi malvagi.
 
-Morgantha can tell the players that Rahadin’s office is located in the cellar of Castle Ravenloft, not far from the kitchens. However, Morgantha won’t share where she obtained her information. (Her source is, of course, the **mongrelfolk** Cyrus Belview, the unwitting bearer of the coven’s *hag eye.*)
+Morgantha può dire ai giocatori che lo studio di Rahadin si trova nei sotterranei del Castello di Ravenloft, non lontano dalle cucine. Non rivela però da dove ha avuto l'informazione. (La sua fonte è, naturalmente, il **meticcio** Cyrus Belview, che porta senza saperlo l'*occhio della megera* della congrega.)
 
-As a form of insurance to ensure the players’ compliance, Morgantha takes their dreams as collateral once they accept her offer, bottling them up in a glass vial that she wears on a cord around her neck.
+Come garanzia che i giocatori rispettino l'accordo, una volta accettata l'offerta Morgantha si prende in pegno i loro sogni, che imbottiglia in una fiala di vetro appesa a un cordino al collo.
 
-Morgantha warns the players that, if they fail to complete her task within fourteen days, fail to return the heartstone within three days, or betray her, she will immediately devour their dreams, preventing them from gaining the benefits of a long rest forever. (Morgantha can devour the players’ dreams as an action while the vial is in her possession.)
+Morgantha avverte i giocatori che, se non svolgono il compito entro quattordici giorni, se non restituiscono la pietra del cuore entro tre giorni o se la tradiscono, divorerà subito i loro sogni, e non potranno mai più godere dei benefici di un riposo lungo. (Morgantha può divorare i sogni dei giocatori come azione, finché ha con sé la fiala.)
 
-If the players complete Morgantha's task within the allotted time, however, she will release their dreams and allow them to return to their owners. In either case, the players can take long rests normally until the fourteen days have elapsed.
+Se invece i giocatori svolgono il compito di Morgantha nel tempo stabilito, lei libera i loro sogni e li lascia tornare ai legittimi proprietari. In entrambi i casi, finché non sono passati i quattordici giorni, i giocatori possono fare riposi lunghi normalmente.
 
-> [!info]+ **Curing Cackle Fever**
-> Players infected with cackle fever can use Morgantha's heartstone to cure their illness as described in <span class="citation">Night Hag (<em>Monster Manual</em>, p. 178)</span>
-### Escaping the Windmill
-If Morgantha abandons the players in the windmill attic, they are approached shortly thereafter by Lady Wachter’s **imp**, Majesto, in his invisible **spider** form. Majesto whispers the following information to the players:
+> [!info]+ **Curare la febbre ghignante**
+> I giocatori contagiati dalla febbre ghignante possono usare la pietra del cuore di Morgantha per guarire, come descritto in <span class="citation">Megera notturna (<em>Manuale dei Mostri</em>, p. 178)</span>
+### Fuggire dal mulino
+Se Morgantha abbandona i giocatori nella soffitta del mulino, poco dopo si avvicina a loro l'**imp** di Lady Wachter, Majesto, in forma di **ragno** invisibile. Majesto sussurra ai giocatori queste informazioni:
 
-* The creatures guarding the players are **dretches**—dull-witted, repulsive demons with an ability to exude a fetid cloud of disgusting green gas when disturbed, which will surely alert the hags if triggered. However, the only language they speak is Abyssal, and their sense of hearing is quite poor, allowing the players and Majesto to scheme without the dretches noticing. (Majesto, a devil, finds the dretches disgusting and unpleasantly uncivilized.)
-* Lady Wachter, her cultists, and (if he wasn’t captured) [[Non-Player Characters#Victor Vallakovich|Victor]] are hidden in a grove a short ways away from the windmill. They’re glad to help the players escape if possible, though Lady Wachter isn’t confident in their ability to face the hags in open combat. 
-* While he’s here, Majesto is glad to serve as a distraction or helping hand, whichever the players require. (Majesto is quite selfish, however, and will refuse any course of action that might lead to his death—despite Lady Wachter’s ability to resummon him—unless the players remind him of their mission to save Stella Wachter and succeed on a DC 15 Charisma (Persuasion) check.)
+* Le creature che sorvegliano i giocatori sono **dretch**: demoni ottusi e ripugnanti, capaci di emanare, se disturbati, una nube fetida di disgustoso gas verde che di sicuro metterebbe in allarme le megere. Però parlano solo l'Abissale e ci sentono poco, quindi i giocatori e Majesto possono tramare senza che i dretch se ne accorgano. (Majesto, che è un diavolo, trova i dretch disgustosi e sgradevolmente incivili.)
+* Lady Wachter, i suoi cultisti e (se non è stato catturato) [[Non-Player Characters#Victor Vallakovich|Victor]] sono nascosti in un boschetto poco lontano dal mulino. Se possono, aiutano volentieri i giocatori a fuggire, anche se Lady Wachter non è sicura che siano in grado di affrontare le megere in campo aperto.
+* Finché è lì, Majesto fa volentieri da diversivo o dà una mano, come serve ai giocatori. (Majesto però è molto egoista, e rifiuta qualunque piano che possa portarlo alla morte, nonostante Lady Wachter possa rievocarlo, a meno che i giocatori non gli ricordino la missione di salvare Stella Wachter e superino una prova di Carisma (Persuasione) con CD 15.)
 
-Every twenty minutes, two of the six **dretches** guarding the players return to the barrel of ichor and dissolve, whereupon Morgantha knocks on the barrel, summoning them anew, and sends them back to guard the players. (This “recycling” process takes approximately five minutes each time.)
+Ogni venti minuti, due dei sei **dretch** che sorvegliano i giocatori tornano al barile di icore e si dissolvono; Morgantha allora bussa sul barile, li rievoca e li rimanda a sorvegliare i giocatori. (Questo «riciclo» dura ogni volta circa cinque minuti.)
 
-Shortly after dusk, Morgantha vanishes from the windmill, entering the Ethereal Plane to torment Franz in the Barovian refugee camp. Bella and Offalia remain in **O3. Bedroom** to guard Myrtle and Fyodor, taunting them with tales of their imminent and terrible deaths to pass the time. 
+Poco dopo il tramonto Morgantha sparisce dal mulino ed entra nel Piano Etereo per tormentare Franz al campo dei profughi baroviani. Bella e Offalia restano in **O3. Camera da letto** a sorvegliare Myrtle e Fyodor e per passare il tempo li tormentano con racconti della loro morte imminente e terribile.
 
-Unlike their mother, Bella and Offalia are easily distracted. They can be lured to <span class="citation">O2. Bone Mill (p. 127)</span> or <span class="citation">O4. Domed Attic (p. 127)</span> with a successful DC 13 Charisma (Performance) check and any reasonably relevant means (e.g., a *minor illusion* spell). If rescued, Fyodor and Myrtle have no particular knowledge of Ireena or Ismark, and wish only to be returned to their father, Franz.
+A differenza della madre, Bella e Offalia si distraggono facilmente. Le si può attirare in <span class="citation">O2. Macina delle ossa (p. 127)</span> o in <span class="citation">O4. Soffitta a cupola (p. 127)</span> superando una prova di Carisma (Intrattenere) con CD 13 e con un qualsiasi mezzo ragionevolmente adatto (per esempio un incantesimo *illusione minore*). Se vengono salvati, Fyodor e Myrtle non sanno niente di particolare su Ireena o Ismark e vogliono solo tornare dal padre, Franz.
 
-If the players do not escape and rescue Myrtle and Fyodor by midnight, Morgantha returns soon thereafter and uses her ***Innate Spellcasting*** to put the children to sleep. Bella and Offalia then slit the children’s throats, skin them, and grind their bones between the millstones in **O2. Bone Mill.** As they do, the vanes of the windmill turn, whipping through the chill night air of the hilltop as the hags perform their gruesome work.
-### Finding a Cure
-As noted in **Cackle Fever** (*Dungeon Master’s Guide*, p. 257), the disease of cackle fever can be cured in one of two ways:
+Se entro mezzanotte i giocatori non sono fuggiti e non hanno salvato Myrtle e Fyodor, Morgantha torna poco dopo e usa i suoi ***Incantesimi innati*** per far addormentare i bambini. Poi Bella e Offalia sgozzano i bambini, li scuoiano e ne macinano le ossa fra le macine di **O2. Macina delle ossa.** Mentre lo fanno, le pale del mulino girano e sferzano l'aria gelida della notte sulla collina, mentre le megere compiono il loro lavoro raccapricciante.
+### Trovare una cura
+Come indicato in **Febbre ghignante** (*Guida del Dungeon Master*, p. 257), la febbre ghignante si può curare in due modi:
 
-* By making successful Constitution saving throws each night until the saving throw DC for the disease drops to 0.
-* By using magic capable of curing diseases, such as a paladin’s ***lay on hands*** or a **deva’s** ***healing touch.***
+* superando ogni notte i tiri salvezza su Costituzione finché la CD del tiro salvezza della malattia non scende a 0;
+* con una magia in grado di curare le malattie, come l'***imposizione delle mani*** di un paladino o il ***tocco guaritore*** di un **deva**.
 
-> [!info]+ **If the Players Escape**
+> [!info]+ **Se i giocatori fuggono**
 >
-> If Bella or Offalia find that the players and children have successfully escaped Old Bonegrinder, the two hags split up to search the woods around the windmill, desperate to avoid Morgantha’s wrath when she learns that her playthings have been lost. If attacked, however, Bella and Offalia immediately withdraw into the Ethereal Plane and return to the windmill to await their mother’s instructions.
+> Se Bella o Offalia scoprono che i giocatori e i bambini sono riusciti a fuggire dal Vecchio Tritaossa, le due megere si separano per cercarli nei boschi intorno al mulino, disperate di evitare l'ira di Morgantha quando scoprirà che i suoi giocattoli sono spariti. Se vengono attaccate, però, Bella e Offalia si ritirano subito nel Piano Etereo e tornano al mulino ad aspettare gli ordini della madre.
 >
-> That night, and each night thereafter, the three hags scry the players’ current location, using hair clippings taken from one of the players while they were unconscious in the attic.
+> Quella notte, e ogni notte successiva, le tre megere scrutano con la magia la posizione dei giocatori, usando le ciocche di capelli tagliate a uno dei giocatori mentre era privo di sensi in soffitta.
 >
-> Whenever the coven successfully scries the players’ location, the hags proceed to use their **_nightmare haunting_** features on three separate players. As they do, the hags whisper through the nightmares that the players can end their torment by returning Fyodor and Myrtle to the windmill. (If the players do so, the hags honor their word and cease haunting the party thereafter.)
+> Ogni volta che la congrega riesce a scrutare la posizione dei giocatori, le megere usano la loro ***infestazione degli incubi*** su tre giocatori diversi. Mentre lo fanno, sussurrano attraverso gli incubi che i giocatori possono porre fine al tormento riportando Fyodor e Myrtle al mulino. (Se i giocatori lo fanno, le megere mantengono la parola e da quel momento smettono di tormentare il gruppo.)
 
-The players can identify these remedies, as well as the symptoms of cackle fever, with a successful DC 15 Wisdom (Medicine) check or by asking Lady Wachter for a diagnosis.
+I giocatori possono riconoscere questi rimedi, e i sintomi della febbre ghignante, superando una prova di Saggezza (Medicina) con CD 15 o chiedendo una diagnosi a Lady Wachter.
 
-Though the players cannot find healing magic capable of curing cackle fever in Vallaki, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]], [[Non-Player Characters#Urwin Martikov|Urwin Martikov]], [[Non-Player Characters#Danika Dorakova|Danika Dorakova]], and [[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]] can all inform them that the Abbot of the Abbey of Saint Markovia in Krezk is said to be a masterful healer—perhaps even capable of curing their disease by magical means.
+A Vallaki i giocatori non trovano una magia di guarigione in grado di curare la febbre ghignante, ma [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]], [[Non-Player Characters#Urwin Martikov|Urwin Martikov]], [[Non-Player Characters#Danika Dorakova|Danika Dorakova]] e [[Non-Player Characters#Father Lucian Petrovich|padre Lucian Petrovich]] possono tutti dire loro che l'Abate dell'Abbazia di Santa Markovia, a Krezk, ha fama di guaritore straordinario, forse persino capace di curare la loro malattia con la magia.
 
-If the players choose to travel to Krezk, they will need to first gain passage through its gates. See [[Arc I - The Walls of Krezk]] for more information regarding the players’ journey to Krezk and the means by which they can gain entry into the village.
-# H8. The Ritual
-Once the players have obtained a *heartstone*, they will need a location at which to perform the *etherealness* and restoration rituals, which must take place on the night of the full moon. 
+Se i giocatori decidono di andare a Krezk, dovranno prima farsi aprire le porte del villaggio. Per il viaggio dei giocatori a Krezk e per il modo di entrare nel villaggio vedi l'[[Arc I - The Walls of Krezk|Arco I: Le mura di Krezk]].
+# H8. Il rituale
+Quando i giocatori hanno ottenuto una *pietra del cuore*, avranno bisogno di un luogo dove celebrare il rituale di *forma eterea* e quello di restituzione, che vanno celebrati la notte di luna piena.
 ![[Heartstone.png]]
-<span class="credit">"Heartstone" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">«Heartstone» di Caleb Cleveland. Sostienilo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-[[Non-Player Characters#Victor Vallakovich|Victor]] informs the players that he will need access to a leyline—a font of natural magic—in order to fuel the *etherealness* ritual. If she is present, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] informs the players that the cellar of Wachterhaus was built atop one such leyline, and offers its use for the ritual. Otherwise, Victor sheepishly informs the players that he has identified a leyline that runs through Vallaki—and that he believes it to lie somewhere beneath Wachterhaus.
+[[Non-Player Characters#Victor Vallakovich|Victor]] informa i giocatori che gli serve una linea di forza, una sorgente di magia naturale, per alimentare il rituale di *forma eterea*. Se è presente, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] spiega ai giocatori che la cantina di Wachterhaus è stata costruita proprio sopra una di queste linee e la mette a disposizione per il rituale. Altrimenti Victor confessa imbarazzato di aver individuato una linea di forza che attraversa Vallaki, e di credere che passi da qualche parte sotto Wachterhaus.
 
-If present, Lady Wachter first disables the protective circle around Wachterhaus in order to allow creatures to pass through the boundary of the Ethereal Plane. She then leads the players and Victor to <span class="citation">N4t. Cult Headquarters (p. 114)</span>, setting her **cult fanatics** to guard the cellar entrances. Otherwise, the players must gain access to the Wachterhaus cellar themselves, whereupon Victor leads them to **N4t. Cult Headquarters** to enact the ritual.
+Se è presente, Lady Wachter disattiva per prima cosa il cerchio protettivo intorno a Wachterhaus, perché le creature possano attraversare il confine del Piano Etereo. Poi accompagna i giocatori e Victor in <span class="citation">N4t. Quartier generale del culto (p. 114)</span> e mette i suoi **fanatici del culto** di guardia agli ingressi della cantina. Altrimenti i giocatori devono entrare da soli nella cantina di Wachterhaus, e poi Victor li porta in **N4t. Quartier generale del culto** per celebrare il rituale.
 
-The inside of the chamber is largely as described in **N4t. Cult Headquarters**. However, modify the descriptive text to read as follows:
+L'interno della stanza è più o meno come descritto in **N4t. Quartier generale del culto**. Modifica però il testo descrittivo così:
 
 <div class="description">
-<p>Flickering candles in iron holders fill this room with light and shadows. This room has a ten-foot-high ceiling and a large black pentagram inscribed on the stone floor. At each point of the pentagram rests a wooden chair.</p>
-<p>Thousands of gouges and scratches line the stone walls around the circle, many stained with faded blood centuries old. The far wall of the chamber bears a three-foot tall carving of a dagger with a curved hilt, with the phrase <em>In Silence, Death</em> carved in twelve-inch letters immediately below it. As you take in the scratches along the walls and ceiling, you notice that most form a particular word, endlessly repeated in the ancient stonework: <em>Traitor.</em></p>
+<p>Candele tremolanti in portacandele di ferro riempiono questa stanza di luci e di ombre. Il soffitto è alto 3 m e sul pavimento di pietra è inciso un grande pentagramma nero. A ogni punta del pentagramma c'è una sedia di legno.</p>
+<p>Migliaia di solchi e di graffi segnano le pareti di pietra intorno al cerchio, molti macchiati di sangue sbiadito vecchio di secoli. Sulla parete di fondo è scolpito un pugnale dall'elsa ricurva alto 90 cm, e subito sotto, in lettere alte 30 cm, la frase <em>Nel silenzio, la morte</em>. Osservando i graffi sulle pareti e sul soffitto, notate che quasi tutti formano una parola precisa, ripetuta all'infinito nella pietra antica: <em>Traditrice.</em></p>
 </div>
 
 ![[Leo's Dagger.png]]
-<span class="credit">"Leo's Dagger" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">«Leo's Dagger» di Caleb Cleveland. Sostienilo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-Leo Dilisnya used his vampiric claws to carve these words and images into the stone. The phrase “In Silence, Death” is the motto of the Ba’al Verzi, the secret assassins’ guild to which Leo belonged.
+Queste parole e queste immagini le ha incise nella pietra Leo Dilisnya con i suoi artigli da vampiro. La frase «Nel silenzio, la morte» è il motto dei Ba'al Verzi, la gilda segreta di assassini a cui apparteneva Leo.
 
-Lady Wachter can inform the players that, when she was a child, her parents warned her of a monster that dwelled in the cellar: a terrible creature of ancient hungers and hatreds that longed to be set free. When she inherited the estate following her family’s deaths and descended to the basement, however, Lady Wachter found the room to be empty, with no evidence of any creature but the scratches on the walls. 
+Lady Wachter può raccontare ai giocatori che, quando era bambina, i genitori la mettevano in guardia da un mostro che viveva in cantina: una creatura terribile, piena di fami e di odi antichi, che smaniava di essere liberata. Quando però ha ereditato la tenuta dopo la morte della famiglia ed è scesa nel seminterrato, Lady Wachter ha trovato la stanza vuota, senza traccia di nessuna creatura a parte i graffi sulle pareti.
 
-Lady Wachter has been unable to remove the scratches and carvings, despite her best efforts. Though she has no great love for the chamber, she has confirmed that the carvings and stones conceal no magic or hostile creatures, and has found it to be a useful and indispensably secure location.
-## H8a. The *Etherealness* Ritual
-<span class="citation"><em>This scene takes place in Chapter 5: Area N4t.</em></span>
+Lady Wachter non è riuscita a cancellare i graffi e le incisioni, nonostante tutti i suoi sforzi. Non ama particolarmente quella stanza, ma ha verificato che le incisioni e le pietre non nascondono né magie né creature ostili, e l'ha trovata un luogo utile e sicuro, ormai indispensabile.
+## H8a. Il rituale di *forma eterea*
+<span class="citation"><em>Questa scena si svolge nel Capitolo 5: Area N4t.</em></span>
 
-If Lady Wachter is not with the players, [[Non-Player Characters#Victor Vallakovich|Victor]] expresses surprise at the presence of the pentagram, noting with some awe that he could easily repurpose it for the purposes of the *etherealness* ritual. If [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] is with the players, she offers the pentagram for use in the ritual, which Victor gladly accepts.
+Se Lady Wachter non è con i giocatori, [[Non-Player Characters#Victor Vallakovich|Victor]] si stupisce di trovare il pentagramma e osserva con una certa meraviglia che potrebbe facilmente riadattarlo per il rituale di *forma eterea*. Se [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] è con i giocatori, mette lei a disposizione il pentagramma per il rituale, e Victor accetta volentieri.
 
-Victor then places the *heartstone* at the center of the pentagram and directs the players to stand just inside the edge of the pentagram circle. If Lady Wachter is with the players, she rolls up her sleeves and enters the circle with them. If challenged, she gives the players a cool, steely look and says, “Of course I’m coming to get my little girl.”
+Poi Victor mette la *pietra del cuore* al centro del pentagramma e chiede ai giocatori di mettersi appena dentro il bordo del cerchio del pentagramma. Se Lady Wachter è con i giocatori, si rimbocca le maniche ed entra nel cerchio con loro. Se qualcuno obietta, guarda i giocatori con freddezza d'acciaio e dice: «Certo che vengo a prendere la mia bambina.»
 
-> [!abstract]+ **Fiona's Absence**
-> If the players attempt the ritual without Lady Wachter's assistance, the *etherealness* ritual fails. However, the disturbance draws Lady Wachter to the scene, where she can inform the players—if told and persuaded of their mission—that Wachterhaus's protective circle must first be lowered in order to allow creatures to pass into and out of the Ethereal Plane.
+> [!abstract]+ **L'assenza di Fiona**
+> Se i giocatori tentano il rituale senza l'aiuto di Lady Wachter, il rituale di *forma eterea* fallisce. Il trambusto però attira sul posto Lady Wachter, che, se le raccontano la loro missione e la convincono, può spiegare ai giocatori che prima bisogna abbassare il cerchio protettivo di Wachterhaus, perché le creature possano entrare nel Piano Etereo e uscirne.
 
-When the players are ready to begin, Victor retrieves his copy of *Ethereal Entities* from a pocket in his cloak, using his *mage hand* spell to hold it open before him. Read:
+Quando i giocatori sono pronti a cominciare, Victor tira fuori da una tasca del mantello la sua copia di *Entità eteree* e la tiene aperta davanti a sé con il suo incantesimo *mano magica*. Leggi:
 
 <div class="description">
-<p>Victor stands just inside the edge of the runic circle, his head bowed as he reads aloud from the old tome that floats before him. Though his right hand shakes and trembles, his left is steady and precise as he draws delicate patterns through the musty air, leaving spiraling trails of pale white light in his finger's wake.</p>
-<p>He begins to chant under his breath—slowly, at first, then slowly rising in volume and speed. At the center of the circle, the hag's heartstone seems to hum with a subsonic energy that you feel rather than hear.</p>
-<p>Suddenly, you feel it—a deep shudder of the world beneath your feet, as if the stone floor had momentarily rippled like quicksilver. A thin, white light, mottled with black, inky shadow begins to shine forth from the cracks between the cobblestones, pulsing as if beating in time to a deep, distant heart.</p>
-<p>The heartstone trembles, then snaps to a perfect, unnatural angle, perfectly perpendicular to the ground below. Its obsidian sheen is replaced by a spectral luminescence that flickers in rhythm with the words of the ritual. Victor's voice grows louder, stronger, ringing clearly through the air as the world seems to quiet around him, the air bending closer as if to listen.</p>
-<p>The heartstone begins to lift into the air, its surface flashing with a brilliant pearlescence. Even as it does, however, mist roils at the corners of the room, inaudible whispers echoing from its wispy depths. The room begins to quake, the brightness beneath the stone floor flickering between shadow and light.</p>
-<p>Suddenly, a dark shadow flashes across the walls—a wispy, humanoid shape. It is tall, gaunt, and hooded, its limbs unnaturally long as it reaches its dark claws out toward the circle. Sweat beads across Victor's forehead and his voice quavers, nearly slipping. But he continues to read, his left hand a blur of motion and light as the ritual reaches a crescendoing peak.</p>
-<p>Victor's voice cuts through the air, uttering a final, triumphant syllable. The clawed shadow vanishes—just as the arcane power in the air surges.</p>
-<p>The next moment is not so much a step as a lurch, a sensation like being jerked forward by your navel. Your vision warps as if you've plunged underwater, and you can feel your form shifting and rising into the air, like drifting in a dream.</p>
-<p>And then—the disorientation ends, and the world settles back into place. The chamber around you remains, but now it seems ethereal, faded, and near-translucent. The air around you feels thinner, almost intangible, and clouds of silver-gray mist hang like veils in every direction.</p>
+<p>Victor sta appena dentro il bordo del cerchio runico, a capo chino e legge ad alta voce dal vecchio volume che fluttua davanti a lui. La mano destra gli trema, ma la sinistra è ferma e precisa mentre traccia disegni delicati nell'aria che sa di muffa, lasciando dietro al dito scie a spirale di luce bianca e pallida.</p>
+<p>Comincia a salmodiare sottovoce, prima lentamente, poi sempre più forte e veloce. Al centro del cerchio la pietra del cuore della megera sembra vibrare di un'energia subsonica che più che sentire percepite.</p>
+<p>All'improvviso lo sentite: un tremito profondo del mondo sotto i vostri piedi, come se il pavimento di pietra si fosse increspato per un istante come argento vivo. Una sottile luce bianca, screziata di un'ombra nera come l'inchiostro, comincia a filtrare dalle fessure fra le pietre, pulsando come al ritmo di un cuore profondo e lontano.</p>
+<p>La pietra del cuore trema, poi scatta in un angolo perfetto e innaturale, esattamente perpendicolare al suolo. Il suo lucore d'ossidiana lascia il posto a una luminescenza spettrale che tremola al ritmo delle parole del rituale. La voce di Victor si fa più alta e più forte, e risuona chiara nell'aria mentre il mondo intorno a lui sembra zittirsi, e l'aria si piega più vicina come per ascoltare.</p>
+<p>La pietra del cuore comincia a sollevarsi in aria, con la superficie che brilla di una madreperla abbagliante. Proprio in quel momento, però, la nebbia ribolle negli angoli della stanza, e dalle sue profondità evanescenti arrivano sussurri impercettibili. La stanza comincia a tremare, e la luce sotto il pavimento di pietra oscilla fra ombra e chiarore.</p>
+<p>All'improvviso un'ombra scura guizza sulle pareti: una sagoma umanoide evanescente. È alta, scarna e incappucciata, con arti innaturalmente lunghi, e allunga i suoi artigli scuri verso il cerchio. La fronte di Victor si imperla di sudore e la sua voce trema, quasi gli scivola via. Ma lui continua a leggere, con la mano sinistra ridotta a un turbine di movimento e di luce mentre il rituale arriva al culmine.</p>
+<p>La voce di Victor squarcia l'aria pronunciando un'ultima sillaba trionfale. L'ombra artigliata svanisce, proprio mentre il potere arcano nell'aria si impenna.</p>
+<p>Il momento dopo non è tanto un passo quanto uno strattone, la sensazione di venire tirati in avanti per l'ombelico. La vista vi si deforma come se vi foste tuffati sott'acqua, e sentite la vostra forma mutare e sollevarsi in aria, come se fluttuaste in un sogno.</p>
+<p>E poi lo smarrimento finisce, e il mondo torna al suo posto. La stanza intorno a voi c'è ancora, ma ora sembra eterea, sbiadita, quasi trasparente. L'aria intorno a voi è più rarefatta, quasi impalpabile, e nubi di foschia grigio argento pendono come veli in ogni direzione.</p>
 </div>
 
-The players have arrived in the Ethereal Plane. 
+I giocatori sono arrivati nel Piano Etereo.
 
-Neither Victor nor Lady Wachter know what the dark shadow was, though Victor can confirm that it appeared to be attempting to interfere with the ritual somehow. There’s no sign of it now, however.
+Né Victor né Lady Wachter sanno che cosa fosse l'ombra scura, anche se Victor può confermare che sembrava cercare di interferire in qualche modo con il rituale. Ora però non se ne vede traccia.
 
-> [!info]+ **Welcome to the Ethereal Plane**
+> [!info]+ **Benvenuti nel Piano Etereo**
 >
-> While the players are in the Ethereal Plane, the following rules govern their vision and movement:
+> Finché i giocatori sono nel Piano Etereo, la loro vista e il loro movimento seguono queste regole:
 >
-> - All solid objects in the Material Plane, such as furniture and walls, have a translucent, semi-intangible reflection in the Ethereal Plane. Moving the object in the Ethereal Plane moves the object in the Material Plane as well.
-> - Walls and other solid objects reflected in the Ethereal Plane provide light obscurement and half-cover to creatures behind them. A creature in the Ethereal Plane can move through those reflections as if they were difficult terrain, but take 5 (1d10) force damage if it ends its turn inside an object.
-> - A creature in the Ethereal Plane gains a fly (hover) speed equal to its normal speed.
+> - Tutti gli oggetti solidi del Piano Materiale, come mobili e pareti, hanno nel Piano Etereo un riflesso trasparente e semi-intangibile. Spostare l'oggetto nel Piano Etereo lo sposta anche nel Piano Materiale.
+> - Le pareti e gli altri oggetti solidi riflessi nel Piano Etereo danno alle creature che stanno dietro un oscuramento leggero e mezza copertura. Una creatura nel Piano Etereo può attraversare quei riflessi come se fossero terreno difficile, ma se termina il turno dentro un oggetto subisce 5 (1d10) danni da forza.
+> - Una creatura nel Piano Etereo ottiene una velocità di volare (fluttuare) pari alla sua velocità normale.
 > 
-> In addition, incorporeal creatures such as **ghosts** or **specters** become corporeal while in the Ethereal Plane, and lose any damage resistances to acid, cold, fire, lightning, thunder, bludgeoning, piercing, or slashing damage. (These creatures can still pass through the ghostly reflections of objects in the Ethereal Plane, like any other creature.)
-## H8b. The Restoration Ritual
-After a few moments have passed, the players hear a teenaged girl's voice behind them, joyous and triumphant as it exclaims, "*Victor!*"
+> Inoltre le creature incorporee come i **fantasmi** o gli **spettri** diventano corporee nel Piano Etereo, e perdono le resistenze ai danni da acido, freddo, fuoco, fulmine, tuono, contundenti, perforanti o taglienti. (Queste creature possono comunque attraversare i riflessi spettrali degli oggetti nel Piano Etereo, come qualunque altra creatura.)
+## H8b. Il rituale di restituzione
+Dopo qualche istante i giocatori sentono alle loro spalle la voce di una ragazza, gioiosa e trionfante, che esclama: «*Victor!*»
 
-The voice belongs to the **specter** of the sixteen-year-old Stella Wachter, who floats down to the players from ten feet above the ground. Stella appears largely as she does in life, though her body is translucent and her legs below the knees have begun to fade into mist.
+La voce è dello **spettro** di Stella Wachter, sedici anni, che scende fluttuando verso i giocatori da 3 m d'altezza. Stella ha più o meno l'aspetto che aveva in vita, ma il suo corpo è trasparente e le gambe, dalle ginocchia in giù, hanno cominciato a sfumare nella nebbia.
 
-> [!profile]+ **Profile: Stella Wachter**
-> **Roleplaying Information.**
-> ***Resonance.*** Stella should inspire sympathy for her guilt over causing such anxiety and pain to her family and Victor; endearment for her chipper, optimistic attitude; and gratitude for her steadfast faith in the players.
+> [!profile]+ **Profilo: Stella Wachter**
+> **Interpretazione**
+> ***Risonanza.*** Stella deve suscitare compassione per il senso di colpa che prova per aver causato tanta ansia e tanto dolore alla famiglia e a Victor, affetto per il suo carattere vivace e ottimista e gratitudine per la sua fiducia incrollabile nei giocatori.
 > 
-> ***Emotions.*** Stella most often feels curious, excited, apprehensive, thoughtful, cheerful, or determined.
+> ***Emozioni.*** Stella si sente quasi sempre curiosa, emozionata, inquieta, riflessiva, allegra o determinata.
 > 
-> ***Motivations.*** Stella wants to help Victor master his magic and help her family escape Barovia.
+> ***Motivazioni.*** Stella vuole aiutare Victor a padroneggiare la sua magia e aiutare la sua famiglia a fuggire da Barovia.
 > 
-> ***Inspirations.*** When playing Stella, channel Rapunzel (*Tangled*), Ariel (*The Little Mermaid*), and Anna (*Frozen*).
+> ***Ispirazioni.*** Quando interpreti Stella, ispirati a Rapunzel (*Rapunzel - L'intreccio della torre*), ad Ariel (*La sirenetta*) e ad Anna (*Frozen*).
 > 
-> **Character Information**
-> ***Persona.*** To the world, Stella is a polite, quiet, and docile—if fidgety—young noblewoman. To her family and friends, Stella is a bright and inquisitive mind with a fierce optimism and an unwavering dedication to those she cares about.
+> **Informazioni sul personaggio**
+> ***Personalità.*** Agli occhi del mondo Stella è una giovane nobildonna educata, tranquilla e docile, anche se un po' irrequieta. Per la famiglia e gli amici è una mente brillante e curiosa, con un ottimismo feroce e una dedizione incrollabile alle persone a cui tiene.
 > 
-> ***Morale.*** In a fight, Stella would plead for peace, then attempt to flee.
+> ***Morale.*** In combattimento Stella implorerebbe la pace, poi cercherebbe di fuggire.
 > 
-> ***Relationships.*** Stella is Lady Fiona Wachter's daughter and youngest child, the best (and only) friend of Victor Vallakovich, and a friend of the ghost Erasmus van Richten.
+> ***Relazioni.*** Stella è la figlia minore di Lady Fiona Wachter, la migliore (e unica) amica di Victor Vallakovich e un'amica del fantasma Erasmus van Richten.
 
-The following sequence then unfolds, unless the players intervene:
+A meno che i giocatori non intervengano, succede poi questo:
 
-* Stella attempts to throw her arms around [[Non-Player Characters#Victor Vallakovich|Victor]] for a hug—but fails, her arms passing through his body. “Oh,” Stella says, sadly. Victor’s eyes widen, and he begins rummaging through his cloak. “You're losing your tangibility faster than I thought,” he says. “We need to get you back to your body as quickly as possible.” He retrieves a piece of chalk and begins drawing a modified teleportation circle on the ground.
-* If she is present, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] approaches Stella as well. “Mother?” Stella says, uncertainly. “Is that really you?” Lady Wachter nods, her face pale, but as hard as stone. “We’re going to get you out of here, Stella. I promise it.”
-* While Victor continues his preparations, Stella’s spirit floats over to the players. She thanks them for all of their help, and for supporting Victor in a difficult time. “He gets so determined sometimes,” she says quietly, watching him work. “I was so scared that he would hurt himself in his efforts to help me. Thank you for being there for him.”
-### The Ghost of Erasmus van Richten
-Just as [[Non-Player Characters#Victor Vallakovich|Victor]] is completing his modified teleportation circle, the ghost of Erasmus van Richten (using the statistics of a **poltergeist** without its ***invisibility*** feature) appears to the players. Read:
+* Stella cerca di gettare le braccia al collo di [[Non-Player Characters#Victor Vallakovich|Victor]] per abbracciarlo, ma non ci riesce: le braccia gli passano attraverso. «Oh», dice Stella, triste. Victor sgrana gli occhi e comincia a frugare nel mantello. «Stai perdendo consistenza più in fretta di quanto pensassi», dice. «Dobbiamo riportarti nel tuo corpo il prima possibile.» Tira fuori un pezzo di gesso e comincia a disegnare per terra un cerchio di teletrasporto modificato.
+* Se è presente, anche [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] si avvicina a Stella. «Mamma?» dice Stella, incerta. «Sei davvero tu?» Lady Wachter annuisce, con il viso pallido ma duro come la pietra. «Ti porteremo fuori di qui, Stella. Te lo prometto.»
+* Mentre Victor continua i preparativi, lo spirito di Stella fluttua verso i giocatori. Li ringrazia per tutto il loro aiuto e per aver sostenuto Victor in un momento difficile. «A volte si intestardisce così tanto», dice piano, guardandolo lavorare. «Avevo tanta paura che si facesse del male per aiutarmi. Grazie di essergli stati vicini.»
+### Il fantasma di Erasmus van Richten
+Proprio mentre [[Non-Player Characters#Victor Vallakovich|Victor]] sta finendo il cerchio di teletrasporto modificato, ai giocatori appare il fantasma di Erasmus van Richten (che usa le statistiche di un **poltergeist** senza il privilegio ***invisibilità***). Leggi:
 
 <div class="description">
-<p>A soft, boyish laughter echoes through the ethereal fog. A faint, spectral light flickers into being beyond the gray mists, coalescing into a slender, humanoid shadow.</p>
+<p>Una risata dolce, da ragazzo, riecheggia nella nebbia eterea. Oltre la foschia grigia si accende tremolando una debole luce spettrale, che si raccoglie in un'ombra umanoide sottile.</p>
 </div>
 
-If one of the players moves to attack, Erasmus shouts, “Wait! I don’t mean to hurt you!” In either case, continue to read the following:
+Se uno dei giocatori fa per attaccare, Erasmus grida: «Aspettate! Non voglio farvi del male!» In entrambi i casi, continua a leggere:
 
 <div class="description">
-<p>The spectral silhouette grows in brightness and definition until it assumes a more solidified shape: the ethereal form of a ghostly young man. He appears to be no more than fourteen, his form shimmering with a warm, inviting light that seems to soften the gray monotone of his surroundings.</p>
-<p>He wears short pants, a loose shirt, and a vest, though his body becomes wisps of curling fog not far below his knees. His eyes glitter with mirth, and an elfin smile plays across his face as his unkempt hair drifts lazily amidst the gloom. When he speaks, his voice is cheery and light, and his fingers twitch with excitement. “Stella! You brought your friends!”</p>
+<p>La sagoma spettrale si fa sempre più luminosa e definita, finché non assume una forma più solida: la figura eterea di un ragazzo fantasma. Non sembra avere più di quattordici anni, e la sua forma scintilla di una luce calda e accogliente che sembra ammorbidire il monotono grigio intorno.</p>
+<p>Porta calzoni corti, una camicia larga e un panciotto, ma poco sotto le ginocchia il suo corpo diventa volute di nebbia arricciate. Gli occhi gli brillano di allegria, sul viso gli gioca un sorriso da folletto, e i capelli spettinati fluttuano pigri nella penombra. Quando parla, ha una voce allegra e leggera, e le dita gli fremono per l'emozione. «Stella! Hai portato i tuoi amici!»</p>
 </div>
 
 ![[Erasmus.png]]
 
-<span class="credit">"Erasmus van Richten" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">«Erasmus van Richten» di Caleb Cleveland. Sostienilo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-Erasmus greets the players and Victor warmly, and Stella introduces him using his full name as he stands beside her. Victor greets Erasmus somewhat stiffly, and a DC 10 Wisdom (Insight) check reveals that he is slightly jealous of the younger ghost. (Though Victor has no romantic interest in Stella, he has had few friends throughout his life, and fears losing his only friend to the cheerier, sunnier Erasmus.)
+Erasmus saluta con calore i giocatori e Victor, e Stella lo presenta con nome e cognome mentre lui le si mette accanto. Victor saluta Erasmus con una certa rigidità, e con una prova di Saggezza (Intuizione) con CD 10 si capisce che è un po' geloso del fantasma più giovane. (Victor non ha alcun interesse romantico per Stella, ma nella sua vita ha avuto pochi amici, e teme di perdere l'unica amica a favore dell'Erasmus più allegro e solare.)
 
-Erasmus can share the following information, either at the players’ request or of his own volition:
+Erasmus può raccontare queste cose, su richiesta dei giocatori o di sua iniziativa:
 
-* Erasmus has been helping Stella navigate and remain hidden within the Ethereal Plane since shortly after she arrived. She’s proven a quick study, though Erasmus is wary of her slow disappearance into the Deep Ethereal, and agrees that the players need to get her out of the Ethereal Plane and back to her body sooner than later.
-* The lost spirits of the Ethereal Plane are more active than usual, and seem to have realized that something important is happening. Most of these spirits have lost much of their minds and memories, so the players will need to be wary of them.
-* Erasmus wasn’t the shadow that the players saw during the *etherealness* ritual, nor does he know what cast it. However, it matches the description of the **gallows speaker** that attacked Stella when she first arrived in the Ethereal Plane. 
+* Da poco dopo il suo arrivo, Erasmus aiuta Stella a orientarsi nel Piano Etereo e a restare nascosta. Lei impara in fretta, ma Erasmus è preoccupato del suo lento svanire nell'Etereo Profondo e conviene che i giocatori devono portarla fuori dal Piano Etereo e di nuovo nel suo corpo il prima possibile.
+* Gli spiriti perduti del Piano Etereo sono più attivi del solito, e sembrano aver capito che sta succedendo qualcosa di importante. Quasi tutti hanno perso gran parte della mente e dei ricordi, quindi i giocatori dovranno stare in guardia.
+* L'ombra che i giocatori hanno visto durante il rituale di *forma eterea* non era lui e non sa chi l'abbia proiettata. Corrisponde però alla descrizione dell'**oratore della forca** che ha attaccato Stella quando è arrivata nel Piano Etereo.
 
-If asked, Erasmus can confirm that his father is Dr. Rudolph van Richten, whom he followed into Barovia to watch and protect. (Erasmus is, however, understandably uncomfortable reminiscing upon the full story of his death. If asked how he came to be a ghost, his smile turns sad, and he briskly attempts to change the subject.)
+Se glielo chiedono, Erasmus può confermare che suo padre è il dottor Rudolph van Richten, che ha seguito a Barovia per vegliare su di lui e proteggerlo. (Erasmus però, comprensibilmente, non ama ricordare tutta la storia della sua morte. Se gli chiedono come sia diventato un fantasma, il suo sorriso si fa triste e cerca in fretta di cambiare argomento.)
 
-Erasmus can also teach the players how to move in the Ethereal Plane. (See **Welcome to the Ethereal Plane** above.)
+Erasmus può anche insegnare ai giocatori come muoversi nel Piano Etereo. (Vedi **Benvenuti nel Piano Etereo** più sopra.)
 
-When the conversation with Erasmus concludes, Victor directs Stella to stand in the center of the circle. As he takes up a position beside her, Victor informs the players that, once it begins, the ritual will take 10 minutes to complete. 
+Finita la conversazione con Erasmus, Victor chiede a Stella di mettersi al centro del cerchio. Mentre prende posto accanto a lei, Victor informa i giocatori che, una volta cominciato, il rituale richiederà 10 minuti.
 
-During that time, Erasmus adds, the circle’s magic will blaze like a beacon, attracting wayward spirits that might seek to take Stella’s place and return to life by inhabiting her soulless body. 
+Durante quel tempo, aggiunge Erasmus, la magia del cerchio brillerà come un faro e attirerà gli spiriti erranti, che potrebbero cercare di prendere il posto di Stella e tornare in vita abitando il suo corpo senz'anima.
 
-As such, Erasmus asks the players and (if present) Lady Wachter to aid him in guarding Stella’s soul until the ritual is complete.
-### The Wayward Souls
-One minute after Victor begins reading the ritual’s incantation from his spellbook, five **specters** appear from the clouds of mist that surround the players in the Ethereal Plane. (While in the Ethereal Plane, these specters have no damage resistances and lose their ***incorporeal movement*** feature).
+Per questo Erasmus chiede ai giocatori e (se è presente) a Lady Wachter di aiutarlo a proteggere l'anima di Stella finché il rituale non sarà finito.
+### Le anime erranti
+Un minuto dopo che Victor ha cominciato a leggere dal suo libro degli incantesimi la formula del rituale, dalle nubi di foschia che circondano i giocatori nel Piano Etereo compaiono cinque **spettri**. (Nel Piano Etereo questi spettri non hanno resistenze ai danni e perdono il privilegio ***movimento incorporeo***.)
 
-The specters drift through the air toward Stella, reaching out to seize her as they whisper the following phrases in haunted, rasping tones:
+Gli spettri fluttuano verso Stella, allungando le mani per afferrarla, e sussurrano queste frasi con voce roca e tormentata:
 
-* “The scent of life. It smells so sweet . . .”
-* “The veil flickers. It’s so close . . .”
-* “Please. Please. *Please* . . .”
+* «Il profumo della vita. È così dolce...»
+* «Il velo trema. È così vicino...»
+* «Ti prego. Ti prego. *Ti prego*...»
 
-Victor’s panicked eyes flash toward the players, and Stella draws in toward herself, fear evident upon her face. Erasmus and [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] (if present) attack the specters as soon as they draw within 15 feet of Stella’s spirit, urging the players to join them.
+Gli occhi di Victor, in preda al panico, guizzano verso i giocatori, e Stella si raggomitola su sé stessa, con la paura dipinta in volto. Erasmus e [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] (se c'è) attaccano gli spettri appena arrivano a meno di 4,5 m dallo spirito di Stella, e incitano i giocatori a unirsi a loro.
 
-> [!combat]- **Combat - The Specters**  
-> **Combat Level**: Mild
-> **Expected Character Level**: 5
-> **Allies:** Majesto (CR 1), Erasmus van Richten (CR 2), Fiona Wachter (CR 2)
-> **Expected HP Consumption:** 5%
+> [!combat]- **Combattimento: gli spettri**  
+> **Livello di combattimento**: lieve
+> **Livello previsto dei personaggi**: 5
+> **Alleati:** Majesto (GS 1), Erasmus van Richten (GS 2), Fiona Wachter (GS 2)
+> **Consumo previsto di pf:** 5%
 > 
-> ### **Enemies:**
+> ### **Nemici:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 giocatori | 4 giocatori | 5 giocatori | 6 giocatori |
 > |-|-|-|-|-|
-> | Specter | 4 | 4 | 5 | 6 |
+> | Spettro | 4 | 4 | 5 | 6 |
 >
 
 
-***Lady Wachter.*** Lady Wachter still has the statistics of a **priest**. However, she has a different list of prepared spells:
+***Lady Wachter.*** Lady Wachter ha ancora le statistiche di un **sacerdote**, ma con un altro elenco di incantesimi preparati:
 
-* Cantrips (at will): _light, toll the dead, thaumaturgy_ 
-* 1st level (4 slots): _command, sanctuary, bane_ 
-* 2nd level (3 slots): _blindness/deafness, zone of truth, hold person_ 
-* 3rd level (2 slots): _animate dead, spirit guardians_*
+* Trucchetti (a volontà): _luce, rintocco dei morti, taumaturgia_
+* 1º livello (4 slot): _comando, santuario, anatema_
+* 2º livello (3 slot): _cecità/sordità, zona di verità, blocca persone_
+* 3º livello (2 slot): _animare morti, guardiani spirituali_*
 
-In battle, Lady Wachter also gains the following reaction:
+In battaglia Lady Wachter ottiene anche questa reazione:
 
-* ***Sentinel of the Veil.*** As a reaction when another creature she can see within 30 feet suffers a critical hit, Lady Wachter can turn that hit into a normal hit.
-### The Ghost of Leo Dilisnya
-At the end of the first round of combat with the specters, any surviving specters flee. The ghost of Leo Dilisnya—in the form of a **gallows speaker** (*Van Richten’s Guide to Ravenloft*, p. 234) appears a few moments thereafter. Read:
+* ***Sentinella del Velo.*** Come reazione, quando un'altra creatura che può vedere entro 9 m subisce un colpo critico, Lady Wachter può trasformare quel colpo in un colpo normale.
+### Il fantasma di Leo Dilisnya
+Alla fine del primo round di combattimento con gli spettri, quelli sopravvissuti fuggono. Pochi istanti dopo compare il fantasma di Leo Dilisnya, in forma di **oratore della forca** (*Guida di Van Richten a Ravenloft*, p. 234). Leggi:
 
 <div class="description">
-<p>A chill wind rushes in, carrying with it an unmistakable pallor of death and despair. A low, rattling breath rumbles through the air, and, mere feet before you, a figure begins to coalesce in the air above, its form writhing and shifting from the ethereal mist.</p>
-<p>It is a being of bone and tattered robes, its face a skull that betrays neither emotion nor mercy. Dark, vacant eye sockets stare out into nothingness, its skeletal, claw-tipped hands flexing as it glides silently through the air—the same clawed hands, you realize, as the dark shadow that appeared as you entered the Ethereal Plane.</p>
-<p>As it moves, its long, flowing cloak billows around it, revealing humanoid visages woven into the fabric itself. Each face in this tapestry bears an ever-shifting expression of pain, sorrow, fear, regret, anger, or despair, their dark mouths whispering a mournful, maddening cacophony.</p>
-<p>From the clouds of mist bob five wispy balls of light, flickering with soft golden glows as they flank the cloaked figure two to a side, with the final wisp hovering above the figure’s head. Faint and distant whispers ride on a cold and hungry wind beside them, belying the evident warmth promised by their small, lamp-light forms.</p>
-<p>Between them, the ghostly figure's skeletal jaw opens, its hollow eye sockets a dark, unending void. When it speaks, its hateful voice reverberates through the Ethereal Plane, the sound cutting through the mists like the grinding of bone against bone.</p>
-<p>"I am Leo Dilisnya," the figure rasps. "And we have come for the blood that is owed." One of its skeletal hands tightens its grasp around a lump upon its chest—an old, leather-bound tome, its cover a deep, crimson red inset with platinum filigree. The figure then reaches out another skeletal hand—a single clawed finger pointing directly at Stella Wachter.</p>
+<p>Si leva un vento gelido, che porta con sé un pallore inconfondibile di morte e di disperazione. Un respiro basso e rantolante rimbomba nell'aria, e a pochi passi da voi una figura comincia a prendere forma a mezz'aria, contorcendosi e mutando nella nebbia eterea.</p>
+<p>È un essere fatto d'ossa e di vesti a brandelli, con il volto di un teschio che non tradisce né emozione né pietà. Orbite vuote e buie fissano il nulla, e le mani scheletriche dalle punte artigliate si flettono mentre la figura scivola silenziosa nell'aria: le stesse mani artigliate, vi rendete conto, dell'ombra scura comparsa quando siete entrati nel Piano Etereo.</p>
+<p>Mentre si muove, il lungo mantello fluente le si gonfia intorno e rivela volti umanoidi intessuti nella stoffa stessa. Ogni volto di questo arazzo porta un'espressione sempre mutevole di dolore, tristezza, paura, rimpianto, rabbia o disperazione, e le bocche buie sussurrano una cacofonia lugubre e folle.</p>
+<p>Dalle nubi di foschia spuntano cinque sfere di luce evanescenti, che tremolano di un dolce bagliore dorato e affiancano la figura incappucciata due per lato, mentre l'ultima fluttua sopra la sua testa. Sussurri deboli e lontani viaggiano con loro su un vento freddo e affamato, smentendo il calore che promettono le loro piccole forme simili a lanterne.</p>
+<p>In mezzo a loro, la mascella scheletrica della figura spettrale si apre, e le orbite cave sono un vuoto buio e senza fine. Quando parla, la sua voce piena d'odio riecheggia nel Piano Etereo e taglia la nebbia come osso che stride contro osso.</p>
+<p>«Sono Leo Dilisnya», rantola la figura. «E siamo venuti per il sangue che ci è dovuto.» Una delle mani scheletriche stringe un oggetto che tiene al petto, un vecchio volume rilegato in pelle, con la copertina di un rosso cremisi intenso intarsiata di filigrana di platino. Poi la figura allunga l'altra mano scheletrica, con un solo dito artigliato puntato dritto su Stella Wachter.</p>
 </div>
 
 ![[Gallows Speaker.png]]
-<span class="credit">"Gallows Speaker" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">«Gallows Speaker» di Caleb Cleveland. Sostienilo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-The **gallows speaker** is an agglomeration of Leo Dilisnya’s spirit with the spirits of the dozens of castle guards that Strahd slaughtered on the day of Sergei’s wedding. The book held to its chest is the *Tome of Strahd*, which Leo stole from Wachterhaus after killing Lady Wachter's parents during their seance.
+L'**oratore della forca** è un agglomerato dello spirito di Leo Dilisnya con gli spiriti delle decine di guardie del castello che Strahd massacrò il giorno delle nozze di Sergei. Il libro che stringe al petto è il *Tomo di Strahd*, che Leo ha rubato da Wachterhaus dopo aver ucciso i genitori di Lady Wachter durante la seduta spiritica.
 
-> [!lore]+ **What Happened to the Tome?**
-> One hundred years ago, Strahd used his Tome as a repository for his secret plans involving the Grand Conjunction and the Fanes of Barovia. When he began his hibernation amidst the crypts of Ravenloft, he did his best to hide his Tome away, safe from prying eyes. Nonetheless, it was found—by the **wereraven** Livius, who was searching for the legendary _Sigil of the Sun_ (later renamed the _Holy Symbol of Ravenkind_) while Lugdana and Ismark Antonovich kept the guardians of the castle occupied.
+> [!lore]+ **Che fine ha fatto il Tomo?**
+> Cento anni fa Strahd usava il suo Tomo per custodire i suoi piani segreti sulla Grande Congiunzione e sui Templi di Barovia. Quando cominciò il suo letargo fra le cripte di Ravenloft, fece del suo meglio per nascondere il Tomo al sicuro da occhi indiscreti. Il Tomo però fu trovato dal **corvo mannaro** Livius, che cercava il leggendario _Sigillo del Sole_ (in seguito ribattezzato _Simbolo Sacro di Ravenkind_) mentre Lugdana e Ismark Antonovich tenevano occupati i guardiani del castello.
 > 
-> When the trio escaped the castle, Livius shared with them the Tome, wondering aloud which of Strahd’s secrets it might hold. Because they could not open its magical lock, however, Lugdana took the Tome to a bookbinder in Vallaki with a reputation for puzzle-solving and lockpicking, hoping that he might be able to open it instead.
+> Quando il trio fuggì dal castello, Livius mostrò loro il Tomo, chiedendosi ad alta voce quali segreti di Strahd potesse contenere. Non riuscivano però ad aprire la sua serratura magica, e così Lugdana portò il Tomo da un rilegatore di Vallaki che aveva fama di risolvere enigmi e di scassinare serrature, sperando che riuscisse ad aprirlo lui.
 > 
-> Lugdana, however, was betrayed. The bookbinder’s apprentice—a scion of House Wachter—overheard their conversation and made plans to steal the Tome instead. The apprentice hid the Tome away in the bookbinder’s desk, then returned that night to steal it. The Tome remained locked away in Wachterhaus until the gallows speaker stole it on the night the Wachters died. (Because her parents died while she was still a teenager, Lady Fiona Wachter never learned of the Tome’s true origins.)
+> Lugdana però fu tradita. L'apprendista del rilegatore, un rampollo di casa Wachter, sentì la loro conversazione e progettò di rubare il Tomo. L'apprendista nascose il Tomo nella scrivania del rilegatore, poi tornò quella notte a rubarlo. Il Tomo restò chiuso a Wachterhaus finché l'oratore della forca non lo rubò la notte in cui morirono i Wachter. (Poiché i suoi genitori morirono quando lei era ancora un'adolescente, Lady Fiona Wachter non ha mai saputo la vera origine del Tomo.)
 
-The gallows speaker shares freely that it intends to kill Stella’s spirit, followed by Lady Wachter. Once it has done so, it intends to cross over into the Material Plane, where it will kill Lady Wachter’s sons, Nikolai and Karl.
+L'oratore della forca dichiara apertamente di voler uccidere lo spirito di Stella, e poi Lady Wachter. Fatto questo, vuole passare nel Piano Materiale e uccidere i figli di Lady Wachter, Nikolai e Karl.
 
-If the players obstruct the gallows speaker, it attempts to persuade them to stand aside, providing the following information in support of its argument:
+Se i giocatori ostacolano l'oratore della forca, lui cerca di convincerli a farsi da parte e porta a sostegno queste informazioni:
 
-* In life, it was Leo Dilisnya, a guard of Castle Ravenloft. When Strahd killed his brother, Sergei, and pursued Sergei’s bride, Tatyana, through the castle gardens, it was Leo who gave the order for the guards to kill Strahd to defend Tatyana and avenge Sergei’s death.
-* When Strahd became a vampire, he slaughtered his castle guards in a bloody and gruesome massacre. Lady Lovina Wachter née Dilisnya, Leo’s sister and a faithful devotee of Strahd von Zarovich, directed her bodyguards to assist Strahd in the bloodshed.
-* Leo himself barely escaped, and hid himself away in the deserted Abbey of Saint Markovia on a spur of Mount Baratok. However, Strahd and Lovina eventually found him—and when they did, they turned him into a **vampire spawn** and sealed him in a lightless stone vault beneath Wachterhaus. 
-* They left him there to starve for four hundred years, slowly growing mad as the bloodthirst destroyed his mind and his hatred sharpened and burned. (“Do you have *any* idea what that’s like?” the gallows speaker snarls, the faces within its cloak moaning with a chorus of mournful wails. “*Feeling* your sanity slip away, year by year, as the hunger within you twists and grows, never to be sated?”)
-* More than thirty years ago, Leo finally died, his spirit arising as a **ghost** that reunited with the tormented spirits of the castle guards, forming a **gallows speaker.** As he lurked unseen among Wachterhaus, he came to learn that he had been granted the release of death on the same night that Fiona Wachter—then a teenager—had fled her family estate, destroying an enchanted ruby gemstone that Strahd had given Lovina’s family as security should Leo ever escape.
-* Not long after his death, Leo killed the Wachters that remained at Wachterhaus, but was unable to finish the job when Fiona Wachter sealed him out. Now, however, Leo seeks to “rip out the poisoned Wachter family tree, root and branch,” and finally “see justice done.”
+* In vita era Leo Dilisnya, una guardia del Castello di Ravenloft. Quando Strahd uccise suo fratello Sergei e inseguì la sposa di Sergei, Tatyana, nei giardini del castello, fu Leo a dare l'ordine alle guardie di uccidere Strahd per difendere Tatyana e vendicare la morte di Sergei.
+* Quando Strahd diventò un vampiro, massacrò le guardie del castello in una carneficina sanguinosa e raccapricciante. Lady Lovina Wachter, nata Dilisnya, sorella di Leo e fedele devota di Strahd von Zarovich, ordinò alle sue guardie del corpo di aiutare Strahd nella strage.
+* Leo stesso fuggì per un pelo e si nascose nell'Abbazia di Santa Markovia, abbandonata, su uno sperone del Monte Baratok. Ma alla fine Strahd e Lovina lo trovarono, e quando lo trovarono lo trasformarono in una **progenie vampirica** e lo sigillarono in una cripta di pietra senza luce sotto Wachterhaus.
+* Lo lasciarono lì a morire di fame per quattrocento anni, a impazzire lentamente mentre la sete di sangue gli distruggeva la mente e il suo odio si affilava e bruciava. («Avete *idea* di che cosa significhi?» ringhia l'oratore della forca, mentre i volti nel suo mantello gemono in un coro di lamenti lugubri. «*Sentire* la ragione scivolare via, anno dopo anno, mentre la fame dentro di te si contorce e cresce, senza mai saziarsi?»)
+* Più di trent'anni fa Leo finalmente morì, e il suo spirito risorse come **fantasma** che si riunì agli spiriti tormentati delle guardie del castello, formando un **oratore della forca.** Aggirandosi invisibile per Wachterhaus, scoprì di aver ottenuto la liberazione della morte la stessa notte in cui Fiona Wachter, allora adolescente, era fuggita dalla tenuta di famiglia, distruggendo una gemma di rubino incantata che Strahd aveva dato alla famiglia di Lovina come garanzia, nel caso in cui Leo fosse mai fuggito.
+* Poco dopo la sua morte Leo uccise i Wachter rimasti a Wachterhaus, ma non riuscì a finire il lavoro perché Fiona Wachter lo chiuse fuori. Ora però Leo vuole «sradicare l'albero avvelenato della famiglia Wachter, con tutte le radici e tutti i rami» e finalmente «vedere fatta giustizia».
 
-A player who makes a successful DC 15 Wisdom (Insight) check discerns that the gallows speaker’s words are a half-truth at best. If challenged, it reveals the truth: 
+Un giocatore che supera una prova di Saggezza (Intuizione) con CD 15 capisce che le parole dell'oratore della forca sono, nel migliore dei casi, una mezza verità. Se lo si incalza, rivela la verità:
 
-* In life, Leo was an assassin of the Ba’al Verzi who betrayed his order’s vows when he sought to kill Strahd in vengeance for the death of his brother, Reinhold, who Strahd knowingly sent to die to win a battle against the Order of the Silver Dragon. 
-* On the morning of Sergei’s wedding, Leo climbed to the window of Strahd’s royal chambers, carrying with him a cursed Ba’al Verzi dagger that prevented its victims from being resurrected.
-* When Lovina Wachter’s bodyguards engaged the castle guards to defend Strahd, it was Leo who gave the order to have the Wachters themselves killed, furious that his sister had elected to “betray” him and Reinhold’s memory.
+* In vita Leo era un assassino dei Ba'al Verzi, che tradì i voti del suo ordine quando cercò di uccidere Strahd per vendicare la morte del fratello, Reinhold, che Strahd aveva mandato consapevolmente a morire per vincere una battaglia contro l'Ordine del Drago d'Argento.
+* La mattina delle nozze di Sergei, Leo si arrampicò fino alla finestra delle stanze reali di Strahd, portando con sé un pugnale maledetto dei Ba'al Verzi che impediva alle sue vittime di essere resuscitate.
+* Quando le guardie del corpo di Lovina Wachter affrontarono le guardie del castello per difendere Strahd, fu Leo a ordinare di uccidere i Wachter stessi, furioso perché la sorella aveva scelto di «tradire» lui e la memoria di Reinhold.
 
-If the players ask about the tome clutched to its chest, the gallows speaker shares that it is a ledger of the hubris and crimes of the Wachters' lord, and a reminder of the hatred that kindled the speaker's strength. It cannot be persuaded to surrender the *Tome*, even temporarily.
-### Fighting the Gallows Speaker
-If the players refuse to allow the gallows speaker to kill the Wachters, it vows to tear them apart while Stella and Lady Wachter watch. It then attacks with its **Speaker of the Gallows** form. Lady Wachter leaps to the players’ aid, snarling with defiance.
+Se i giocatori chiedono del volume che stringe al petto, l'oratore della forca spiega che è un registro della superbia e dei crimini del signore dei Wachter, e un ricordo dell'odio che ha acceso la sua forza. Non lo si può convincere a cedere il *Tomo*, nemmeno per poco.
+### Combattere l'oratore della forca
+Se i giocatori si rifiutano di lasciare che l'oratore della forca uccida i Wachter, lui giura di farli a pezzi sotto gli occhi di Stella e di Lady Wachter. Poi attacca nella sua forma di **Oratore della forca**. Lady Wachter accorre in aiuto dei giocatori, ringhiando di sfida.
 
-> [!info]+ **How Long Does Leo Speak?**
-> Unless the players immediately attack it, assume the conversation with the gallows speaker takes more than one minute, but fewer than ten minutes (e.g., for the purposes of determining spell duration).
+> [!info]+ **Quanto parla Leo?**
+> A meno che i giocatori non lo attacchino subito, considera che la conversazione con l'oratore della forca duri più di un minuto ma meno di dieci (per esempio per calcolare la durata degli incantesimi).
 
-***Erasmus van Richten.*** In battle, Erasmus fights by hurling furniture at the gallows speaker from range through the use of his ***telekinetic thrust*** feature.
+***Erasmus van Richten.*** In battaglia Erasmus combatte da lontano, scagliando mobili contro l'oratore della forca con il suo privilegio ***spinta telecinetica***.
 
-***Lady Fiona Wachter.*** [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] begins by casting *spirit guardians* (radiant damage), which takes the form of thirteen swirling fog-like entities that attack with misty tendrils. On subsequent turns, she casts *blindness/deafness* or uses her ***divine eminence*** feature as she pursues the gallows speaker with her mace.
+***Lady Fiona Wachter.*** [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] comincia lanciando *guardiani spirituali* (danni radiosi), che prendono la forma di tredici entità vorticanti simili a nebbia, che attaccano con tentacoli di foschia. Nei turni successivi lancia *cecità/sordità* o usa il suo privilegio ***eminenza divina***, mentre insegue l'oratore della forca con la mazza.
 
-***The Gallows Speaker.*** Throughout the fight, the gallows speaker taunts Lady Wachter, rhapsodizing at length about the agonies that it will visit upon her and her family. However, it never attacks either Lady Wachter, Stella, or Victor, preferring to focus its attention upon the players who have defied it.
+***L'oratore della forca.*** Per tutto lo scontro l'oratore della forca schernisce Lady Wachter, dilungandosi con trasporto sulle agonie che infliggerà a lei e alla sua famiglia. Non attacca però mai Lady Wachter, Stella o Victor e preferisce concentrarsi sui giocatori che lo hanno sfidato.
 
-In its first phase, the **Speaker of the Gallows**, the gallows speaker never retreats, nor does it reposition except to pursue a target. 
+Nella prima fase, l'**Oratore della forca**, non si ritira mai e non si sposta se non per inseguire un bersaglio.
 
-In its second phase, the **Ba'al Verzi Avenger**, the gallows speaker becomes mobile, attempting to grapple the toughest-looking target with its **grasp of the grave*** feature and dragging them into the upper floors of the house, while using its **wail of the forsaken*** whenever it recharges and its ***Ba'al Verzi daggers*** to attack from range.
+Nella seconda fase, il **Vendicatore dei Ba'al Verzi**, l'oratore della forca diventa mobile: cerca di afferrare il bersaglio dall'aria più robusta con il privilegio ***presa della tomba*** e di trascinarlo ai piani superiori della casa, mentre usa il ***lamento dei derelitti*** ogni volta che si ricarica e i ***pugnali dei Ba'al Verzi*** per attaccare a distanza.
 
-When reduced to 0 hit points in its second phase, the gallows speaker taunts the players with its dying breath, rasping: “When I failed to kill him, Zarovich took my cursed blade from me. Perhaps I shall still have my satisfaction when he uses it to *carve your hearts from your chests!*” It then lurches forward, skeletal claws grasping for Stella’s throat—and dissipates into mist, the maddened whispers of the many spirits within his cloak fading into silence.
+Quando scende a 0 punti ferita nella seconda fase, l'oratore della forca schernisce i giocatori con l'ultimo respiro, rantolando: «Quando non sono riuscito a ucciderlo, Zarovich mi ha preso la lama maledetta. Forse avrò comunque la mia soddisfazione quando la userà per *strapparvi il cuore dal petto!*» Poi si slancia in avanti, con gli artigli scheletrici protesi verso la gola di Stella, e si dissolve nella nebbia, mentre i sussurri folli dei tanti spiriti nel suo mantello si spengono nel silenzio.
 
-When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. See [[#H9. The Tome of Strahd]] for more information about the *Tome* and its contents.
-
+Quando l'oratore della forca muore, il *Tomo di Strahd* cade a terra. Per il *Tomo* e il suo contenuto vedi [[#H9. Il Tomo di Strahd]].
 <div class="statblock">
-<h2>Speaker of the Gallows</h2>
-<em>Medium undead, neutral evil</em>
+<h2>Oratore della forca</h2>
+<em>Non morto Medio, neutrale malvagio</em>
 <hr>
-<strong>Armor Class</strong> 13
+<strong>Classe Armatura</strong> 13
 <br>
-<strong>Hit Points</strong> 157 (35d8)
+<strong>Punti Ferita</strong> 157 (35d8)
 <br>
-<strong>Speed</strong> 0 ft., fly 40 ft. (hover)
+<strong>Velocità</strong> 0 m, volare 12 m (fluttuare)
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -1085,52 +1084,52 @@ When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. S
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +7, Wis +5, Cha +8<br>
-<strong>Skills</strong> Perception +5<br>
-<strong>Damage Immunities</strong> necrotic, poison<br>
-<strong>Condition Immunities</strong> charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned<br>
-<strong>Senses</strong> truesight 60 ft., passive Perception 15<br>
-<strong>Languages</strong> Abyssal, Common<br>
-<strong>Challenge</strong> CR 11<br>
-<strong>Proficiency Bonus</strong> +4<br>
+<strong>Tiri salvezza</strong> Des +7, Sag +5, Car +8<br>
+<strong>Abilità</strong> Percezione +5<br>
+<strong>Immunità ai danni</strong> necrotico, veleno<br>
+<strong>Immunità alle condizioni</strong> affascinato, afferrato, avvelenato, indebolimento, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto<br>
+<strong>Sensi</strong> vista pura 18 m, Percezione passiva 15<br>
+<strong>Linguaggi</strong> Abissale, Comune<br>
+<strong>Sfida</strong> GS 11<br>
+<strong>Bonus di competenza</strong> +4<br>
 <hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> The gallows speaker doesn't have disadvantage on its ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Divination Senses.</em></strong> The gallows speaker can see 60 feet into the Ethereal Plane when it is on the Material Plane and vice versa.</p>
-<p><strong><em>Wrath of the Traitor.</em></strong> If the gallows speaker is reduced to 0 hit points, the golden wisps around it wink out, revealing five daggers with wavy blades and lacquered hilts colored red, black, and gold. All of the gallows speaker's current effects end, and its statistics are instantly replaced by those of the <strong>Ba’al Verzi Avenger</strong>. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The gallows speaker makes two attacks.</p>
-<p><strong><em>Foretelling Touch.</em></strong> <em>Melee Spell Attack:</em> +8 to hit, reach 5 ft., one creature. <em>Hit:</em> 15 (2d10 + 4) psychic damage, and the target must roll a d4 and subtract the number rolled from the next attack roll or saving throw it makes before the start of the gallows speaker's next turn.</p>
-<p><strong><em>Will-o'-Wisp.</em></strong> <em>Ranged Spell Attack:</em> +8 to hit, range 30 ft., one creature. <em>Hit:</em> 13 (3d8) necrotic damage.</p>
-<p><strong><em>Deathly Visions.</em></strong> The gallows speaker forces a creature that it can see within 30 feet to make a DC 16 Wisdom saving throw, flooding its mind with terrifying images of its own violent death. On a failure, that creature is paralyzed until the start of the gallows speaker’s next turn.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Lash of Souls.</em></strong> Ethereal chains lash out around the gallows speaker, forcing up to two creatures within 5 feet to succeed on a DC 16 Strength saving throw or take 9 (2d8) necrotic damage and be restrained until the start of the gallows speaker’s next turn. A creature that succeeds on the saving throw takes half damage and isn’t restrained.</p>
-<p><strong><em>Wisplight Flare.</em></strong> The gallows speaker directs one of its wisps to a point within 30 feet, where it flares with golden light. Each creature within 5 feet of that point must succeed on a DC 16 Constitution saving throw or take 14 (4d6) radiant damage and be blinded until the start of the gallows speaker's next turn. A creature that succeeds on the saving throw takes half damage and isn't blinded.</p>
-<h3>Reactions</h3>
-<p>The gallows speaker can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent it from taking reactions, it loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> The gallows speaker can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Death's Revelation.</em></strong> In response to taking damage from a creature within range, the gallows speaker attacks that creature with its <strong><em>foretelling touch</em></strong> or <strong><em>will-o'-wisp</em></strong>.</p>
-<p><strong><em>Ghostly Step.</em></strong> In response to taking damage, the gallows speaker teleports up to 15 feet away. It can then immediately force each creature within 5 feet of its new location to make a DC 16 Wisdom saving throw. Each creature that fails the saving throw is frightened until the end of that creature's next turn.</p>
+<p><strong><em>Combattente ravvicinato.</em></strong> L'oratore della forca non subisce svantaggio ai tiri per colpire a distanza quando si trova entro 1,5 m da una creatura ostile.</p>
+<p><strong><em>Sensi divinatori.</em></strong> Quando si trova sul Piano Materiale, l'oratore della forca può vedere fino a 18 m nel Piano Etereo, e viceversa.</p>
+<p><strong><em>Ira del traditore.</em></strong> Se l'oratore della forca scende a 0 punti ferita, i fuochi dorati intorno a lui si spengono e rivelano cinque pugnali dalla lama ondulata e dall'elsa laccata di rosso, nero e oro. Tutti gli effetti in corso dell'oratore della forca terminano, e le sue statistiche vengono subito sostituite da quelle del <strong>Vendicatore dei Ba'al Verzi</strong>. L'iniziativa resta la stessa. I danni in eccesso non passano alla nuova forma, ma conserva le condizioni che aveva nella forma precedente.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> L'oratore della forca effettua due attacchi.</p>
+<p><strong><em>Tocco premonitore.</em></strong> <em>Attacco con incantesimo in mischia:</em> +8 al tiro per colpire, portata 1,5 m, una creatura. <em>Colpito:</em> 15 (2d10 + 4) danni psichici, e il bersaglio deve tirare un d4 e sottrarre il risultato dal suo prossimo tiro per colpire o tiro salvezza effettuato prima dell'inizio del turno successivo dell'oratore della forca.</p>
+<p><strong><em>Fuoco fatuo.</em></strong> <em>Attacco con incantesimo a distanza:</em> +8 al tiro per colpire, gittata 9 m, una creatura. <em>Colpito:</em> 13 (3d8) danni necrotici.</p>
+<p><strong><em>Visioni di morte.</em></strong> L'oratore della forca costringe una creatura che può vedere entro 9 m a effettuare un tiro salvezza su Saggezza con CD 16, inondandole la mente di immagini terrificanti della propria morte violenta. Se lo fallisce, la creatura è paralizzata fino all'inizio del turno successivo dell'oratore della forca.</p>
+<h3>Azioni bonus</h3>
+<p><strong><em>Frusta di anime.</em></strong> Catene eteree sferzano l'aria intorno all'oratore della forca: fino a due creature entro 1,5 m devono superare un tiro salvezza su Forza con CD 16, altrimenti subiscono 9 (2d8) danni necrotici e sono trattenute fino all'inizio del turno successivo dell'oratore della forca. Una creatura che supera il tiro salvezza subisce la metà dei danni e non è trattenuta.</p>
+<p><strong><em>Bagliore fatuo.</em></strong> L'oratore della forca manda uno dei suoi fuochi fatui verso un punto entro 9 m, dove divampa di luce dorata. Ogni creatura entro 1,5 m da quel punto deve superare un tiro salvezza su Costituzione con CD 16, altrimenti subisce 14 (4d6) danni radiosi ed è accecata fino all'inizio del turno successivo dell'oratore della forca. Una creatura che supera il tiro salvezza subisce la metà dei danni e non è accecata.</p>
+<h3>Reazioni</h3>
+<p>L'oratore della forca può effettuare fino a tre reazioni per round, ma non più di una per turno. Se un effetto o una condizione gli impedisse di effettuare reazioni, ne perde invece una.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Innesco:</strong> una creatura ostile termina il suo turno. <strong>Effetto:</strong> l'oratore della forca può ripetere il tiro salvezza contro un effetto o una condizione che lo colpisce in quel momento. (La reazione non ha effetto se l'effetto o la condizione non richiedevano in origine il fallimento di un tiro salvezza.)</p>
+<p><strong><em>Rivelazione della morte.</em></strong> Quando subisce danni da una creatura a portata, l'oratore della forca attacca quella creatura con il <strong><em>tocco premonitore</em></strong> o con il <strong><em>fuoco fatuo</em></strong>.</p>
+<p><strong><em>Passo spettrale.</em></strong> Quando subisce danni, l'oratore della forca si teletrasporta fino a 4,5 m di distanza. Subito dopo può costringere ogni creatura entro 1,5 m dalla sua nuova posizione a effettuare un tiro salvezza su Saggezza con CD 16. Ogni creatura che fallisce è spaventata fino alla fine del suo turno successivo.</p>
 </div>
 <br>
 <div class="statblock">
-<h2>Ba’al Verzi Avenger</h2>
-<em>Medium undead, neutral evil</em>
+<h2>Vendicatore dei Ba'al Verzi</h2>
+<em>Non morto Medio, neutrale malvagio</em>
 <hr>
-<strong>Armor Class</strong> 13
+<strong>Classe Armatura</strong> 13
 <br>
-<strong>Hit Points</strong> 157 (35d8)
+<strong>Punti Ferita</strong> 157 (35d8)
 <br>
-<strong>Speed</strong> 0 ft., fly 40 ft. (hover)
+<strong>Velocità</strong> 0 m, volare 12 m (fluttuare)
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -1145,224 +1144,222 @@ When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. S
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +7, Wis +5, Cha +8<br>
-<strong>Skills</strong> Perception +5<br>
-<strong>Damage Immunities</strong> necrotic, poison<br>
-<strong>Condition Immunities</strong> charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned<br>
-<strong>Senses</strong> truesight 60 ft., passive Perception 15<br>
-<strong>Languages</strong> Abyssal, Common<br>
-<strong>Challenge</strong> CR 11<br>
-<strong>Proficiency Bonus</strong> +4<br>
+<strong>Tiri salvezza</strong> Des +7, Sag +5, Car +8<br>
+<strong>Abilità</strong> Percezione +5<br>
+<strong>Immunità ai danni</strong> necrotico, veleno<br>
+<strong>Immunità alle condizioni</strong> affascinato, afferrato, avvelenato, indebolimento, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto<br>
+<strong>Sensi</strong> vista pura 18 m, Percezione passiva 15<br>
+<strong>Linguaggi</strong> Abissale, Comune<br>
+<strong>Sfida</strong> GS 11<br>
+<strong>Bonus di competenza</strong> +4<br>
 <hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> The gallows speaker doesn't have disadvantage on its ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Divination Senses.</em></strong> The gallows speaker can see 60 feet into the Ethereal Plane when it is on the Material Plane and vice versa.</p>
-<p><strong><em>Incorporeal Movement.</em></strong> The gallows speaker can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The gallows speaker makes two attacks.</p>
-<p><strong><em>Ba'al Verzi Dagger.</em></strong> <em>Ranged Weapon Attack:</em> +8 to hit, range 30 feet, one creature. <em>Hit:</em> 7 (1d6 + 4) piercing damage and the target must make a DC 16 Wisdom saving throw, taking 14 (4d6) necrotic damage and becoming cursed until the start of the gallows speaker’s next turn on a failure. On a success, the target takes half the necrotic damage and isn't cursed. While cursed in this way, a creature moves at half speed and can't regain hit points, and the gallows speaker has advantage on attack rolls made against it.</p>
-<p><strong><em>Grasp of the Grave.</em></strong> <em>Melee Weapon Attack:</em> +8 to hit, reach 5 ft., one creature. <em>Hit:</em> 18 (4d8) necrotic damage and the target is grappled until the gallows speaker loses its concentration (as if concentrating on a spell) or until the target uses its action to break free (escape DC 16). (Dragging this target doesn't cause the gallows speaker to move more slowly.) The gallows speaker can then immediately move up to half its speed without triggering opportunity attacks. Until this grapple ends, the target is restrained and takes an additional 9 (2d8) necrotic damage at the start of each of its turns, and the gallows speaker can't use <strong><em>grasp of the grave</em></strong> on another target.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Shrieking Souls.</em></strong> A shroud of moaning spirits surrounds each creature within 5 feet of the gallows speaker. Each creature in that area must make a DC 16 Constitution saving throw or take 9 (2d8) necrotic damage and be dazed until the start of the gallows speaker’s next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
-<p><strong><em>Wail of the Forsaken (Recharge 5-6).</em></strong> The spirits within the gallows speaker’s cloak let out a maddened, burbling cry. Each creature within 60 feet must make a DC 16 Wisdom saving throw or be frightened until the start of the gallows speaker’s next turn.</p>
-<h3>Reactions</h3>
-<p>The avenger can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent it from taking reactions, it loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> The gallows speaker can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Ghastly Foresight.</em></strong> In response to being targeted by an attack or a spell that requires a saving throw, the gallows speaker imposes disadvantage on the attack roll or grants itself advantage on the saving throw. After the roll is made, the gallows speaker can immediately move up to half its speed without provoking opportunity attacks.</p>
-<p><strong><em>Traitor's Noose.</em></strong> In response to being targeted by a melee attack, the gallows speaker manifests a spectral noose that hangs loosely around the attacker's neck, forcing them to make a DC 16 Wisdom saving throw. On a failure, the attacker is filled with a brief and blinding rage toward another creature of the gallows speaker’s choice, and must instead immediately use its reaction, if available, to move up to its speed toward that creature and make the same melee attack against that creature instead. The noose then disappears.</p>
-<p><strong><em>Haunting Echoes.</em></strong> In response to taking damage from a creature, the gallows speaker forces that creature to make a DC 16 Wisdom saving throw. On a failure, that creature takes 10 (4d4) psychic damage and has disadvantage on the next attack roll or ability check it makes before the start of its next turn.</p>
+<p><strong><em>Combattente ravvicinato.</em></strong> L'oratore della forca non subisce svantaggio ai tiri per colpire a distanza quando si trova entro 1,5 m da una creatura ostile.</p>
+<p><strong><em>Sensi divinatori.</em></strong> Quando si trova sul Piano Materiale, l'oratore della forca può vedere fino a 18 m nel Piano Etereo, e viceversa.</p>
+<p><strong><em>Movimento incorporeo.</em></strong> L'oratore della forca può muoversi attraverso altre creature e oggetti come se fossero terreno difficile. Se termina il turno dentro un oggetto subisce 5 (1d10) danni da forza.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> L'oratore della forca effettua due attacchi.</p>
+<p><strong><em>Pugnale dei Ba'al Verzi.</em></strong> <em>Attacco con arma a distanza:</em> +8 al tiro per colpire, gittata 9 m, una creatura. <em>Colpito:</em> 7 (1d6 + 4) danni perforanti, e il bersaglio deve effettuare un tiro salvezza su Saggezza con CD 16: se lo fallisce subisce 14 (4d6) danni necrotici ed è maledetto fino all'inizio del turno successivo dell'oratore della forca. Se lo supera, subisce la metà dei danni necrotici e non è maledetto. Finché è maledetta in questo modo, una creatura si muove a velocità dimezzata e non può recuperare punti ferita, e l'oratore della forca ha vantaggio ai tiri per colpire contro di lei.</p>
+<p><strong><em>Presa della tomba.</em></strong> <em>Attacco con arma da mischia:</em> +8 al tiro per colpire, portata 1,5 m, una creatura. <em>Colpito:</em> 18 (4d8) danni necrotici, e il bersaglio è afferrato finché l'oratore della forca non perde la concentrazione (come se si concentrasse su un incantesimo) o finché il bersaglio non usa la sua azione per liberarsi (CD 16 per sfuggire). (Trascinare questo bersaglio non rallenta l'oratore della forca.) Subito dopo l'oratore della forca può muoversi fino a metà della sua velocità senza provocare attacchi di opportunità. Finché la presa dura, il bersaglio è trattenuto e subisce 9 (2d8) danni necrotici aggiuntivi all'inizio di ogni suo turno, e l'oratore della forca non può usare la <strong><em>presa della tomba</em></strong> su un altro bersaglio.</p>
+<h3>Azioni bonus</h3>
+<p><strong><em>Anime urlanti.</em></strong> Un velo di spiriti gementi avvolge ogni creatura entro 1,5 m dall'oratore della forca. Ogni creatura nell'area deve effettuare un tiro salvezza su Costituzione con CD 16, altrimenti subisce 9 (2d8) danni necrotici ed è frastornata fino all'inizio del turno successivo dell'oratore della forca. (Nel suo turno una creatura frastornata può muoversi o effettuare un'azione, non entrambe le cose. Non può nemmeno effettuare azioni bonus o reazioni.)</p>
+<p><strong><em>Lamento dei derelitti (ricarica 5-6).</em></strong> Gli spiriti nel mantello dell'oratore della forca lanciano un grido folle e gorgogliante. Ogni creatura entro 18 m deve effettuare un tiro salvezza su Saggezza con CD 16, altrimenti è spaventata fino all'inizio del turno successivo dell'oratore della forca.</p>
+<h3>Reazioni</h3>
+<p>Il vendicatore può effettuare fino a tre reazioni per round, ma non più di una per turno. Se un effetto o una condizione gli impedisse di effettuare reazioni, ne perde invece una.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Innesco:</strong> una creatura ostile termina il suo turno. <strong>Effetto:</strong> l'oratore della forca può ripetere il tiro salvezza contro un effetto o una condizione che lo colpisce in quel momento. (La reazione non ha effetto se l'effetto o la condizione non richiedevano in origine il fallimento di un tiro salvezza.)</p>
+<p><strong><em>Preveggenza spettrale.</em></strong> Quando è bersaglio di un attacco o di un incantesimo che richiede un tiro salvezza, l'oratore della forca impone svantaggio al tiro per colpire o si concede vantaggio al tiro salvezza. Dopo il tiro, può subito muoversi fino a metà della sua velocità senza provocare attacchi di opportunità.</p>
+<p><strong><em>Cappio del traditore.</em></strong> Quando è bersaglio di un attacco in mischia, l'oratore della forca fa comparire un cappio spettrale che pende lento intorno al collo dell'attaccante, costringendolo a effettuare un tiro salvezza su Saggezza con CD 16. Se lo fallisce, l'attaccante è invaso da una rabbia breve e accecante verso un'altra creatura a scelta dell'oratore della forca e deve invece usare subito la sua reazione, se ne ha una disponibile, per muoversi fino alla sua velocità verso quella creatura ed effettuare contro di lei lo stesso attacco in mischia. Poi il cappio sparisce.</p>
+<p><strong><em>Echi ossessivi.</em></strong> Quando subisce danni da una creatura, l'oratore della forca costringe quella creatura a effettuare un tiro salvezza su Saggezza con CD 16. Se lo fallisce, la creatura subisce 10 (4d4) danni psichici e ha svantaggio al prossimo tiro per colpire o prova di caratteristica che effettua prima dell'inizio del suo turno successivo.</p>
 </div>
 
-> [!combat]- **Combat - The Gallows Speaker**  
-> **Combat Level**: Bruising (first phase), Bruising (second phase)
-> **Expected Character Level**: 5
-> **Allies:** Majesto (CR 1), Fiona Wachter (CR 2), Victor Vallakovich (CR 6)
-> **Expected HP Consumption:** 28% (first phase), 28% (second phase), for a total of 56%
+> [!combat]- **Combattimento: l'oratore della forca**  
+> **Livello di combattimento**: impegnativo (prima fase), impegnativo (seconda fase)
+> **Livello previsto dei personaggi**: 5
+> **Alleati:** Majesto (GS 1), Fiona Wachter (GS 2), Victor Vallakovich (GS 6)
+> **Consumo previsto di pf:** 28% (prima fase) e 28% (seconda fase), per un totale del 56%
 > 
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
+> ### **Bilanciamento:**
+> Se i giocatori sono meno o più di 5, modifica lo scontro così:
 >
-> | Number of Players | Modification |
+> | Numero di giocatori | Modifica |
 > |-|-|
-> | 3 | Reduce Leo’s hp to 111 in each phase. For his first phase, reduce his foretelling touch attack to to 11 (2d8+2) damage, his will-o’-wisp attack to 10 (3d6) damage, his lash of souls bonus action to 7 (2d6) damage, and his wisplight flare bonus action to 10 (4d4) damage. For his second phase, reduce his Ba’al Verzi dagger attack to 5 (1d6+2) piercing and 10 (4d4) necrotic damage, his grasp of the grave attack to 14 (4d6) initial damage and 7 (2d6) continual damage, his shrieking souls bonus action to 7 (2d6) damage, and his haunting echoes to 7 (3d4) damage. |
-> | 4 | Reduce Leo’s hp to 134 in each phase. For his first phase, reduce his foretelling touch attack to to 13 (2d8+4) damage, his will-o’-wisp attack to 11 (2d10) damage, his lash of souls bonus action to 7 (2d6) damage, and his wisplight flare bonus action to 12 (5d4) damage. For his second phase, reduce his Ba’al Verzi dagger attack to 6 (1d4+4) piercing and 12 (5d4) necrotic damage, his grasp of the grave attack to 15 (6d4) initial damage and 7 (3d4) continual damage, his shrieking souls bonus action to 7 (2d6) damage, and his haunting echoes reaction to 9 (2d8) damage. |
-> | 6 | Increase Leo’s hp to 180 in each phase. For his first phase, increase his foretelling touch attack to to 17 (2d12+4) damage, his will-o’-wisp attack to 15 (6d4) damage, and his wisplight flare bonus action to 16 (3d10) damage. For his second phase, increase his Ba’al Verzi dagger attack to 8 (1d8+4) piercing and 16 (3d10) necrotic damage, his grasp of the grave attack to 20 (8d4) initial damage and 10 (4d4) continual damage, his shrieking souls bonus action to 10 (4d4) damage, and his haunting echoes to 11 (2d10) damage. |
+> | 3 | Riduci i pf di Leo a 111 in ogni fase. Nella prima fase riduci l'attacco di tocco premonitore a 11 (2d8+2) danni, l'attacco di fuoco fatuo a 10 (3d6) danni, l'azione bonus frusta di anime a 7 (2d6) danni e l'azione bonus bagliore fatuo a 10 (4d4) danni. Nella seconda fase riduci l'attacco con il pugnale dei Ba'al Verzi a 5 (1d6+2) danni perforanti e 10 (4d4) danni necrotici, l'attacco di presa della tomba a 14 (4d6) danni iniziali e 7 (2d6) danni continui, l'azione bonus anime urlanti a 7 (2d6) danni e gli echi ossessivi a 7 (3d4) danni. |
+> | 4 | Riduci i pf di Leo a 134 in ogni fase. Nella prima fase riduci l'attacco di tocco premonitore a 13 (2d8+4) danni, l'attacco di fuoco fatuo a 11 (2d10) danni, l'azione bonus frusta di anime a 7 (2d6) danni e l'azione bonus bagliore fatuo a 12 (5d4) danni. Nella seconda fase riduci l'attacco con il pugnale dei Ba'al Verzi a 6 (1d4+4) danni perforanti e 12 (5d4) danni necrotici, l'attacco di presa della tomba a 15 (6d4) danni iniziali e 7 (3d4) danni continui, l'azione bonus anime urlanti a 7 (2d6) danni e la reazione echi ossessivi a 9 (2d8) danni. |
+> | 6 | Aumenta i pf di Leo a 180 in ogni fase. Nella prima fase aumenta l'attacco di tocco premonitore a 17 (2d12+4) danni, l'attacco di fuoco fatuo a 15 (6d4) danni e l'azione bonus bagliore fatuo a 16 (3d10) danni. Nella seconda fase aumenta l'attacco con il pugnale dei Ba'al Verzi a 8 (1d8+4) danni perforanti e 16 (3d10) danni necrotici, l'attacco di presa della tomba a 20 (8d4) danni iniziali e 10 (4d4) danni continui, l'azione bonus anime urlanti a 10 (4d4) danni e gli echi ossessivi a 11 (2d10) danni. |
 
 
-### Return to the Material Plane
-As the teleportation ritual draws to a close, ethereal beads of light emerge around Stella’s ghostly form, clinging to her dress and hair and flickering like fireflies. The following sequence then unfolds unless the players intervene:
+### Ritorno al Piano Materiale
+Mentre il rituale di teletrasporto si avvia alla fine, intorno alla forma spettrale di Stella compaiono perle di luce eteree, che le si aggrappano al vestito e ai capelli e tremolano come lucciole. A meno che i giocatori non intervengano, succede poi questo:
 
-* Erasmus drifts toward the edge of the teleportation circle. “Are you ready?” he asks quietly. Stella nods shyly, replying, “I think so. A bit afraid.”
-* Erasmus smiles sadly. “Don’t be,” he says. “Victor and your friends will take good care of you. And even if you can’t see or hear me, I’ll never be far away.”
-* Stella hiccups, tears glittering at the corners of her eyes. “Thank you,” she says, reaching out a hand. “For everything.” Erasmus swallows, and reaches out toward her hand in turn. “Stella,” he says, beaming through tears. “It was my honor.” For a brief instant, their fingers touch—and then the beads of light around Stella burst into radiant brilliance. She vanishes, leaving Erasmus touching nothing more than empty air.
+* Erasmus fluttua fino al bordo del cerchio di teletrasporto. «Sei pronta?» chiede piano. Stella annuisce timida e risponde: «Credo di sì. Ho un po' paura.»
+* Erasmus sorride triste. «Non averne», dice. «Victor e i tuoi amici si prenderanno cura di te. E anche se non potrai vedermi né sentirmi, non sarò mai lontano.»
+* Stella singhiozza, con le lacrime che le brillano agli angoli degli occhi. «Grazie», dice, tendendo una mano. «Di tutto.» Erasmus deglutisce e tende a sua volta la mano verso la sua. «Stella», dice, raggiante fra le lacrime. «È stato un onore.» Per un istante le loro dita si sfiorano, poi le perle di luce intorno a Stella esplodono in un bagliore radioso. Stella svanisce, ed Erasmus resta a toccare soltanto l'aria vuota.
 
-After a moment, Erasmus wipes his eyes on his spectral sleeve and turns to bid the players farewell. If the players attempt to comfort him, he insists that he is fine. “I’m happy for her,” he says softly. “She’s getting a second chance. Not everyone gets that.” If she is present, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] affixes Erasmus with a long, unreadable look, before her gaze abruptly softens, a flicker of warmth in her eyes. 
+Dopo un momento, Erasmus si asciuga gli occhi con la manica spettrale e si volta per salutare i giocatori. Se i giocatori cercano di consolarlo, insiste che sta bene. «Sono felice per lei», dice piano. «Ha una seconda possibilità. Non tutti ce l'hanno.» Se è presente, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] fissa a lungo Erasmus con uno sguardo indecifrabile, poi i suoi occhi si addolciscono di colpo, con un lampo di calore.
 
-Lady Wachter then hovers a hand over Erasmus’s shoulder and says, “Thank you for protecting my daughter. House Wachter owes you an unforgettable debt. Should you ever be in the presence of Wachterhaus, know that you will always be welcome there.” Erasmus smiles and thanks her.
+Poi Lady Wachter tiene sospesa una mano sopra la spalla di Erasmus e dice: «Grazie di aver protetto mia figlia. La casata Wachter ha con te un debito che non dimenticherà. Se mai ti troverai dalle parti di Wachterhaus, sappi che lì sarai sempre il benvenuto.» Erasmus sorride e la ringrazia.
 
-[[Non-Player Characters#Victor Vallakovich|Victor]] then asks the players if they are ready to depart for the Material Plane. Before they leave, however, Erasmus offers them the following warnings:
+Poi [[Non-Player Characters#Victor Vallakovich|Victor]] chiede ai giocatori se sono pronti a partire per il Piano Materiale. Prima che se ne vadano, però, Erasmus li avverte di queste cose:
 
-* Strange giant spiders pass in and out of the Ethereal Plane amidst the ruins of the town to the southwest of Vallaki. If the players ever travel there, they should be careful. (Victor recognizes these as **phase spiders**, described further in *Ethereal Entities.*)
-* Strahd von Zarovich occasionally visits the Ethereal Plane astride a demonic horse with a charcoal-black coat and a burning, fiery mane. (Victor recognizes this as a **nightmare**, described further in *Ethereal Entities.*)
+* Strani ragni giganti entrano ed escono dal Piano Etereo fra le rovine della città a sud-ovest di Vallaki. Se mai i giocatori ci andranno, dovranno stare attenti. (Victor riconosce in loro i **ragni fase**, descritti in *Entità eteree.*)
+* Strahd von Zarovich visita di tanto in tanto il Piano Etereo in sella a un cavallo demoniaco con il manto nero come il carbone e una criniera di fuoco ardente. (Victor riconosce in lui un **incubo**, descritto in *Entità eteree.*)
 
-When the players have bid their farewells, Victor turns to Erasmus and gives him a grateful, knowing nod, which Erasmus returns. Victor then speaks a single syllable, and the Ethereal Plane vanishes in a flare of white light.
+Quando i giocatori si sono congedati, Victor si volta verso Erasmus e gli fa un cenno grato e d'intesa, che Erasmus ricambia. Poi Victor pronuncia una sola sillaba, e il Piano Etereo svanisce in un lampo di luce bianca.
 
-The players then find themselves returned to the cult headquarters beneath Wachterhaus. Victor immediately moves for the exit to the cellar, frantically calling Stella’s name as he climbs toward <span class="citation">N4r. Cellar Entrance. (p. 114)</span> and passes through <span class="citation">N4d. Storage Room (p. 112)</span> and <span class="citation">N4c. Kitchen (p. 112)</span>.
+I giocatori si ritrovano di nuovo nel quartier generale del culto sotto Wachterhaus. Victor corre subito verso l'uscita della cantina, chiamando Stella a gran voce mentre sale verso <span class="citation">N4r. Ingresso della cantina (p. 114)</span> e attraversa <span class="citation">N4d. Ripostiglio (p. 112)</span> e <span class="citation">N4c. Cucina (p. 112)</span>.
 
-If the players follow, they can observe as Victor and Stella meet each other at the foot of <span class="citation">N4b. Staircase (p. 110)</span>. Victor throws his arms around Stella and the two kneel to the floor, sobbing with joy. The following sequence then unfolds, assuming the players do not intervene:
+Se i giocatori lo seguono, vedono Victor e Stella incontrarsi ai piedi di <span class="citation">N4b. Scalinata (p. 110)</span>. Victor getta le braccia al collo di Stella e i due cadono in ginocchio, singhiozzando di gioia. A meno che i giocatori non intervengano, succede poi questo:
 
-* “I’m so sorry,” Victor sobs, holding Stella tight. “I was so afraid I’d lost you, and it was all my fault.”
-* Stella cries into Victor’s shoulder, hiccuping repeatedly as she clutches his sleeves. “It wasn’t your fault,” she says. “You *saved* me.” 
-* If present, Lady Wachter steps forward, obviously hesitant and unsure. Stella looks up toward her, releases her grip on Victor, and launches herself into her mother’s embrace. Lady Wachter stiffens, then relaxes, lifting an uncertain hand to gently stroke Stella’s hair. Stella swallows, her whole body trembling as she burrows her face into her mother’s shoulder. “I’m sorry,” she sobs. “It was my fault—please, don’t blame Victor.” Lady Wachter holds Stella tight. “Hush,” she murmurs. “It’s all right. I’ve got you.”
-* When Lady Wachter finally releases her, Stella steps forward toward the players—and stumbles, her foot nearly falling out from under her. Victor and Lady Wachter swiftly move to catch her. “You’ve been out of your body for too long,” Victor cautions her. “You need to get used to having legs again.”
-* Stella nods, then looks around at the players, her eyes shining with gratitude. “Thank you,” she says. “It was so quiet in there—so *cold.* But because of you, I can *feel* again. I can hear the world again. Thank you—from the bottom of my heart, *thank you.*” 
+* «Mi dispiace tanto», singhiozza Victor, stringendo forte Stella. «Avevo così paura di averti persa, ed era tutta colpa mia.»
+* Stella piange sulla spalla di Victor, singhiozzando e stringendogli le maniche. «Non è stata colpa tua», dice. «Tu mi hai *salvata*.»
+* Se è presente, Lady Wachter fa un passo avanti, palesemente esitante e insicura. Stella alza lo sguardo verso di lei, lascia andare Victor e si getta fra le braccia della madre. Lady Wachter si irrigidisce, poi si scioglie e alza una mano incerta per accarezzarle piano i capelli. Stella deglutisce, tremando tutta, e affonda il viso nella spalla della madre. «Mi dispiace», singhiozza. «È stata colpa mia, ti prego, non prendertela con Victor.» Lady Wachter la stringe forte. «Zitta», mormora. «Va tutto bene. Ci sono io.»
+* Quando Lady Wachter finalmente la lascia andare, Stella fa un passo verso i giocatori e inciampa: un piede quasi le cede. Victor e Lady Wachter si muovono in fretta per sorreggerla. «Sei stata fuori dal tuo corpo troppo a lungo», la avverte Victor. «Devi riabituarti ad avere le gambe.»
+* Stella annuisce, poi guarda i giocatori, con gli occhi lucidi di gratitudine. «Grazie», dice. «Là dentro era tutto così silenzioso, così *freddo*. Ma grazie a voi posso di nuovo *sentire*. Posso di nuovo sentire il mondo. Grazie, dal profondo del cuore, *grazie*.»
 
 ![[Stella_Alive.png]]
-<span class="credit">"Stella Wachter" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">«Stella Wachter» di Caleb Cleveland. Sostienilo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-In gratitude for the players’ efforts, Lady Wachter grants them a *lantern of revealing*, as well as a standing invitation to seek her aid or counsel whenever they find themselves in Vallaki, so long as their efforts do not risk harm to the town or its people.
+Per gratitudine verso i giocatori, Lady Wachter regala loro una *lanterna rivelatrice*, oltre all'invito permanente a chiederle aiuto o consiglio ogni volta che si troveranno a Vallaki, purché quello che fanno non rischi di danneggiare la città o la sua gente.
 
-The following morning, Victor also sends the players the following message with the sending spell: “Come to my home. I have a gift for you.” Upon their arrival, he presents them with the *spirit mirror* from his workroom.
+La mattina dopo anche Victor manda ai giocatori questo messaggio con l'incantesimo inviare: «Venite a casa mia. Ho un regalo per voi.» Quando arrivano, regala loro lo *specchio degli spiriti* del suo laboratorio.
 
-***Milestone.*** Restoring Stella’s soul to her body completes a story milestone. If the players successfully rescue her from the Ethereal Plane, award each player 1,750 XP.
+***Traguardo.*** Restituire l'anima di Stella al suo corpo completa un traguardo della storia. Se i giocatori riescono a salvarla dal Piano Etereo, assegna a ogni giocatore 1.750 PE.
 
-> [!item]+ **Spirit Mirror**
+> [!item]+ **Specchio degli spiriti**
 >
-> *Wondrous item, rare*
+> *Oggetto meraviglioso, raro*
 >
-> In addition to its current plane, this ornate bronze mirror also reflects the corresponding location in the Ethereal Plane out to a distance of 60 feet.
+> Oltre al piano in cui si trova, questo specchio di bronzo decorato riflette anche il luogo corrispondente del Piano Etereo, fino a una distanza di 18 m.
 >
-> Once per day, you can use an action to cause it to either shrink to the size of a hand mirror or grow to the size of a full-length mirror.
+> Una volta al giorno puoi usare un'azione per farlo rimpicciolire fino alle dimensioni di uno specchio a mano, o ingrandire fino a quelle di uno specchio a figura intera.
 
-> [!abstract]+ **Van Richten & the Spirit Mirror**
-> Dr. Rudolph van Richten's curse prevents him from perceiving his son, Erasmus, in the *spirit mirror*. See [[Arc T - The Three Fanes]] for more information about lifting Van Richten's curse.
-# H9. The Tome of Strahd
-The *Tome of Strahd* is kept closed by a locked steel clasp enchanted with an *arcane lock* spell cast at 5th level. The pass phrase to suppress it is "I come in Dostron's memory." (Only Strahd and his eldest bride, Sasha Ivliskova, know this pass phrase. See [[Arc O - Dinner with the Devil]] for more information about Sasha Ivliskova.) The _arcane lock_ can also be suppressed as normal with a _knock_ spell, a _dispel magic_ spell, or similar magic (e.g., the *antimagic field* surrounding <span class="citation">Chapter 11. Van Richten's Tower (p. 167)</span>).
+> [!abstract]+ **Van Richten e lo specchio degli spiriti**
+> La maledizione del dottor Rudolph van Richten gli impedisce di vedere il figlio, Erasmus, nello *specchio degli spiriti*. Per come togliere la maledizione di Van Richten vedi l'[[Arc T - The Three Fanes|Arco T: I tre templi]].
+# H9. Il Tomo di Strahd
+Il *Tomo di Strahd* è tenuto chiuso da un fermaglio d'acciaio con serratura, incantato con un incantesimo *serratura arcana* lanciato al 5º livello. La frase d'accesso per sopprimerlo è «Vengo in memoria di Dostron». (Solo Strahd e la sua prima sposa, Sasha Ivliskova, conoscono questa frase d'accesso. Per Sasha Ivliskova vedi l'[[Arc O - Dinner with the Devil|Arco O: Cena con il diavolo]].) La _serratura arcana_ si può anche sopprimere normalmente con un incantesimo _scassinare_, un incantesimo _dissolvi magie_ o una magia simile (per esempio il *campo anti-magia* che circonda la <span class="citation">Capitolo 11. La torre di Van Richten (p. 167)</span>).
 
-The clasp ordinarily takes a successful DC 15 Strength check to break, but requires a successful DC 25 Strength check instead while under the effects of the spell. Similarly, the lock itself ordinarily requires a DC 15 Dexterity (Thieves’ Tools) check to open, but requires a successful DC 25 Dexterity (Thieves’ Tools) check instead while under the effects of the spell. An attempt to pick the lock takes 1 minute to complete.
-## H9a. Reading the Tome
-Once successfully opened, the contents of the *Tome* now read as follows: <sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/i4euxw/plaything_of_darkness_a_philosophy_students_take/">6</a></sup>
+Di solito per rompere il fermaglio serve una prova di Forza con CD 15 superata, ma finché è sotto l'effetto dell'incantesimo serve invece una prova di Forza con CD 25 superata. Allo stesso modo, di solito per aprire la serratura serve una prova di Destrezza (arnesi da scasso) con CD 15, ma finché è sotto l'effetto dell'incantesimo serve invece una prova di Destrezza (arnesi da scasso) con CD 25 superata. Un tentativo di scassinare la serratura richiede 1 minuto.
+## H9a. Leggere il Tomo
+Una volta aperto, il *Tomo* ora dice così: <sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/i4euxw/plaything_of_darkness_a_philosophy_students_take/">6</a></sup>
 
-<div class="description"><p>I am the Ancient. I am the Land. My beginnings are lost in the darkness of the past. I was the warrior, I was good and just. I thundered across the land like the wrath of a just god, but the war years and the killing years wore down my soul as the wind wears stone into sand.</p>
-<p>All goodness slipped from my life. I found my youth and strength gone, and all I had left was death. My army settled in the valley of Barovia and took power over the people in the name of a just god, but with none of a god's grace or justice.</p>
-<p>I called for my family, long unseated from their ancient thrones, and brought them here to settle in the castle Ravenloft. They came with a younger brother of mine, Sergei. He was handsome and youthful. I hated him for both.</p>
-<p>From the families of the valley, one spirit shone above all others: a rare beauty, who was called 'perfection,' 'joy,' and 'treasure.' Her name was Tatyana, and I longed for her to be mine. But 'Old One' was my name to her—'elder' and 'brother' also. Her heart went to Sergei. They were betrothed. The date was set.</p>
-<p>With words she called me "brother," but when I looked into her eyes they reflected another name: "death." It was the death of the aged that she saw in me. She loved her youth and enjoyed it, but I had squandered mine. And so I came to hate death—my death. </p>
-<p>But I would not be called "death" so soon. I made a pact with Death. On the day of the wedding, I killed Sergei, my brother, and sealed my pact with his blood.</p>
-<p>I found Tatyana weeping in the garden east of the chapel. She fled from me, and I pursued. Finally, in despair, she flung herself from the walls of Ravenloft, and I watched everything I ever wanted fall from my grasp forever.</p>
-<p>It was a thousand feet through the mists. No trace of her was ever found, and not even I know her final fate. Arrows from the castle guards pierced me to my soul, but I did not die. Nor did I live. I became undead, forever.</p>
-<p>I have studied much since then. 'Vampyr' is my new name. I still lust for life and youth, and I curse the living that took them from me. Even the sun is against me, but little else can harm me now. Even a stake through my heart does not kill me, though it holds me from movement. Only the sword, that cursed sword that Sergei brought! I hated it as much as the sun. But it is long gone now, and no other weapon shall stay my hand.</p>
-<p>I have learned much, too, about this land of Barovia. Ancient are its ways, ancient beyond the knowledge of the simple folk of the valley. Ancient gods dwelt in this valley long before my coming, and three hidden fanes still give tribute to their memories. I visited the Swamp Fane, the Forest Fane, and the Mountain Fane, and claimed their power for my own. Their servants now serve me, and thus I have become the Land.</p>
-<p>Since my passage into eternity, I have often hunted for Tatyana. I have even felt her within my grasp, though she fled from me once again. But she cannot run forever—and I have nothing but time.</p>
-<p>I write this now to crystallize my rage in the face of time's bitter winds. As the chill of the grave grips my heart, I feel all that I was leave me—the death of the man, and the birth of the immortal. Yet this memory shall persevere, a scion of that righteous fury. I shall bury the past, and so begin anew.</p>
-<p>I now reside far below Ravenloft. I live among the dead and sleep beneath the very stones of this hollow castle of despair. I have abandoned the riches of my conquests beneath the toll of the belfry, sealed behind a reminder of the treasure I once lost. Yet one day, I shall rise again from the ashes of my glory and reclaim what is rightfully mine.</p></div>
+<div class="description"><p>Io sono l'Antico. Io sono la Terra. Le mie origini sono perdute nel buio del passato. Ero il guerriero, ero buono e giusto. Tuonavo sulla terra come l'ira di un dio giusto, ma gli anni della guerra e gli anni delle uccisioni hanno consumato la mia anima come il vento riduce la pietra in sabbia.</p>
+<p>Ogni bontà è scivolata via dalla mia vita. Ho scoperto che la giovinezza e la forza se n'erano andate e che mi restava soltanto la morte. Il mio esercito si stabilì nella valle di Barovia e prese il potere sul popolo nel nome di un dio giusto, ma senza nulla della grazia o della giustizia di un dio.</p>
+<p>Chiamai la mia famiglia, da tempo cacciata dai suoi troni antichi, e la portai qui, a stabilirsi nel castello di Ravenloft. Venne con loro un mio fratello più giovane, Sergei. Era bello e giovane. Lo odiavo per entrambe le cose.</p>
+<p>Fra le famiglie della valle uno spirito brillava sopra tutti gli altri: una bellezza rara, che chiamavano «perfezione», «gioia» e «tesoro». Si chiamava Tatyana, e io bramavo che fosse mia. Ma per lei il mio nome era «Vecchio», e anche «maggiore» e «fratello». Il suo cuore andò a Sergei. Si fidanzarono. Fu fissata la data.</p>
+<p>Con le parole mi chiamava «fratello», ma quando la guardavo negli occhi vi si rifletteva un altro nome: «morte». Era la morte del vecchio che vedeva in me. Amava la sua giovinezza e se la godeva, mentre io avevo sperperato la mia. E così presi a odiare la morte: la mia morte.</p>
+<p>Ma non mi sarei lasciato chiamare «morte» così presto. Strinsi un patto con la Morte. Il giorno delle nozze uccisi Sergei, mio fratello, e suggellai il patto con il suo sangue.</p>
+<p>Trovai Tatyana che piangeva nel giardino a est della cappella. Fuggì da me, e io la inseguii. Alla fine, disperata, si gettò dalle mura di Ravenloft, e io guardai tutto ciò che avessi mai desiderato sfuggirmi di mano per sempre.</p>
+<p>Fu un volo di trecento metri attraverso le nebbie. Di lei non si trovò mai traccia, e nemmeno io conosco la sua sorte finale. Le frecce delle guardie del castello mi trafissero fino all'anima, ma io non morii. E nemmeno vissi. Divenni un non morto, per sempre.</p>
+<p>Da allora ho studiato molto. «Vampyr» è il mio nuovo nome. Bramo ancora la vita e la giovinezza, e maledico i vivi che me le hanno tolte. Perfino il sole è contro di me, ma ben poco altro può ferirmi ormai. Nemmeno un paletto nel cuore mi uccide, anche se mi impedisce di muovermi. Solo la spada, quella spada maledetta che portò Sergei! La odiavo quanto il sole. Ma ormai è sparita da tempo, e nessun'altra arma fermerà la mia mano.</p>
+<p>Ho imparato molto anche su questa terra di Barovia. Antiche sono le sue usanze, antiche oltre ogni conoscenza della gente semplice della valle. Dèi antichi abitavano questa valle molto prima del mio arrivo, e tre templi nascosti rendono ancora omaggio alla loro memoria. Ho visitato il Tempio della Palude, il Tempio della Foresta e il Tempio della Montagna, e ne ho reclamato il potere per me. I loro servitori ora servono me, e così sono diventato la Terra.</p>
+<p>Dal mio passaggio nell'eternità ho dato spesso la caccia a Tatyana. L'ho perfino sentita a portata di mano, anche se mi è sfuggita ancora una volta. Ma non può fuggire per sempre, e io non ho altro che tempo.</p>
+<p>Scrivo queste righe per fissare la mia rabbia contro i venti amari del tempo. Mentre il gelo della tomba mi stringe il cuore, sento tutto ciò che ero abbandonarmi: la morte dell'uomo, e la nascita dell'immortale. Eppure questo ricordo durerà, figlio di quella giusta furia. Seppellirò il passato, e così ricomincerò da capo.</p>
+<p>Ora dimoro nel profondo, sotto Ravenloft. Vivo fra i morti e dormo sotto le pietre stesse di questo castello vuoto di disperazione. Ho abbandonato le ricchezze delle mie conquiste sotto i rintocchi del campanile, sigillate dietro un ricordo del tesoro che un tempo ho perduto. Eppure un giorno risorgerò dalle ceneri della mia gloria e reclamerò ciò che mi spetta di diritto.</p></div>
 
-The pages following the legible text are filled with diagrams, equations, and thousands of strange symbols. The symbols are not written language, but a cipher devised by Strahd to conceal his secret plans. (Only the **lich** Exethanter knows the key to decode Strahd's cipher. See [[Arc S - A Sword of Sunlight]] for more information about Exethanter.) Several diagrams appear to depict a large, crystalline human heart, while others depict circles of standing stones. 
+Le pagine che seguono il testo leggibile sono piene di diagrammi, equazioni e migliaia di simboli strani. I simboli non sono una lingua scritta, ma un cifrario ideato da Strahd per nascondere i suoi piani segreti. (Solo il **lich** Exethanter conosce la chiave per decifrare il cifrario di Strahd. Per Exethanter vedi l'[[Arc S - A Sword of Sunlight|Arco S: Una spada di luce solare]].) Alcuni diagrammi sembrano raffigurare un grande cuore umano di cristallo, altri cerchi di pietre erette.
 
-Players who read through these sections find numerous annotations referencing (in Common) an individual named Exethanter. Multiple instances of Exethanter’s name are accompanied by the symbol of the Amber Temple: a thick-bordered equilateral triangle containing an inverted equilateral triangle, which in turn contain a vertical wavy line. (The triangle represents the god of secrets, the inverted triangle the amber sarcophagi, and the wavy line the vestiges sealed within.)
+I giocatori che leggono queste parti trovano numerose annotazioni che fanno riferimento (in Comune) a un tale di nome Exethanter. Spesso il nome di Exethanter è accompagnato dal simbolo del Tempio d'Ambra: un triangolo equilatero dal bordo spesso che contiene un triangolo equilatero capovolto, che a sua volta contiene una linea ondulata verticale. (Il triangolo rappresenta il dio dei segreti, il triangolo capovolto i sarcofagi d'ambra e la linea ondulata le vestigia sigillate al loro interno.)
 
-***Milestone.*** Obtaining the *Tome of Strahd* completes a story milestone. When the players obtain the tome, award each player 750 XP.
+***Traguardo.*** Ottenere il *Tomo di Strahd* completa un traguardo della storia. Quando i giocatori ottengono il tomo, assegna a ogni giocatore 750 PE.
 
-> [!abstract]+ **The Symbol**
+> [!abstract]+ **Il simbolo**
 >
-> The symbol of the Amber Temple can be identified by the dusk elf Kasimir Velikov (who has seen it in his dreams), by the revenant Sir Godfrey Gwilym (who once guarded the Temple), or by Victor Vallakovich (who has seen the symbol in his spellbook). Of these three, only Kasimir and Godfrey know what the Amber Temple is and where it can be found, and only Kasimir—once the players complete [[Arc Q - A Shining Beacon]]—is willing to tell them how to get there.
-# Design Notes: The Lost Soul
-The original module presents a number of interesting ideas and set pieces—the hag coven at Old Bonegrinder, the dream pastry addicts, Victor Vallakovich's teleportation circle, Stella Wachter's strange illness, and the betrayal of Leo Dilisnya—but ultimately fails to do anything interesting or meaningful with them. 
+> Il simbolo del Tempio d'Ambra può essere riconosciuto dall'elfo del crepuscolo Kasimir Velikov (che l'ha visto nei suoi sogni), dal revenant Sir Godfrey Gwilym (che un tempo custodiva il Tempio) o da Victor Vallakovich (che l'ha visto nel suo libro degli incantesimi). Dei tre, solo Kasimir e Godfrey sanno che cosa sia il Tempio d'Ambra e dove si trovi, e solo Kasimir, una volta che i giocatori avranno completato l'[[Arc Q - A Shining Beacon|Arco Q: Un faro splendente]], è disposto a dire loro come arrivarci.
+# Note di progettazione: l'anima perduta
+Il modulo originale presenta diverse idee e scene interessanti, cioè la congrega di megere del Vecchio Tritaossa, i dipendenti dai dolci dei sogni, il cerchio di teletrasporto di Victor Vallakovich, la strana malattia di Stella Wachter e il tradimento di Leo Dilisnya, ma alla fine non ne fa niente di interessante o di significativo.
 
-In the original module, the players have few to no hooks that lead them to take an interest in any of these elements, and those that *do* present any hooks (e.g., Morgantha's appearance in the village of Barovia) provide little narrative depth to actually explore.
+Nel modulo originale i giocatori hanno pochi agganci, o nessuno, che li spingano a interessarsi a questi elementi, e quelli che *ci sono* (per esempio la comparsa di Morgantha nel villaggio di Barovia) offrono poca profondità narrativa da esplorare.
 
-As such, this arc aims to comprehensively rework these stray narrative elements into a more cohesive whole that still remains true to the intent and flavor of the original module. 
+Per questo l'arco cerca di rielaborare a fondo questi elementi narrativi sparsi in un insieme più coeso, che resti però fedele alle intenzioni e all'atmosfera del modulo originale.
 
-* Victor Vallakovich, who most *Curse of Strahd* playgroups inevitably befriend despite his ostensibly Evil alignment, has been altered to be a far more sympathetic character. 
-* Stella Wachter, whose illness inevitably confounds and amuses *Curse of Strahd* players, has been altered to provide a direct tie-in to the hags of Old Bonegrinder and the ghosts of the Ethereal Plane. (Ghosts in particular are an aspect of gothic horror that is sorely undeveloped in the original module.) 
-* The players now have a true opportunity to witness and intervene in the suffering wrought by night hags upon their victims, and to destroy their corruption once and for all.
-* Finally, the players now have a chance to learn about the dark history of Leo Dilisnya, enhancing the themes developed in the *Tome of Strahd*, foreshadowing Strahd's use of Leo's Ba'al Verzi dagger to seal the leeches corrupting the Fanes of Barovia, and providing emotional closure to Lady Wachter's character arc as it pertains to her deceased parents and brother.
+* Victor Vallakovich, con cui quasi tutti i gruppi di *Curse of Strahd* finiscono per fare amicizia nonostante l'allineamento ufficialmente malvagio, è stato reso un personaggio molto più simpatico.
+* Stella Wachter, la cui malattia lascia immancabilmente perplessi e divertiti i giocatori di *Curse of Strahd*, è stata modificata per legarla direttamente alle megere del Vecchio Tritaossa e ai fantasmi del Piano Etereo. (I fantasmi in particolare sono un aspetto dell'horror gotico gravemente trascurato nel modulo originale.)
+* Ora i giocatori hanno una vera occasione di vedere le sofferenze che le megere notturne infliggono alle loro vittime, di intervenire e di distruggere la loro corruzione una volta per tutte.
+* Infine i giocatori hanno ora la possibilità di conoscere la storia oscura di Leo Dilisnya, che rafforza i temi sviluppati nel *Tomo di Strahd*, anticipa l'uso del pugnale dei Ba'al Verzi di Leo da parte di Strahd per sigillare le sanguisughe che corrompono i Templi di Barovia e chiude sul piano emotivo l'arco di Lady Wachter rispetto ai genitori e al fratello defunti.
 
-This arc also serves to cement Lady Wachter's alliance with the players, strengthening the themes of resonance and unity that run throughout the adventure and providing a clear narrative progression to their relationship in [[Arc F - Lady Wachter's Wish]]
+L'arco serve anche a cementare l'alleanza di Lady Wachter con i giocatori, rafforzando i temi della risonanza e dell'unità che attraversano tutta l'avventura e dando una progressione narrativa chiara al loro rapporto nell'[[Arc F - Lady Wachter's Wish|Arco F: Il desiderio di Lady Wachter]].
 
-***Erasmus's Plea.*** Erasmus's visitation has been added to provide a backup hook to this arc if the players miss or decline it elsewhere. Erasmus's presence in this portion of the adventure also serves to provide the players with exposition regarding the **gallows speaker**  hunting Stella's soul, and to continue developing the tragedy of the Van Richten family that began in [[Arc E - The Missing Vistana]]
+***La supplica di Erasmus.*** La visita di Erasmus è stata aggiunta come aggancio di riserva per questo arco, se i giocatori lo perdono o lo rifiutano altrove. La presenza di Erasmus in questa parte dell'avventura serve anche a dare ai giocatori informazioni sull'**oratore della forca** che dà la caccia all'anima di Stella e a sviluppare la tragedia della famiglia Van Richten cominciata nell'[[Arc E - The Missing Vistana|Arco E: La vistana scomparsa]].
 
-***Burgomaster's Mansion.*** The *spirit mirror* has been added as a means of explaining Victor's communication with Stella, and as an eventual reward for the players upon restoring Stella's soul.
+***La villa del borgomastro.*** Lo *specchio degli spiriti* è stato aggiunto per spiegare come comunicano Victor e Stella, e come ricompensa finale per i giocatori quando restituiscono l'anima a Stella.
 
-The **gallows speaker**'s attack on Stella has been added to explicitly introduce Leo Dilisnya as an antagonist for this arc (even if his identity is currently unknown to the players). 
+L'attacco dell'**oratore della forca** a Stella è stato aggiunto per presentare esplicitamente Leo Dilisnya come antagonista di questo arco (anche se per ora i giocatori non sanno chi sia).
 
-Stella's fading tether has been added to provide a clear countdown for this arc's dramatic question, with her fading memories and strange visions serving to foreshadow the existence of reincarnation in Barovia (a key narrative element in Ireena's character arc, explored further in [[Arc T - The Three Fanes]]).
+Il filo di Stella che si accorcia è stato aggiunto per dare un conto alla rovescia chiaro alla domanda drammatica dell'arco, e i ricordi che svaniscono e le visioni strane servono ad anticipare l'esistenza della reincarnazione a Barovia (un elemento narrativo chiave nell'arco di Ireena, approfondito nell'[[Arc T - The Three Fanes|Arco T: I tre templi]]).
 
-Victor's teleportation circle is now a functional one to (1) make clear to the players that magical escape from Barovia is not possible, and (2) to ensure that the players view Victor as a competent mage, rather than an incompetent one.
+Il cerchio di teletrasporto di Victor ora funziona, per (1) far capire chiaramente ai giocatori che fuggire da Barovia con la magia è impossibile e (2) far vedere Victor come un mago competente, non un incapace.
 
-The *etherealness* ritual has been added to provide the players with a reason to investigate the **night hags** of Old Bonegrinder.
+Il rituale di *forma eterea* è stato aggiunto per dare ai giocatori un motivo per indagare sulle **megere notturne** del Vecchio Tritaossa.
 
-The night of the full moon has been intentionally placed on the night of the players' sixth full day in Barovia in order to provide the players with sufficient time to complete other quests in Act II (and therefore reach 5th level) before doing battle with hags of Old Bonegrinder and the **gallows speaker** of Leo Dilisnya—two exceptionally powerful foes.
+La notte di luna piena è stata messa apposta la notte del sesto giorno pieno dei giocatori a Barovia, per lasciare loro il tempo di completare altre missioni dell'Atto II (e arrivare così al 5º livello) prima di affrontare le megere del Vecchio Tritaossa e l'**oratore della forca** di Leo Dilisnya, due nemici eccezionalmente potenti.
 
-***The Refugee Camp.*** Franz and his children have been added to provide the players with an emotional reason to dislike the night hag coven, to confirm that Morgantha is a night hag, to provide an additional complication in the players' efforts to defeat or bargain with the coven, to add additional stakes to the coven's defeat, and to provide the players with a means of identifying the location of the coven's contract (and therefore learn the hags' true names in order to bind them).
+***Il campo dei profughi.*** Franz e i suoi figli sono stati aggiunti per dare ai giocatori un motivo emotivo per detestare la congrega di megere notturne, per confermare che Morgantha è una megera notturna, per complicare gli sforzi dei giocatori per sconfiggere la congrega o trattare con lei, per alzare la posta in gioco della sua sconfitta e per dare ai giocatori un modo di scoprire dove si trova il contratto della congrega (e quindi conoscere i veri nomi delle megere per vincolarle).
 
-***Matrons of Malevolence.*** The excerpted chapter on night hags in Mordenkainen's book, *Ethereal Entities: Denizens of the Unseen Plane* has been written to inform the players that (1) night hags are vulnerable to silver and resistant to magic and nonmagical weapon damage, (2) night hags are particularly cunning, yet arrogant creatures, (3) night hags are willing to make bargains and can be trusted to uphold their end of a deal, (4) night hags can instantly and easily escape into the Ethereal Plane through the use of their heartstones, (5) night hags can cast *dispel magic* once per day when in a coven, and (6) a night hag coven's contract contains their true names, and they therefore guard it carefully.
+***Matrone della malvagità.*** Il capitolo sulle megere notturne tratto dal libro di Mordenkainen, *Entità eteree: gli abitanti del regno invisibile*, è stato scritto per far sapere ai giocatori che (1) le megere notturne sono vulnerabili all'argento e resistenti alla magia e ai danni da armi non magiche, (2) sono creature particolarmente astute ma superbe, (3) sono disposte a stringere patti e mantengono la loro parte, (4) possono fuggire all'istante e senza fatica nel Piano Etereo grazie alla pietra del cuore, (5) quando sono in congrega possono lanciare *dissolvi magie* una volta al giorno e (6) il contratto di una congrega di megere notturne contiene i loro veri nomi, e per questo lo custodiscono con cura.
 
-***Victor's Plan.*** Victor has been given the *sending* spell in place of the *remove curse* spell in order to preserve the dramatic tension of the curse of lycanthropy (and thereby encourage afflicted players to seek out wolfsbane in Krezk in order to secure Van Richten's calming elixir, as described in [[Arc E - The Missing Vistana]]).
+***Il piano di Victor.*** Victor ha l'incantesimo *inviare* al posto di *rimuovi maledizione* per preservare la tensione drammatica della maledizione della licantropia (e spingere così i giocatori colpiti a cercare l'aconito a Krezk per avere l'elisir calmante di Van Richten, come descritto nell'[[Arc E - The Missing Vistana|Arco E: La vistana scomparsa]]).
 
-This guide intentionally has Victor give the players a choice between killing and bargaining with the hags. The binding circle has been added to provide the players with the means of killing the coven (rather than allowing them to escape into the Ethereal Plane once threatened).
+In questa guida Victor dà apposta ai giocatori la scelta fra uccidere le megere e trattare con loro. Il cerchio di vincolo è stato aggiunto per dare ai giocatori un modo di uccidere la congrega (invece di lasciarla fuggire nel Piano Etereo appena minacciata).
 
-***Stella's Discovery.*** The blueprint of the windmill has been added to provide the players with the ability to locate the coven's contract and therefore learn the hags' true names for the binding ritual. 
+***La scoperta di Stella.*** La pianta del mulino è stata aggiunta per permettere ai giocatori di trovare il contratto della congrega e quindi conoscere i veri nomi delle megere per il rituale di vincolo.
 
-The binding circle around Wachterhaus has been added to foreshadow the threat of Leo Dilisnya's spirit, and to clearly signal to the players that Lady Wachter is a powerful ally in their effort to save Stella's soul.
+Il cerchio di vincolo intorno a Wachterhaus è stato aggiunto per anticipare la minaccia dello spirito di Leo Dilisnya e per far capire chiaramente ai giocatori che Lady Wachter è un'alleata potente nel loro sforzo di salvare l'anima di Stella.
 
-The leyline beneath Wachterhaus has been placed there to ensure that the players carry out the *etherealness* ritual within Leo Dilisnya's former prison—Lady Wachter's cult headquarters—which is otherwise a foreboding and uncomfortable location.
+La linea di forza sotto Wachterhaus è stata messa lì perché i giocatori celebrino il rituale di *forma eterea* nell'ex prigione di Leo Dilisnya, il quartier generale del culto di Lady Wachter, un luogo di per sé inquietante e sgradevole.
 
-***Wachterhaus's Protective Circle.*** Leo's assassination attempt has been added to provide Strahd with an inciting incident that spurred the latter to take note of his own mortality, thereby driving him to accept the Dark Powers' pact on the day of Sergei's wedding.
+***Il cerchio protettivo di Wachterhaus.*** Il tentato assassinio di Leo è stato aggiunto per dare a Strahd un evento scatenante che gli faccia prendere coscienza della propria mortalità, spingendolo ad accettare il patto dei Poteri Oscuri il giorno delle nozze di Sergei.
 
-Leo's imprisonment beneath Wachterhaus—an artifact of older editions of *Ravenloft*—and his subsequent haunting of the estate have been added in order to convey the depths of Strahd's cruelty, to create a clear antagonist opposing Stella's rescue, and to create an inciting incident that drove Lady Wachter to depart Baba Lysaga's tutelage and return to Vallaki.
+La prigionia di Leo sotto Wachterhaus, un residuo delle vecchie edizioni di *Ravenloft*, e la sua successiva infestazione della tenuta sono state aggiunte per mostrare quanto sia profonda la crudeltà di Strahd, per creare un antagonista chiaro che si opponga al salvataggio di Stella e per creare un evento scatenante che abbia spinto Lady Wachter a lasciare la guida di Baba Lysaga e a tornare a Vallaki.
 
-Lady Wachter's rejection of Frederich Wachter's request for aid serves to create a "loose end" in her history, providing her with a need for emotional closure and a guilt-fueled need for vengeance against Leo Dilisnya's spirit.
+Il rifiuto di Lady Wachter di aiutare Frederich Wachter crea un «filo in sospeso» nella sua storia, che le dà il bisogno di chiudere i conti sul piano emotivo e un desiderio di vendetta, alimentato dal senso di colpa, contro lo spirito di Leo Dilisnya.
 
-***Wachterhaus.*** Lady Wachter's doubt regarding Stella's fate is one of two narrative elements added to ensure that the protective barrier around Wachterhaus is dropped before the finale, therefore allowing the spirit of Leo Dilisnya to attack the players during the arc's climax. (The other narrative element is the leyline beneath Wachterhaus, which requires the barrier to be lowered in order for Stella to participate in the ritual to restore her soul.)
+***Wachterhaus.*** Il dubbio di Lady Wachter sulla sorte di Stella è uno dei due elementi narrativi aggiunti perché la barriera protettiva intorno a Wachterhaus venga abbassata prima del finale, permettendo così allo spirito di Leo Dilisnya di attaccare i giocatori nel culmine dell'arco. (L'altro elemento è la linea di forza sotto Wachterhaus, che richiede di abbassare la barriera perché Stella possa partecipare al rituale per restituirle l'anima.)
 
-Lady Wachter's reliance upon the members of her cult for the binding ritual has been added to introduce the cult to the players, and to discourage the players from attempting any such binding rituals on their own in the future (e.g., in an effort to incapacitate Strahd or his **nightmare**, Beucephalus).
+Il fatto che per il rituale di vincolo Lady Wachter abbia bisogno dei membri del suo culto è stato aggiunto per presentare il culto ai giocatori e per scoraggiarli dal tentare in futuro rituali di vincolo simili da soli (per esempio per neutralizzare Strahd o il suo **incubo**, Beucephalus).
 
-***The Old Svalich Road.*** The **druid** random encounter has been added to introduce the Forest Folk faction prior to their official presence in [[Arc J - The Stolen Gem]], and to further foreshadow Lady Wachter's relationships with Baba Lysaga and Leo Dilisnya.
+***La Vecchia Strada di Svalich.*** L'incontro casuale con il **druido** è stato aggiunto per presentare la fazione del Popolo della Foresta prima della sua comparsa ufficiale nell'[[Arc J - The Stolen Gem|Arco J: La gemma rubata]], e per anticipare ancora i legami di Lady Wachter con Baba Lysaga e con Leo Dilisnya.
 
-***Bargain With the Hags.*** This brief alternative path is offered for parties that may wish to use a diplomatic solution instead of a hostile one, notwithstanding the hags' predation of Franz and his children. The soul leech has been added to provide the players with an additional impetus to raid Castle Ravenloft in [[Arc P - Ravenloft Heist]] and to foster a closer interest in Rahadin, Strahd's chamberlain. 
+***Trattare con le megere.*** Questa breve strada alternativa è pensata per i gruppi che preferiscono una soluzione diplomatica a una ostile, nonostante le megere abbiano fatto di Franz e dei suoi figli le loro prede. La sanguisuga d'anime è stata aggiunta per dare ai giocatori un ulteriore stimolo a fare irruzione nel Castello di Ravenloft nell'[[Arc P - Ravenloft Heist|Arco P: Il colpo a Ravenloft]] e per alimentare un interesse più stretto per Rahadin, il ciambellano di Strahd.
 
-This guide intentionally foregoes alternative bargains that the hags might seek to make, such as directing the players to sell dream pastries or kidnap children for them. These alternative bargains fail for multiple reasons:
+Questa guida rinuncia apposta ad altri patti che le megere potrebbero proporre, come far vendere ai giocatori dolci dei sogni o far loro rapire bambini. Questi patti alternativi non funzionano per diverse ragioni:
 
-1. There is no satisfying narrative end to such a "corruption" arc short of killing the hags themselves (the very outcome that the players were trying to avoid), 
+1. Un arco di «corruzione» del genere non ha una conclusione narrativa soddisfacente che non sia uccidere le megere stesse (proprio quello che i giocatori cercavano di evitare);
 
-2. The hags have no way of enforcing such a bargain, 
-3. While such moral dilemmas may make for great media, few players are willing (let alone eager) to play a child-trafficking/drug-dealing TTRPG, and 
-4. The players are undertaking such tasks under duress (i.e., to save Stella), and are therefore not truly "choosing" to fall into corruption to the hags' satisfaction.
+2. Le megere non hanno modo di far rispettare un patto del genere;
+3. Per quanto dilemmi morali di questo tipo possano funzionare nei romanzi o nei film, pochi giocatori sono disposti (figuriamoci entusiasti) a giocare un gioco di ruolo da tavolo sul traffico di bambini o sullo spaccio di droga;
+4. I giocatori svolgerebbero questi compiti sotto costrizione (cioè per salvare Stella) e quindi non «sceglierebbero» davvero di cadere nella corruzione per la soddisfazione delle megere.
 
-***The Megaliths.*** The Mountain Fane has been placed by Old Bonegrinder due to its proximity to the eastern Balinok Mountains (which form a clustered mountain range around Castle Ravenloft) and to Madam Eva's current residence at Tser Pool. 
+***I megaliti.*** Il Tempio della Montagna è stato messo vicino al Vecchio Tritaossa per la sua vicinanza ai Monti Balinok orientali (che formano una catena montuosa compatta intorno al Castello di Ravenloft) e all'attuale dimora di Madam Eva allo Stagno di Tser.
 
-The vampiric mists have been added to discourage the players from lingering in this area, to create an additional barrier to the leech's demiplane, and to hint to the players that this site is not all that it seems.
+Le nebbie vampiriche sono state aggiunte per scoraggiare i giocatori dal trattenersi in quest'area, per creare un'ulteriore barriera verso il semipiano della sanguisuga e per suggerire ai giocatori che questo luogo non è quello che sembra.
 
-***Old Bonegrinder.*** The coven's ***dispel magic*** lair action (and Victor's *counterspell* response) have been added to ensure that the players fight the hags from close range, rather than spamming *fireball* spells from a long distance.
+***Il Vecchio Tritaossa.*** L'azione di tana ***dissolvi magie*** della congrega (e il *controincantesimo* con cui risponde Victor) sono stati aggiunti perché i giocatori combattano le megere da vicino, invece di bombardarle con *palla di fuoco* da lontano.
 
-The true name requirement of Lady Wachter's binding ritual has been added to provide the players with an additional task to complete before the coven can be defeated, thereby requiring the players to "earn" the right to use Lady Wachter's spellcasting expertise (and thereby preserving player agency). The coven's contract has been added to provide the players with a feasible means of acquiring the hags' true names.
+L'obbligo dei veri nomi per il rituale di vincolo di Lady Wachter è stato aggiunto per dare ai giocatori un compito in più da svolgere prima di poter sconfiggere la congrega, così che debbano «guadagnarsi» il diritto di usare la competenza magica di Lady Wachter (preservando la libertà d'azione dei giocatori). Il contratto della congrega è stato aggiunto per dare ai giocatori un modo realistico di procurarsi i veri nomi delle megere.
 
-The *charm of mass heroism* has been added to provide the players with an additional boost in a difficult, saving throw-heavy boss fight.
+L'*amuleto dell'eroismo di massa* è stato aggiunto per dare ai giocatori una spinta in più in uno scontro con un boss difficile e pieno di tiri salvezza.
 
-Freek has been renamed to Fyodor remove the negative connotations associated with the name "Freek."
+Freek è stato ribattezzato Fyodor per togliere le connotazioni negative legate al nome «Freek».
 
-Morgantha's use of the *Laughter* and *Mother's Milk* potions (which also exist in the original module) has been added to prevent the players from easily escaping their bonds or fighting their way free should they TPK to the coven. The *cackle fever* disease also intensifies the weight of the party's TPK, ensuring that the players do not soon forget the consequences of failure should they escape.
+L'uso delle pozioni *Risata* e *Latte di mamma* da parte di Morgantha (che esistono anche nel modulo originale) è stato aggiunto per impedire ai giocatori di liberarsi facilmente o di aprirsi la strada combattendo dopo un TPK contro la congrega. La febbre ghignante rende anche più pesante il TPK del gruppo, così che i giocatori, se fuggono, non dimentichino presto le conseguenze del fallimento.
 
-The coven's separate **night hag** statblocks have been replaced with a single, unified two-phase coven statblock to remove the risk of a "death spiral"—either for the players (due to the hags' *lightning bolt* spam) or for the hags (because a single **night hag** is trivially easy to kill with focus-fire, thereby destroying the coven). 
+I singoli profili di **megera notturna** della congrega sono stati sostituiti da un unico profilo di congrega in due fasi, per eliminare il rischio di una «spirale della morte», sia per i giocatori (con le megere che bombardano di *fulmine*) sia per le megere (perché una singola **megera notturna** è facilissima da uccidere concentrando gli attacchi, e la sua morte distrugge la congrega).
 
-The coven's spell list has been replaced to minimize the "swinginess" of save-or-suck spells and to ensure that the players' health is being slowly whittled down with every attack, ensuring that the players feel constantly threatened. The coven has also been given multiple additional viable damage-dealing options in order to ensure that the hags have an actual means of bringing the encounter to a close once they've succesfully debuffed the players or otherwise manipulated the battlefield.
+L'elenco degli incantesimi della congrega è stato sostituito per ridurre l'effetto «tutto o niente» degli incantesimi che mettono fuori gioco con un solo tiro salvezza fallito, e perché la salute dei giocatori venga logorata a poco a poco a ogni attacco, così che si sentano costantemente minacciati. La congrega ha anche ricevuto diverse altre opzioni di danno efficaci, perché le megere abbiano un modo concreto di chiudere lo scontro dopo aver indebolito i giocatori o manipolato il campo di battaglia.
 
-The coven's **Nightmare Three** phase has been added to build upon the Rules-As-Written coven's *polymorph* spell, raising the stakes and enhancing the hags' monstrous natures in the climax of the encounter.
+La fase delle **Tre dell'incubo** è stata aggiunta riprendendo l'incantesimo *metamorfosi* della congrega delle regole ufficiali, per alzare la posta e accentuare la natura mostruosa delle megere nel culmine dello scontro.
 
-The coven's statblock, like other solo boss statblocks in this guide, has been revised to include additional bonus actions and reactions in order to promote a dynamic and tactical combat experience for the Dungeon Master and players. Most abilities have been modified to ensure a balanced, winnable, yet challenging encounter for the players.
+Il profilo della congrega, come gli altri profili di boss in solitaria di questa guida, è stato rivisto con azioni bonus e reazioni aggiuntive, per favorire un combattimento dinamico e tattico per il Dungeon Master e per i giocatori. Quasi tutte le capacità sono state modificate per garantire ai giocatori uno scontro equilibrato, vincibile ma impegnativo.
 
-Morgantha's parley has been added to provide the players with a final dilemma: to spare the hags and allow them to continue their evil ways, or to accept Morgantha's information and gain a potential advantage over Strahd. (Morgantha's secrets have been carefully chosen to make the players *feel* that they have gained powerful, secret information, but to ensure that the players cannot take any meaningful action on the basis of that information until later on in the campaign.)
+La trattativa di Morgantha è stata aggiunta per mettere i giocatori davanti a un ultimo dilemma: risparmiare le megere e permettere loro di continuare a fare il male, oppure accettare le informazioni di Morgantha e ottenere un possibile vantaggio su Strahd. (I segreti di Morgantha sono stati scelti con cura perché i giocatori *sentano* di aver ottenuto informazioni potenti e segrete, ma senza poterci fare niente di concreto fino a più avanti nella campagna.)
 
-***Escape From Old Bonegrinder.*** Morgantha's demands have been added to provide the players with a feasible way of bargaining for their freedom in a manner that retains the weight of the party's TPK. "Franz's" sacrifice has been added to ask the players to cross their moral boundaries (and therefore promote intra-party character development) in a way that intentionally foregos any real stakes (therefore allowing players to learn and grow from their sins rather than feeling beholden to them).
+***La fuga dal Vecchio Tritaossa.*** Le richieste di Morgantha sono state aggiunte per dare ai giocatori un modo realistico di contrattare la libertà senza togliere peso al TPK del gruppo. Il sacrificio di «Franz» è stato aggiunto per chiedere ai giocatori di oltrepassare i loro confini morali (favorendo così lo sviluppo dei personaggi all'interno del gruppo) in un modo che rinuncia apposta a una vera posta in gioco (permettendo ai giocatori di imparare e crescere dai propri peccati, invece di sentirsene prigionieri).
 
-The hags' threat to kill the children and feed them to the players in the morning as dream pastries has been added to create a clear "ticking clock" that incentivizes the players to promptly escape.
+La minaccia delle megere di uccidere i bambini e di darli da mangiare ai giocatori la mattina dopo sotto forma di dolci dei sogni è stata aggiunta per creare un «conto alla rovescia» chiaro che spinga i giocatori a fuggire subito.
 
-***The Ritual.*** The carvings on the walls of the cult headquarters have been added to foreshadow Leo Dilisnya's imprisonment.]]
+***Il rituale.*** Le incisioni sulle pareti del quartier generale del culto sono state aggiunte per anticipare la prigionia di Leo Dilisnya.
 
-The ghost of Erasmus van Richten has been added to this encounter to provide additional support in the players' battle against the **gallows speaker** (a powerful foe), to connect this storyline to Dr. Rudolph van Richten's involvement in [[Arc E - The Missing Vistana]], and to advance the players' connection with the tragedy of the Van Richten family.
+Il fantasma di Erasmus van Richten è stato aggiunto a questo incontro per dare ai giocatori un sostegno in più nella battaglia contro l'**oratore della forca** (un nemico potente), per collegare questa trama al ruolo del dottor Rudolph van Richten nell'[[Arc E - The Missing Vistana|Arco E: La vistana scomparsa]] e per rafforzare il legame dei giocatori con la tragedia della famiglia Van Richten.
 
-The attack by the **specters** has been added to partially deplete the players' resources prior to the battle with the **gallows speaker**, to indicate the risk to Stella's soul should the players fail, and to make the gallows speaker more impressive when it subsequently appears.
+L'attacco degli **spettri** è stato aggiunto per consumare in parte le risorse dei giocatori prima della battaglia con l'**oratore della forca**, per mostrare il rischio che corre l'anima di Stella se i giocatori falliscono e per rendere più impressionante l'oratore della forca quando poi compare.
 
-Leo Dilisnya's "argument" persuading the players to stand aside is intended to reveal the history of the Wachter and Dilisnya clans to the players, revealing significant portions of Lady Wachter's history, setting clear stakes for the ensuing combat, and indicating the depths of Strahd's tyranny and cruelty.
-
-***Return to the Material Plane.*** Erasmus's warnings regarding the **phase spiders** of Berez and Strahd's **nightmare** steed have been added to provide the players with an additional reward upon completing this arc.
+L'«argomento» con cui Leo Dilisnya cerca di convincere i giocatori a farsi da parte serve a rivelare loro la storia dei clan Wachter e Dilisnya, svelando parti importanti della storia di Lady Wachter, fissando una posta chiara per il combattimento che segue e mostrando quanto siano profonde la tirannia e la crudeltà di Strahd.
