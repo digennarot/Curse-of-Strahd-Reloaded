@@ -1664,7 +1664,7 @@ If a player touches the **west sarcophagus** (the tomb of the Vampyr), read:
 </div>
 
 > [!abstract]+ **The Radiant Relics**
-> If the player carries the [[Character Creation#Faith—The Sunrise Medallion|Sunrise Medallion]] or [[Character Creation#Justice—The Broken Blade|Broken Blade]], the relic responds as follows:
+> If the player carries the [[Character Creation#Il medaglione dell'Alba (fede)|Sunrise Medallion]] or [[Character Creation#La lama spezzata (giustizia)|Broken Blade]], the relic responds as follows:
 >
 > * The medallion flickers with golden light, growing stronger and brighter as it approaches the bloody canal and, eventually, the *Sunsword* concealed beneath it.
 > * The broken blade emits a high-pitched hum and trembles violently, spinning like a compass needle in the direction of the bloody canal and, eventually, the *Sunsword* concealed beneath it.
