@@ -400,3 +400,16 @@ Wachterhaus (N4): N4a Porta d'ingresso e vestibolo; N4b Scalinata; N4c Cucina; N
 | Profilo di Izek: Second Phase, Silvered Battleaxe, Flame Hurl, Slicing Whirl, Flame Volley, Forceful Retreat, Vengeful Strike, Burning Punch, Flaming Wave, Flame Burst, Explosive Blast, Hot Pursuit, Cinder Sparks, Retaliatory Burn | Seconda fase, Ascia da battaglia argentata, Lancio di fiamme, Turbine tagliente, Raffica di fiamme, Ritirata energica, Colpo vendicativo, Pugno ardente, Onda di fiamme, Esplosione di fiamme, Scoppio esplosivo, Inseguimento rovente, Scintille di brace, Ustione di rappresaglia | |
 
 Orari: in cifre con il punto (11.00, 17.30), senza A.M./P.M.
+
+### Arco G
+
+Aree: G1 La Locanda dell'Acqua Azzurra (G1a La visita di Izek, G1b Il ritorno dei giocatori, G1c Ireena dopo l'irruzione); G2 Le strade di Vallaki; G3 Il rapimento; G4 Il salvataggio (G4a Introdursi nella villa, G4b Assaltare la villa, G4c La gratitudine di Ireena). Locanda (N2): N2c Sala comune; N2e Cucina; N2f Stalla; N2h Soppalco dei corvi; N2i Scala e corridoio segreti. N3j Izek's Bedroom → Camera di Izek; Surprise → Sorpresa.
+
+| Inglese | Italiano | Note |
+|---|---|---|
+| WANTED posters | manifesti di RICERCATA | |
+| ep / pp | me / mp (monete di electrum / di platino) | |
+| wereraven | corvo mannaro | |
+| *cone of cold* | *cono di freddo* | |
+| Act III: The Broken Land | Atto III: La terra spezzata | |
+| No Double-Counting | Niente doppio conteggio | |
