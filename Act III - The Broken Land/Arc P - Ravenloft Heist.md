@@ -1361,7 +1361,7 @@ For the next 1 minute, an additional **skeleton** crawls from each non-destroyed
 > Over a century ago, Volenta transformed the mess hall into an elaborate ossuary as an art piece signifying her devotion to Strahd.
 
 > [!abstract]+ **Storing the Skull**
-> Should the players use it to do so, the extradimensional space within the _chest of holding_ obtained in [[Arc O - Dinner with the Devil#O3c. The Black Carriage|Arc O - Dinner with the Devil]] is large enough to store Argynvost's skull.
+> Should the players use it to do so, the extradimensional space within the _chest of holding_ obtained in [[Arc O - Dinner with the Devil#O3c. La carrozza nera|Arc O - Dinner with the Devil]] is large enough to store Argynvost's skull.
 ### Guards’ Run
 <span class="citation"><em>This scene takes place in Chapter 4, Area K68.</em></span>
 
@@ -1730,7 +1730,7 @@ This area is largely as described in <span class="citation">K76. Torture Chamber
 > [!info]+ **Climbing the Balcony**
 > A successful DC 10 Strength (Athletics) check is required to climb the edge of the observation balcony.
 
-If the players failed to placate Volenta during [[Arc O - Dinner with the Devil#Volenta’s Toy|Arc O - Dinner with the Devil]], the corpse of Anton Konstantinovich has been turned into an additional **zombie** and is seated in the right-side throne of <span class="citation">K77. Observation Balcony (p. 82)</span>. If combat breaks out, or if any non-undead creatures approach within 5 feet of its throne, this **zombie** attacks and pursues the nearest living creatures within the area.
+If the players failed to placate Volenta during [[Arc O - Dinner with the Devil#Il giocattolo di Volenta|Arc O - Dinner with the Devil]], the corpse of Anton Konstantinovich has been turned into an additional **zombie** and is seated in the right-side throne of <span class="citation">K77. Observation Balcony (p. 82)</span>. If combat breaks out, or if any non-undead creatures approach within 5 feet of its throne, this **zombie** attacks and pursues the nearest living creatures within the area.
 
 Otherwise, if the players successfully placated Volenta at dinner, Anton Konstaninovich is imprisoned within a rusted, metallic cage hanging above the southwest corner of the chamber. Though he can’t speak due to his missing tongue, Anton attempts to use gestures and grunts to warn the players of the zombies that dwell within the water, and is grateful to players who rescue him.
 
@@ -1956,7 +1956,7 @@ Players who investigate the exits from this room can observe the following point
 * A player who investigates <span class="citation">K79. Western Stair (p. 84)</span> (leading to <span class="citation">K72. Chamberlain’s Office (p. 79)</span>) observes a humanoid silhouette appearing to observe them from the far side of the landing. Once noticed, the silhouette quickly ducks out of sight. (The silhouette is a **shadow**. See [[#P11f. Western Stair]] for more information about the shadow if the players attempt to confront or communicate with it.)
 * A player who investigates <span class="citation">K80. Center Stair (p. 84)</span> (leading to <span class="citation">K81. Tunnel (p. 84)</span> and <span class="citation">K84. Catacombs (p. 85)</span>) observes only the thick, opaque fog, which limits visibility as described in <span class="citation">K81. Tunnel (p. 84)</span>.
 * A player who investigates <span class="citation">K83. Spiral Stair (p. 85)</span> (leading to <span class="citation">K37. Study (p. 66)</span>) observes a woman’s slipper lying discarded on one of the upper stairs, just before the spiral staircase curves out of sight. A DC 12 Intelligence (Investigation) check suggests that the slipper’s owner was traveling up the staircase, rather than down. (The slipper is Gertruda’s, and was left here by Strahd to lure the players toward her bedchamber.)
-* A player who investigates the door leading toward <span class="citation">K77. Observation Balcony (p. 82)</span> finds a pale, white mask hanging from the handle. Players who previously encountered Anton Konstantinovich in [[Arc O - Dinner with the Devil#Volenta’s Toy|Arc O - Dinner with the Devil]] recognize the mask as his.
+* A player who investigates the door leading toward <span class="citation">K77. Observation Balcony (p. 82)</span> finds a pale, white mask hanging from the handle. Players who previously encountered Anton Konstantinovich in [[Arc O - Dinner with the Devil#Il giocattolo di Volenta|Arc O - Dinner with the Devil]] recognize the mask as his.
 
 > [!abstract]+ **Rahadin's Challenge**
 > This arc assumes the players visit the catacombs after completing all other major objectives (i.e., rescuing Gertruda, freeing Emil, and obtaining Argynvost's skull). When they do, Rahadin obstructs their departure from the catacombs after they visit St. Markovia's crypt, as described in [[#South Crypts, Third Row]].

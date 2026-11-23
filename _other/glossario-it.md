@@ -678,3 +678,33 @@ Aree del libro, Capitolo 7: Q1 Statua del drago; Q2 Ingresso principale; Q3 Atri
 | Zorya: Keen Senses, Limited Telepathy, Ghostfire, Ethereal Escape | Sensi acuti, Telepatia limitata, Fuoco spettrale, Fuga eterea | |
 | Etherbound / Pivot / Spectral Spear | Legato all'etere / Giravolta / Lancia spettrale | |
 | Impossible Encounters / Failing Forward | Scontri impossibili / Fallire in avanti | |
+
+### Arco O
+
+Aree: O1 L'invito; O2 L'intuizione di Arrigal; O3 La Vecchia Strada di Svalich (O3a Doru e Donavich, O3b La guida del cavaliere, O3c La carrozza nera); O4 L'arrivo al Castello di Ravenloft (O4a Il cortile, O4b L'atrio, O4c Il grande ingresso: Le presentazioni, Il giocattolo di Volenta, Il signore del castello, Sasha da sola); O5 La cena è servita (O5a Nella sala da pranzo, O5b La conversazione, O5c Le domande di Strahd); O6 La visita del castello (O6a La Sala della fede, O6b La cappella, O6c La Sala del re, O6d La Sala delle udienze, O6e L'appuntamento con Sasha: La postazione sud degli arcieri; O6f Il prigioniero; O6g Il ponte levatoio rotto); O7 La suite degli ospiti (O7a La sistemazione: La gelosia di Escher, L'intuizione di Sasha; O7b La notte); O8 L'incubo di Varushka (O8a–O8e Il primo / secondo / terzo / quarto / quinto livello; O8f La fortezza insanguinata: Le stanze della servitù, Gli alloggi della servitù, Il piano superiore della servitù, La torre nord, La cantina del castello, La sala della servitù, La sala riunioni delle guardie, La sala e gli alloggi degli uomini del re, L'ufficio del ciambellano; O8g Fuggire dall'incubo: Il dolore di Varushka, La rabbia di Varushka); O9 Il risveglio (O9a L'ultimo desiderio di Varushka); O10 Esplorare il castello; O11 Il mattino a Ravenloft.
+
+Aree del libro, Capitolo 4: J. Cancelli di Ravenloft; I. Carrozza nera; B. Cancelli di Barovia; Cavaliere scheletrico; K1 Cortile anteriore; K2 Cancello del cortile centrale; K3 Cortile della servitù; K4 Rimessa delle carrozze; K7 Ingresso; K8 Grande ingresso; K9 Sala degli ospiti; K10 Sala da pranzo; K11 Postazione sud degli arcieri; K12 Postazione della torretta; K13 Corridoio d'accesso alla postazione della torretta; K14 Sala della fede; K15 Cappella; K16 / K17 Accesso nord / sud alla cappella; K18 Scala della torre alta; K19 Grande pianerottolo; K20 Cuore della Tristezza (K20a Scala della sala della torre); K21 Scala della torre sud; K23 Ingresso della servitù; K24 Alloggi della servitù; K25 Sala delle udienze; K26 Posto di guardia; K27 Sala del re; K28 Balconata del re; K29 Pianerottolo scricchiolante; K30 Contabile del re; K31 Sala delle trappole; K34 Piano superiore della servitù; K35 Parassiti di guardia; K36 Sala da pranzo del conte; K37 Studio; K41 Tesoreria; K47 Ritratto di Strahd; K48 Scala secondaria; K49 Salottino; K50 Camera degli ospiti; K51 Ripostiglio; K53 Tetto; K54 Stanza dei famigli; K55 Stanza degli elementi; K56 Calderone; K57 Tetto della torre; K58 Ponte; K59 Cima della torre alta; K60 Cima della torre nord; K61 Trappola dell'ascensore; K62 Sala della servitù; K63 Cantina dei vini; K64 Scala delle guardie; K65 Cucina; K66 Alloggi del maggiordomo; K67 Sala delle ossa; K68 Camminamento delle guardie; K69 Alloggi delle guardie; K70 Sala degli uomini del re; K71 Alloggi degli uomini del re; K72 Ufficio del ciambellano; K73 Corridoio delle segrete; K83a Pianerottolo della scala a chiocciola; K84 Catacombe; Cripta 4; X33d Cripta violata. Piani del castello all'italiana: 1F pianterreno, 2F primo piano, 3F secondo, 4F terzo, 5F quarto, 6F quinto; B1F / B2F primo / secondo piano interrato.
+
+| Inglese | Italiano | Note |
+|---|---|---|
+| guestright | diritto d'ospitalità | |
+| *box of holding* | *scatola conservante* | il forziere di Strahd |
+| screams of the dead / deathly chorus | urla dei morti / coro di morte | Rahadin |
+| Escher (consort) | consorte | Escher; le spose sono «spose vampire» |
+| Prefect Ciril Romulich | prefetto Ciril Romulich | |
+| *Brightblade* / *Moonblade* | *Lama Lucente* / *lama lunare* | |
+| *Daern's instant fortress* | *fortezza istantanea di Daern* | |
+| *unseen servant* | *servitore inosservato* | |
+| *potion of fire breath* | *pozione di soffio di fuoco* | |
+| crawling claw / shadow demon / rug of smothering / guardian portrait | mano strisciante / demone ombra / tappeto soffocante / ritratto guardiano | |
+| adult black dragon | drago nero adulto | |
+| animated minor / major object | oggetto animato minore / maggiore | |
+| Strahd zombie | zombi di Strahd | |
+| Varushka: Nightmare Maid / Soul of Despair | serva dell'incubo / anima della disperazione | |
+| Overwhelming Despair, Warp Flesh, Stonemelt, Papercut, Horrific Visage | Disperazione travolgente, Distorcere la carne, Fondere la pietra, Taglio di carta, Volto orrendo | |
+| Swap, Adhere, Erupt, Mist Garrotte, Vampiric Mist, Dark/Calming Whispers | Scambio, Aderire, Eruzione, Garrota di nebbia, Nebbia vampirica, Sussurri oscuri / calmanti | |
+| The Chiming Clock | L'orologio che batte le ore | |
+| the Seer (Tarokka) | il Veggente | ⚠ |
+| She Who Seeks in Storm-Clouds | Colei che cerca fra le nubi della tempesta | il Cercatore per i corvi |
+| dhampir / warforged | dhampir / forgiato | |
+| Eberron: Rising from the Last War | Eberron: Rinascita dopo l'Ultima Guerra | |
