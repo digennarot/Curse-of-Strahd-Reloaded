@@ -166,6 +166,12 @@ Nomi propri invariati: Barovia, Vallaki, Krezk, Argynvostholt, Strahd von Zarovi
 | Challenge Ratings 2.0, DPR | invariati (DPR = danni per round) |
 | "This scene takes place in Appendix B: Area N." | «Questa scena si svolge nell'Appendice B: Area N.» |
 | "largely as described in X (p. N)" | «più o meno come descritta in X (p. N)»; pagine dell'edizione inglese |
+| Profile | Profilo |
+| Character Information | Informazioni sul personaggio |
+| Roleplaying Information | Interpretazione |
+| Persona / Motivations / Emotions | Personalità / Motivazioni / Emozioni |
+| Relationships / Inspirations / Resonance | Relazioni / Ispirazioni / Risonanza |
+| Morale | Morale |
 
 ## Misure
 
@@ -197,12 +203,6 @@ Stanze: Entrance → Ingresso; Main Hall → Salone principale; Cloakroom → Gu
 Altro: *Waltz for Klara* → *Valzer per Klara*; *Blue-Blooded Lips* → *Labbra di sangue blu*; the Beast → la Bestia; Walter, the Graveborn → Walter, il Nato dalla Tomba; "He is the Ancient. He is the Land." → «Lui è l'Antico. Lui è la Terra.» ⚠ (verificare la resa dell'edizione italiana); Old Bonegrinder → Vecchio Tritaossa; night hag coven → congrega di megere notturne; Dark Powers → Poteri Oscuri; Old Svalich Road → Vecchia Strada di Svalich; Svalich Woods → Boschi di Svalich; Mists of Ravenloft → Nebbie di Ravenloft; River Ivlis Crossroads → Crocevia del fiume Ivlis; Van Richten's Guide to Ravenloft → Guida di Van Richten a Ravenloft; Dungeon Master's Guide → Guida del Dungeon Master.
 
 Azioni del cumulo di carne: Close Quarters Fighter → Combattente ravvicinato; Heavy Sleeper → Sonno pesante; Oozing Body → Corpo viscido; The Graveborn's Defense → Difesa del Nato dalla Tomba; Innocent Heart → Cuore innocente; Mother's Lullaby → Ninna nanna della madre; Bone Splinters → Schegge d'osso; Engulf → Inglobare; Rupture → Rottura; Quake → Scossa; Indomitable → Indomabile; Squelch → Schiacciata; Roll → Rotolare; Tentacle → Tentacolo; Bite → Morso; Gore Spray → Spruzzo di sangue; Wail → Lamento; Withdraw → Ritrarsi; Lash Out → Sferzata.
-| Profile | Profilo |
-| Character Information | Informazioni sul personaggio |
-| Roleplaying Information | Interpretazione |
-| Persona / Motivations / Emotions | Personalità / Motivazioni / Emozioni |
-| Relationships / Inspirations / Resonance | Relazioni / Ispirazioni / Risonanza |
-| Morale | Morale |
 
 ## Archi B e C
 
