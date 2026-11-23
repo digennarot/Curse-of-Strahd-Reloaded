@@ -172,6 +172,8 @@ Nomi propri invariati: Barovia, Vallaki, Krezk, Argynvostholt, Strahd von Zarovi
 | Persona / Motivations / Emotions | Personalità / Motivazioni / Emozioni |
 | Relationships / Inspirations / Resonance | Relazioni / Ispirazioni / Risonanza |
 | Morale | Morale |
+| Plot Map: INCITING INCIDENT / GOAL / CHOICE | EVENTO SCATENANTE / OBIETTIVO / SCELTA |
+| Death House rhyme | filastrocca della Casa della Morte |
 
 ## Misure
 
