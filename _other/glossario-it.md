@@ -270,3 +270,41 @@ Creature: wereraven → corvo mannaro; werewolf → lupo mannaro; dire wolf → 
 Incantesimi e oggetti: *phantom steed* → *destriero fantasma*; *nondetection* → *anti-individuazione*; *mind blank* → *vuoto mentale*; *misty step* → *passo velato*; *magic missile* → *dardo incantato*; *gentle repose* → *riposo inviolato*; *major image* → *immagine maggiore*; *vampiric touch* → *tocco del vampiro*; *harm* → *ferire* ⚠; *speak with animals* → *parlare con gli animali*; *blindness/deafness* → *cecità/sordità*; *telekinetic grasp* → *presa telecinetica*; *geas* → *costrizione*; *wish* → *desiderio*; *remove curse* → *rimuovi maledizione*; *detect magic* → *individuazione del magico*; *potion of healing* → *pozione di guarigione*; *holy water* → *acqua santa*; *hat of disguise* → *cappello del camuffamento*; *ring of mind shielding* → *anello di schermo mentale*; *amulet of proof against detection and location* → *amuleto anti-individuazione e localizzazione*.
 
 Tratti dei profili: Fey Ancestry → Ascendenza fatata; Mask of the Wild → Maschera della natura selvaggia; Innate Spellcasting → Incantesimi innati; Keen Hearing and Smell → Olfatto e udito acuti; Pack Tactics → Tattiche del branco; Regeneration → Rigenerazione; Shapechange → Mutare forma; Undead Fortitude → Tempra da non morto; Spider Climb → Movimento del ragno; Etherealness → Forma eterea; Divine Sense → Senso divino; Saving Throws / Skills / Proficiency Bonus → Tiri salvezza / Abilità / Bonus di competenza; Dash / Disengage / Dodge / Hide → Scatto / Disimpegno / Schivata / Nascondersi.
+
+## Atto II
+
+Titoli degli archi (alias nei link): D La festa di Sant'Andral; E La vistana scomparsa; F Il desiderio di Lady Wachter; G I fratelli Strazni; H L'anima perduta; I Le mura di Krezk; K L'abbazia caduta; M Il maniero del drago ⚠; O Cena con il diavolo.
+
+| Inglese | Italiano | Note |
+|---|---|---|
+| the shadowed town | la città delle ombre | |
+| Baron / Baroness (Vallakovich, Krezkov, Lydia Petrovna) | il barone / la baronessa | minuscolo davanti al nome |
+| Lady Fiona Wachter | Lady Fiona Wachter | titolo invariato |
+| Father Lucian Petrovich | padre Lucian Petrovich | |
+| Dr. Rudolph van Richten | il dottor Rudolph van Richten | |
+| the Abbot | l'Abate | nome con cui è noto il personaggio |
+| Baron's Mansion | villa del barone | sinonimo di Villa del borgomastro |
+| Town Square (Vallaki, N8) | piazza della città / Piazza della città | ⚠ |
+| Servants' Quarters (Q9) | Alloggi della servitù | |
+| Roleplaying the Vallakovich Family | Interpretare la famiglia Vallakovich | |
+| refugees / refugee camp | profughi / campo dei profughi | |
+| groundskeeper | custode (della chiesa) | |
+| coffin-maker | fabbricante di bare | |
+| dressing shack (Szoldar e Yevgeni) | capanno di caccia | ⚠ |
+| wicker sun | sole di vimini | |
+| nameday | onomastico | |
+| signet ring | anello con sigillo | |
+| *heartstone* | *pietra del cuore* | ⚠ |
+| *Tome of Strahd* | *Tomo di Strahd* | |
+| *spirit mirror* | *specchio degli spiriti* | |
+| *etherealness* (incantesimo) | *forma eterea* | ⚠ |
+| Ethereal Plane / Material Plane | Piano Etereo / Piano Materiale | |
+| cackle fever | febbre ghignante | ⚠ |
+| wolfsbane | aconito | |
+| cult fanatic | fanatico del culto | |
+| poltergeist | poltergeist | |
+| downtime | giornata di pausa | |
+| Player's Handbook | Manuale del giocatore | |
+| store credit | credito in negozio | |
+| Diverging Paths / The Zealous Crusaders / The Cautious Explorers | Percorsi divergenti / I crociati zelanti / Gli esploratori cauti | |
+| Quest Timeline | Cronologia delle missioni | |
