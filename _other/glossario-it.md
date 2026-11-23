@@ -367,3 +367,36 @@ Aree del libro: N9 Accampamento vistani (N9a Catapecchia di Kasimir, N9b Catapec
 | *disguise self* / *detect evil and good* | *camuffare se stesso* / *individuazione del bene e del male* | |
 | *death ward* / *freedom of movement* | *interdizione alla morte* / *libertà di movimento* | |
 | Sneak Attack / Cunning Action / Uncanny Dodge | Attacco furtivo / Azione scaltra / Schivata prodigiosa | |
+
+### Arco F
+
+Aree: F1 La Locanda dell'Acqua Azzurra; F2 Wachterhaus (F2a Benvenuti a Wachterhaus, F2b La famiglia Wachter, F2c Da bere in salotto, La cena è servita, F2d Il problema Vallakovich, F2e La congiura dei Wachter, F2f Il traditore); F3 Ritorno alla Locanda dell'Acqua Azzurra; F4 L'assassinio di Izek (F4a Piazzare il vino avvelenato, F4b Pedinare Izek: 1. La piazza della città, 2. Le spie di Izek, 3. L'ispezione delle porte, 4. Fine della giornata; F4c Tendere un agguato a Izek); F5 Dopo la missione (F5a L'abdicazione, F5b La ricompensa).
+
+Wachterhaus (N4): N4a Porta d'ingresso e vestibolo; N4b Scalinata; N4c Cucina; N4h Alloggi della servitù; N4i Salotto; N4j Sala da pranzo; N4k Studio; N4l Corridoio del piano di sopra; N4o Camera padronale; N4p Biblioteca; N4q Ripostiglio. K56 Cauldron → K56. Calderone; Chapter 10: The Ruins of Berez → Capitolo 10: Le rovine di Berez; Donkey-Headed Criminals → Criminali con la testa d'asino; Group Checks → Prove di gruppo.
+
+| Inglese | Italiano | Note |
+|---|---|---|
+| Ezra, goddess of the Mists | Ezra, dea delle Nebbie | |
+| Mother Night | Madre Notte | |
+| *Voices of the Mist* | *Voci della Nebbia* | |
+| *The Grimoire of Night's Whispers* | *Il grimorio dei sussurri della notte* | |
+| *The Noble House of Wachter* | *La nobile casata Wachter* | |
+| House Wachter / House Dilisnya | casa Wachter / casa Dilisnya | |
+| Old Zarovia | Vecchia Zarovia | |
+| the Pillarstone | il Pilastro | ⚠ vedi Pillarstone of Ravenloft |
+| Captain of the Guard | capitano della guardia | |
+| Baronet | baronetto | |
+| deputy guards | guardie ausiliarie | |
+| valet / manservant | valletto / domestico | Haliq |
+| Morning Gate | Porta del Mattino | |
+| Seriach, the Hell Hound Whisperer | Seriach, il Sussurratore dei Segugi Infernali | ⚠ frammento d'ambra |
+| Amber Shards (appendice) | Frammenti d'ambra | |
+| *toll the dead* / *thaumaturgy* / *sanctuary* / *bane* | *rintocco dei morti* / *taumaturgia* / *santuario* / *anatema* | |
+| *zone of truth* / *lesser restoration* | *zona di verità* / *ristorare inferiore* | |
+| specter | spettro | |
+| cp | mr (monete di rame) | |
+| dazed | frastornato | condizione 2024 |
+| Don't Use Tactics! | Niente tattiche! | avviso ricorrente |
+| Profilo di Izek: Second Phase, Silvered Battleaxe, Flame Hurl, Slicing Whirl, Flame Volley, Forceful Retreat, Vengeful Strike, Burning Punch, Flaming Wave, Flame Burst, Explosive Blast, Hot Pursuit, Cinder Sparks, Retaliatory Burn | Seconda fase, Ascia da battaglia argentata, Lancio di fiamme, Turbine tagliente, Raffica di fiamme, Ritirata energica, Colpo vendicativo, Pugno ardente, Onda di fiamme, Esplosione di fiamme, Scoppio esplosivo, Inseguimento rovente, Scintille di brace, Ustione di rappresaglia | |
+
+Orari: in cifre con il punto (11.00, 17.30), senza A.M./P.M.
