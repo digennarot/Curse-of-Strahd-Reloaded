@@ -622,3 +622,24 @@ Aree del libro: S5 Strada tortuosa; S6 La porta nord; S7 Cimitero; S10 Ingresso 
 | Running Party NPCs | Gestire i PNG del gruppo | |
 | Tarokka: Priest, Shepherd, Diviner, Anarchist, Enchanter, Donjon, Warrior, Executioner | il Sacerdote, il Pastore, l'Indovino, l'Anarchico, l'Ammaliatore, la Prigione, il Guerriero, il Boia | ⚠ resa mia, coerente con Invocatore e Trasmutatore |
 | Mists (Unknown) / Diviner (Yes) / Anarchist (No) | le Nebbie (Ignoto) / l'Indovino (Sì) / l'Anarchico (No) | |
+
+### Arco L
+
+Aree: L1 Trovare la tana; L2 Il Lago Baratok; L3 I Boschi di Svalich (L3a Racconti intorno al fuoco); L4 La tana dei lupi mannari (L4a L'imbocco della grotta e il posto di guardia, L4b La sorgente sotterranea, L4c La tana dei lupi, L4d Le grotte profonde, L4e Il santuario di Madre Notte: Che cosa sa Ilya, Che cosa sa Zuleika, Il ritorno di Bianca; L4f Il ritorno di Kiril).
+
+Aree del libro: Avvicinarsi alla tana; Z1 Imbocco della grotta; Z2 Posto di guardia; Z3 Tana dei lupi; Z4 Sorgente sotterranea; Z5 Grotte profonde (Z5a Grotta sud, Z5b Grotta nord); Z6 Grotta di Kiril; Z7 Santuario di Madre Notte; Z8 Anello di pietra; Khazan's Spell Drain → Prosciugamento degli incantesimi di Khazan.
+
+| Inglese | Italiano | Note |
+|---|---|---|
+| werewolf brawler | lupo mannaro attaccabrighe | profilo ripreso dal Bestiario |
+| the Black Terror | il Terrore Nero | Kiril |
+| Children of Mother Night | Figli di Madre Notte | |
+| Oath of the New Moon | Giuramento della luna nuova | |
+| *silverthorn collar* | *collare di spine d'argento* | |
+| *crystal of alarm* | *cristallo d'allarme* | |
+| *furtive firestarter* | *acciarino furtivo* | |
+| Shrine of the White Sun | Santuario del Sole Bianco | |
+| *pass without trace* / *remove curse* (pergamena) | *passare senza tracce* / *pergamena magica di rimuovi maledizione* | |
+| Maul (lupi) | Sbranare | |
+| "The Lunatic's Lament" | «Il lamento della lunatica» | canzone di Bianca, versi adattati |
+| Darkon | Darkon | |
