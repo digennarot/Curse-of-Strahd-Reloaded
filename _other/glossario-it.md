@@ -475,3 +475,15 @@ Aree del libro: R. Crocevia del fiume Corvo; Approaching the Mansion → Avvicin
 | «Death to Ravenovia» | «Morte a Ravenovia» | |
 | flesh golem | golem di carne | |
 | Forced March | Marcia forzata | |
+
+## Appendici
+
+### Glossary e Amber Shards
+
+Condizioni di Reloaded: Bloodied → sanguinante; Dazed → frastornato; Hindered → ostacolato; Slowed → rallentato.
+
+Stadi: Stage One / Two / Three → Primo / Secondo / Terzo stadio; Amber Corruption → La corruzione dell'ambra; vestige → vestigia; Shard Location → Dove si trova il frammento; Boon → Beneficio.
+
+Vestigia: Fekre, la Regina dei Morbi; Zrin-Hala, la Tempesta Ululante; Sykane, il Divoratore di Anime; Savnok, l'Imperscrutabile; Tarakamedes, il Wyrm delle Tombe; Shami-Amourae, la Signora delle Delizie; Drizlash, il Ragno dai Nove Occhi; Dahlver-Nar, Colui dai Molti Denti; Zantras, il Creatore di Re; Delban, la Stella del Ghiaccio e dell'Odio; Khirad, la Stella dei Segreti; Yrrga, l'Occhio delle Ombre; il Grande Taar Haak, il Distruttore dalle Cinque Teste; Yog l'Invincibile; Norganas, il Dito dell'Oblio; Vaund l'Elusivo; Seriach, il Sussurratore dei Segugi Infernali.
+
+Incantesimi: *stinking cloud* → *nube maleodorante*; *suggestion* → *suggestione*; *web* → *ragnatela*; *charm monster* → *charme sui mostri*; *hunger of Hadar* → *fame di Hadar*; *phantasmal killer* → *assassino fantasmatico*; *earth tremor* → *scossa tellurica*; *stoneskin* → *pelle di pietra*; *blur* → *sfocatura*; *scorching ray* → *raggio rovente*; *greater restoration* → *ristorare superiore*; *identify* → *identificare*. Character Creation → creazione del personaggio; Cave of Daggers → Grotta dei Pugnali.

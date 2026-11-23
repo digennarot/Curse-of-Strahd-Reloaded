@@ -1545,7 +1545,7 @@ The tunnel leads to [[#The Eastern Nest]].
 
 The carving depicts a thick-bordered equilateral triangle containing an inverted equilateral triangle, which in turn contains a vertical wavy line. A player who has previously read the *Tome of Strahd* recognizes it as the same symbol depicted therein. If Kasimir is present, he can share that the carving is the symbol of the Amber Temple, which Patrina first showed to him in his dreams.
 
-Each dangling object is an *amber shard of Sykane* (see the [[Amber Shards#Sykane, the Soul Hungerer|Amber Shards]] appendix).
+Each dangling object is an *amber shard of Sykane* (see the [[Amber Shards#Sykane, il Divoratore di Anime|Amber Shards]] appendix).
 
 > [!info]+ **Where Are the Bodaks?**
 > If the full party enters this room while the bodaks are active, Deirdre is lurking in [[#The Eastern Nest]], while Cassius attempts to sneak behind the players via [[#The Junction]].
