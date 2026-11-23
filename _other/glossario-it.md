@@ -599,3 +599,26 @@ Aree del libro: Capitolo 12: Il Mago dei Vini (Avvicinarsi al vigneto; W1 Stalle
 | Svarog: Bind Elements | Vincolare gli elementi | |
 | Beucephalus: Ethereal Escape / ethereal stride | Fuga eterea / passo etereo | |
 | Alerting the Druids | Mettere in allarme i druidi | |
+
+### Arco K
+
+Aree: K1 Il villaggio di Krezk (K1a La casa dei Krezkov: L'ingresso, I recinti degli animali, La cucina, L'orto, Il cimitero, La sala da pranzo e il soggiorno, La camera di Kala, La camera di Ilya, La cantina dei vini, Lo scantinato nascosto); K2 L'Abbazia di Santa Markovia (K2a L'ingresso nell'Abbazia; K2b La sala principale: Che cosa sa l'Abate, La lezione di Vasilka; K2c L'ala est: L'incontro con Ezmerelda, Che cosa sa Ezmerelda, La seduta spiritica, Gli origliatori, L'ira dell'Abate).
+
+Aree del libro: S5 Strada tortuosa; S6 La porta nord; S7 Cimitero; S10 Ingresso dell'Abbazia; S12 Cortile; S12d Pali di legatura; S14 Atrio; S15 Manicomio; S17 Soppalco e campanile; S18 Cortina muraria; S19 Caserma; S20 Ufficio al piano di sopra; K84 Catacombe; L'Abate (p. 225); Appendice E: Il mazzo dei Tarokka.
+
+| Inglese | Italiano | Note |
+|---|---|---|
+| *potion of wolfsbane* | *pozione di aconito* | |
+| mongrelfolk | meticcio | Belview |
+| Ithuriel / deva | Ithuriel / deva | |
+| *Icon of Dawn's Grace* | *Icona della Grazia dell'Alba* | |
+| giant eagle | aquila gigante | |
+| seance | seduta spiritica | |
+| *runeguard stone* | *pietra della guardia runica* | ⚠ |
+| *zephyr strike* / *snare* / *cordon of arrows* / *magic circle* | *colpo di zefiro* / *laccio* / *cordone di frecce* / *cerchio magico* | ⚠ *laccio* |
+| *wings of flying* | *ali del volo* | |
+| Scroll Adept / Special Equipment | Esperta di pergamene / Equipaggiamento speciale | |
+| aversion of fire | avversione al fuoco | tratto del golem di carne |
+| Running Party NPCs | Gestire i PNG del gruppo | |
+| Tarokka: Priest, Shepherd, Diviner, Anarchist, Enchanter, Donjon, Warrior, Executioner | il Sacerdote, il Pastore, l'Indovino, l'Anarchico, l'Ammaliatore, la Prigione, il Guerriero, il Boia | ⚠ resa mia, coerente con Invocatore e Trasmutatore |
+| Mists (Unknown) / Diviner (Yes) / Anarchist (No) | le Nebbie (Ignoto) / l'Indovino (Sì) / l'Anarchico (No) | |

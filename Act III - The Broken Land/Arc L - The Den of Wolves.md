@@ -407,7 +407,7 @@ This area is largely as described in <span class="citation">Z7. Shrine of Mother
 
 The medallion is the *Holy Symbol of Ravenkind*. The youth is Ilya Krezkov, a thirteen-year-old **werewolf** with 36 hit points. The woman is Zuleika Toranescu, Ilya’s aunt and a **werewolf** priestess of Mother Night. Both Ilya and Zuleika are starving and have three levels of exhaustion as a result.
 
-Players who saw Ilya's sketch of Zuleika in [[Arc K - The Fallen Abbey#Ilya’s Bedroom|Arc K - The Fallen Abbey]] recognize her as the woman in the picture.
+Players who saw Ilya's sketch of Zuleika in [[Arc K - The Fallen Abbey#La camera di Ilya|Arc K - The Fallen Abbey]] recognize her as the woman in the picture.
 
 ![[Ilya Krezkov.png]]
 
