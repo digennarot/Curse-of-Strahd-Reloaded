@@ -490,6 +490,16 @@ Titoli dei capitoli (alias nei link; i nomi dei file restano in inglese): Using 
 | load-bearing support | muro portante | |
 | Brewer Beware | Modifiche a tuo rischio | gioco di parole perso |
 | Don't Panic | Niente panico | |
+| Chapter 1 / 2 / 3 | Capitolo 1: Cominciare la campagna / Capitolo 2: La terra di Barovia / Capitolo 3: Condurre il gioco | |
+| Act I: Into the Mists / Act IV: Secrets of the Ancient | Atto I: Nelle Nebbie / Atto IV: I segreti dell'Antico | |
+| Act N Summary | Riepilogo dell'Atto N | |
+| Arc N: Tales of Vallaki / Arc U: Dreams of Dawn | Arco N: Racconti di Vallaki / Arco U: Sogni dell'alba | |
+| Non-Player Characters / Epilogue / Glossary | Personaggi non giocanti / Epilogo / Glossario | |
+| Table of Contents / Acknowledgments / About the Author | Indice / Ringraziamenti / L'autore | |
+| Mysterious Visitors (aggancio del modulo) | Visitatori misteriosi | |
+| Bonegrinder coven / Werewolf Den | congrega del Tritaossa / Tana dei lupi mannari | |
+| player triggers | temi sensibili per i giocatori | |
+| sandbox / actual play / RAW | invariati (gergo) | RAW = regole alla lettera |
 
 ## Appendici
 
