@@ -23,7 +23,7 @@ Se i giocatori uccidono il mostro, la casa comincia a crollare e li costringe a 
 > 
 > Se vuoi ridurre al minimo il lavoro, evita il più possibile di modificare la guida o di aggiungervi qualcosa. Ogni intervento rischia di cambiare il modo in cui i giocatori si accostano alla storia e al gioco. Rischia anche di incrinare pilastri portanti che è difficile vedere senza rileggere più volte la guida per intero. (Allungare le distanze fra gli insediamenti baroviani, per esempio, rende impossibili diverse missioni degli Atti II e III, a meno di rivedere da cima a fondo la cronologia di tutta la campagna.) Qualsiasi modifica, che tocchi scadenze, distanze, profili, motivazioni dei personaggi o eventi, è a rischio e pericolo del DM e può portare a TPK, deviazioni imprevedibili o trame insoddisfacenti.
 ## A1a. Le Briglie dell'Incubo
-Se uno o più giocatori usano l'aggancio [[Running the Adventure#Adventure Hooks|Reliquie baroviane]], leggi il testo seguente. Altrimenti passa direttamente ad [[#A2. Casa della Morte]], più avanti.
+Se uno o più giocatori usano l'aggancio [[Running the Adventure#Agganci|Reliquie baroviane]], leggi il testo seguente. Altrimenti passa direttamente ad [[#A2. Casa della Morte]], più avanti.
 
 <div class="description">
 <p>È la sera prima di Altoraccolto e su Daggerford si è abbattuto un temporale: nuvole scure rovesciano cascate di pioggia sulla città. Nonostante il tempo, la città freme in attesa della festa d'autunno ormai vicina e ogni casa è piena di calore e di allegria. Da ogni finestra brilla la luce vivace delle candele; per le strade bagnate e fangose risuonano canti e musiche da ballo.</p>
@@ -73,7 +73,7 @@ Se i giocatori le inseguono, leggi:
 
 Questa è la **Casa della Morte.**
 # A2. Casa della Morte
-Se uno o più giocatori usano l'aggancio [[Running the Adventure#Adventure Hooks|Perduti nelle Nebbie]], leggi il testo seguente. Altrimenti passa direttamente ad [[#A2a. L'arrivo]], più avanti.
+Se uno o più giocatori usano l'aggancio [[Running the Adventure#Agganci|Perduti nelle Nebbie]], leggi il testo seguente. Altrimenti passa direttamente ad [[#A2a. L'arrivo]], più avanti.
 
 <div class="description">
 <p>Altoraccolto a Daggerford. È tempo di gioia e di festa, di focolari e di case calde, di risate dorate che risuonano nella notte. Ma stanotte, mentre un temporale si abbatte sulla città, voi siete lontani dal calore e dai festeggiamenti, attirati nell'abbraccio freddo e oscuro di un mistero.</p>
