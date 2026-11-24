@@ -1943,7 +1943,7 @@ Modifica inoltre così le destinazioni delle pietre:
 
 * La viola porta al <span class="citation">U5. Monumento di Marina (p. 164)</span>, a Berez.
 * L'arancione porta alla <span class="citation">V4. Torre, pianterreno (p. 170)</span>, nella Torre di Van Richten.
-* La rossa porta al Santuario del Sole Bianco, nella <span class="citation">S4. Vasca e santuario (p. 146)</span>, a Krezk.
+* La rossa porta al Santuario del Sole Bianco, nella <span class="citation">S4. Stagno e santuario (p. 146)</span>, a Krezk.
 * La verde porta al <span class="citation">N6f. Nido dei vampiri (p. 118)</span>, nella bottega del fabbricante di bare di Vallaki.
 * L'indaco porta al <span class="citation">E6. Cimitero (p. 48)</span>, nel villaggio di Barovia.
 * La blu porta al <span class="citation">W6. Pozzo (p. 176)</span>, vicino al Mago dei Vini.
