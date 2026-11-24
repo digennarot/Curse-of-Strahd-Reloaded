@@ -1161,7 +1161,7 @@ Al primo arrivo dei giocatori, nella locanda ci sono questi PNG importanti:
 >
 > ***Morale.*** In combattimento Urwin cercherebbe subito di calmare la situazione e, se non ci riuscisse, cercherebbe di fuggire, ma non prima di aver messo al sicuro tutti gli altri.
 >
-> ***Relazioni.*** Urwin è il padre di Brom e Bray Martikov e il marito di Danika Dorakova. È anche il figlio esiliato di Davian Martikov e l'amato fratello maggiore di Adrian, Elvir e Stefania Martikov. Oltre a essere comproprietario della Locanda dell'Acqua Azzurra, Urwin è il capo delle spie dei [[Lore of Barovia#Keepers of the Feather|Custodi della Piuma]].
+> ***Relazioni.*** Urwin è il padre di Brom e Bray Martikov e il marito di Danika Dorakova. È anche il figlio esiliato di Davian Martikov e l'amato fratello maggiore di Adrian, Elvir e Stefania Martikov. Oltre a essere comproprietario della Locanda dell'Acqua Azzurra, Urwin è il capo delle spie dei [[Lore of Barovia#Custodi della Piuma|Custodi della Piuma]].
 
 > [!profile]+ **Profilo: Danika Dorakova**
 >
@@ -1179,7 +1179,7 @@ Al primo arrivo dei giocatori, nella locanda ci sono questi PNG importanti:
 >
 > ***Morale.*** In combattimento Danika cercherebbe subito di calmare gli animi, ma combatterebbe fino alla morte per difendere la sua famiglia o i suoi ospiti.
 >
-> ***Relazioni.*** Danika è la madre di Brom e Bray Martikov e la moglie di Urwin Martikov. Oltre a essere comproprietaria della Locanda dell'Acqua Azzurra, Danika è un membro di alto rango dei [[Lore of Barovia#Keepers of the Feather|Custodi della Piuma]].
+> ***Relazioni.*** Danika è la madre di Brom e Bray Martikov e la moglie di Urwin Martikov. Oltre a essere comproprietaria della Locanda dell'Acqua Azzurra, Danika è un membro di alto rango dei [[Lore of Barovia#Custodi della Piuma|Custodi della Piuma]].
 ### Entrare nella locanda
 La sala comune è come descritta in <span class="citation">N2c. Sala comune (p. 100)</span>. Aggiungi però questo testo alla fine della descrizione dell'area:
 

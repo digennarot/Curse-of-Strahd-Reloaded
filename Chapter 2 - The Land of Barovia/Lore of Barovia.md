@@ -1,239 +1,238 @@
-# Metaphysics & Magic
-The land of Barovia is a "demiplane"—a small, self-contained plane of existence. It is one of many Domains of Dread, which together occupy a small corner of the Shadowfell. 
+# Metafisica e magia
+La terra di Barovia è un «semipiano», un piccolo piano di esistenza chiuso in sé stesso. È uno dei tanti Domini del Terrore, che insieme occupano un piccolo angolo della Coltre Oscura.
 
-Like all of the Domains of Dread, Barovia is entrapped by the mists of Ravenloft, as described in <span class="citation">Mists of Ravenloft (p. 23)</span>, and ruled by the mysterious Dark Powers. The Dark Powers are nameless, shapeless entities that serve as the jailers of the "Darklords" of the Domains: evil individuals who have committed unspeakable crimes. Strahd von Zarovich is one such Darklord.
+Come tutti i Domini del Terrore, Barovia è imprigionata dalle nebbie di Ravenloft, come descritto in <span class="citation">Le Nebbie di Ravenloft (p. 23)</span>, e governata dai misteriosi Poteri Oscuri. I Poteri Oscuri sono entità senza nome e senza forma che fanno da carcerieri ai «Signori Oscuri» dei Domini: individui malvagi che hanno commesso crimini indicibili. Strahd von Zarovich è uno di questi Signori Oscuri.
 
-Precious few—including only archmages, scholars, and (at times) the Darklords themselves—know that the Dark Powers exist. Fewer still know of their true nature and origins. While the Dark Powers were born from the miasma of evil that dwells within the Amber Temple of Barovia, they are not themselves the vestiges—the non-sapient fragments of dead, malevolent gods—that are sealed within the sarcophagi of the temple. (For more information about the vestiges of the Amber Temple, see <span class="citation">The Amber Temple (p. 181)</span>.)
+Pochissimi, soltanto arcimaghi, studiosi e (a volte) gli stessi Signori Oscuri, sanno che i Poteri Oscuri esistono. Ancora meno ne conoscono la vera natura e l'origine. I Poteri Oscuri sono nati dal miasma di male che dimora nel Tempio d'Ambra di Barovia, ma non sono le vestigia, i frammenti privi di coscienza di dèi morti e malvagi sigillati nei sarcofagi del tempio. (Per saperne di più sulle vestigia del Tempio d'Ambra, vedi <span class="citation">Il Tempio d'Ambra (p. 181)</span>.)
 
-The Dark Powers do not necessarily seek to corrupt those they encounter. Instead, for certain individuals, they seek to offer a choice between darkness and light—and to punish and ensnare those who fall to their temptations. In this adventure, two such individuals are Strahd von Zarovich and Ireena Kolyana.
+I Poteri Oscuri non cercano per forza di corrompere chi incontrano. Ad alcuni, piuttosto, offrono una scelta fra le tenebre e la luce, e puniscono e intrappolano chi cede alle loro tentazioni. In questa avventura due di queste persone sono Strahd von Zarovich e Ireena Kolyana.
 
-As described in <span class="citation">Mists of Ravenloft</span> and <span class="citation">Sunlight in Barovia (p. 23-24)</span>, the land of Barovia is surrounded by a deadly fog that engulfs any creature that tries to leave, and has not known the light of the sun in centuries. However, the Vistani, werewolves, and (while Strahd is asleep) people with mist talismans (see **Domains of Ravenloft (*Van Richten’s Guide to Ravenloft*, p. 61)** can come and go through the mists as they please.
+Come descritto in <span class="citation">Le Nebbie di Ravenloft</span> e in <span class="citation">La luce del sole a Barovia (p. 23-24)</span>, la terra di Barovia è circondata da una nebbia letale che inghiotte qualsiasi creatura cerchi di andarsene, e da secoli non conosce la luce del sole. I Vistani, i lupi mannari e (mentre Strahd dorme) chi possiede un talismano delle nebbie (vedi **I domini di Ravenloft (*Guida di Van Richten a Ravenloft*, p. 61)**) possono invece entrare e uscire dalle nebbie a piacimento.
 
-Spells cast in Barovia function as described in <span class="citation">Alterations to Magic</span>, and may be cosmetically modified in gruesome ways as described in <span class="citation">Cosmetic Spell Modifications (p. 24)</span>. While deities and patrons can still empower clerics and warlocks who make their way to Barovia, their ability to intervene directly—given the limited omnipotence of the Dark Powers within the Domains of Dread—is sorely limited.
-# Geography
-The geography of Barovia is largely as described in <span class="citation">Lay of the Land (p. 23)</span> and <span class="citation">Areas of Barovia (p. 33)</span>. However, the winding slopes of Tsolenka Pass now house the hidden village of **Soldav**, an isolated settlement of Mountain Folk who reject the druids' decision to worship Strahd as a deity.
+Gli incantesimi lanciati a Barovia funzionano come descritto in <span class="citation">Modifiche alla magia</span> e possono assumere aspetti macabri, come descritto in <span class="citation">Modifiche estetiche agli incantesimi (p. 24)</span>. Divinità e patroni possono ancora dare potere ai chierici e ai warlock che arrivano a Barovia, ma la loro capacità di intervenire direttamente è molto limitata, data l'onnipotenza circoscritta dei Poteri Oscuri all'interno dei Domini del Terrore.
+# Geografia
+La geografia di Barovia è più o meno come descritta in <span class="citation">La conformazione del territorio (p. 23)</span> e in <span class="citation">Aree di Barovia (p. 33)</span>. Fra i pendii tortuosi del Passo di Tsolenka, però, ora si nasconde il villaggio di **Soldav**, un insediamento isolato del Popolo della Montagna, che rifiuta la scelta dei druidi di adorare Strahd come una divinità.
 
-> [!warning]+ **Wandering Players**
+> [!warning]+ **Giocatori che vagano**
 >
-> Exploration in this campaign is intentional. Players won’t find much by wandering aimlessly; without clear leads, meaningful discoveries such as the *Holy Symbol of Ravenkind* or Amber Temple can take days or even weeks. To progress, the players must uncover clues and recognize the signs that point the way.
-# Weather
-Sunrise in Barovia is at 7:00 a.m. and sunset is at 5:00 p.m. each day. Additionally, while the mists remain, the lunar cycle is accelerated in Barovia: the full moon arrives once every two weeks, instead of once every four. 
-# Calendar
-The current Barovian year is 735 B.C. (Barovian Calendar). The Barovian calendar has twelve 28-day months, which are named as follows: <sup>1</sup>
-  
-| Month | Barovian Name | Gregorian Name |
+> In questa campagna l'esplorazione ha uno scopo. Vagando a caso i giocatori non troveranno granché: senza piste chiare, scoperte importanti come il *Simbolo Sacro di Ravenkind* o il Tempio d'Ambra possono richiedere giorni o perfino settimane. Per andare avanti, i giocatori devono scoprire gli indizi e riconoscere i segni che indicano la strada.
+# Il tempo
+A Barovia il sole sorge ogni giorno alle 7.00 e tramonta alle 17.00. Inoltre, finché le nebbie restano, a Barovia il ciclo lunare è accelerato: la luna piena arriva una volta ogni due settimane, invece che ogni quattro.
+# Calendario
+L'anno baroviano in corso è il 735 C.B. (Calendario Baroviano). Il calendario baroviano ha dodici mesi di 28 giorni, con questi nomi: <sup>1</sup>
+
+| Mese | Nome baroviano | Nome gregoriano |
 | :---: | :------------ | :------------- |
-|   1   | Yinvar        | January        |
-|   2   | Fivral        | February       |
-|   3   | Mart          | March          |
-|   4   | Apryl         | April          |
-|   5   | Mai           | May            |
-|   6   | Eyune         | June           |
-|   7   | Eyule         | July           |
-|   8   | Avgust        | August         |
-|   9   | Sintyavr      | September      |
-|  10   | Octyavr       | October        |
-|  11   | Neyavr        | November       |
-|  12   | Dekavr        | December       |
-# Cultures
-## Barovians
-The denizens of the Village of Barovia are a broken, haunted people, largely as described in <span class="citation">Chapter 3: The Village of Barovia (p. 41)</span> and <span class="citation">Barovian Villagers (p. 41)</span>. 
+|   1   | Yinvar        | gennaio        |
+|   2   | Fivral        | febbraio       |
+|   3   | Mart          | marzo          |
+|   4   | Apryl         | aprile         |
+|   5   | Mai           | maggio         |
+|   6   | Eyune         | giugno         |
+|   7   | Eyule         | luglio         |
+|   8   | Avgust        | agosto         |
+|   9   | Sintyavr      | settembre      |
+|  10   | Octyavr       | ottobre        |
+|  11   | Neyavr        | novembre       |
+|  12   | Dekavr        | dicembre       |
+# Popoli
+## Baroviani
+Gli abitanti del villaggio di Barovia sono un popolo spezzato e perseguitato, più o meno come descritto in <span class="citation">Capitolo 3: Il villaggio di Barovia (p. 41)</span> e in <span class="citation">Abitanti del villaggio di Barovia (p. 41)</span>.
 
-Until recently, however, the village of Barovia faced few overt troubles. While not thriving, its residents eked out a meager existence and lived as well as they could.
+Fino a poco tempo fa, però, il villaggio di Barovia aveva pochi guai evidenti. Non prosperava, ma i suoi abitanti tiravano avanti stentatamente e vivevano come potevano.
 
-That changed when the priest’s son, Doru—emboldened by the arrival of the vampire hunter Dr. Rudolph van Richten—incited a Barovian mob to march against Castle Ravenloft. Awoken from his long slumber, Strahd laid waste to the members of the mob, killing many of the village’s beloved sons and daughters. 
+Le cose sono cambiate quando il figlio del sacerdote, Doru, incoraggiato dall'arrivo del cacciatore di vampiri dottor Rudolph van Richten, ha spinto una folla di baroviani a marciare contro il Castello di Ravenloft. Risvegliato dal suo lungo sonno, Strahd ha fatto strage della folla, uccidendo molti dei figli e delle figlie più amati del villaggio.
 
-Strahd then roused an undead army and sent it against the village as punishment for their insolence. The siege of Barovia decimated the village, killing dozens and wounding many more. Only when Barovia’s burgomaster, a man named Kolyan Indirovich, was slain in battle, did Strahd’s forces ultimately withdraw, judging the slaughter to be sufficient discipline. 
+Poi Strahd ha risvegliato un esercito di non morti e lo ha mandato contro il villaggio per punirne l'insolenza. L'assedio di Barovia ha decimato il villaggio, con decine di morti e molti più feriti. Solo quando il borgomastro di Barovia, un uomo di nome Kolyan Indirovich, è stato ucciso in battaglia, le forze di Strahd si sono ritirate, giudicando la strage una lezione sufficiente.
 
-The burgomaster’s children, Ismark and Ireena, took charge of the rebuilding effort. Even so, many Barovians, fearful of Strahd’s emergence and the shadow of Castle Ravenloft, left their ruined homes and broken families and fled for Vallaki to the west, hoping that its high walls could bring security. Many of those who remained in the village turned on Ismark, blaming him and his father for allowing Strahd to awaken, and for failing to do more to prevent Strahd’s counter strike. Ismark—named for “Ismark the Great,” an ancestral hero who rooted out nests of vampires across the valley—is now scorned as “Ismark the Lesser.”
+I figli del borgomastro, Ismark e Ireena, hanno preso in mano la ricostruzione. Molti baroviani, però, spaventati dal ritorno di Strahd e dall'ombra del Castello di Ravenloft, hanno lasciato le case distrutte e le famiglie spezzate e sono fuggiti verso Vallaki, a ovest, sperando che le sue alte mura potessero dar loro sicurezza. Molti di quelli rimasti nel villaggio si sono rivoltati contro Ismark, accusando lui e suo padre di aver permesso il risveglio di Strahd e di non aver fatto di più per impedire la sua rappresaglia. Ismark, che porta il nome di «Ismark il Grande», un eroe antenato che stanò i nidi di vampiri in tutta la valle, ora viene disprezzato come «Ismark il Minore».
 
-The village has fallen into a state of paranoia, hopelessness, and despair. Neighbors mistrust neighbors, fearful that any person could be charmed by a vampire—or, worse, a vampire in disguise. Few go out of doors, whether day or night. All avoid the church, a scarred and haunted building rumored to be cursed by the Devil Strahd himself.
-## Vallakians
-The people of Vallaki are largely as described in <span class="citation">Chapter 5: The Town of Vallaki (p. 95)</span> and <span class="citation">Townsfolk (p. 96)</span>. Though the town is ruled by Baron Vargas Vallakovich, the local burgomaster, few townsfolk view him with much love or respect. 
+Il villaggio è caduto in uno stato di paranoia, di sconforto e di disperazione. I vicini non si fidano dei vicini, temendo che chiunque possa essere stato ammaliato da un vampiro, o peggio, che sia un vampiro travestito. Pochi escono di casa, di giorno come di notte. Tutti evitano la chiesa, un edificio sfregiato e infestato che si dice maledetto dal Diavolo Strahd in persona.
+## Vallakiani
+Gli abitanti di Vallaki sono più o meno come descritti in <span class="citation">Capitolo 5: La città di Vallaki (p. 95)</span> e in <span class="citation">Abitanti della città (p. 96)</span>. La città è governata dal barone Vargas Vallakovich, il borgomastro locale, ma pochi cittadini provano per lui affetto o rispetto.
 
-However, Baron Vallakovich commands the loyalty of Izek Strazni, a cruel and capricious brute who enforces the Baron’s will with an iron fist. Izek, as Captain of the Guard, commands the loyalty—and, more importantly, the salaries—of the town’s twenty-four guards, as described in <span class="citation">Town Gates (p. 95)</span>.
+Il barone Vallakovich però può contare sulla lealtà di Izek Strazni, un bruto crudele e imprevedibile che impone la volontà del barone con il pugno di ferro. Izek, in quanto capitano della guardia, può contare sulla lealtà, e soprattutto sugli stipendi, delle ventiquattro guardie della città, come descritto in <span class="citation">Le porte della città (p. 95)</span>.
 
-Though Vallaki is far from a police state, Izek has spies throughout the town—individuals that he has threatened or intimidated into keeping him abreast of news and information. Those who speak ill of the Baron or his “festivals” (described in <span class="citation">Chapter 5: The Town of Vallaki (p. 95)</span>) are thrown in the stocks as described in <span class="citation">Donkey-Headed Criminals (p. 119)</span>. Those who go further may find themselves forcibly summoned to the Baron’s manor for “corrective rehabilitation,” or even left to the tender mercies of Izek himself, whose diabolic mastery of fire allows him to burn his victims’ flesh or set their homes aflame.
+Vallaki è ben lontana dall'essere uno stato di polizia, ma Izek ha spie in tutta la città: persone che ha minacciato o intimidito perché lo tengano informato. Chi parla male del barone o delle sue «feste» (descritte in <span class="citation">Capitolo 5: La città di Vallaki (p. 95)</span>) finisce alla gogna, come descritto in <span class="citation">Criminali con la testa d'asino (p. 119)</span>. Chi si spinge oltre può ritrovarsi convocato a forza alla villa del barone per una «rieducazione correttiva», o perfino lasciato alle tenere cure di Izek in persona, la cui padronanza diabolica del fuoco gli permette di bruciare la carne delle vittime o di dare fuoco alle loro case.
 
-As a result, the vast majority of Vallakians have surrendered themselves to Baron Vallakovich’s rule, too terrified of Izek to dare speak out. The sole exceptions are Lady Fiona Wachter, as described in <span class="citation">Vallaki Lore (p. 96)</span>, and her followers, described further in [[#The Cult of Ezra]].
-## Krezkians
-The people of Krezk are largely as described in <span class="citation">Chapter 8: The Village of Krezk (p. 143)</span>, <span class="citation">S3. Village of Krezk (p. 145)</span>, and <span class="citation">Krezk Lore (p. 146)</span>. The villagers are largely unaware that their burgomaster, Dmitri Krezkov, is secretly a werewolf.
+Così la stragrande maggioranza dei vallakiani si è arresa al dominio del barone Vallakovich, troppo terrorizzata da Izek per osare protestare. Le uniche eccezioni sono Lady Fiona Wachter, come descritto in <span class="citation">Storie di Vallaki (p. 96)</span>, e i suoi seguaci, descritti in [[#Il culto di Ezra]].
+## Krezkiani
+Gli abitanti di Krezk sono più o meno come descritti in <span class="citation">Capitolo 8: Il villaggio di Krezk (p. 143)</span>, <span class="citation">S3. Villaggio di Krezk (p. 145)</span> e <span class="citation">Storie di Krezk (p. 146)</span>. Gli abitanti del villaggio ignorano quasi tutti che il loro borgomastro, Dmitri Krezkov, è segretamente un lupo mannaro.
 ## Vistani
-The Vistani are largely as described in <span class="citation">Vistani (p. 26)</span>, with two major semi-permanent settlements: the encampment at Tser Pool (as described in <span class="citation">G. Tser Pool Encampment (p. 36)</span>), and the encampment near Vallaki (as described in <span class="citation">N9. Vistani Camp (p. 119)</span>). 
+I Vistani sono più o meno come descritti in <span class="citation">Vistani (p. 26)</span>, con due grandi insediamenti semipermanenti: l'accampamento dello Stagno di Tser (come descritto in <span class="citation">G. Accampamento dello Stagno di Tser (p. 36)</span>) e l'accampamento vicino a Vallaki (come descritto in <span class="citation">N9. Accampamento vistani (p. 119)</span>).
 
-However, most Barovian Vistani view the valley as a temporary shelter from the evils of the world beyond, or as a brief stopover on their journeys through the mists. Only a few Vistani within Barovia reside there permanently and regard Strahd as their "king"; among those that do, even fewer serve Strahd faithfully as his eyes, ears, and hands amidst the valley. Most Barovian Vistani simply want to live their lives, to partake in life's wonders, and to raise their families in peace.
-## Dusk Elves
-The dusk elves are as described in <span class="citation">Roleplaying the Vistani and the Elves (p. 119)</span>.
-## First Folk
-The First Folk are a loose society of druidic hunter-gatherers descended from the nomads who first settled in the valley millenia ago. Since Strahd’s arrival in the valley, they have split into two factions: the Forest Folk, who worship Strahd as a deity and do his bidding across the Svalich Woods; and the Mountain Folk, a reclusive people who keep to the old religion of the Ladies Three and who largely remain within the sheltered settlement of Soldav, tucked away on the slopes of Mount Ghakis.
-# Factions
-## Dark Powers
+La maggior parte dei Vistani di Barovia, però, considera la valle un riparo temporaneo dai mali del mondo esterno, o una breve sosta nei loro viaggi attraverso le nebbie. Solo pochi Vistani vivono a Barovia in modo permanente e considerano Strahd il loro «re»; e fra questi, ancora meno servono fedelmente Strahd come suoi occhi, orecchie e mani nella valle. La maggior parte dei Vistani di Barovia vuole soltanto vivere la propria vita, godersi le meraviglie dell'esistenza e crescere la famiglia in pace.
+## Elfi del crepuscolo
+Gli elfi del crepuscolo sono come descritti in <span class="citation">Interpretare i Vistani e gli elfi (p. 119)</span>.
+## Primo Popolo
+Il Primo Popolo è una società poco organizzata di cacciatori e raccoglitori guidati dai druidi, discendenti dei nomadi che si stabilirono nella valle millenni fa. Dall'arrivo di Strahd si è diviso in due fazioni: il Popolo della Foresta, che adora Strahd come una divinità ed esegue i suoi ordini nei Boschi di Svalich, e il Popolo della Montagna, gente schiva che resta fedele all'antica religione delle Tre Dame e vive perlopiù nell'insediamento protetto di Soldav, nascosto sui pendii del Monte Ghakis.
+# Fazioni
+## Poteri Oscuri
 
-Both everywhere and nowhere, the Dark Powers are not quite a proper faction—their goals are inscrutable, their true agenda concealed. As the nameless jailers of Strahd von Zarovich, they seek only to ensure that his prison remains in place, and his suffering continues.
+Ovunque e in nessun luogo, i Poteri Oscuri non sono proprio una fazione: i loro scopi sono imperscrutabili, il loro vero disegno nascosto. In quanto carcerieri senza nome di Strahd von Zarovich, vogliono soltanto che la sua prigione resti in piedi e che la sua sofferenza continui.
 
-As part of Strahd’s punishment, however, the Dark Powers quietly work to keep the soul of Tatyana Federovna—now reincarnated as Ireena Kolyana—out of the vampire’s reach. For all their might, it is against the nature of the Dark Powers to act directly upon the souls within their domains: they can neither destroy her, nor command her spirit. 
+Per punire Strahd, però, i Poteri Oscuri lavorano in silenzio per tenere l'anima di Tatyana Federovna, ora reincarnata in Ireena Kolyana, fuori dalla portata del vampiro. Per quanto potenti, agire direttamente sulle anime dei loro domini è contro la natura dei Poteri Oscuri: non possono né distruggerla né comandarne lo spirito.
 
-However, as they once did with Strahd, the Dark Powers can always offer a choice—in Ireena’s case, a choice to end her existence, to flee from Strahd’s pursuit, and to find the safety of temporary oblivion. Nearly five hundred years ago, Tatyana Federovna accepted this offer, and leapt from the Pillarstone of Ravenloft to her doom. Forty years later, Marina Ulrich did the same, and let slip to her father the secret of Strahd’s pursuit.
+Come un tempo fecero con Strahd, però, i Poteri Oscuri possono sempre offrire una scelta; nel caso di Ireena, la scelta di porre fine alla propria esistenza, di sfuggire alla caccia di Strahd e di trovare la sicurezza di un oblio temporaneo. Quasi cinquecento anni fa Tatyana Federovna accettò quell'offerta e si gettò dal Pilastro di Ravenloft verso la morte. Quarant'anni dopo Marina Ulrich fece lo stesso e lasciò che il padre scoprisse il segreto della caccia di Strahd.
 
-Time and time again, the women bearing Tatyana’s soul have been offered this choice and, bereft of other options, made the decision to accept it. It is not yet Ireena’s time—but the Dark Powers are patient, and they know that, alone, she will inevitably fall once more into their grasp.
+Ancora e ancora, alle donne che portavano l'anima di Tatyana è stata offerta questa scelta, e senza altre vie d'uscita hanno deciso di accettarla. Per Ireena non è ancora il momento, ma i Poteri Oscuri sono pazienti, e sanno che, da sola, finirà inevitabilmente di nuovo nelle loro mani.
 
-## Keepers of the Feather
+## Custodi della Piuma
 
-The Keepers of the Feather are largely as described in <span class="citation">Keepers of the Feather (p. 98)</span>, <span class="citation">The Martikov Family (p. 174)</span>, and <span class="citation">U6. Standing Stones (p. 165)</span>. The high-ranking membership is dominated by the Martikov family, with patriarch Davian Martikov directing the order’s activities. However, more than a dozen other members are also scattered incognito throughout Barovia, with most stationed in and around the town of Vallaki.
+I Custodi della Piuma sono più o meno come descritti in <span class="citation">Custodi della Piuma (p. 98)</span>, <span class="citation">La famiglia Martikov (p. 174)</span> e <span class="citation">U6. Menhir (p. 165)</span>. Ai vertici dell'ordine domina la famiglia Martikov, con il patriarca Davian Martikov che ne dirige le attività. Più di una dozzina di altri membri sono però sparsi in incognito per Barovia, quasi tutti a Vallaki o nei dintorni.
 
-The Keepers, despite their lycanthropic nature, are spies—not warriors. With the sole exception of Muriel Vinshaw, a young **wereraven** with a fiery temper and a streak of defiance, the Keepers are reluctant to take up arms in battle. Few are trained in martial combat, and fewer still have the stomach for violence or blood. 
+I Custodi, pur essendo licantropi, sono spie, non guerrieri. Con l'unica eccezione di Muriel Vinshaw, una giovane **corvo mannaro** dal carattere focoso e ribelle, i Custodi sono restii a prendere le armi. Pochi sono addestrati al combattimento, e ancora meno hanno lo stomaco per la violenza o il sangue.
 
-More importantly, one of the Keepers—a young **wereraven** named Elric, Muriel’s former romantic partner—recently accompanied Doru’s mob of Barovians to Castle Ravenloft, and was killed in the slaughter. Fearing Strahd’s attention, the rest of the Keepers are now laying low, hoping to keep their members safe and their secrets out of the vampire’s hands.
+Soprattutto, uno dei Custodi, un giovane **corvo mannaro** di nome Elric, ex compagno di Muriel, ha accompagnato di recente la folla di baroviani di Doru al Castello di Ravenloft ed è stato ucciso nella strage. Temendo l'attenzione di Strahd, gli altri Custodi ora si tengono nell'ombra, per proteggere i membri e tenere i loro segreti lontani dal vampiro.
 
-That doesn’t mean, though, that the Keepers are staying idle. Their spy network—led by Urwin Martikov and his wereraven associates—has tendrils that reach throughout the valley and mountains, gathering constant intelligence from the flocks of ravens that soar through the skies. Some among the Keepers joke that not a twig could be snapped in the Svalich Woods without Urwin knowing of it—and, sometimes, they wouldn’t be far wrong.
+Questo non significa però che i Custodi stiano con le mani in mano. La loro rete di spie, guidata da Urwin Martikov e dai suoi compagni corvi mannari, ha ramificazioni in tutta la valle e sulle montagne, e raccoglie di continuo informazioni dagli stormi di corvi che solcano il cielo. Fra i Custodi c'è chi scherza che nei Boschi di Svalich non si spezza un ramoscello senza che Urwin lo sappia, e a volte non sbaglia di molto.
 
-## Barovian Refugees
+## Profughi baroviani
 
-Those Barovians who fled their village in the aftermath of Strahd’s siege faced a long and difficult path on the road to Vallaki. Several lost their lives, whether to wolf attacks or malicious undead, leaving the survivors to bury them along the way—if, of course, there was anything left to bury.
+I baroviani che sono fuggiti dal villaggio dopo l'assedio di Strahd hanno affrontato un cammino lungo e difficile verso Vallaki. Alcuni ci hanno lasciato la vita, per gli attacchi dei lupi o di non morti malvagi, e i sopravvissuti li hanno sepolti lungo la strada, quando, beninteso, restava qualcosa da seppellire.
 
-When they arrived outside Vallaki’s walls and asked for sanctuary, however, they were met with disturbing news: the gates of the town were closed to them. News of Barovia’s siege had traveled to Vallaki’s streets, and Baron Vallakovich had evidently become convinced that the Barovians themselves were an accursed, unsavory people—and that permitting them to enter his “perfect” town would only empower the Devil to destroy it.
+Quando sono arrivati sotto le mura di Vallaki e hanno chiesto rifugio, però, li aspettava una notizia inquietante: le porte della città erano chiuse per loro. La notizia dell'assedio di Barovia era arrivata fino alle strade di Vallaki, e il barone Vallakovich si era evidentemente convinto che i baroviani fossero gente maledetta e sgradevole, e che lasciarli entrare nella sua città «perfetta» avrebbe solo dato al Diavolo la forza di distruggerla.
 
-Most of the refugees despaired, but only a few struck out on the path back to Barovia; those that did were never seen again. The rest linger on the outskirts of Vallaki, huddling in threadbare tents and bedrolls. Their encampment hugs close to Vallaki’s palisade walls, praying that the silvered spears and crossbows of the town’s guards will keep the beasts of the woods at bay—and that, sooner or later, the people of Vallaki will change their minds and allow them entry. 
+La maggior parte dei profughi si è disperata, ma solo pochi hanno ripreso la strada per Barovia; di loro non si è saputo più nulla. Gli altri restano alla periferia di Vallaki, rannicchiati in tende e giacigli logori. Il loro accampamento si stringe alla palizzata di Vallaki, nella speranza che le lance argentate e le balestre delle guardie tengano lontane le bestie dei boschi, e che prima o poi gli abitanti di Vallaki cambino idea e li lascino entrare.
 
-So far, the wolves have kept their distance, but so have the Vallakians. With resources running low, and morale even lower, the refugees are slowly running out of time—even as the shadows of the woods creep ever-closer to their campfires.
+Finora i lupi si sono tenuti a distanza, ma lo stesso hanno fatto i vallakiani. Con le provviste che scarseggiano e il morale ancora più basso, il tempo dei profughi sta finendo, mentre le ombre dei boschi si avvicinano sempre di più ai loro fuochi.
 
-## Forest Folk
+## Popolo della Foresta
 
-The Forest Folk are one of two groups descended from the hunter-gatherer nomads who first settled the valley. 
+Il Popolo della Foresta è uno dei due gruppi discendenti dei nomadi cacciatori e raccoglitori che per primi si stabilirono nella valle.
 
-Nearly five centuries ago, when Strahd first invaded Barovia, a group of druidic elders approached him in secret with an offer. Fearful of repeating the oppression their people had once suffered under King Dostron, the elders told Strahd that they would guide him to the sacred places of the valley—the Fanes of the Ladies Three—and teach him the secrets of unlocking their power. In exchange, the elders asked for Strahd’s protection, and his promise that he would leave them in peace in a valley now flooded with blood and ghosts.
+Quasi cinque secoli fa, quando Strahd invase Barovia, un gruppo di anziani druidi andò da lui in segreto con un'offerta. Temendo che si ripetesse l'oppressione che il loro popolo aveva subito sotto re Dostron, gli anziani dissero a Strahd che lo avrebbero guidato ai luoghi sacri della valle, i Templi delle Tre Dame, e gli avrebbero insegnato i segreti per liberarne il potere. In cambio chiesero la protezione di Strahd e la promessa che li avrebbe lasciati in pace in una valle ormai sommersa di sangue e di fantasmi.
 
-Strahd agreed, and, with the aid of the druidic elders, the archmage Khazan, and arcane research taken from the Amber Temple, fashioned a profane ritual with which to claim the Fanes for his own. In desecrating these holy sites, Strahd forged an unholy connection with the leylines that lay beneath them—and so became, in a way, the land of Barovia itself.
+Strahd accettò e, con l'aiuto degli anziani druidi, dell'arcimago Khazan e delle ricerche arcane condotte al Tempio d'Ambra, creò un rituale profano con cui impadronirsi dei Templi. Profanando quei luoghi sacri, Strahd stabilì un legame empio con le linee di forza che scorrevano sotto di essi, e divenne così, in un certo senso, la terra stessa di Barovia.
 
-The elders’ betrayal split the First People, causing a schism that sent dark tremors through their weakened society. Some among them—in particular, the other druids, and the caste of primal berserkers who served them—grimly agreed with the elders’ choice. The Ladies of the Fanes, they reasoned, had long since abandoned the People. The days of tooth and claw had ended; the age of steel had begun. Seeking Strahd’s protection, they believed, was the only choice left to them.
+Il tradimento degli anziani spaccò il Primo Popolo e provocò uno scisma che fece tremare la loro società già indebolita. Alcuni, in particolare gli altri druidi e la casta di berserker primordiali al loro servizio, approvarono a malincuore la scelta degli anziani. Le Dame dei Templi, ragionavano, avevano abbandonato il Popolo da tempo. I giorni delle zanne e degli artigli erano finiti; era cominciata l'era dell'acciaio. Cercare la protezione di Strahd, ne erano convinti, era l'unica scelta rimasta.
 
-The passage of time, however, has not been kind to the elders' legacy. Set adrift from their traditions and corrupted by darkness, the modern Forest Folk are a maddened, obsessed people, wholly dedicated to Strahd as their "god." Their leader is Svarog, a mad druid who has bonded his flesh to the Gulthias Tree that grows atop Yester Hill. The Forest Folk are now otherwise largely as described in <span class="citation">Chapter 14: Yester Hill (p. 197)</span> and <span class="citation">Hidden Graves (p. 198)</span>.
+Il passare del tempo però non è stato clemente con l'eredità degli anziani. Staccato dalle sue tradizioni e corrotto dalle tenebre, il Popolo della Foresta di oggi è un popolo impazzito e ossessionato, interamente devoto a Strahd come al suo «dio». Lo guida Svarog, un druido folle che ha legato la propria carne all'Albero Gulthias che cresce sulla Collina di Yester. Per il resto il Popolo della Foresta è più o meno come descritto in <span class="citation">Capitolo 14: Collina di Yester (p. 197)</span> e in <span class="citation">Tombe nascoste (p. 198)</span>.
 
-Recently, the Forest Folk were approached by Ludmilla Vilisevic, one of Strahd’s brides and an envoy from Baba Lysaga, the Witch of Berez. Ludmilla carried information indicating that the Keepers of the Feather, a secret society of wereravens that opposed Strahd’s rule, used the nearby Wizard of Wines Winery as one of their hideouts. With Ludmilla’s aid, the druids of the Forest Folk fashioned a way to create and command blights—the children of the Gulthias Tree—and declared war upon the winery and all its inhabitants.
+Di recente il Popolo della Foresta è stato avvicinato da Ludmilla Vilisevic, una delle spose di Strahd ed emissaria di Baba Lysaga, la Strega di Berez. Ludmilla portava informazioni secondo cui i Custodi della Piuma, una società segreta di corvi mannari che si oppone al dominio di Strahd, usavano la vicina azienda vinicola del Mago dei Vini come uno dei loro nascondigli. Con l'aiuto di Ludmilla, i druidi del Popolo della Foresta hanno trovato il modo di creare e comandare gli infestanti, i figli dell'Albero Gulthias, e hanno dichiarato guerra all'azienda e a tutti i suoi abitanti.
 
-## Mountain Folk
+## Popolo della Montagna
 
-When the schism of the First People began, many were horrified at Strahd’s desecration of their holy places. In seeking protection from the evils of the world, they believed, the druidic elders had destroyed the very things that their society held dear. “Faithless,” they called the Forest Folk, and named Strahd “Shadowsworn” for the darkness he wielded. Unable to resist the druids’ power, or the might of Strahd’s armies, however, these rebels found themselves outmatched: powerless and alone in a world that no longer had a place for them.
+Quando cominciò lo scisma del Primo Popolo, molti furono inorriditi dalla profanazione dei loro luoghi sacri da parte di Strahd. Cercando protezione dai mali del mondo, pensavano, gli anziani druidi avevano distrutto proprio ciò che la loro società aveva di più caro. «Senza fede» chiamarono il Popolo della Foresta, e chiamarono Strahd «Giurato all'Ombra» per le tenebre che dominava. Incapaci di resistere al potere dei druidi o alla forza degli eserciti di Strahd, però, quei ribelli si ritrovarono sopraffatti: impotenti e soli in un mondo che non aveva più posto per loro.
 
-Those who denied Strahd’s rule—largely hunters, artisans, and warriors—were cast out from the druids’ circles and fled for the slopes of the Balinok Mountains. There, they founded the hidden settlement of Soldav among the crags of Mount Ghakis. Banished from the woodlands of Barovia, they became the Mountain Folk, and set out to carve a new existence among the peaks.
+Chi rifiutava il dominio di Strahd, perlopiù cacciatori, artigiani e guerrieri, fu cacciato dai circoli dei druidi e fuggì sui pendii dei Monti Balinok. Lì fondò l'insediamento nascosto di Soldav fra le rupi del Monte Ghakis. Banditi dai boschi di Barovia, divennero il Popolo della Montagna e cominciarono a costruirsi una nuova esistenza fra le vette.
 
-Their spiritual leader, an elder **storm giant** named Burebis, is the sole mortal being that still remembers the old days: when the First People ruled the valley, and the Ladies of the Fanes showed them peace and prosperity. In his old age, however, Burebis’ weakened body has been swallowed up by the roots of Mount Ghakis, the embers of his spirit slowly dwindling as he awaits a sign of the *Rozana*’s return. For now, it is all he can do to keep Soldav hidden from Strahd and his spies, encircling the settlement with a constant cover of clouds and snow.
+La loro guida spirituale, un anziano **gigante delle tempeste** di nome Burebis, è l'unico essere mortale che ricordi ancora i vecchi tempi, quando il Primo Popolo governava la valle e le Dame dei Templi gli donavano pace e prosperità. Con la vecchiaia, però, il corpo indebolito di Burebis è stato inghiottito dalle radici del Monte Ghakis, e le braci del suo spirito si spengono lentamente mentre aspetta un segno del ritorno delle *Rozana*. Per ora riesce a malapena a tenere Soldav nascosto a Strahd e alle sue spie, avvolgendo l'insediamento in una coltre perenne di nubi e di neve.
 
-## Beasts of Barovia
+## Le bestie di Barovia
 
-While not members of any civilized society, the wolves, rats, and bats of Barovia are Strahd’s loyal servants and spies. Each day, at sunrise and sunset, each beast with news to report—of outsiders, of turmoil, or simply of interesting trinkets or treasures—returns to Castle Ravenloft to share what it's learned and to receive new orders to disseminate through the valley. Strahd’s vampiric brides gather and organize their intelligence: the wolves to Volenta Popofsky, the rats to Ludmilla Vilisevic, and the bats to Anastrasya Karelova.
+Pur non appartenendo a nessuna società civile, i lupi, i ratti e i pipistrelli di Barovia sono servitori e spie fedeli di Strahd. Ogni giorno, all'alba e al tramonto, ogni bestia che ha notizie da riferire, di stranieri, di disordini o semplicemente di ninnoli o tesori interessanti, torna al Castello di Ravenloft a raccontare ciò che ha scoperto e a ricevere nuovi ordini da diffondere per la valle. Le spose vampire di Strahd raccolgono e ordinano le informazioni: i lupi riferiscono a Volenta Popofsky, i ratti a Ludmilla Vilisevic e i pipistrelli ad Anastrasya Karelova.
 
-## Brides of Strahd
-Three of Strahd’s eldest vampiric consorts—Ludmilla, Anastrasya, and Volenta—serve their master loyally, but compete bitterly for his favor. As the eldest and most adept at the arcane arts, Ludmilla is Strahd’s favored research partner, developing new spells for his use while investigating the secrets of the Mists. Meanwhile, Anastrasya is a master of the arts of espionage and diplomacy, managing Strahd’s political relationships while retaining key spies in each of Barovia’s settlements. Finally, Volenta is a skilled artificer and torturer, innovating new traps to guard Ravenloft’s halls while wringing information from those who fall into them.
+## Le spose di Strahd
+Tre delle più antiche consorti vampire di Strahd, Ludmilla, Anastrasya e Volenta, servono fedelmente il loro padrone, ma si contendono aspramente il suo favore. Essendo la più anziana e la più esperta nelle arti arcane, Ludmilla è la compagna di ricerca preferita di Strahd: sviluppa nuovi incantesimi per lui e indaga i segreti delle Nebbie. Anastrasya è invece maestra nelle arti dello spionaggio e della diplomazia: gestisce i rapporti politici di Strahd e tiene spie chiave in ogni insediamento di Barovia. Volenta, infine, è un'abile artefice e torturatrice: inventa nuove trappole per proteggere le sale di Ravenloft e strappa informazioni a chi ci cade dentro.
 
-Over the past hundred years, with Strahd asleep in Castle Ravenloft, each of his brides dispersed through the valley to pursue their own agendas. Now, with Strahd awoken, and his moment of reckoning at hand, each bride is desperate to prove their loyalty and worth to Strahd once more—and to win their place at his side when his grand plan comes to fruition.
-## Witches of Mother Night
-While the good-hearted worshippers of Barovia keep the faith of the Morninglord alive, other, darker individuals seek the power and favor of Mother Night instead. Chief among them is Baba Lysaga, the Witch of Berez, who has fostered a coven of fellow devotees by recruiting outcasts and exiles from the settlements of Barovia. The maddened Lysaga views these practitioners as her children, and teaches them to secretly consider themselves the younger siblings of Strahd—sworn to protect and obey him for eternity.
+Negli ultimi cento anni, mentre Strahd dormiva nel Castello di Ravenloft, ognuna delle spose si è sparsa per la valle a perseguire i propri scopi. Ora che Strahd si è risvegliato e la resa dei conti è vicina, ogni sposa è disperatamente decisa a dimostrargli di nuovo la propria lealtà e il proprio valore, e a conquistarsi un posto al suo fianco quando il suo grande piano si compirà.
+## Le streghe di Madre Notte
+Mentre i fedeli di buon cuore di Barovia tengono viva la fede nel Signore del Mattino, altri, più oscuri, cercano invece il potere e il favore di Madre Notte. La prima fra loro è Baba Lysaga, la Strega di Berez, che ha formato una congrega di devote reclutando reietti ed esuli dagli insediamenti di Barovia. La folle Lysaga considera queste streghe sue figlie e insegna loro a considerarsi in segreto sorelle minori di Strahd, tenute a proteggerlo e a obbedirgli per l'eternità.
 
-These witches are largely as described in <span class="citation">Barovian Witch (p. 229)</span>, though their pacts are forged with Mother Night instead of Strahd and the Dark Powers. Those sent to Ravenloft serve at the pleasure of Ludmilla Vilisevic, Strahd’s magic-minded consort, though none forget that their true loyalty is owed to Baba Lysaga of the swamp—and, above her, to Strahd himself.
-## Wachtercult
-Unlike in the official *Curse of Strahd* module, Lady Fiona Wachter does not worship devils. Instead, although she retains an **imp** familiar as a memento of her time studying with the witch Baba Lysaga, she has taught the members of her Vallakian cult to worship the goddess Ezra, who is described in [[#The Cult of Ezra]] below. Currently, Lady Wachter’s “book club” boasts six **cult fanatics**, with each fanatic leading a smaller cell of six **cultists** as described in <span class="citation">Cultists (p. 96)</span>. 
-## Werewolf Pack
-The werewolf pack—the members of which call themselves the Children of Mother Night—are largely as described in <span class="citation">Chapter 15: Werewolf Den (p. 201)</span>. Until Strahd’s awakening, the pack largely used Barovia as a place to rest between hunts, occasionally prowling the roads between settlements, but preferring the tastier meat of the lands beyond the mists.
+Queste streghe sono più o meno come descritte in <span class="citation">Strega baroviana (p. 229)</span>, ma i loro patti sono stretti con Madre Notte invece che con Strahd e i Poteri Oscuri. Quelle mandate a Ravenloft sono al servizio di Ludmilla Vilisevic, la consorte di Strahd esperta di magia, ma nessuna dimentica che la sua vera lealtà va a Baba Lysaga della palude e, sopra di lei, a Strahd in persona.
+## Il culto dei Wachter
+A differenza del modulo ufficiale *La maledizione di Strahd*, qui Lady Fiona Wachter non adora i diavoli. Ha conservato un famiglio **imp** in ricordo del periodo passato a studiare con la strega Baba Lysaga, ma ha insegnato ai membri del suo culto di Vallaki ad adorare la dea Ezra, descritta più avanti in [[#Il culto di Ezra]]. Al momento il «circolo di lettura» di Lady Wachter conta sei **fanatici del culto**, ognuno a capo di una cellula più piccola di sei **cultisti**, come descritto in <span class="citation">Cultisti (p. 96)</span>.
+## Il branco di lupi mannari
+Il branco di lupi mannari, i cui membri si fanno chiamare Figli di Madre Notte, è più o meno come descritto in <span class="citation">Capitolo 15: La tana dei lupi mannari (p. 201)</span>. Fino al risveglio di Strahd il branco usava Barovia soprattutto come luogo di riposo fra una caccia e l'altra; ogni tanto si aggirava lungo le strade fra gli insediamenti, ma preferiva la carne più saporita delle terre al di là delle nebbie.
 
-However, when Strahd awoke, he demanded the loyalty of the werewolves whose forebears had once served him faithfully. He threatened to seal the pack within the mists for all eternity if they defied him—but promised them wealth, power, and plentiful prey if they returned to his service.
+Quando Strahd si è risvegliato, però, ha preteso la lealtà dei lupi mannari i cui antenati un tempo lo servivano fedelmente. Ha minacciato di chiudere il branco nelle nebbie per l'eternità se lo avessero sfidato, ma ha promesso ricchezza, potere e prede in abbondanza se fossero tornati al suo servizio.
 
-Emil, the leader of the pack, resisted Strahd’s efforts to strip the pack of its agency. He quietly argued that the Children of Mother Night had always been free—free to hunt and kill and live as they chose—and suggested that the pack pretend to accept Strahd’s terms, but abandon Barovia as soon as the mists reopened to them.
+Emil, il capo del branco, si è opposto ai tentativi di Strahd di togliere al branco la sua libertà. Sosteneva in silenzio che i Figli di Madre Notte erano sempre stati liberi, liberi di cacciare, uccidere e vivere come volevano, e proponeva che il branco fingesse di accettare le condizioni di Strahd, per poi abbandonare Barovia appena le nebbie si fossero riaperte.
 
-But Emil was betrayed. Kiril, a young and haughty werewolf who felt his strength had gone unrecognized, was lured by Strahd’s promises of riches and might. Kiril reported Emil’s plot to Strahd’s own ear—and, when the vampire’s dire wolves dragged Emil to the dungeons of Castle Ravenloft, was rewarded with the leadership of the werewolf pack.
+Ma Emil è stato tradito. Kiril, un lupo mannaro giovane e arrogante convinto che la sua forza non fosse riconosciuta, si è lasciato sedurre dalle promesse di ricchezza e di potere di Strahd. Ha riferito il piano di Emil direttamente a Strahd e, quando i lupi crudeli del vampiro hanno trascinato Emil nelle segrete del Castello di Ravenloft, è stato ricompensato con il comando del branco.
 
-Now, as the pack’s new alpha and Strahd’s faithful servant, Kiril leads his werewolves on a savage and bloody crusade to dominate the wild places of Barovia, though he dreams of one day surmounting the settlements’ walls and devouring their people like sheep. Meanwhile, Emil’s mate Zuleika, the pack’s holy woman and soothsayer, sits alone in Mother Night’s shrine, silently praying for deliverance—or vengeance.
+Ora, come nuovo alfa del branco e servitore fedele di Strahd, Kiril guida i suoi lupi mannari in una crociata feroce e sanguinosa per dominare i luoghi selvaggi di Barovia, e sogna di scavalcare un giorno le mura degli insediamenti e divorarne gli abitanti come pecore. Intanto la compagna di Emil, Zuleika, sacerdotessa e indovina del branco, siede sola nel santuario di Madre Notte, pregando in silenzio per la liberazione, o per la vendetta.
 
-> [!info]+ **Lycanthropy in Barovia**
+> [!info]+ **La licantropia a Barovia**
 >
-> In Barovia, the curse of lycanthropy spreads as described in **Player Characters as Lycanthropes** (<span class="citation">Monster Manual, p. 207</span>). However, an infected player or other creature does not automatically receive any changes to their ability scores or Armor Class, nor do they automatically receive the benefits of the lycanthrope's stat block (e.g., immunities or regeneration).
+> A Barovia la maledizione della licantropia si diffonde come descritto in **Personaggi giocanti licantropi** (<span class="citation">Manuale dei Mostri, p. 207</span>). Un giocatore o un'altra creatura infetta, però, non riceve automaticamente modifiche ai punteggi di caratteristica o alla Classe Armatura, né i benefici del profilo del licantropo (per esempio immunità o rigenerazione).
 >
-> Instead, an infected creature only receives the benefits of lycanthropy upon transforming into their hybrid form on the night of the full moon. During this time, the creature becomes an NPC under the DM's control until dawn, at which point the creature loses the benefits of lycanthropy.
+> Una creatura infetta riceve invece i benefici della licantropia solo quando si trasforma nella forma ibrida, la notte di luna piena. In quel periodo la creatura diventa un PNG controllato dal DM fino all'alba, quando perde i benefici della licantropia.
 >
-> An infected creature can embrace the curse of lycanthropy—and so gain its full benefits—by completing a certain task, depending on the nature of their curse:
+> Una creatura infetta può abbracciare la maledizione della licantropia, e ottenerne così tutti i benefici, compiendo una certa impresa, che dipende dalla natura della maledizione:
 >
-> - An infected **werewolf** must voluntarily kill another humanoid and devour their flesh.
-> - An infected **wereraven** must be knocked unconscious while voluntarily attempting to protect another humanoid from (what they believe to be) near-certain death.
+> - Un **lupo mannaro** infetto deve uccidere volontariamente un altro umanoide e divorarne la carne.
+> - Un **corvo mannaro** infetto deve finire privo di sensi mentre cerca volontariamente di proteggere un altro umanoide da quella che crede una morte quasi certa.
 >
-> An infected lycanthrope can be recognized by the scar of the wound that originally transmitted the curse. The wound will never entirely heal, and remains raw and bloody until the curse is lifted.
+> Un licantropo infetto si riconosce dalla cicatrice della ferita che gli ha trasmesso la maledizione. La ferita non guarisce mai del tutto e resta viva e sanguinante finché la maledizione non viene tolta.
 >
-> The child of two lycanthropes possesses the full benefits of lycanthropy from birth, and may learn to control their curse as they age. A child born with lycanthropy in this way cannot be cured except by means of a *wish* spell.
+> Il figlio di due licantropi possiede tutti i benefici della licantropia dalla nascita, e crescendo può imparare a controllare la maledizione. Un figlio nato licantropo in questo modo può essere guarito solo con un incantesimo *desiderio*.
 >
-> Finally, while the mists remain, the lunar cycle is accelerated in Barovia: the full moon arrives once every two weeks, instead of once every four. **The first full moon that the players experience takes place on Neyavr 8th—the sixth night after they first arrive in Vallaki.**
-## Amber Vestiges
+> Infine, finché le nebbie restano, a Barovia il ciclo lunare è accelerato: la luna piena arriva una volta ogni due settimane, invece che ogni quattro. **La prima luna piena che i giocatori vedono cade l'8 di Neyavr, la sesta notte dopo il loro arrivo a Vallaki.**
+## Le vestigia d'ambra
 
-The vestiges of the Amber Temple are not sentient as most would imagine it; as the decaying remnants of dead gods, they are mere scraps of malevolent power, described further in <span class="citation">Chapter 13: The Amber Temple (p. 181)</span>, <span class="citation">Amber Sarcophagi (p. 191)</span>, and <span class="citation">X33. Amber Vaults (p. 191)</span>.
+Le vestigia del Tempio d'Ambra non hanno una coscienza come la intende la maggior parte delle persone: resti in decomposizione di dèi morti, sono semplici brandelli di potere malvagio, descritti in <span class="citation">Capitolo 13: Il Tempio d'Ambra (p. 181)</span>, <span class="citation">Sarcofagi d'ambra (p. 191)</span> e <span class="citation">X33. Cripte d'ambra (p. 191)</span>.
 
-Even so, that is not dead which can eternal lie. From the chill of their amber tombs, these vestiges dream of the power they once wielded—and of a path to renewed apotheosis. Shards of their amber sarcophagi are scattered across the land of Barovia, with each shard bearing a psychic connection to the vestige it once imprisoned. Through these shards, the vestiges can whisper words of corruption, promising power without price. This is a lie: no power is without cost, and the shreds of darkness the vestiges offer warp and transform their recipients—in subtle ways at first, but swelling grotesquely over time.
+Eppure, non è morto ciò che in eterno può attendere. Dal gelo delle loro tombe d'ambra queste vestigia sognano il potere che avevano un tempo, e una via per tornare all'apoteosi. Schegge dei loro sarcofagi d'ambra sono sparse per tutta la terra di Barovia, e ogni scheggia conserva un legame psichico con la vestigia che un tempo imprigionava. Attraverso queste schegge le vestigia sussurrano parole di corruzione e promettono potere senza prezzo. È una menzogna: nessun potere è senza costo, e i brandelli di tenebra che le vestigia offrono deformano e trasformano chi li riceve, in modo sottile all'inizio, ma sempre più grottesco col tempo.
 
-Elisabeth Durst of Death House once bore one of these amber shards; Izek Strazni of Vallaki holds one today. These shards are merely a gateway, however—through small tastes of power, the vestiges hope to lure their victims to the Amber Temple itself. There, the vestiges can offer their greatest dark gifts—and, in doing so, claim their true price and prize: a sliver of the victim’s soul.
+Elisabeth Durst della Casa della Morte possedeva un tempo uno di questi frammenti d'ambra; Izek Strazni di Vallaki ne possiede uno oggi. Questi frammenti però sono solo una porta: con piccoli assaggi di potere, le vestigia sperano di attirare le loro vittime fino al Tempio d'Ambra stesso. Lì possono offrire i loro doni oscuri più grandi, e così prendersi il vero prezzo e il vero premio: una scheggia dell'anima della vittima.
 
-With each scrap of spirit a vestige claims, it grows in power, inching closer to the day that it will have the strength to break free of its amber prison. Several are now on the precipice. And for those that remain—eternity is full of possibilities, and the dead have nothing but time.
-## The Ladies of the Fanes
+Con ogni brandello di spirito che si prende, una vestigia cresce di potere e si avvicina al giorno in cui avrà la forza di liberarsi dalla sua prigione d'ambra. Diverse sono ormai sul punto di farcela. E per le altre, l'eternità è piena di possibilità, e i morti hanno tutto il tempo del mondo.
+## Le Dame dei Templi
 
-With their holy places desecrated and their worshippers weakened and divided, two of the three Ladies of the Fanes—the Weaver and the Huntress—have been reduced to little more than spirit, unable to take action or exercise the power they once wielded. Only the Seeker, who forged a pact with Katarina, the bastard sister of Strahd von Zarovich, to free the valley from Strahd’s evil, survives. Through their pact, the Seeker subsumed Katarina’s soul to manifest an avatar of her divine power: the Vistana seer Madam Eva.
+Con i loro luoghi sacri profanati e i loro fedeli indeboliti e divisi, due delle tre Dame dei Templi, la Tessitrice e la Cacciatrice, sono ridotte a poco più che spiriti, incapaci di agire o di esercitare il potere che avevano un tempo. Sopravvive solo il Cercatore, che strinse un patto con Katarina, la sorellastra illegittima di Strahd von Zarovich, per liberare la valle dal male di Strahd. Con quel patto il Cercatore assorbì l'anima di Katarina per manifestare un avatar del proprio potere divino: la veggente vistana Madam Eva.
 
+In quanto aspetto del Cercatore, Madam Eva deve rispettare le regole della sua natura divina. Non può rifiutarsi di leggere il futuro a qualcuno, né può rivelare le sue predizioni a nessuno tranne chi le ascolta. Per questo molte persone, rispettabili e no, si sono rivolte a lei per conoscere il proprio futuro, compreso, a volte, Strahd von Zarovich in persona.
 
-As an aspect of the Seeker, Madam Eva is bound to follow the rules of her divinity. She cannot refuse to read another’s fortune, nor can she share her foretellings with any but those who hear them. Many individuals, both savory and not, have therefore called upon her to see their futures—including, at times, Strahd von Zarovich himself.
+Vista la vita eccezionalmente lunga di Madam Eva, molto più lunga di quella di qualsiasi essere umano, Strahd sospetta fortemente che sia più di quanto sembri. Finora però Madam Eva si è accontentata di dargli le predizioni che cercava, e lui si è accontentato dei suoi sorrisi furbi e dei suoi dinieghi.
 
-Given Madam Eva’s exceptionally long lifespan—far longer than any ordinary human—Strahd strongly suspects that she is more than she appears. However, thus far, Madam Eva has been content to give him the foretellings he seeks—and he, in response, has been content to accept her sly smiles and denials.
+Madam Eva però prevede che Strahd tornerà presto da lei un'ultima, terribile volta, e che la lettura che gli farà deciderà il destino di tutta Barovia.
+# Religioni
 
-However, Madam Eva foresees that Strahd will soon return to her for a final, terrible time—and that the reading she will deliver shall define the fate of all Barovia.
-# Religions
+## La Chiesa del Signore del Mattino
+La fede dominante a Barovia adora la divinità nota come Signore del Mattino, dio dell'alba e del rinnovamento. Nei secoli passati, con il sole sempre nascosto dietro un cielo coperto, la fede della gente si era lentamente ridotta a un rito vuoto.
 
-## The Church of the Morninglord
-The dominant faith in Barovia worships the deity known as the Morninglord, a god of dawn and renewal. In centuries past, with the sun always hidden behind overcast skies, the people’s faith had slowly slipped into empty ritual. 
+Con il risveglio di Strahd, però, un'ondata di disperazione ha travolto la valle, e con essa una vena di risveglio religioso. Soprattutto a Vallaki c'è stato un forte aumento di fedeli in cerca di speranza, di conforto e di un senso di sicurezza nella fede dei padri. Padre Lucian Petrovich, sacerdote della Chiesa di Sant'Andral a Vallaki, fa quello che può per predicare la grazia del Signore del Mattino, come descritto in <span class="citation">N1. Chiesa di Sant'Andral (p. 97)</span>, ma perfino lui nutre in silenzio dei dubbi su quanto possa arrivare quella protezione.
 
-With Strahd newly awoken, however, a wave of despair has swept across the valley—and, with it, a streak of religious revivalism. Vallaki in particular has seen a dramatic expansion in worshippers seeking hope, comfort, and a sense of security from the faith of their forefathers. Father Lucian Petrovich, the priest of St. Andral’s Church in Vallaki, does what he can to preach the Morninglord’s grace, as described in <span class="citation">N1. St. Andral’s Church (p. 97)</span> but even he has his quiet doubts about how far that protection can go.
-
-> [!lore]+ **The Names of the Gods**
+> [!lore]+ **I nomi degli dèi**
 >
-> In *Forgotten Realms* lore, "Morninglord" is the epithet of Lathander, the greater god of dawn and renewal. However, no canonical deity has the epithet "Mother Night," leaving her true name a mystery.
+> Nell'ambientazione dei *Forgotten Realms*, «Signore del Mattino» è l'epiteto di Lathander, la divinità maggiore dell'alba e del rinnovamento. Nessuna divinità canonica, invece, ha l'epiteto «Madre Notte», e il suo vero nome resta un mistero.
 >
-> Mother Night's identity is, admittedly, irrelevant to the narrative of this campaign. However, her divine portfolio—including witches, foresight, nocturnal beasts, and lycanthropes—most closely matches that of Shar, the *Forgotten Realms*' greater god of trickery and death. Known also as the "Mistress of the Night," Shar was the creator of the Shadowfell, the realm in which Barovia—and all the Demiplanes of Dread—now reside.
+> L'identità di Madre Notte, va ammesso, non conta per la storia di questa campagna. I suoi domini divini però, che comprendono streghe, preveggenza, bestie notturne e licantropi, corrispondono soprattutto a quelli di Shar, la divinità maggiore dell'inganno e della morte dei *Forgotten Realms*. Nota anche come «Signora della Notte», Shar ha creato la Coltre Oscura, il regno in cui ora si trovano Barovia e tutti i Semipiani del Terrore.
 
-## The Coven of Mother Night
-Though most Barovians worship the Morninglord in public, a precious few scorn his faith and instead turn their worship to Mother Night, seeking safety, power, or simple vengeance. Witches and werewolves comprise the bulk of Mother Night’s followers, though some ordinary Barovians build secret shrines to her, joining in profane fellowship with the creatures of night.
-## The Cult of Ezra
-Some Barovians are neither wholly satisfied with the faith of the Morninglord nor depraved enough to seek the blessings of Mother Night. In their eyes, the Morninglord is a powerless or craven deity, unable to save his own worshippers or even raise a single sunrise, while Mother Night is a cruel and savage being, too dangerous to acknowledge or worship.
+## La congrega di Madre Notte
+La maggior parte dei baroviani adora in pubblico il Signore del Mattino, ma pochissimi disprezzano la sua fede e rivolgono invece le loro preghiere a Madre Notte, in cerca di sicurezza, di potere o semplicemente di vendetta. Le streghe e i lupi mannari sono il grosso dei seguaci di Madre Notte, ma alcuni baroviani comuni le costruiscono santuari segreti, unendosi in una fratellanza profana con le creature della notte.
+## Il culto di Ezra
+Alcuni baroviani non sono del tutto soddisfatti della fede nel Signore del Mattino, ma nemmeno abbastanza depravati da cercare le benedizioni di Madre Notte. Ai loro occhi il Signore del Mattino è un dio impotente o vigliacco, incapace di salvare i suoi fedeli o anche solo di far sorgere il sole una volta, mentre Madre Notte è un essere crudele e selvaggio, troppo pericoloso da riconoscere o da adorare.
 
-These Barovians walk a middle path, and instead worship Ezra, the Mistwalker: the god of the Mists, or—as some suggest—the embodiment of the Mists themselves. (See <span class="citation">Ezra, God of the Mists, Van Richten's Guide to Ravenloft at p. 64</span>, for more information.) 
+Questi baroviani seguono una via di mezzo e adorano invece Ezra, la Viandante delle Nebbie: la dea delle Nebbie o, come qualcuno sostiene, l'incarnazione stessa delle Nebbie. (Per saperne di più, vedi <span class="citation">Ezra, divinità delle Nebbie, Guida di Van Richten a Ravenloft, p. 64</span>.)
 
-In Barovia, the followers of Ezra preach that power is an illusion, and suffering life’s only constant. Many believe that tales of the sun are myths, and that Barovia has neither past nor future: only an unceasing present that must be forever endured.
+A Barovia i seguaci di Ezra predicano che il potere è un'illusione e la sofferenza l'unica costante della vita. Molti credono che i racconti sul sole siano leggende, e che Barovia non abbia né passato né futuro: solo un presente senza fine da sopportare per sempre.
 
-Lady Fiona Wachter of Vallaki is a quiet worshipper of Ezra, as are her followers. Many turn to Ezra for comfort in times of tragedy, finding it easier to believe that hope is an illusion than to believe that it may be attained and then lost. 
+Lady Fiona Wachter di Vallaki adora Ezra in segreto, come i suoi seguaci. Molti si rivolgono a Ezra per trovare conforto nelle disgrazie, perché è più facile credere che la speranza sia un'illusione che credere di poterla raggiungere e poi perderla.
 
-Few, however, suspect the horrible truth: that “Ezra” does not, and has never existed—and that her soothing voice is merely a simulacrum conjured by the twisted whispers of the Dark Powers themselves.
-## The Faith of the Ladies Three
-In Soldav, the hidden bastion of the Mountain Folk, the people still keep to the old faith of the Ladies of the Fanes: the Weaver, the Seeker, and the Huntress. They do their best to honor their goddesses with offerings of food, flowers, and song, but mourn the loss of knowledge and tradition that came when the druids betrayed their faith for Strahd’s protection. They no longer remember the sacred rites that once bound their ancestors to the Ladies’ fellowship, nor do they remember the secrets of the Ladies’ blessings.
+Pochi però sospettano l'orribile verità: «Ezra» non esiste e non è mai esistita, e la sua voce rassicurante è soltanto un simulacro evocato dai sussurri contorti dei Poteri Oscuri stessi.
+## La fede delle Tre Dame
+A Soldav, il rifugio nascosto del Popolo della Montagna, la gente resta fedele all'antica religione delle Dame dei Templi: la Tessitrice, il Cercatore e la Cacciatrice. Cerca di onorare le sue dee con offerte di cibo, fiori e canti, ma piange la perdita di conoscenze e tradizioni che seguì il tradimento dei druidi, che rinnegarono la loro fede in cambio della protezione di Strahd. Non ricorda più i riti sacri che un tempo univano i suoi antenati alle Dame, né i segreti delle loro benedizioni.
 
-The Mountain Folk still remember, though, that the Weaver’s holy place was the Swamp Fane, near the ruined town on the shores of the Luna River; the Huntress's, the Forest Fane, atop Yester Hill; and the Seeker’s, the Mountain Fane, in a western clearing in the valley's woodland basin.
+Il Popolo della Montagna ricorda però che il luogo sacro della Tessitrice era il Tempio della Palude, vicino alla città in rovina sulle rive del fiume Luna; quello della Cacciatrice il Tempio della Foresta, sulla Collina di Yester; e quello del Cercatore il Tempio della Montagna, in una radura a ovest nella conca boscosa della valle.
 
-They remember that the Seeker was a goddess of foresight, prophecy, and storms, her sigil a raven’s eye, ever-searching. They remember that the Weaver was a goddess of resilience, craftsmanship, and care, her sigil a spider’s delicate web. They remember, too, that the Huntress was a goddess of beasts, wild places, and war, her sigil a sharpened wolf’s tooth.
+Ricorda che il Cercatore era una dea della preveggenza, della profezia e delle tempeste, e che il suo emblema era un occhio di corvo, sempre in cerca. Ricorda che la Tessitrice era una dea della resistenza, dell'artigianato e della cura, e che il suo emblema era la delicata tela di un ragno. Ricorda anche che la Cacciatrice era una dea delle bestie, dei luoghi selvaggi e della guerra, e che il suo emblema era un dente di lupo affilato.
 
-Together, this trinity oversaw each life that was born in the valley: the Seeker, forging the threads of fate that would bind them together; the Weaver, spinning those threads into a lush and vibrant tapestry; and the Huntress, cutting each thread at its appointed time, and ushering its soul into death.
-# Design Notes: Lore of Barovia
+Insieme, questa trinità vegliava su ogni vita nata nella valle: il Cercatore forgiava i fili del destino che le avrebbero legate fra loro; la Tessitrice intrecciava quei fili in un arazzo ricco e vivace; la Cacciatrice tagliava ogni filo al momento stabilito e accompagnava l'anima nella morte.
+# Note di progettazione: le leggende di Barovia
 
-***Metaphysics & Magic.*** The original Curse of Strahd module makes clear that the Dark Powers and the vestiges of the Amber Temple are separate entities, and that the evil of the latter gave birth to the former. This guide has intentionally preserved this distinction, aiming to retain the Gothic mystery of Barovia's existence without explaining it to the players outright.
+***Metafisica e magia.*** Il modulo originale *La maledizione di Strahd* chiarisce che i Poteri Oscuri e le vestigia del Tempio d'Ambra sono entità separate, e che il male delle seconde ha dato vita ai primi. Questa guida ha mantenuto di proposito la distinzione, per conservare il mistero gotico dell'esistenza di Barovia senza spiegarlo apertamente ai giocatori.
 
-In doing so, this guide rejects a popular community idea that the Vampyr, one of the vestiges of the Amber Temple, is a "Dark Power" that has locked Barovia away in the mists—and that binding or otherwise defeating Vampyr is necessary to truly lift the "curse of Strahd." While this idea of a hidden "final boss" may be attractive on its face, the addition of a "Bigger Bad" diminishes Strahd by comparison, leaving him a puppet on the strings of a far more powerful villain. 
+Così questa guida rifiuta un'idea molto diffusa nella comunità, secondo cui il Vampyr, una delle vestigia del Tempio d'Ambra, sarebbe un «Potere Oscuro» che ha rinchiuso Barovia nelle nebbie, e che vincolare o sconfiggere in altro modo il Vampyr sia necessario per togliere davvero la «maledizione di Strahd». L'idea di un «boss finale» nascosto può sembrare allettante, ma aggiungere un cattivo più grande sminuisce Strahd al confronto, riducendolo a un burattino nelle mani di un nemico molto più potente.
 
-Strahd is not the villain of *Curse of Strahd* because he is powerful; he is the villain because he is a cruel, prideful, and deeply personal antagonist. To remove him as the final boss of his own campaign would both weaken the tragic themes that underly it and, more importantly, cheapen the relationship that the players have developed with him throughout the course of the adventure.
+Strahd non è il cattivo de *La maledizione di Strahd* perché è potente; è il cattivo perché è un antagonista crudele, superbo e profondamente personale. Toglierlo dal ruolo di boss finale della sua stessa campagna indebolirebbe i temi tragici che la reggono e, soprattutto, svilirebbe il rapporto che i giocatori hanno costruito con lui nel corso dell'avventura.
 
-***Geography.*** This guide has intentionally preserved the scale of Barovia as described in the original module, rejecting popular community changes that double (or even triple) the distances between settlements. Barovia is intentionally a claustrophobic space; one in which the specter of Strahd and his minions is everpresent. 
+***Geografia.*** Questa guida ha mantenuto di proposito le dimensioni di Barovia descritte nel modulo originale, rifiutando i cambiamenti diffusi nella comunità che raddoppiano (o perfino triplicano) le distanze fra gli insediamenti. Barovia è di proposito uno spazio claustrofobico, in cui lo spettro di Strahd e dei suoi servitori è sempre presente.
 
-More practically, the module's fast-paced narrative requires short travel times between points of interest to ensure that the players are never far from their next destination. While some may be tempted to increase travel times nonetheless in order to force the players to camp on the road, it's worth noting that nocturnal random encounters are rarely valuable in advancing the story. *Curse of Strahd: Reloaded* is intentionally a Gothic action-adventure campaign, rather than a survival-horror one, because the *Dungeons & Dragons* system is a poor home for scarcity mechanics—and because most players would rather feel like heroes than survivalists.
+In termini pratici, poi, la trama serrata del modulo richiede tempi di viaggio brevi fra i luoghi importanti, perché i giocatori non siano mai lontani dalla meta successiva. Qualcuno potrebbe essere tentato di allungare comunque i viaggi per costringere i giocatori ad accamparsi lungo la strada, ma gli incontri casuali notturni raramente fanno avanzare la storia. *Curse of Strahd: Reloaded* è di proposito una campagna d'azione e d'avventura gotica, non un survival horror, perché il sistema di *Dungeons & Dragons* si presta male alle meccaniche di scarsità, e perché la maggior parte dei giocatori preferisce sentirsi un eroe piuttosto che un sopravvissuto.
 
-***Cultures.*** The changes to Barovian history are discussed in further detail in **History of Barovia** below. In Vallaki, Izek Strazni now has a small number of local spies to explain why—in a town where all guards have been assigned to patrol the walls—the Baron is so easily able to find and prosecute individuals for "malicious unhappiness." Secondly, the First Folk have been included to provide a shared backstory for the mad druids of Yester Hill and the berserkers of the Balinok Mountains.
+***Popoli.*** I cambiamenti alla storia di Barovia sono discussi più nel dettaglio in **Storia di Barovia**. A Vallaki, Izek Strazni ora ha un piccolo numero di spie locali, per spiegare come mai, in una città dove tutte le guardie sono di pattuglia sulle mura, il barone riesca a trovare e perseguire così facilmente chi si macchia di «scontento malevolo». Inoltre il Primo Popolo è stato aggiunto per dare una storia comune ai druidi folli della Collina di Yester e ai berserker dei Monti Balinok.
 
- ***Factions.*** More information about the Dark Powers' relationship with Strahd von Zarovich and Ireena Kolyana is discussed in **Chapter 3: Running the Game.** The deceased wereraven, Elric, has been added to the Keepers of the Feather to explain why Baba Lysaga and the druids of Yester Hill have suddenly discovered the society's existence. 
+***Fazioni.*** Il rapporto dei Poteri Oscuri con Strahd von Zarovich e con Ireena Kolyana è discusso più a fondo in **Capitolo 3: Condurre il gioco**. Il corvo mannaro morto, Elric, è stato aggiunto ai Custodi della Piuma per spiegare perché Baba Lysaga e i druidi della Collina di Yester abbiano scoperto all'improvviso l'esistenza della società.
 
-Meanwhile, the Barovian refugees have been added outside of Vallaki's walls to give Ireena a non-selfish reason to travel to Vallaki (i.e., to aid the refugees in relocating from Barovia); to explain why the village of Barovia is a hollow, empty town; and to provide Fiona Wachter with victims to offer Strahd on the night of the Vallakian "Blood Tax," which provides the players a critical opportunity to infiltrate Castle Ravenloft while Strahd is not present.
+I profughi baroviani sono stati aggiunti fuori dalle mura di Vallaki per dare a Ireena un motivo non egoistico per andare a Vallaki (cioè aiutare i profughi a trasferirsi da Barovia), per spiegare perché il villaggio di Barovia sia un paese vuoto e svuotato, e per dare a Fiona Wachter delle vittime da offrire a Strahd la notte della «Tassa di sangue» di Vallaki, che offre ai giocatori un'occasione cruciale per infiltrarsi nel Castello di Ravenloft mentre Strahd è assente.
 
-The "good" Mountain Folk of Soldav have been added to provide the players with a meaningful opportunity to learn the history of the mad druids of Yester Hill and to hook the players into the Ladies of the Fanes questline—a narrative arc that now plays a key role in Strahd's final plan.
+Il Popolo della Montagna «buono» di Soldav è stato aggiunto per offrire ai giocatori un'occasione concreta di scoprire la storia dei druidi folli della Collina di Yester e per agganciarli alla serie di missioni delle Dame dei Templi, un arco narrativo che ora ha un ruolo chiave nel piano finale di Strahd.
 
-Finally, the recent history of the werewolf pack has been updated to tie more strongly into the narrative of Strahd's recent reawakening, while the amber vestiges have been given "amber shards" to introduce players to their corruption on a much earlier timescale than the original module.
+Infine, la storia recente del branco di lupi mannari è stata aggiornata per legarla più strettamente al recente risveglio di Strahd, mentre alle vestigia d'ambra sono stati dati i «frammenti d'ambra», per far conoscere ai giocatori la loro corruzione molto prima che nel modulo originale.
 
-***Religions.*** The cult of Ezra has been added to the campaign to provide additional depth to Fiona Wachter’s characterization and to foreshadow the true nature of the Dark Powers before Ireena meets and defies them at the climax of her character arc.
+***Religioni.*** Il culto di Ezra è stato aggiunto alla campagna per dare più spessore al personaggio di Fiona Wachter e per anticipare la vera natura dei Poteri Oscuri prima che Ireena li incontri e li sfidi al culmine del suo arco narrativo.
 
-<sup>1</sup> Barovian Calendar, *The Travelogue Wiki*, https://travelogue.fandom.com/wiki/Barovian_Calendar (last visited Mar. 29, 2024).
+<sup>1</sup> Barovian Calendar, *The Travelogue Wiki*, https://travelogue.fandom.com/wiki/Barovian_Calendar (consultato il 29 marzo 2024).

@@ -1355,7 +1355,7 @@ Un giocatore che lo chiede a Varushka o supera una prova di Saggezza (Intuizione
 * «Lui ti ha tolto tanto. Questo è ciò che ti spetta.»
 
 > [!lore]+ **Sussurri oscuri**
-> Le ombre che sussurrano sono una manifestazione dei [[Lore of Barovia#Dark Powers|Poteri Oscuri]]. Ansiosi di sottrarre Ireena Kolyana all'influenza e alla protezione dei giocatori, si sono allungati ad abbracciare lo spirito di Varushka per dissuaderla dal lasciare che i giocatori fuggano dal suo Incubo.
+> Le ombre che sussurrano sono una manifestazione dei [[Lore of Barovia#Poteri Oscuri|Poteri Oscuri]]. Ansiosi di sottrarre Ireena Kolyana all'influenza e alla protezione dei giocatori, si sono allungati ad abbracciare lo spirito di Varushka per dissuaderla dal lasciare che i giocatori fuggano dal suo Incubo.
 
 I giocatori possono cercare di nuovo di convincere Varushka a liberarli con un qualunque argomento ragionevole e una prova di Carisma (Persuasione) con CD 15 superata. La prova si fa con svantaggio se i giocatori hanno fallito la prima prova di Carisma (Persuasione). Altrimenti la prova si fa con vantaggio se gli argomenti dei giocatori ribattono direttamente ai sussurri dei Poteri Oscuri, e riesce automaticamente se i giocatori mostrano a Varushka la lettera di Katarina o ne riferiscono il contenuto.
 

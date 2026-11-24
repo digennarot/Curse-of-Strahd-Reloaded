@@ -450,7 +450,7 @@ Un giocatore che lo chiede all'Abate, o che ha un punteggio passivo di Saggezza 
 Se i giocatori lo affrontano, l'Abate risponde con voce tremante: «È troppo tardi. Ho tradito il mio scopo e rinnegato la mia grazia. Non so ritrovare la strada verso la luce, e anche se ci riuscissi il Signore del Mattino non mi vorrebbe».
 
 > [!lore]+ **Sussurri oscuri**
-> Le ombre che sussurrano sono una manifestazione dei [[Lore of Barovia#Dark Powers|Poteri Oscuri]], che molto tempo fa trascinarono lo spirito dell'Abate nel male perché non sfidasse Strahd e non guarisse la terra dalla sua corruzione.
+> Le ombre che sussurrano sono una manifestazione dei [[Lore of Barovia#Poteri Oscuri|Poteri Oscuri]], che molto tempo fa trascinarono lo spirito dell'Abate nel male perché non sfidasse Strahd e non guarisse la terra dalla sua corruzione.
 
 Quando l'Abate ha finito di protestare, un'altra nube di nebbia, poco distante dalla prima, si solleva per un istante nella sagoma di una donna in tunica, prima che le ombre vorticanti la facciano a brandelli. Un giocatore con un punteggio passivo di Saggezza (Percezione) pari o superiore a 13 nota che la figura sembrava tendere una mano verso i giocatori e chiamare qualcuno. Un giocatore che ha visto il volto e ha un punteggio passivo di Saggezza (Intuizione) pari o superiore a 13 capisce che aveva un'espressione di dolore e di preoccupazione.
 

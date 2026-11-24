@@ -98,7 +98,7 @@ La scena si svolge più o meno come descritto in <span class="citation">Avvicina
 
 ![[Ismark.png]]
 <span class="credit">«Ismark Kolyanovich» di Caleb Cleveland. Sostienilo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-L'uomo è Ismark Kolyanovich, più o meno come descritto in <span class="citation">E2. Taverna Sangue della Vite (p. 43)</span>. Il corvo è Muriel, un **corvo mannaro** sotto mentite spoglie e membro dei [[Lore of Barovia#Keepers of the Feather|Custodi della Piuma]]. Due **esploratori** armati di balestra leggera (+4 al tiro per colpire, gittata 24/96 m, un bersaglio, *Colpito:* 6 (1d8 + 2) danni perforanti), di nome Kereza e Korga, fanno la guardia sui tetti vicini, mentre sei **popolani** baroviani riparano la barricata.
+L'uomo è Ismark Kolyanovich, più o meno come descritto in <span class="citation">E2. Taverna Sangue della Vite (p. 43)</span>. Il corvo è Muriel, un **corvo mannaro** sotto mentite spoglie e membro dei [[Lore of Barovia#Custodi della Piuma|Custodi della Piuma]]. Due **esploratori** armati di balestra leggera (+4 al tiro per colpire, gittata 24/96 m, un bersaglio, *Colpito:* 6 (1d8 + 2) danni perforanti), di nome Kereza e Korga, fanno la guardia sui tetti vicini, mentre sei **popolani** baroviani riparano la barricata.
 
 > [!profile]+ **Profilo: Ismark Kolyanovich**
 >
