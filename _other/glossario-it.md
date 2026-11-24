@@ -747,6 +747,35 @@ Piani del castello: 1F pianterreno, 2F primo piano, 3F secondo piano, 4F terzo p
 | *cape of the mountebank* / *pearl of power* / *driftglobe* | *mantella del ciarlatano* / *perla del potere* / *globo fluttuante* | |
 | *stone of good luck* | *pietra della fortuna* | |
 
+### Arco Q
+
+Aree: Q1 Fuga da Ravenloft (Q1a Il braciere del teletrasporto, Q1b Il Pilastro, Q1c Il ponte levatoio); Q2 La supplica di Dmitri (Q2a Un presagio oscuro, Q2b La Vecchia Strada di Svalich: Viaggio a Vallaki, La guardia dei corvi, L'imboscata dei lupi, Arrivo a Vallaki; Viaggio a Krezk); Q3 Ritorno a Krezk (Q3a Ritorno all'Abbazia: La porta nord, Il cortile; Q3b Il confronto con l'Abate; Q3c L'ira dell'Abate: La redenzione dell'Abate, La penitenza dell'Abate; Q3d La gratitudine di Santa Markovia: Il dono di Markovia, La purificazione del Sole Bianco); Q4 L'avvertimento del revenant; Q5 L'attacco del branco (Q5a Arriva il branco, Q5b La sfida di Kiril, Q5c Kiril sconfitto); Q6 Ritorno ad Argynvostholt (Q6a Ritorno all'atrio, Q6b Ritorno al cimitero, Q6c Il ritorno di Argynvost); Q7 Ritorno alla tana dei lupi mannari.
+
+Aree del libro: S4 Stagno e santuario; Q3 Atrio del drago; Q13 Cappella del Mattino; Q15 Cimitero; Q16 Mausoleo del drago; Q36 Sala delle udienze del drago; Z6 Grotta di Kiril; Z7 Santuario di Madre Notte; Leader of the Pack → Il capobranco; Lighting the Beacon → Accendere il faro; Moving a Grappled Target → Spostare un bersaglio afferrato; High Jump → Salto in alto.
+
+| Inglese | Italiano | Note |
+|---|---|---|
+| Ithuriel, the Dawnbringer / the Fallen Star | Ithuriel, il portatore dell'alba / la stella caduta | profili dell'Abate |
+| Fallen Grace / Ray of Light / Change Shape | Grazia perduta / Raggio di luce / Cambiare forma | |
+| Divine Wind / Sacred Radiance / Punish / Palm | Vento divino / Radiosità sacra / Punizione / Palmo | |
+| Descend / Ascend / Shift | Discesa / Ascesa / Mutamento | |
+| Erupt Earth / Eclipse Beam / Radiant Darts / Wings | Eruzione di terra / Raggio d'eclissi / Dardi radiosi / Ali | |
+| Frightful Presence / Magic Resistance / Magic Weapons | Presenza terrificante / Resistenza alla magia / Armi magiche | |
+| *commune* / *raise dead* / *beacon of hope* | *comunione* / *rianimare morti* / *faro di speranza* | |
+| shard of divinity | frammento di divinità | dentro l'*Icona* |
+| Water of the White Sun | Acqua del Sole Bianco | |
+| Four of Glyphs: the Shepherd | Quattro di Glifi: il Pastore | |
+| pegasus / unicorn | pegaso / unicorno | |
+| bloodlust (Kiril) | sete di sangue | livelli |
+| Kiril: Werewolf Alpha / Mutant Lycan | lupo mannaro alfa / licantropo mutante | |
+| Alpha's Howl / Savage Frenzy / Pounce / Lash Out / Maul | Ululato dell'alfa / Frenesia selvaggia / Balzo / Sferzata / Dilaniare | prima fase |
+| Swallow / Corrupted Miasma / Shadow Beam / Leap / Devour / Pin | Inghiottire / Miasma corrotto / Raggio d'ombra / Balzo feroce / Divorare / Atterramento | seconda fase |
+| the Black Terror / Kellen | il Terrore Nero / Kellen | |
+| little morsel / mice (Kiril) | bocconcino / topolini | |
+| "Your watch is ended." | «La tua veglia è finita.» | |
+
+Collegamenti al Capitolo 2: finché *History of Barovia* e *Lore of Barovia* non sono tradotti, i link puntano alle intestazioni inglesi (`#The Founding Era (1 BC–345 BC)`, `#Birth of Barovia`, `#Dark Powers`) con alias italiano; vanno aggiornati quando si traducono quei titoli.
+
 ### Personaggi non giocanti (profili finali)
 
 Titoli dei profili: Rahadin, Amber-Touched → Rahadin, toccato dall'ambra; Baba Lysaga, Witch Mother / Of the Swamp → Baba Lysaga, madre delle streghe / signora della palude; Creeping Hut → Capanna strisciante. Nelle intestazioni dei profili si scrive sempre *Punti Ferita*.
