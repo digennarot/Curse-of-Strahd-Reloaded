@@ -501,6 +501,30 @@ Titoli dei capitoli (alias nei link; i nomi dei file restano in inglese): Using 
 | player triggers | temi sensibili per i giocatori | |
 | sandbox / actual play / RAW | invariati (gergo) | RAW = regole alla lettera |
 
+### History of Barovia
+
+Ere e sezioni: The Ancient Era → L'era antica; Origins of the Valley → Le origini della valle; Fall of the First Folk → La caduta del Primo Popolo; The Founding Era → L'era della fondazione; The Von Zarovich Line → La stirpe dei Von Zarovich; Arrival of the Outsiders → L'arrivo degli stranieri; The Era of Blood → L'era del sangue; Birth of Barovia → La nascita di Barovia; Rise of Castle Ravenloft → L'ascesa del Castello di Ravenloft; Strahd Becomes the Land → Strahd diventa la terra; Arrival of the Mists → L'arrivo delle Nebbie; The Dark Era → L'era oscura; Aftermath of the Wedding → Dopo le nozze; Ghosts of the Past → I fantasmi del passato; Strahd's First Followers → I primi seguaci di Strahd; Passage Into History → Il passaggio alla storia; The Decades Pass → Passano i decenni; The Dormant Era → L'era dormiente; Echoes of Evil → Echi del male; A New Generation → Una nuova generazione; Strahd's Return → Il ritorno di Strahd; Strahd's Awakening → Il risveglio di Strahd; Master of Castle Ravenloft → Il signore del Castello di Ravenloft; The Darkened Valley → La valle oscurata; The Wrath of Strahd → L'ira di Strahd.
+
+| Inglese | Italiano | Note |
+|---|---|---|
+| B.U. (Before Unification) | P.U. (Prima dell'Unificazione) | anni senza separatore delle migliaia: 3000 P.U. |
+| the Seeker / the Devourer | il Cercatore / il Divoratore | ⚠ maschile per coerenza con gli Atti I–III, anche se sono dee |
+| Wild Hunt | Caccia Selvaggia | |
+| *Bloodthorn* | *Spinasangue* | ⚠ lancia di Kavan |
+| Most High Priest | Sommo Sacerdote | |
+| *moonblade* | *lama lunare* | |
+| the Devil Strahd | il Diavolo Strahd | |
+| Beucephalus, the Wonder-Horse | Beucephalus, il Cavallo Prodigio | |
+| Cult of Chernovog | Culto di Chernovog | |
+| *mist talisman* | *talismano delle nebbie* | |
+| *teleportation circle* | *cerchio di teletrasporto* | |
+| Amber Sarcophagi / The Vampire's History / Tormented Spirit | Sarcofagi d'ambra / La storia del vampiro / Spirito tormentato | citazioni |
+| Saint Markovia's Thighbone / Journal of Rudolph van Richten | Il femore di Santa Markovia / Il diario di Rudolph van Richten | citazioni |
+| Teleport Traps / Goat Pen / Giant Skull / Find Rudolph van Richten | Trappole di teletrasporto / Recinto delle capre / Teschio di gigante / Trovare Rudolph van Richten | citazioni |
+| U6. Standing Stones | U6. Menhir | ⚠ |
+| X20. Architect's Room / K6. Overlook | X20. Stanza dell'architetto / K6. Belvedere | |
+| *Expedition to Castle Ravenloft* / *Van Richten's Guide to the Vistani* | titoli lasciati in inglese | |
+
 ## Appendici
 
 ### Glossary e Amber Shards

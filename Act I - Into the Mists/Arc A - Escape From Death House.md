@@ -12,7 +12,7 @@ Appena entrati, i giocatori restano intrappolati e vengono a sapere che un mostr
 Se i giocatori uccidono il mostro, la casa comincia a crollare e li costringe a fuggire prima di restare sepolti sotto le macerie. Quando ne escono, il paesaggio intorno a loro è cambiato: sono stati trasportati nella terra oscura di Barovia.
 
 > [!lore]+ **La storia della Casa della Morte**
-> Il racconto completo della macabra storia della Casa della Morte è in [[History of Barovia#Strahd’s First Followers|I primi seguaci di Strahd]].
+> Il racconto completo della macabra storia della Casa della Morte è in [[History of Barovia#I primi seguaci di Strahd|I primi seguaci di Strahd]].
 
 > [!info]+ **Modulo Foundry per l'Arco A**
 > Vuoi un modulo Foundry già pronto per ***Arco A: Fuga dalla Casa della Morte***? Scarica [qui](https://github.com/Eidolon-Publishing/cosrl-escape-from-death-house/releases/latest/download/module.json) il manifest del modulo ufficiale di Reloaded pubblicato da Eidolon Publishing!
