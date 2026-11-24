@@ -9,7 +9,7 @@ I frammenti non contengono l'essenza intera delle vestigia, ma ognuno conserva u
 > * dopo aver svaligiato il tesoro del Castello di Ravenloft nell'[[Arc P - Ravenloft Heist|Arco P: Il colpo a Ravenloft]] (vedi [[#Il Grande Taar Haak, il Distruttore dalle Cinque Teste]]);
 > * seguendo Scorilo se perde la gara di vanterie nell'[[Arc R - Trials of the Mountain|Arco R: Le prove della montagna]] (vedi [[#Zrin-Hala, la Tempesta Ululante]]);
 > * dopo aver sconfitto i bodak nell'[[Arc R - Trials of the Mountain|Arco R: Le prove della montagna]] (vedi [[#Sykane, il Divoratore di Anime]]);
-> * nella [[Arc R - Trials of the Mountain#The Cave of Daggers|Grotta dei Pugnali]] (vedi [[#Yog l'Invincibile]]);
+> * nella [[Arc R - Trials of the Mountain#La Grotta dei Pugnali|Grotta dei Pugnali]] (vedi [[#Yog l'Invincibile]]);
 > * dal **nothic** Meda nell'[[Arc S - A Sword of Sunlight|Arco S: Una spada di luce solare]] (vedi [[#Khirad, la Stella dei Segreti]]).
 > 
 > Non aggiungere però altri frammenti da far trovare ai giocatori.

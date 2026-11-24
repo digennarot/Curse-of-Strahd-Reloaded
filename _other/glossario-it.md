@@ -850,3 +850,52 @@ Titoli dei profili: Rahadin, Amber-Touched → Rahadin, toccato dall'ambra; Baba
 | Swarm / Insect Shield / Swampwalk | Sciame / Scudo di insetti / Passo della palude | Baba Lysaga |
 | Stolen Gem / Root / Throw / Rock | La gemma rubata / Radice / Lancio / Masso | Capanna strisciante |
 | Parry / Riposte / Haunt / Swift Step | Parata / Risposta / Tormento / Passo rapido | Rahadin |
+
+## Atto IV
+
+### Arco R
+
+Aree: R1 Reclutare Kasimir; R2 La discesa del Tiranno (R2a La vendetta del barone, R2b Il signore di Barovia: La discesa di Strahd, La sfida di Strahd); R3 La cittadina di Vallaki (R3a Comprare abiti per il freddo, R3b La prima prova del Tiranno: Il saluto di Strahd, L'ostaggio, L'orda, La tempesta, Lo sciame, Il pipistrello, Il comando, Il visitatore; Il gioco di Strahd; La punizione di Strahd); R4 Il Passo di Tsolenka (R4a La partenza, R4b La vendetta dei druidi, R4c Il monumento, R4d La tormenta: Cercare riparo, Avanzare nella tormenta; R4e Il corpo di guardia; R4f La seconda prova del Tiranno: L'arrivo di Strahd, Le domande di Strahd, La sfida di Strahd, La partita; R4g Il cavaliere sul ponte; R4h Il crocevia di montagna; R4i La valanga; R4j La tana dei bodak: Il bivio, Il cumulo di rifiuti, La stanza del rimpianto, Il santuario d'ambra, Il nido occidentale, Il nido orientale; R4k Le grotte di ghiaccio: La cripta ghiacciata, La Grotta dei Pugnali); R5 Soldav (R5a Le cascate gemelle: Il santuario, I toccati dall'ambra, L'adunata di Como; R5b La galleria; R5c Dentro Soldav; R5d La casa lunga della capo: Kaldur attacca!, Le domande di Oroles, L'invito di Diegia; R5e La Notte dei Cieli Sereni: Il Custode delle Voci, La gara di vanterie, La convocazione di Burebis; R5f Il Santuario delle Rozana: Entrare nel santuario, Che cosa sa Burebis, La richiesta di Burebis; R5g Il mattino a Soldav); R6 Il Monte Ghakis (R6a La prova di Sangzor, R6b Il Tempio d'Ambra).
+
+Aree del libro: N5 Recinto di Arasek; N9a Catapecchia di Kasimir; Q11 Cantina; K37 Studio; E4 / N3 Villa del borgomastro; E5 Chiesa; S3 Villaggio di Krezk; S19 Caserma; Z8 Anello di pietra; V2 Porta della torre; Mappa di Barovia; Capitolo 9 (T1 Saracinesca del corpo di guardia, T2 Statue di demoni, T3 Cortina di fiamme verdi, T4 / T5 Torre di guardia, pianterreno / piano superiore, T6 Tetto della torre di guardia, T7 Arco occidentale, T8 Ponte di pietra, T9 Arco orientale); Bloodhorn's Charge → La carica di Corno Insanguinato ⚠; Giant Skull → Teschio di gigante; X1 Facciata del tempio; X42 Cripta d'ambra. Manuali: Chases → Inseguimenti; strong winds / thin ice / slippery ice / frigid water → venti forti / ghiaccio sottile / ghiaccio scivoloso / acqua gelida; Suffocating → Soffocamento; Underwater Combat → Combattimento sott'acqua; Travel Pace → Andatura di viaggio.
+
+| Inglese | Italiano | Note |
+|---|---|---|
+| persuasion die | dado della persuasione | |
+| Gentleman / Tyrant (persone di Strahd) | il Gentiluomo / il Tiranno | |
+| Soldier / Mage / Vampire phase | fase del Soldato / del Mago / del Vampiro | |
+| forfeit (gioco di Strahd) | perdere a tavolino | |
+| Combat Level: Brutal | brutale | |
+| snow maiden / snow peryton | fanciulla delle nevi / peryton delle nevi | ⚠ |
+| winter wolf packleader | lupo invernale capobranco | |
+| forsaken soldier | soldato abbandonato | ⚠ |
+| elder shoosuva / barlgura / armanite / bodak / vrock | shoosuva anziano / barlgura / armanite / bodak / vrock | |
+| aura of annihilation / death gaze / withering gaze | aura di annientamento / sguardo mortale / sguardo avvizzente | bodak |
+| Fetid Cloud / Swipe / Running Leap | Nube fetida / Zampata / Salto con rincorsa | |
+| ironblood pendant | *pendente di sangue di ferro* | ⚠ |
+| *amber shard of the Vampyr / of Yog / of Sykane / of Zrin-Hala* | *frammento d'ambra del Vampyr / di Yog l'Invincibile / di Sykane / di Zrin-Hala* | |
+| *ring of warmth* / *horn of silent alarm* | *anello del calore* / *corno dell'allarme silenzioso* | |
+| *whistle of the Keepers* | *fischietto dei Custodi* | vedi *Keeper's whistle* |
+| *Charm of the Seeker's Familiar* | *Incanto del famiglio del Cercatore* | ⚠ |
+| Roc of Mt. Ghakis / Turul | Roc del Monte Ghakis / Turul | |
+| Hidden Fangs / deathless nature / vampiric bite | Zanne nascoste / natura senza morte / morso vampirico | dhampir |
+| *Leomund's tiny hut* / *Mordenkainen's private sanctum* | *rifugio di Leomund* / *santuario privato di Mordenkainen* | |
+| *wind wall* / *telekinesis* / *modify memory* / *zephyr strike* | *muro di vento* / *telecinesi* / *modificare memoria* / *colpo di zefiro* | |
+| He Who Calls the Lightning / Ravensbane | Colui che chiama il fulmine / Flagello dei Corvi | ⚠ |
+| the Great Shadow / the Horned King / Horned Scourge | la Grande Ombra / il Re Cornuto / il Flagello Cornuto | ⚠ |
+| Gray Twins | Gemelli Grigi | |
+| Tauta / Girvisa / Sarmizegetusa / Soldav | invariati | Girvisa = «valle fertile» in quest'arco |
+| amber-cursed / amber-touched | maledetti dall'ambra / toccati dall'ambra | |
+| Halls of Amber Shadow | Sale dell'Ombra d'Ambra | |
+| Night of Clear Skies / Keeper of Voices | Notte dei Cieli Sereni / Custode delle Voci | |
+| "Clear skies! Bright stars!" | «Cieli sereni! Stelle lucenti!» | |
+| boasting match | gara di vanterie | |
+| Chief / chieftess Diegia | la capo Diegia | |
+| Elder Burebis | l'anziano Burebis | gigante delle tempeste |
+| Kavan the Merciless | Kavan lo Spietato | |
+| Wolf of Soldav | Lupo di Soldav | Kaldur |
+| giant goat ram attack | *speronata* | ⚠ Sangzor |
+| Alpine Chase Complications | Complicazioni degli inseguimenti in montagna | |
+| Icicle Cascade | cascata di ghiaccioli | |
+
+Misure: 165 libbre = 82,5 kg (1 libbra = 0,5 kg, come nell'edizione italiana). Profondità a dadi: «14 (4d6) × 30 cm di neve».
