@@ -525,6 +525,29 @@ Ere e sezioni: The Ancient Era → L'era antica; Origins of the Valley → Le or
 | X20. Architect's Room / K6. Overlook | X20. Stanza dell'architetto / K6. Belvedere | |
 | *Expedition to Castle Ravenloft* / *Van Richten's Guide to the Vistani* | titoli lasciati in inglese | |
 
+### Lore of Barovia e Strahd von Zarovich
+
+Sezioni di *Lore*: Metafisica e magia; Geografia; Il tempo; Calendario; Popoli (Baroviani, Vallakiani, Krezkiani, Vistani, Elfi del crepuscolo, Primo Popolo); Fazioni (Poteri Oscuri, Custodi della Piuma, Profughi baroviani, Popolo della Foresta, Popolo della Montagna, Le bestie di Barovia, Le spose di Strahd, Le streghe di Madre Notte, Il culto dei Wachter, Il branco di lupi mannari, Le vestigia d'ambra, Le Dame dei Templi); Religioni (La Chiesa del Signore del Mattino, La congrega di Madre Notte, Il culto di Ezra, La fede delle Tre Dame). Mesi gregoriani in minuscolo.
+
+Sezioni di *Strahd*: Interpretare Strahd (Il Gentiluomo, Il Tiranno, Il Mostro); I rapporti di Strahd; Gli obiettivi di Strahd (Riprendersi la valle, Rinnovare i servitori, Fuggire dalle Nebbie); Gli alleati di Strahd; Le tattiche di Strahd (Fasi, Passaggi di fase, Sconfitta, Attributi e debolezze); Le statistiche di Strahd (Il Mago, Il Soldato, Il Vampiro).
+
+| Inglese | Italiano | Note |
+|---|---|---|
+| Shadowfell / Domains of Dread | Coltre Oscura / Domini del Terrore | |
+| Shadowsworn | Giurato all'Ombra | ⚠ nome di Strahd per il Popolo della Montagna |
+| Ezra, the Mistwalker | Ezra, la Viandante delle Nebbie | ⚠ |
+| Blood Tax | Tassa di sangue | |
+| "that is not dead which can eternal lie" | «non è morto ciò che in eterno può attendere» | resa italiana corrente di Lovecraft |
+| multi-phase statblock / phase | profilo a più fasi / fase | |
+| Undead Nature / Forbiddance / Chained to the Grave | Natura non morta / Divieto / Incatenato alla tomba | |
+| Children of the Night / Stake to the Heart | Figli della notte / Paletto nel cuore | |
+| Dominion of the Mountain / Swamp / Forest | Dominio della Montagna / della Palude / della Foresta | |
+| Complex Casting / Battlefield Awareness | Incantesimi complessi / Consapevolezza del campo di battaglia | |
+| Circle of Sickness / Umbral Net / Thunderous Wave / Dark Volley | Cerchio di malattia / Rete d'ombra / Onda tonante / Raffica oscura | |
+| Commander's Retreat / Night's Retreat / Bats' Frenzy / Predator's Fury | Ritirata del comandante / Ritirata notturna / Frenesia dei pipistrelli / Furia del predatore | |
+| *detect thoughts* / *move earth* / *beast sense* / *locate creature* | *individuazione dei pensieri* / *muovere il terreno* / *sensi animali* / *localizza creatura* | |
+| *plant growth* / *control weather* / *call lightning* | *crescita vegetale* / *controllare il tempo atmosferico* / *invocare il fulmine* | |
+
 ## Appendici
 
 ### Glossary e Amber Shards

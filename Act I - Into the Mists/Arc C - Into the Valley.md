@@ -178,7 +178,7 @@ Che Ireena sia con il gruppo o no, aggiungi:
 > 
 > Passati i cinque round, Strahd dice: «Una determinazione notevole, anche se in fondo inutile.» E aggiunge: «Ora vediamo come te la cavi quando comincia il gioco vero.» 
 > 
-> Assunta la sua forma di [[Strahd von Zarovich#The Mage|Mago]], Strahd lancia ogni round ***presa telecinetica*** per tenere il giocatore sospeso in aria sopra di sé e lancia ***cecità/sordità*** come reazione ogni volta che il giocatore effettua contro di lui un attacco in mischia. La prima volta che il giocatore fallisce il tiro salvezza contro ***presa telecinetica***, Strahd dice: «Liberati, se ci riesci.» Poi aggiunge, a voce più bassa: «Ma se non dovessi farcela, basterà una semplice richiesta di pietà per liberarti dalla tua condizione.»
+> Assunta la sua forma di [[Strahd von Zarovich#Il Mago|Mago]], Strahd lancia ogni round ***presa telecinetica*** per tenere il giocatore sospeso in aria sopra di sé e lancia ***cecità/sordità*** come reazione ogni volta che il giocatore effettua contro di lui un attacco in mischia. La prima volta che il giocatore fallisce il tiro salvezza contro ***presa telecinetica***, Strahd dice: «Liberati, se ci riesci.» Poi aggiunge, a voce più bassa: «Ma se non dovessi farcela, basterà una semplice richiesta di pietà per liberarti dalla tua condizione.»
 > 
 > La prima volta che il giocatore supera il tiro salvezza contro ***presa telecinetica***, Strahd applaude la sua tenacia, poi gli chiede se vuole continuare a combattere. (Se il giocatore continua, Strahd combatte con il profilo completo del Mago.)
 > 
@@ -186,7 +186,7 @@ Che Ireena sia con il gruppo o no, aggiungi:
 > 
 > Se il giocatore perde i sensi per la ***presa telecinetica*** di Strahd, lui gli si accovaccia accanto e sussurra: «Hai combattuto con coraggio, ma nemmeno il più grande guerriero può sopravvivere all'inevitabile. Ora riposa, confortato dal sapere di avermi divertito.» Poi si rivolge al resto del gruppo e lo invita a prendersi cura del compagno ferito.
 ## C2b. Comincia la conversazione
-Se nessuno lo distoglie, [[Strahd von Zarovich#The Gentleman|Strahd]] saluta uno per uno i personaggi dei giocatori, per nome se le sue spie hanno avuto modo di scoprirlo e di riferirglielo. Intanto fa un commento personale sulla specie, sulla classe (se si capisce dall'equipaggiamento o dagli abiti) e/o sul carattere (se riferito dalle spie) di ogni personaggio. Se possibile, formula ogni commento come un complimento, un'osservazione comprensiva o (di rado) una minaccia velatissima.
+Se nessuno lo distoglie, [[Strahd von Zarovich#Il Gentiluomo|Strahd]] saluta uno per uno i personaggi dei giocatori, per nome se le sue spie hanno avuto modo di scoprirlo e di riferirglielo. Intanto fa un commento personale sulla specie, sulla classe (se si capisce dall'equipaggiamento o dagli abiti) e/o sul carattere (se riferito dalle spie) di ogni personaggio. Se possibile, formula ogni commento come un complimento, un'osservazione comprensiva o (di rado) una minaccia velatissima.
 
 Se [[Non-Player Characters#Ireena Kolyana|Ireena]] è presente, Strahd chiede poi se «Lady Kolyana» abbia presentato loro come si deve il suo dominio, e si scusa per le «favole» che i suoi sudditi possono aver raccontato su di lui. 
 
@@ -201,7 +201,7 @@ Se i giocatori chiedono del cocchiere, Strahd lo presenta come Escher, «il mio 
 > [!abstract]+ **Chiedere la libertà**
 > Se i giocatori chiedono se sia stato Strahd a intrappolarli di proposito a Barovia, lui lo nega, e dice la verità. Se gli chiedono di liberarli, però, rifiuta. «Perché dovrei liberarvi», dice con un sorriso ironico, «quando mi diverte fare altrimenti?»
 ## C2c. Le domande di Strahd
-Durante la conversazione, nei momenti in cui viene naturale, [[Strahd von Zarovich#The Gentleman|Strahd]] pone ai giocatori queste domande (in qualsiasi ordine):
+Durante la conversazione, nei momenti in cui viene naturale, [[Strahd von Zarovich#Il Gentiluomo|Strahd]] pone ai giocatori queste domande (in qualsiasi ordine):
 
 * «Ismark Kolyanovich mi ha sfidato ostacolando la giustizia che ho amministrato al suo villaggio. Perché io, suo signore, non dovrei punirlo per la sua slealtà?»
 * «Ho reclamato Ireena Kolyana e l'ho marchiata come mia. Perché non dovrei portarla con me al Castello di Ravenloft adesso?»
@@ -213,7 +213,7 @@ Se i giocatori hanno sepolto le ossa di Walter e dato pace agli spiriti della Ca
 
 Strahd pone ognuna di queste domande come un'ipotesi. Facendole ha un tono indagatore, curioso e almeno un po' divertito. Se i giocatori si scoraggiano all'idea stessa di rispondere, Strahd osserva: «Non sono un uomo irragionevole. Se c'è una ragione o un motivo che mi è sfuggito, illuminatemi pure.»
 ## C2d. Le concessioni di Strahd
-Mentre i giocatori cercano di rispondere alle sue domande, [[Strahd von Zarovich#The Gentleman|Strahd]] si diverte a fare l'avvocato del diavolo, contesta le loro risposte e sonda i buchi nei loro ragionamenti. Alla fine, però, se gli argomenti dei giocatori sono almeno ragionevolmente validi, Strahd è disposto ad accettarli. (Dovrebbe essere abbastanza chiaro ai giocatori, però, che accettando le loro risposte li sta solo assecondando.)
+Mentre i giocatori cercano di rispondere alle sue domande, [[Strahd von Zarovich#Il Gentiluomo|Strahd]] si diverte a fare l'avvocato del diavolo, contesta le loro risposte e sonda i buchi nei loro ragionamenti. Alla fine, però, se gli argomenti dei giocatori sono almeno ragionevolmente validi, Strahd è disposto ad accettarli. (Dovrebbe essere abbastanza chiaro ai giocatori, però, che accettando le loro risposte li sta solo assecondando.)
 
 I giocatori possono spingere Strahd a fare queste concessioni:
 

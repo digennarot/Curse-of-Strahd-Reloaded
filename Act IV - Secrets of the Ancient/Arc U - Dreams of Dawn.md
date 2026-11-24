@@ -873,7 +873,7 @@ A player who inspects the castle’s surroundings from outside the tower can con
 > | 6 | Increase Strahd's hit points in each phase to 373. <ul><li> In his first phase, increase his ***multiattack*** to either two attacks with ***Vampiric Touch*** or one attack of ***Vampiric Touch*** and two uses of ***Telekinetic Grasp***. Increase the damage of his ***Lightning Bolt*** and ***Circle of Sickness*** to 9d6 damage. Increase the damage of his ***Blindness/Deafness*** reaction to 2d8. </li><li> In his second phase, increase his ***Longsword*** attack to 1d10+5 slashing damage and 2d8 necrotic damage. Increase the damage of his ***Umbral Net*** to 2d8. Increase the damage of his ***Thunderous Wave*** to 3d10. Increase the damage of his ***Dark Volley*** to 4d10. </li><li> In his third phase, increase his ***Unarmed Strike*** attack to 1d8+5 piercing damage and 5d6 necrotic damage. Increase his ***Bats' Frenzy*** to 4d8 necrotic damage. Increase his ***Predator's Fury*** to 2d12+5 force damage. </li></ul>|
 
 > [!info]+ **Strahd’s Statistics**
-> See [[Strahd von Zarovich#Strahd’s Tactics|Strahd’s Tactics]] for more information about Strahd’s statistics and tactics in battle.
+> See [[Strahd von Zarovich#Le tattiche di Strahd|Le tattiche di Strahd]] for more information about Strahd’s statistics and tactics in battle.
 
 > [!info]+ **The Heart of Sorrow**
 > The Heart of Sorrow can’t be moved and is immune to all damage while Strahd lives. It’s held aloft by the will of Strahd, and isn’t affected by *dispel magic* or similar magic. In addition, it has the following properties while channeling its stores of power:

@@ -95,7 +95,7 @@ L'Atto III finisce quando i giocatori convincono l'elfo del crepuscolo Kasimir a
 # Atto IV: I segreti dell'Antico
 <div class="subtitle"><em>Per personaggi dall'8º livello in su.</em></div>
 
-Per tutto questo atto, e finché i giocatori non accendono la *Spada del Sole*, Strahd, che dopo il colpo al Castello di Ravenloft ha assunto la sua [[Strahd von Zarovich#The Tyrant|persona del Tiranno]], compare ogni notte per tormentarli nell'[[Arc R - Trials of the Mountain|Arco R: Le prove della montagna]], per mettere alla prova la loro ambizione, la loro astuzia, il loro potere e la loro capacità di crudeltà.
+Per tutto questo atto, e finché i giocatori non accendono la *Spada del Sole*, Strahd, che dopo il colpo al Castello di Ravenloft ha assunto la sua [[Strahd von Zarovich#Il Tiranno|persona del Tiranno]], compare ogni notte per tormentarli nell'[[Arc R - Trials of the Mountain|Arco R: Le prove della montagna]], per mettere alla prova la loro ambizione, la loro astuzia, il loro potere e la loro capacità di crudeltà.
 
 Intanto i giocatori partono con l'elfo del crepuscolo Kasimir Velikov per il Tempio d'Ambra, lungo il Passo di Tsolenka, risalendo il Monte Ghakis nell'[[Arc S - A Sword of Sunlight|Arco S: Una spada di luce solare]]. Lungo il cammino possono fare amicizia con il Popolo della Montagna di Soldav, fra cui l'anziano Burebis, un antico **gigante delle tempeste** devoto alle Tre Dame. Da Burebis possono venire a sapere dei tre Templi di Barovia e della conoscenza profana che Strahd prese dal Tempio d'Ambra per profanarli.
 
