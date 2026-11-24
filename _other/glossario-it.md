@@ -746,3 +746,31 @@ Piani del castello: 1F pianterreno, 2F primo piano, 3F secondo piano, 4F terzo p
 | *orb of direction* | *globo della direzione* | |
 | *cape of the mountebank* / *pearl of power* / *driftglobe* | *mantella del ciarlatano* / *perla del potere* / *globo fluttuante* | |
 | *stone of good luck* | *pietra della fortuna* | |
+
+### Personaggi non giocanti (profili finali)
+
+Titoli dei profili: Rahadin, Amber-Touched → Rahadin, toccato dall'ambra; Baba Lysaga, Witch Mother / Of the Swamp → Baba Lysaga, madre delle streghe / signora della palude; Creeping Hut → Capanna strisciante. Nelle intestazioni dei profili si scrive sempre *Punti Ferita*.
+
+| Inglese | Italiano | Note |
+|---|---|---|
+| Beacon of Protection | *Faro di protezione* | ⚠ effetto del faro di Argynvostholt (Arco Q) |
+| X40. Sealed Treasury / X42. Amber Vault | X40. Tesoreria sigillata / X42. Cripta d'ambra | ⚠ Tempio d'Ambra, Capitolo 13 |
+| amber construct / amber sarcophagus | costrutto d'ambra / sarcofago d'ambra | |
+| U3. Baba Lysaga's Hut | U3. Capanna di Baba Lysaga | |
+| flying giant's skull | teschio di gigante volante | |
+| *grasping vine* | *rampicante afferrante* | |
+| *acid splash* / *sleep* / *Evard's black tentacles* | *spruzzo acido* / *sonno* / *tentacoli neri di Evard* | |
+| *programmed illusion* / *mirage arcane* / *control water* | *illusione programmata* / *miraggio arcano* / *controllare acqua* | |
+| *giant insect* / *wall of thorns* | *insetto gigante* / *muro di spine* | |
+| wereraven lycanthropy | licantropia del corvo mannaro | |
+| Gargantuan construct, unaligned | Costrutto Mastodontico, senza allineamento | |
+| Incorporeal Movement / Dark Embodiment / Soul Weapon | Movimento incorporeo / Incarnazione oscura / Arma dell'anima | Patrina |
+| Amber Tentacle / Corrupting Touch / Charm Wielder | Tentacolo d'ambra / Tocco corruttore / Ammaliare il portatore | Patrina |
+| Animate Golems / Conjure Sarcophagi / Ghostly Walk | Animare golem / Evocare sarcofagi / Passo spettrale | Patrina |
+| Shadowblade / Crackling Doom / Negative Energy Burst | Lama d'ombra / Rovina crepitante / Scoppio di energia negativa | Patrina |
+| Vile Teleport / Fell Rebuke | Teletrasporto immondo / Rimprovero funesto | Patrina |
+| Blessing of Mother Night / Skilled Casting / Flying Skull | Benedizione di Madre Notte / Incantatrice esperta / Teschio volante | Baba Lysaga |
+| Swallowed by the Swamp / Hair Blades / Devouring Flies | Inghiottita dalla palude / Trecce affilate / Mosche divoratrici | Baba Lysaga |
+| Swarm / Insect Shield / Swampwalk | Sciame / Scudo di insetti / Passo della palude | Baba Lysaga |
+| Stolen Gem / Root / Throw / Rock | La gemma rubata / Radice / Lancio / Masso | Capanna strisciante |
+| Parry / Riposte / Haunt / Swift Step | Parata / Risposta / Tormento / Passo rapido | Rahadin |
