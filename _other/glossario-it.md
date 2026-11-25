@@ -1010,3 +1010,19 @@ Aree del libro: N4i Salotto; N4e Vestibolo sul retro; N2b Scala esterna; Approac
 | Flicker (visioni) | Un lampo | |
 | "Each cloud has its silver lining" | «non tutto il male vien per nuocere» | proverbio adattato |
 | Milestone (finale) | 25.000 PE | |
+
+### Epilogo
+
+Sezioni: 1. Il ritorno dal castello (1a La strana coppia, 1b La nuova Strada di Svalich, 1c Le porte di Vallaki, 1d La piazza della città, 1e L'accampamento vistani); 2. La Festa dell'Alba (2a Il faro tremolante, 2b La dimora vuota, 2c Che la festa abbia inizio!, 2d I giochi della festa, 2e Racconti di fede e di vittoria, 2f Racconti di paura e di perdono); 3. Ritorno a Krezk (3a L'arrivo alle mura, 3b La gratitudine di Krezk, 3c Ritorno al Tempio della Foresta); 4. Ritorno a Barovia (4a Il corvo e il cavaliere, 4b Ritorno allo Stagno di Tser, 4c Accoglienza da eroi); 5. Il destino di Escher (5a La ricerca, 5b L'isolamento, 5c La tentazione, 5d La caduta di Escher); 6. Fine e inizi (6a Il consiglio, 6b Nelle Nebbie).
+
+| Inglese | Italiano | Note |
+|---|---|---|
+| Festival of the Dawn | Festa dell'Alba | |
+| shambler (Cyrus) | barcollone | parlata popolare di Cyrus |
+| Lich-King Firan | il Re-Lich Firan | complotto di Cyrus |
+| pin-the-tail-on-the-nightmare | «attacca la coda all'incubo» | gioco adattato |
+| Jander's Hollow | Conca di Jander | |
+| Eternal Night | Notte Eterna | |
+| *mist talisman* / Domains of Ravenloft | *talismano delle nebbie* / Domini di Ravenloft | |
+| rehabilitator (of monsters) | riabilitatore | Van Richten |
+| N4t. Cult Headquarters / N4j. Dining Room | N4t. Quartier generale del culto / N4j. Sala da pranzo | |
