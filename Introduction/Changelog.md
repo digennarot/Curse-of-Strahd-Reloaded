@@ -117,7 +117,7 @@
 * Amended or removed various skill checks concerning the Abbot in [[Arc Q - A Shining Beacon]] to allow for justifiable social solutions to not get stuck behind a poor roll
 * Added reminders in arcs R and S for DMs to add the effects of *Beacon of Protection* to allies as well as PCs once the beacon is lit in [[Arc Q - A Shining Beacon]]
 * Clarified Godfrey's resonance level in [[Arc S - A Sword of Sunlight]]
-* Removed the outdated text regarding a lit *Sunsword* in the [[Arc T - The Three Fanes#T2c. The Tyrant’s Final Trial|Tyrant's Final Trial]]
+* Removed the outdated text regarding a lit *Sunsword* in the [[Arc T - The Three Fanes#T2c. L'ultima prova del Tiranno|Tyrant's Final Trial]]
 * Added further information on mechanics and roleplay advice for the carrionettes in [[Arc T - The Three Fanes]]
 * Ensured parity across descriptions of the *Spear of the Huntress* in [[Arc T - The Three Fanes]]
 * Added balancing information for combat in [[Arc U - Dreams of Dawn]]
@@ -158,7 +158,7 @@
 * Added fire vulnerability to the **lesser strix** in line with the **greater strix** in [[Arc C - Into the Valley]]
 # Hotfix 2.0.12.3 (May 16, 2025)
 * Amended various typos, broken links, and errors in formatting
-* Updated chapter name "Dreams of Dawn" to [[Arc T - The Three Fanes#T5. A Light in the Dark|T5. A Light in the Dark]]
+* Updated chapter name "Dreams of Dawn" to [[Arc T - The Three Fanes#T5. Una luce nel buio|T5. A Light in the Dark]]
 * Updated the *Indomitable* feature across all relevant statblocks
 # Patch 2.0.12.2 (May 12, 2025)
 * Revised the Tyrant's final trail in [[Arc T - The Three Fanes]]

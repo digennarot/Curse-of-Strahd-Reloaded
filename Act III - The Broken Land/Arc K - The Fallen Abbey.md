@@ -7,7 +7,7 @@ Al loro arrivo, l'Abate può far fare ai giocatori un breve giro dell'Abbazia, r
 Se i giocatori arrivano prima della seconda notte dopo la luna piena, l'Abate dice che Ezmerelda è fuori e tornerà presto. Se arrivano la seconda notte dopo la luna piena o più tardi, l'Abate li porta da Ezmerelda, che si unisce volentieri a loro, a condizione che la aiutino a salvare Krezk dalla follia dell'Abate.
 
 > [!warning]+ **Modifiche in arrivo**
-> L'arco che segue è del tutto compatibile con le versioni attuali degli archi precedenti. Si prevede però che l'[[Arc C - Into the Valley|Arco C: Nella valle]], l'[[Arc E - The Missing Vistana|Arco E: La vistana scomparsa]], l'[[Arc K - The Fallen Abbey|Arco K: L'abbazia caduta]], l'[[Arc L - The Den of Wolves|Arco L: La tana dei lupi]] e il capitolo [[Arc T - The Three Fanes#T4. The Monster Hunter|La cacciatrice di mostri]] dell'[[Arc T - The Three Fanes|Arco T: I tre templi]] vengano rivisti a fondo **dopo** il completamento della guida principale, con questi cambiamenti:
+> L'arco che segue è del tutto compatibile con le versioni attuali degli archi precedenti. Si prevede però che l'[[Arc C - Into the Valley|Arco C: Nella valle]], l'[[Arc E - The Missing Vistana|Arco E: La vistana scomparsa]], l'[[Arc K - The Fallen Abbey|Arco K: L'abbazia caduta]], l'[[Arc L - The Den of Wolves|Arco L: La tana dei lupi]] e il capitolo [[Arc T - The Three Fanes#T4. Il cacciatore di mostri|Il cacciatore di mostri]] dell'[[Arc T - The Three Fanes|Arco T: I tre templi]] vengano rivisti a fondo **dopo** il completamento della guida principale, con questi cambiamenti:
 >
 > * Arturi Radanavich sarà tolto dalla campagna.
 > * Ezmerelda d'Avenir è nata Ezmerelda Radanavich, e ha cambiato nome dopo lo sterminio del clan Radanavich.

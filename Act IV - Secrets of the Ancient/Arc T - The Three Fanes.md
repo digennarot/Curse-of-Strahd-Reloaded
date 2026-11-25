@@ -1,400 +1,400 @@
-*An adventure for five 9th-level characters.*
+*Un'avventura per cinque personaggi di 9° livello.*
 
-In this arc, upon claiming the broken hilt of the *Sunsword* from the depths of the Amber Temple, the players must return to the Shrine of the Rozana at Soldav to commune with the Ladies of the Fanes. To cleanse the Fanes of Strahd’s corruption, they learn, certain individuals must bury the Wizard of Wine’s enchanted gems at the center of each Fane: Urwin and Davian Martikov at the Swamp Fane; Dr. Rudolph van Richten and Arturi Radanavich at the Forest Fane; and Lady Fiona Wachter at the Mountain Fane. And when Exethanter decodes the *Tome of Strahd*, he delivers a terrible warning: that unless the players can cleanse the Fanes by the zenith of the Grand Conjunction, Strahd will finally escape the Mists—while killing every creature in Barovian in the process.
+In quest'arco, dopo aver recuperato dalle profondità del Tempio d'Ambra l'elsa spezzata della *Spada del Sole*, i giocatori devono tornare al Santuario delle Rozana di Soldav per entrare in comunione con le Dame dei Templi. Lì scoprono che per purificare i Templi dalla corruzione di Strahd alcune persone precise devono seppellire le gemme incantate del Mago dei Vini al centro di ciascun Tempio: Urwin e Davian Martikov al Tempio della Palude, il dottor Rudolph van Richten e Arturi Radanavich al Tempio della Foresta, Lady Fiona Wachter al Tempio della Montagna. E quando Exethanter decifra il *Tomo di Strahd*, lancia un avvertimento terribile: se i giocatori non riusciranno a purificare i Templi prima dell'apice della Grande Congiunzione, Strahd sfuggirà finalmente alle Nebbie e nel farlo ucciderà ogni creatura di Barovia.
 
-For the reconsecrations to work, however, the players must first help Urwin and Davian Martikov end their feud, help Dr. Rudolph van Richten and Arturi Radanavich lift their curses, and help Lady Fiona Wachter find the courage and hope to defy Strahd’s rule. To make matters worse, the swamp witch Baba Lysaga has captured the Martikovs of the winery and imprisoned them in Berez, Strahd’s forces are hunting for Arturi and Van Richten both, and an emissary from Castle Ravenloft has seized power in Vallaki by taking Lady Wachter’s children as hostages. Can the players reignite the *Sunsword*, rescue the Martikovs, free Vallaki from Strahd’s rule, and reconsecrate the Fanes before the zenith of the Grand Conjunction arrives?
+Perché le riconsacrazioni funzionino, però, i giocatori devono prima aiutare Urwin e Davian Martikov a chiudere la loro lite, aiutare il dottor Rudolph van Richten e Arturi Radanavich a liberarsi delle loro maledizioni e aiutare Lady Fiona Wachter a trovare il coraggio e la speranza per sfidare il dominio di Strahd. A peggiorare le cose, la strega della palude Baba Lysaga ha catturato i Martikov dell'azienda vinicola e li tiene prigionieri a Berez, le forze di Strahd danno la caccia sia ad Arturi sia a Van Richten, e un emissario del Castello di Ravenloft ha preso il potere a Vallaki tenendo in ostaggio i figli di Lady Wachter. Riusciranno i giocatori a riaccendere la *Spada del Sole*, a salvare i Martikov, a liberare Vallaki dal dominio di Strahd e a riconsacrare i Templi prima che arrivi l'apice della Grande Congiunzione?
 
-> [!warning]+ **Pending Changes**
-> The arc below is fully compatible with existing versions of prior arcs. However, Chapter [[#T4. The Monster Hunter]], as well as associated sections of the guide in [[Arc C - Into the Valley]], [[Arc E - The Missing Vistana]], [[Arc K - The Fallen Abbey]], and [[Arc L - The Den of Wolves]] are expected to undergo significant revision **after** the core guide is complete, with the following changes:
+> [!warning]+ **Modifiche in arrivo**
+> L'arco che segue è del tutto compatibile con le versioni attuali degli archi precedenti. Si prevede però che il capitolo [[#T4. Il cacciatore di mostri|Il cacciatore di mostri]], insieme alle parti della guida collegate nell'[[Arc C - Into the Valley|Arco C: Nella valle]], nell'[[Arc E - The Missing Vistana|Arco E: La vistana scomparsa]], nell'[[Arc K - The Fallen Abbey|Arco K: L'abbazia caduta]] e nell'[[Arc L - The Den of Wolves|Arco L: La tana dei lupi]], venga rivisto in modo sostanziale **dopo** il completamento della guida principale, con queste modifiche:
 >
-> * Arturi Radanavich will be removed from the campaign.
-> * Ezmerelda d’Avenir was born Ezmerelda Radanavich, changing her name after the Radanavich clan was slaughtered.
-> * Ezmerelda was not present when Van Richten killed the Radanaviches, and was therefore the sole survivor of the massacre. (Ezmerelda was subsequently found by the Vistani of <span class="citation">N9. Vistani Camp (p. 119)</span>, and was raised as a “younger sister" of Luvash and Arrigal until she left Barovia at age fifteen.)
-> * Ezmerelda believes that Strahd von Zarovich, or his servants, were responsible for the deaths of her extended family, and, when she departed Barovia, sought Van Richten’s mentorship to avenge them.
-> * Two years into her training, upon learning of Ezmerelda’s goals, Van Richten consulted with the seer Inarin Alstar, and learned of the curse that lay upon him. 
-> * Driven by fear for Ezmerelda’s safety, and guilt for his role in her family’s deaths, Van Richten scorned her goals and informed her that she would never be worth anything as a monster hunter.
-> * Van Richten’s ploy worked, and the two parted ways shortly thereafter. Van Richten then immediately began preparing to return to Barovia, intending to slay Strahd von Zarovich before Ezmerelda could do so—and die in penance if necessary.
-> * When the players first return to the Luna River Crossroads after completing [[Arc S - A Sword of Sunlight]], they are met by Alexei, who pleads with them to accompany him to the Vistani camp. 
-> * At the Vistani camp, the players encounter Escher, who is searching for Rudolph van Richten, and can help the Vistani drive Escher off.
-> * After dealing with Escher, the players learn that Arabelle was recently wounded when a pack of ghouls attacked; while Van Richten has done his best to stabilize her, she is slowly dying of the ghouls’ venom.
-> * Players who attempt to heal Arabelle hear Madam Radanavich’s curse (“Live you always among monsters, and see everyone you love die beneath their claws."), which prevents Arabelle from healing and worsens her wounds. Van Richten can also share that his curse is responsible for Arabelle’s condition—for, despite his best efforts, he allowed himself to feel affection toward her, and so hastened her demise.
-> * Van Richten shares the truth of the Radanavich massacre. Ezmerelda responds as she and Arturi respond below.
-> * Arabelle whispers the following prophecy: “When blood of two is blood of one / and broken wheels meet fiery tongues / the dead shall halt their endless war / and blight the living nevermore." (To lift Van Richten’s curse, Ezmerelda and Van Richten must complete the Vistani blood rite, rendering Van Richten a Radanavich, then burn the wreckage of the Radanavich caravan.)
-> * The remainder of the chapter otherwise proceeds largely as described below.
-# T1. Return to Soldav
-## T1a. The Narrow Road
-The players’ return to Soldav is three-and-a-half miles long and takes two hours and twenty minutes. The players face no obstacles during the return journey.
+> * Arturi Radanavich sarà tolto dalla campagna.
+> * Ezmerelda d'Avenir è nata Ezmerelda Radanavich e ha cambiato nome dopo il massacro del clan Radanavich.
+> * Ezmerelda non era presente quando Van Richten uccise i Radanavich, e per questo fu l'unica sopravvissuta al massacro. (In seguito la trovarono i Vistani di <span class="citation">N9. Accampamento vistani (p. 119)</span>, che la crebbero come una «sorella minore» di Luvash e di Arrigal finché lasciò Barovia a quindici anni.)
+> * Ezmerelda crede che la morte dei suoi parenti sia opera di Strahd von Zarovich o dei suoi servitori, e quando lasciò Barovia chiese a Van Richten di farle da maestro per poterli vendicare.
+> * Dopo due anni di addestramento, quando venne a sapere degli obiettivi di Ezmerelda, Van Richten consultò la veggente Inarin Alstar e scoprì la maledizione che gravava su di lui.
+> * Spinto dalla paura per l'incolumità di Ezmerelda e dal senso di colpa per la morte della sua famiglia, Van Richten disprezzò i suoi obiettivi e le disse che come cacciatrice di mostri non sarebbe mai valsa niente.
+> * Lo stratagemma di Van Richten funzionò, e poco dopo le loro strade si divisero. Van Richten cominciò subito a prepararsi per tornare a Barovia, deciso a uccidere Strahd von Zarovich prima che potesse farlo Ezmerelda, e a morire per espiare, se necessario.
+> * Quando i giocatori tornano per la prima volta al Crocevia del fiume Luna dopo aver completato l'[[Arc S - A Sword of Sunlight|Arco S: Una spada di luce solare]], li accoglie Alexei, che li supplica di accompagnarlo all'accampamento vistani.
+> * All'accampamento vistani i giocatori incontrano Escher, che cerca Rudolph van Richten, e possono aiutare i Vistani a scacciarlo.
+> * Dopo aver sistemato Escher, i giocatori scoprono che Arabelle è stata ferita da poco nell'attacco di un branco di ghoul; Van Richten ha fatto il possibile per stabilizzarla, ma lei sta morendo lentamente per il veleno dei ghoul.
+> * Chi prova a curare Arabelle sente la maledizione di Madam Radanavich («Che tu viva sempre tra i mostri, e veda morire sotto i loro artigli chiunque tu ami»), che impedisce ad Arabelle di guarire e peggiora le sue ferite. Van Richten può anche rivelare che è la sua maledizione la causa delle condizioni di Arabelle: nonostante tutti i suoi sforzi si è concesso di provare affetto per lei, e così ne ha affrettato la fine.
+> * Van Richten racconta la verità sul massacro dei Radanavich. Ezmerelda reagisce come reagiscono lei e Arturi più avanti.
+> * Arabelle sussurra questa profezia: «Quando il sangue di due sarà un sangue solo / e ruote spezzate incontreranno lingue di fuoco / i morti fermeranno la loro guerra senza fine / e mai più tormenteranno i vivi». (Per togliere la maledizione di Van Richten, Ezmerelda e Van Richten devono compiere il rito del sangue vistani, che fa di Van Richten un Radanavich, e poi bruciare i resti del carrozzone dei Radanavich.)
+> * Per il resto il capitolo procede più o meno come descritto qui sotto.
+# T1. Ritorno a Soldav
+## T1a. La strada stretta
+Il viaggio di ritorno dei giocatori a Soldav è lungo 5,25 km e dura due ore e venti minuti. Lungo la strada non incontrano ostacoli.
 
-> [!warning]+ **Distance Patch**
-> A prior version of [[Arc R - Trials of the Mountain]] stated that the journey from Soldav to the Amber Temple is one mile long. This distance has been updated for newer campaigns only.
+> [!warning]+ **Correzione delle distanze**
+> Una versione precedente dell'[[Arc R - Trials of the Mountain|Arco R: Le prove della montagna]] diceva che il viaggio da Soldav al Tempio d'Ambra era lungo 1,5 km. La distanza è stata aggiornata solo per le campagne nuove.
 
-The players can gain access to Soldav as described in [[Arc R - Trials of the Mountain#R5a. The Twin Falls|R5a. The Twin Falls]]. Upon entering [[Arc R - Trials of the Mountain#R5b. The Tunnel|R5b. The Tunnel]], they are met by Como and two **scouts** guarding the secret door.
+I giocatori possono entrare a Soldav come descritto in [[Arc R - Trials of the Mountain#R5a. Le cascate gemelle|R5a. Le cascate gemelle]]. Quando entrano in [[Arc R - Trials of the Mountain#R5b. La galleria|R5b. La galleria]] trovano Como e due **esploratori** di guardia alla porta segreta.
 
-Como is glad to see the players, and anxiously asks for news of Diona and her companions. (Como, who had previously hoped to court Meda, is especially dismayed to hear of her fate.)
+Como è contento di rivedere i giocatori e chiede con ansia notizie di Diona e dei suoi compagni. (Como, che sperava di corteggiare Meda, è particolarmente sconvolto quando viene a sapere che fine ha fatto.)
 
-Como is glad to lead the players to [[#T1b. The Shrine of the Rozana]] to speak with Elder Burebis regarding the *rite of channelled divinity*, or to lead them to [[Arc R - Trials of the Mountain#R5d. Chief's Longhouse|R5d. Chief’s Longhouse]] if they wish to rest after their time at the Amber Temple. (When the players arrive at the longhouse, Oroles is stacking firewood near the hearth while Diegia is out settling a minor dispute regarding the ownership of a baby goat. Oroles is glad to hear of Diona’s good health, but mourns the fates of Meda and Duras. “They knew the risks," he says, “but our people are worse for their loss.")
-## T1b. The Shrine of the Rozana
-When the players return to the Shrine of the Rozana, they find it largely as described in [[Arc R - Trials of the Mountain#R5f. The Shrine of the Rozana]|R5f. The Shrine of the Rozana]]. However, when the players first greet or look for Elder Burebis, read:
+Como accompagna volentieri i giocatori al [[#T1b. Il Santuario delle Rozana|Santuario delle Rozana]] per parlare con l'anziano Burebis del *rito della divinità evocata*, oppure alla [[Arc R - Trials of the Mountain#R5d. La casa lunga della capo|casa lunga della capo]] se vogliono riposare dopo il soggiorno al Tempio d'Ambra. (Quando i giocatori arrivano alla casa lunga, Oroles sta impilando la legna vicino al focolare, mentre Diegia è fuori a risolvere una piccola disputa sulla proprietà di un capretto. Oroles è felice di sapere che Diona sta bene, ma piange la sorte di Meda e di Duras. «Conoscevano i rischi», dice, «ma senza di loro il nostro popolo è più povero».)
+## T1b. Il Santuario delle Rozana
+Quando tornano al Santuario delle Rozana, i giocatori lo trovano più o meno come descritto in [[Arc R - Trials of the Mountain#R5f. Il Santuario delle Rozana|R5f. Il Santuario delle Rozana]]. Però, quando salutano o cercano l'anziano Burebis per la prima volta, leggi:
 
 <div class="description">
-<p>Several heartbeats pass before, with the sound of a rasping sigh, Elder Burebis’s face emerges from the mass of roots upon the wall. His eyes flicker weakly open, his gray-blue flesh now sunken and pale.</p>
-<p>"You have returned," he whispers, his voice trembling and desiccated. “Good."</p>
+<p>Passano diversi battiti di cuore, poi, con il suono di un sospiro roco, il volto dell'anziano Burebis emerge dall'intrico di radici sulla parete. Gli occhi si aprono a fatica, tremolanti, e la sua carne grigioazzurra è ora infossata e pallida.</p>
+<p>«Siete tornati», sussurra con voce tremante e riarsa. «Bene».</p>
 </div>
 
-Burebis can share the following information if asked:
+Se glielo chiedono, Burebis può dire quanto segue:
 
-* Since the players last visited, his health has taken a turn for the worse. He expects that “his time" is coming soon, and has just enough strength to speak with the players now.
-* He believes that he has lingered “long past my due upon this plane." Coughing, he adds: “Even for a member of my race, as long-lived as we are."
-* He is grateful to have an opportunity to aid the players in their quest. “If the mountain sustained me for one reason," he rasps, “it was for this."
+* Dall'ultima visita dei giocatori la sua salute è peggiorata. Si aspetta che «la sua ora» arrivi presto, e ha appena la forza di parlare con loro adesso.
+* Crede di essere rimasto «su questo piano ben oltre il tempo che mi spettava». Tossendo, aggiunge: «Anche per uno della mia razza, per quanto viviamo a lungo».
+* È grato di avere l'occasione di aiutare i giocatori nella loro impresa. «Se la montagna mi ha tenuto in vita per una ragione», dice con voce roca, «era per questa».
 
-Burebis is eager to know what the players have learned and obtained from the Amber Temple, especially whether they have found a means to commune with the spirits of the Ladies Three. If the players tell him about the *rite of conjured divinity* and ask for “a location where the Ladies’ presence is strongest," read:
+Burebis è ansioso di sapere che cosa i giocatori hanno scoperto e ottenuto al Tempio d'Ambra, soprattutto se hanno trovato un modo per entrare in comunione con gli spiriti delle Tre Dame. Se i giocatori gli parlano del *rito della divinità evocata* e gli chiedono «un luogo dove la presenza delle Dame è più forte», leggi:
 
 <div class="description">
-<p>Burebis’s ancient face slowly exhales. Along the wall beside him, the roots rustle, then pull away, revealing a hidden passage that cuts through the mountain.</p>
-<p>"It will take you to the Cavern of Lights—the place where the Tauta first communed with the Rozana," he rumbles. “If they can hear your call anywhere, they shall hear it there."</p>
+<p>L'antico volto di Burebis emette un lento respiro. Lungo la parete accanto a lui le radici frusciano e poi si ritraggono, rivelando un passaggio nascosto che attraversa la montagna.</p>
+<p>«Vi porterà alla Caverna delle Luci, il luogo dove i Tauta entrarono per la prima volta in comunione con le Rozana», brontola. «Se possono sentire il vostro richiamo da qualche parte, lo sentiranno lì».</p>
 </div>
 
-## T1c. The Cavern of Lights
-If the players enter the tunnel to the Cavern of Lights, read:
+## T1c. La Caverna delle Luci
+Se i giocatori entrano nel passaggio che porta alla Caverna delle Luci, leggi:
 
 <div class="description">
-<p>The stone passage winds for twenty feet through the mountain, emerging into a circular stone chamber approximately forty feet across.</p>
-<p>Pale green crystals jut from the rock along the walls, floor, and ceiling, growing in crystalline formations that range from six inches to more than six feet in height. Four engraved carvings mark the walls between them, each more than three feet high: a spider, a wolf, a raven, and a butterfly.</p>
+<p>Il passaggio di pietra si snoda per 6 metri dentro la montagna e sbocca in una sala circolare di pietra larga una dozzina di metri.</p>
+<p>Cristalli verde pallido spuntano dalla roccia delle pareti, del pavimento e del soffitto, in formazioni cristalline alte da 15 centimetri a più di 1,8 metri. Fra un cristallo e l'altro, sulle pareti, ci sono quattro incisioni alte più di 90 centimetri: un ragno, un lupo, un corvo e una farfalla.</p>
 </div>
 
-> [!lore]+ **The Butterfly**
-> The butterfly carving represents the Dreamer, the fourth and youngest sister of the Rozana. However, no living soul in Soldav knows this—not even Burebis. (Some, including Oroles, speculate that it represents the Tauta, who were “reborn" upon their arrival in the valley, as a butterfly is reborn from its chrysalis.) 
+> [!lore]+ **La farfalla**
+> L'incisione della farfalla rappresenta la Sognatrice, la quarta e più giovane sorella delle Rozana. Però nessuno a Soldav lo sa, nemmeno Burebis. (Alcuni, fra cui Oroles, ipotizzano che rappresenti i Tauta, che «rinacquero» al loro arrivo nella valle come una farfalla rinasce dalla crisalide.)
 >
-> If the players later return to the Shrine of the Rozana and ask about the butterfly, Burebis shares only that he once asked his mentor, the Seeker, who the butterfly belonged to. However, the Seeker declined to tell him, noting only that it belonged to a story that had found its end. (“I had never known her to dwell in sorrow," Burebis rumbles thoughtfully, “but I’ve always thought I heard an echo of grief in her voice.")
+> Se in seguito i giocatori tornano al Santuario delle Rozana e chiedono della farfalla, Burebis dice soltanto di aver chiesto una volta alla sua maestra, il Cercatore, a chi appartenesse la farfalla. Il Cercatore però non volle dirglielo e si limitò a rispondere che apparteneva a una storia ormai finita. («Non l'avevo mai vista indugiare nel dolore», brontola Burebis pensieroso, «ma mi è sempre sembrato di sentire un'eco di lutto nella sua voce».)
 
-If the players carry out the *rite of conjured divinity* within the Cavern of Lights, read:
+Se i giocatori compiono il *rito della divinità evocata* nella Caverna delle Luci, leggi:
 
 <div class="description">
-<p>A faint shudder seems to run through the walls of the chamber, followed by a pulse of shimmering light that glints through the crystalline formations. A soft, sourceless breeze picks up in the air, a warm, gentle draft that sends small eddies of sediment swirling across the floor.</p>
-<p>Slowly, the crystals glow brighter, a burgeoning light growing deep within them. Radiant rays flash across the chamber, refracting and reflecting and refracting again until, from a central formation, they <em>burst</em> across the walls as brilliant, many-colored auroras that shimmer and dance across the stone.</p>
-<p>A soft, female sigh echoes through the room—followed by the unmistakeable sense of a new, unfamiliar presence.</p>
+<p>Un brivido leggero sembra attraversare le pareti della sala, seguito da un impulso di luce scintillante che balugina fra le formazioni cristalline. Nell'aria si leva una brezza lieve che non viene da nessuna parte, una corrente calda e gentile che fa turbinare piccoli mulinelli di polvere sul pavimento.</p>
+<p>A poco a poco i cristalli si fanno più luminosi, e nel loro cuore cresce una luce. Raggi radiosi guizzano attraverso la sala, rifratti e riflessi e di nuovo rifratti, finché da una formazione centrale <em>esplodono</em> sulle pareti in aurore brillanti e multicolori che scintillano e danzano sulla pietra.</p>
+<p>Nella stanza risuona un morbido sospiro di donna, e subito dopo avvertite con certezza una presenza nuova, sconosciuta.</p>
 </div>
 
-> [!info]+ **Communing with the Ladies**
-> The players can use the *rite of conjured divinity* to summon the spirit of the Huntress, the Weaver, or both. Any attempts to summon the spirits of the Seeker or Dreamer have no effect. (The Seeker cannot be summoned because she is physically incarnated as Madam Eva; the Dreamer cannot be summoned because she is sealed within the Heart of Sorrow at Castle Ravenloft.)
+> [!info]+ **Entrare in comunione con le Dame**
+> I giocatori possono usare il *rito della divinità evocata* per evocare lo spirito della Cacciatrice, quello della Tessitrice o entrambi. I tentativi di evocare gli spiriti del Cercatore o della Sognatrice non hanno effetto. (Il Cercatore non si può evocare perché è incarnato fisicamente in Madam Eva; la Sognatrice non si può evocare perché è sigillata nel Cuore della Tristezza, al Castello di Ravenloft.)
 >
-> Once summoned, the spirits of the Huntress and Weaver can communicate only through telepathic emotions and visual images, which are displayed as shifting auroras on the walls. The goddesses can also communicate using short messages of three words or less, but no more than three times each per day. (Due to their weakened, vestige-like state, the Huntress and Weaver currently struggle to convey complex thoughts through words.)
+> Una volta evocati, gli spiriti della Cacciatrice e della Tessitrice possono comunicare solo con emozioni telepatiche e con immagini, che compaiono sulle pareti come aurore cangianti. Le dee possono anche comunicare con messaggi brevi di tre parole al massimo, ma non più di tre volte ciascuna al giorno. (Indebolite fino a uno stato simile a quello delle vestigia, la Cacciatrice e la Tessitrice per ora faticano a esprimere pensieri complessi a parole.)
 
-> [!info]+ **The Ladies’ Messages**
-> The Huntress and Weaver might use the following short phrases to communicate when unable to answer player questions using their auroras:
+> [!info]+ **I messaggi delle Dame**
+> Quando non riescono a rispondere alle domande dei giocatori con le aurore, la Cacciatrice e la Tessitrice possono usare queste brevi frasi:
 >
-> * “THE HUNTER": Referring to Dr. Rudolph van Richten
-> * “THE HUNTED": Referring to Arturi Radanavich
-> * “THE OLD RAVEN": Referring to Davian Martikov
-> * “THE WATER’S KEEPER": Referring to Urwin Martikov
-> * “THE WIDOW": Referring to Lady Fiona Wachter
+> * «IL CACCIATORE»: il dottor Rudolph van Richten
+> * «LA PREDA»: Arturi Radanavich
+> * «IL VECCHIO CORVO»: Davian Martikov
+> * «IL CUSTODE DELL'ACQUA»: Urwin Martikov
+> * «LA VEDOVA»: Lady Fiona Wachter
 
-Once summoned, the Huntress and/or Weaver are glad to answer the players’ questions as described in **Communing with the Ladies**. As they do, they might provide the following responses to the players’ questions:
+Una volta evocate, la Cacciatrice e la Tessitrice rispondono volentieri alle domande dei giocatori come descritto in **Entrare in comunione con le Dame**. Alle domande dei giocatori possono dare queste risposte:
 
-* **Who are you?** An aurora illuminating the wolf carving on the wall (Huntress) / An aurora illuminating the spider carving on the wall (Weaver)
-* **Where is the Seeker?** A woman kneels before a raven, which becomes mist and flows into her chest; raven’s wings then sprout from the woman’s shoulders. (The image is joined by a sense of loneliness and longing.)
-* **What does the butterfly represent?** A grave marked by falling snow, joined by a sense of grief and loss. (The Ladies refuse to elaborate.)
-* **What are the Fanes?** A powerful, fast-flowing river that meets another, casting great sprays of water where they join. (*The rivers represent leylines. Their intersection represents an intersection of leylines, and the power they channel.*)
-* **What do the Fanes look like? / Where are the Fanes?** Three circles of standing stones: one amidst a bog (the Swamp Fane, overlaid on the spider carving); one atop a flat, terraced hill surrounded by trees (the Forest Fane, overlaid on the wolf carving); and one along a mountain spur, just beneath a grassy promontory (the Mountain Fane, overlaid on the raven carving). 
-* **What happened to the Fanes / How did the Fanes become corrupted?** A tall, gaunt shadow standing amidst a circle of standing stones, one hand clutching a dagger and the other bleeding onto the ground, with the blood rising to swallow the stones whole. (*The shadow is Strahd. The blood represents the ritual he used to desecrate the Fanes and “become the Land."*)
-* **How can we reconsecrate the Fanes?** Three pinecone-shaped gems: one that glows with viridian light (the Weaver’s gem, overlaid on the spider carving); one that glows with emerald light (the Huntress’s gem, overlaid on the wolf carving); one that glows with sage-green light (the Seeker’s gem, overlaid on the raven carving).
-* **What do we do with the gems?** Two dueling ravens cease their feud and bury the viridian gem at the center of a circle of standing stones amidst a bog (overlaid on the spider carving); an old, silver-furred fox drives away a horde of rats chasing a weary sparrow as a fire burns behind them, then becomes a sparrow itself, the two sparrows burying the emerald gem at the center of a circle of standing stones atop a flat, terraced hill (overlaid on the wolf carving); an old, proud she-cat with three kittens sleeping at her paws casts off the bat whose wings cover its eyes and turns her gaze into the sunrise, then buries the sage-green gem at the center of a circle of standing stones along a low mountain spur (overlaid on the raven carving).
-* **Where is the third gem?** A great crater atop a mountain peak. (*The players can recognize the peak as the peak of Mt. Ghakis.*)
+* **Chi siete?** Un'aurora illumina l'incisione del lupo sulla parete (la Cacciatrice) / Un'aurora illumina l'incisione del ragno sulla parete (la Tessitrice)
+* **Dov'è il Cercatore?** Una donna si inginocchia davanti a un corvo, che diventa nebbia e le scorre dentro il petto; poi dalle spalle della donna spuntano ali di corvo. (L'immagine è accompagnata da un senso di solitudine e di struggimento.)
+* **Che cosa rappresenta la farfalla?** Una tomba coperta dalla neve che cade, accompagnata da un senso di dolore e di perdita. (Le Dame si rifiutano di aggiungere altro.)
+* **Che cosa sono i Templi?** Un fiume possente e impetuoso che ne incontra un altro, sollevando grandi spruzzi d'acqua dove i due si uniscono. (*I fiumi rappresentano le linee di forza. Il punto in cui si incrociano rappresenta un incrocio di linee di forza e il potere che convogliano.*)
+* **Che aspetto hanno i Templi? / Dove sono i Templi?** Tre cerchi di menhir: uno in mezzo a una torbiera (il Tempio della Palude, sovrapposto all'incisione del ragno); uno in cima a una collina piatta e terrazzata, circondata da alberi (il Tempio della Foresta, sovrapposto all'incisione del lupo); uno su uno sperone di montagna, appena sotto un promontorio erboso (il Tempio della Montagna, sovrapposto all'incisione del corvo).
+* **Che cosa è successo ai Templi? / Come si sono corrotti i Templi?** Un'ombra alta e scarna in piedi dentro un cerchio di menhir, con un pugnale stretto in una mano e l'altra che sanguina sul terreno; il sangue sale fino a inghiottire le pietre. (*L'ombra è Strahd. Il sangue rappresenta il rituale con cui profanò i Templi e «diventò la Terra».*)
+* **Come possiamo riconsacrare i Templi?** Tre gemme a forma di pigna: una che brilla di luce verde viridiano (la gemma della Tessitrice, sovrapposta all'incisione del ragno); una che brilla di luce verde smeraldo (la gemma della Cacciatrice, sovrapposta all'incisione del lupo); una che brilla di luce verde salvia (la gemma del Cercatore, sovrapposta all'incisione del corvo).
+* **Che cosa dobbiamo fare con le gemme?** Due corvi che si azzuffano smettono di litigare e seppelliscono la gemma verde viridiano al centro di un cerchio di menhir in mezzo a una torbiera (sovrapposta all'incisione del ragno); una vecchia volpe dal pelo argentato scaccia un'orda di ratti che inseguono un passero stremato, mentre alle loro spalle arde un fuoco, poi diventa a sua volta un passero, e i due passeri seppelliscono la gemma verde smeraldo al centro di un cerchio di menhir in cima a una collina piatta e terrazzata (sovrapposta all'incisione del lupo); una vecchia gatta fiera, con tre gattini addormentati fra le zampe, si scrolla di dosso il pipistrello che le copre gli occhi con le ali, volge lo sguardo verso l'alba e poi seppellisce la gemma verde salvia al centro di un cerchio di menhir su un basso sperone di montagna (sovrapposta all'incisione del corvo).
+* **Dov'è la terza gemma?** Un grande cratere in cima a un picco. (*I giocatori riconoscono il picco: è la vetta del Monte Ghakis.*)
 
-> [!abstract]+ **The Spear of the Huntress**
-> If the players summon the vestige of the Huntress while in possession of the *Spear of the Huntress*, the spear begins trembling in her presence. If a player presents the spear to the Huntress while her spirit remains, read:
+> [!abstract]+ **La lancia della Cacciatrice**
+> Se i giocatori evocano la vestigia della Cacciatrice mentre hanno con sé la *lancia della Cacciatrice*, la lancia comincia a tremare in sua presenza. Se un giocatore presenta la lancia alla Cacciatrice mentre il suo spirito è ancora lì, leggi:
 >
 > ---
 >
-> Green flames burst across the spear’s shaft and blade, though the wood and stone remain untouched. The crystals across the cavern hum in warm recognition, and the air fills with a sense of fierce, triumphant joy. Slowly, the flames recede, then eventually vanish—but the spear remains warm to the touch.
+> Fiamme verdi divampano sull'asta e sulla punta della lancia, senza intaccare il legno né la pietra. I cristalli della caverna vibrano come se la riconoscessero, con calore, e l'aria si riempie di una gioia feroce e trionfante. Lentamente le fiamme si ritirano, fino a sparire, ma la lancia resta calda al tatto.
 >
 > ---
 >
-> The spear then loses the properties of a *blood spear* and becomes a +2 *spear of warning* with the following additional properties:
-> * If you throw this spear as a ranged attack, it flies back to your hand at the end of your turn. 
-> * You can use a bonus action to cause harmless emerald-green flames to wreathe the spear’s blade, or to extinguish those flames. While aflame, the spear sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
-> * When you ignite the spear’s blade, or as a bonus action while the spear’s blade is aflame, you can cast *hunter’s mark*. When cast in this way, the spell doesn’t require your concentration. You can cast this spell a number of times equal to your Wisdom modifier (with one cast for a modifier of 0 or below), and the spear regains all expended uses at dawn.
+> La lancia perde allora le proprietà di una *lancia del sangue* e diventa una *lancia di avvertimento* +2 con queste proprietà aggiuntive:
+> * Se scagli questa lancia con un attacco a distanza, alla fine del tuo turno torna in volo nella tua mano.
+> * Puoi usare un'azione bonus per avvolgere la punta della lancia in fiamme innocue color verde smeraldo, o per spegnerle. Mentre è in fiamme, la lancia emette luce intensa in un raggio di 6 m e luce fioca per altri 6 m.
+> * Quando accendi la punta della lancia, o con un'azione bonus mentre la punta è in fiamme, puoi lanciare *marchio del cacciatore*. Lanciato in questo modo, l'incantesimo non richiede concentrazione. Puoi lanciarlo un numero di volte pari al tuo modificatore di Saggezza (una volta se il modificatore è 0 o inferiore), e la lancia recupera tutti gli utilizzi spesi all'alba.
 
-> [!info]+ **Reconsecrating the Fanes**
-> For the players to reconsecrate the Fanes, the following events must come to pass
+> [!info]+ **Riconsacrare i Templi**
+> Perché i giocatori possano riconsacrare i Templi, devono accadere queste cose:
 >
-> * Davian and Urwin Martikov must reconcile and bury the viridian gem at the center of the Swamp Fane, which lies across the Luna River from Berez.
-> * Arturi Radanavich and Rudolph van Richten must lift their curses and bury the emerald gem at the center of the Forest Fane, which stands around the Gulthias Tree at Yester Hill.
-> * Lady Fiona Wachter must deny Strahd’s authority, find hope for the future, and bury the sage-green gem at the center of the Mountain Fane, which lies at the base of Old Bonegrinder’s hill.
+> * Davian e Urwin Martikov devono riconciliarsi e seppellire la gemma verde viridiano al centro del Tempio della Palude, che si trova sull'altra sponda del fiume Luna rispetto a Berez.
+> * Arturi Radanavich e Rudolph van Richten devono liberarsi delle loro maledizioni e seppellire la gemma verde smeraldo al centro del Tempio della Foresta, che sorge intorno all'Albero Gulthias sulla Collina di Yester.
+> * Lady Fiona Wachter deve rinnegare l'autorità di Strahd, ritrovare la speranza nel futuro e seppellire la gemma verde salvia al centro del Tempio della Montagna, che si trova ai piedi della collina del Vecchio Tritaossa.
 
-> [!info]+ **The Fanes**
-> |Lady|Symbol|Fane|Fane Location|Gem|Gem Location|Quest|
+> [!info]+ **I Templi**
+> |Dama|Simbolo|Tempio|Posizione del Tempio|Gemma|Posizione della gemma|Missione|
 > |---|---|---|---|---|---|---|
-> |Weaver|Spider|Swamp|Berez|Viridian|Baba Lysaga's Hut|Reconcile Davian and Urwin Martikov|
-> |Huntress|Wolf|Forest|Yester Hill|Emerald|Blue Water Inn (Claudiu Martikov)|Lift Van Richten's Curse|
-> |Seeker|Raven|Mountain|Old Bonegrinder|Sage|Roc's Nest|Convince Lady Wachter to Defy Strahd|
+> |Tessitrice|Ragno|Palude|Berez|Verde viridiano|Capanna di Baba Lysaga|Riconciliare Davian e Urwin Martikov|
+> |Cacciatrice|Lupo|Foresta|Collina di Yester|Verde smeraldo|Locanda dell'Acqua Azzurra (Claudiu Martikov)|Togliere la maledizione di Van Richten|
+> |Cercatore|Corvo|Montagna|Vecchio Tritaossa|Verde salvia|Nido del roc|Convincere Lady Wachter a sfidare Strahd|
 
-> [!abstract]+ **Burebis’s Death**
-> As the players prepare to depart Soldav for [[#T1d. The Roc’s Nest]], Elder Burebis dies. When he does, the clouds over Soldav, as well as Burebis’s enchantments protecting Soldav’s location from its enemies, immediately dissipate. Although the Mountain Folk are disturbed by the clouds’ disappearance and mourn Burebis’s loss, Chief Diegia and Oroles insist (if the players ask) that Soldav is “more than capable of taking care of itself" in the players’ absence.
-## T1d. The Roc’s Nest
-If the players ask Chief Diegia’s family how to reach the peak of Mt. Ghakis, Como is happy to serve as their guide. (If the players previously befriended him in [[Arc R - Trials of the Mountain]], Scorilo gruffly insists on accompanying them as well, noting that “someone has to keep my brother from getting killed.") Como warns the players, however, that the roc of Mt. Ghakis is believed to nest atop the mountain, and asks, anxiously, whether they intend to anger or harm it.
+> [!abstract]+ **La morte di Burebis**
+> Mentre i giocatori si preparano a lasciare Soldav per il [[#T1d. Il nido del roc|nido del roc]], l'anziano Burebis muore. In quel momento le nubi sopra Soldav si dissolvono all'istante, e con loro gli incantesimi con cui Burebis nascondeva Soldav ai suoi nemici. Il Popolo della Montagna è turbato dalla scomparsa delle nubi e piange la perdita di Burebis, ma la capo Diegia e Oroles assicurano (se i giocatori lo chiedono) che Soldav è «più che capace di badare a sé stessa» in assenza dei giocatori.
+## T1d. Il nido del roc
+Se i giocatori chiedono alla famiglia della capo Diegia come raggiungere la vetta del Monte Ghakis, Como si offre volentieri di far loro da guida. (Se i giocatori ne avevano conquistato l'amicizia nell'[[Arc R - Trials of the Mountain|Arco R: Le prove della montagna]], anche Scorilo insiste burbero per accompagnarli, perché «qualcuno deve pur impedire che mio fratello si faccia ammazzare».) Como però avverte i giocatori che sulla cima della montagna, a quanto si dice, ha il nido il roc del Monte Ghakis, e chiede con ansia se intendano provocarlo o fargli del male.
 
-The journey from Soldav to the peak of Mt. Ghakis is four-and-a-half miles long and takes approximately three hours. As the players make the journey, read:
+Il viaggio da Soldav alla vetta del Monte Ghakis è lungo 6,75 km e dura circa tre ore. Durante il viaggio, leggi:
 
 <div class="description">
-<p>For the first mile, the journey follows the same path that ends at the Amber Temple—until Como turns onto barely visible side trail that climbs higher amidst the cliffs. The trail becomes a switchback, zig-zagging and hugging the steepest slopes of the mountain as the valley falls away before you.</p>
-<p>After climbing three hundred feet, the trail evens out, then turns south, as it climbs the curved plateau just beneath the mountain’s highest peak. The air is thin here, as low-hanging clouds roll like ordinary fog across the frigid slopes. Ahead, a sharp cliff rises to the mountain’s snow-capped peak, forcing you to climb, hand-over-hand, on your final ascent to the top.</p>
-<p>As you climb the cliff’s final ridge, the crags fall away to reveal a bowl-shaped indentation the size of Vallaki’s town square. Great pine trees, thirty feet or taller, have been uprooted and laid around the bowl’s edges, with the basin’s floor covered with great boughs of frozen oak branches and leaves. The entire array has been pressed down, as if by a great weight, and enormous black feathers the height of a man litter the floor.</p>
-<p>At the basin’s center, a small, pale green light shimmers faintly from its place nestled amidst two oak boughs.</p>
+<p>Per il primo chilometro e mezzo il cammino segue lo stesso sentiero che porta al Tempio d'Ambra, finché Como imbocca una traccia secondaria appena visibile che sale più in alto fra le rupi. La traccia diventa una serie di tornanti che serpeggiano aggrappati ai pendii più ripidi della montagna, mentre la valle sprofonda davanti a voi.</p>
+<p>Dopo una salita di 90 metri il sentiero spiana e piega a sud, risalendo l'altopiano ricurvo appena sotto la cima più alta della montagna. Qui l'aria è rarefatta, e nuvole basse rotolano come una nebbia qualunque sui pendii gelati. Più avanti una parete a picco sale fino alla vetta innevata e vi costringe ad arrampicarvi con le mani per l'ultimo tratto.</p>
+<p>Quando superate l'ultima cresta della parete, le rocce si aprono su una conca grande quanto la piazza di Vallaki. Pini enormi, alti 9 metri e più, sono stati sradicati e disposti lungo i bordi della conca, il cui fondo è coperto di grandi rami di quercia gelati, con tutte le foglie. L'intera struttura è schiacciata, come sotto un peso enorme, e il fondo è disseminato di gigantesche piume nere alte quanto un uomo.</p>
+<p>Al centro della conca, adagiata fra due rami di quercia, brilla debolmente una piccola luce verde pallido.</p>
 </div>
 
-The light is the third gem of the Wizard of Wines winery, stolen by the roc ten years ago at Madam Eva’s behest.
+La luce è la terza gemma dell'azienda vinicola del Mago dei Vini, rubata dal roc dieci anni fa su richiesta di Madam Eva.
 
-If the players approach or attempt to retrieve the gem, the **roc** of Mt. Ghakis descends atop the gem to confront them. Read:
+Se i giocatori si avvicinano alla gemma o provano a prenderla, il **roc** del Monte Ghakis si posa sopra la gemma per affrontarli. Leggi:
 
 <div class="description">
-<p>The wind roars with a sudden gale, and the skies above boil beneath the weight of an immense, avian shadow. A pair of enormous claws breaks through the clouds, followed by a span of gargantuan black wings, and—finally—a ravenlike head whose beak could devour a horse whole.</p>
-<p>The mountain shudders as the roc of Mt. Ghakis slams onto the earth below, stones and branches crunching beneath its talons. Its throat feathers rustle as it lowers its great head in warning, a low, guttural croak emanating from its throat.</p>
+<p>Il vento ruggisce in una raffica improvvisa, e il cielo ribolle sotto il peso di un'immensa ombra d'uccello. Un paio di artigli enormi squarcia le nubi, poi compare un'apertura di gigantesche ali nere e infine una testa simile a quella di un corvo, con un becco che potrebbe ingoiare un cavallo intero.</p>
+<p>La montagna trema quando il roc del Monte Ghakis si abbatte sul terreno, e pietre e rami scricchiolano sotto i suoi artigli. Le piume della gola frusciano mentre abbassa la grande testa in segno di avvertimento, e dalla gola gli esce un gracchiare basso e gutturale.</p>
 </div>
 
 ![[The_Roc_of_Mt._Ghakis_no_Strahd_hires.jpg]]
-<span class="credit">"The Roc of Mount Ghakis" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">«Il roc del Monte Ghakis» di Caleb Cleveland. Sostienilo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-The roc won’t let the players take the gem unless they prove themselves worthy of doing so. The players can prove themselves worthy using the following methods, or in any other reasonable way:
+Il roc non lascia che i giocatori prendano la gemma finché non dimostrano di esserne degni. Possono farlo in questi modi o in qualunque altro modo ragionevole:
 
-* The players can fight and bloody the roc (see statistics below).
-* The players can reveal the ignited blade of the *Sunsword*.
-* The players can reveal their knowledge of the roc’s role in stealing the gem, as well as its reason for doing so (i.e., to keep the gem safe from Strahd at Madam Eva’s instruction).
+* Combattere il roc e ridurlo sanguinante (vedi le statistiche più sotto).
+* Mostrare la lama accesa della *Spada del Sole*.
+* Dimostrare di sapere che è stato il roc a rubare la gemma e perché l'ha fatto (cioè per tenerla al sicuro da Strahd, su istruzione di Madam Eva).
 
-The roc attacks if the players attempt to steal the gem, or otherwise act dishonorably (e.g., attempting to cast *charm monster* on it).
+Il roc attacca se i giocatori provano a rubare la gemma o comunque si comportano in modo disonorevole (per esempio se provano a lanciargli contro *charme sui mostri*).
 
-> [!info]+ **Fighting the Roc**
-> The roc has the statistics of an ordinary **roc**, but with the following changes:
+> [!info]+ **Combattere il roc**
+> Il roc ha le statistiche di un normale **roc**, con queste modifiche:
 > 
-> * It can use a bonus action to shape-shift into a Tiny raven or return to its true form. Other than its size and actions, its game statistics are the same in each form.
-> * It regains 40 hit points at the start of each of its turns if it’s physically touching the stone of Mt. Ghakis. The roc dies only if it starts its turn with 0 hit points and doesn’t regenerate.
-> * It can take up to three reactions per round, but only one per turn. If an effect or condition would prevent it from taking reactions, it loses one reaction instead..
-> * It gains the following reaction: ***Indomitable.*** **Trigger:** A hostile creature ends its turn. **Effect:** The roc can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)
-> * It gains the following reaction: ***Raven’s Gale (1/round).*** *Trigger:* A hostile creature ends its turn within 10 feet of the roc. *Effect:* The roc flaps its mighty wings, forcing each creature in a 30-foot cone centered on the first creature to succeed on a DC 21 Strength saving throw or be thrown 20 feet away. A creature that fails the saving throw by 10 or more also falls prone.
+> * Può usare un'azione bonus per trasformarsi in un corvo Minuscolo o per tornare alla sua vera forma. A parte la taglia e le azioni, le sue statistiche di gioco sono le stesse in entrambe le forme.
+> * Recupera 40 punti ferita all'inizio di ciascuno dei suoi turni se è a contatto con la pietra del Monte Ghakis. Il roc muore solo se inizia il turno con 0 punti ferita e non si rigenera.
+> * Può effettuare fino a tre reazioni per round, ma solo una per turno. Se un effetto o una condizione gli impedirebbe di effettuare reazioni, perde invece una reazione.
+> * Ottiene questa reazione: ***Indomabile.*** **Innesco:** una creatura ostile termina il suo turno. **Effetto:** il roc può ripetere il tiro salvezza contro un effetto o una condizione che lo colpisce in quel momento. (La reazione non ha effetto se l'effetto o la condizione in origine non richiedeva di fallire un tiro salvezza.)
+> * Ottiene questa reazione: ***Raffica del corvo (1/round).*** *Innesco:* una creatura ostile termina il suo turno entro 3 m dal roc. *Effetto:* il roc sbatte le possenti ali, e ogni creatura in un cono di 9 m centrato sulla prima creatura deve superare un tiro salvezza su Forza con CD 21 o essere scagliata a 6 m di distanza. Una creatura che fallisce il tiro salvezza di 10 o più cade anche prona.
 
-If the players prove themselves worthy, read:
+Se i giocatori dimostrano di essere degni, leggi:
 
 <div class="description">
-<p>A great shudder rolls through the roc’s frame, followed by a deep, rumbling trill that echoes from its beak. It steps back, then slowly lowers its head in an unmistakeable bow.</p>
+<p>Un grande fremito attraversa il corpo del roc, seguito da un trillo profondo e rimbombante che gli risuona nel becco. L'uccello fa un passo indietro, poi abbassa lentamente la testa in un inchino inconfondibile.</p>
 </div>
 
-Once the players prove themselves, the roc is glad to confirm the following information through nods and shakes of its head (though it won’t volunteer information the players don’t already know or suspect):
+Quando i giocatori hanno dato prova di sé, il roc conferma volentieri queste informazioni annuendo o scuotendo la testa (ma non rivela niente che i giocatori non sappiano o non sospettino già):
 
-* Its true name is Turul, and it was once the familiar of the Seeker, who is now Madam Eva.
-* Its nest lies upon the peak of Mt. Ghakis.
-* It is no friend of Strahd’s.
-* If the players previously encountered it as a raven by the Luna River in [[Arc M - The Dragon's Manor]], it was the raven they encountered.
-* It stole the third enchanted gem from the Wizard of Wines winery at Madam Eva’s behest—to keep it safe from Strahd, and to await the day when the saviors the Seeker foretold would come to find it.
-* It can’t (and won’t) follow the players to the valley below to aid them in their fight against Strahd. (Its place is Mt. Ghakis.) However, it can transport them down from the mountain to a destination of their choice.
+* Il suo vero nome è Turul, e un tempo era il famiglio del Cercatore, che ora è Madam Eva.
+* Il suo nido si trova sulla vetta del Monte Ghakis.
+* Non è amico di Strahd.
+* Se i giocatori avevano già incontrato un corvo vicino al fiume Luna nell'[[Arc M - The Dragon's Manor|Arco M: Il maniero del drago]], era lui.
+* Ha rubato la terza gemma incantata dall'azienda vinicola del Mago dei Vini su richiesta di Madam Eva, per tenerla al sicuro da Strahd e per aspettare il giorno in cui i salvatori annunciati dal Cercatore sarebbero venuti a cercarla.
+* Non può (e non vuole) seguire i giocatori nella valle per aiutarli nella lotta contro Strahd. (Il suo posto è il Monte Ghakis.) Però può portarli giù dalla montagna fino a una destinazione a loro scelta.
 
-If the players don’t ask the roc for a ride, it bows its head and lowers a wing to the ground toward them, then tilts its head inquisitively, as if inviting them to climb it. 
+Se i giocatori non chiedono al roc un passaggio, l'uccello china la testa e abbassa un'ala fino a terra verso di loro, poi inclina il capo con aria interrogativa, come per invitarli a salire.
 
-The roc is willing to fly the players to any single location in Barovia except Castle Ravenloft. Due to its great size and speed, no journey takes more than twenty minutes. Upon delivering the players, it lingers for no more than one minute, then returns to Mt. Ghakis.
-# T2. Descending the Mount
-> [!info]+ **Travel Times**
-> ***Wizard of Wines to Vallaki.*** The journey from the Wizard of Wines to and from Vallaki is six and one-quarter miles long and takes just over two hours.
+Il roc è disposto a portare in volo i giocatori in un qualunque luogo di Barovia, ma uno solo, tranne il Castello di Ravenloft. Grazie alla sua mole e alla sua velocità, nessun viaggio dura più di venti minuti. Dopo aver lasciato i giocatori a destinazione si trattiene al massimo un minuto, poi torna al Monte Ghakis.
+# T2. La discesa dal monte
+> [!info]+ **Tempi di viaggio**
+> ***Dal Mago dei Vini a Vallaki.*** Il viaggio fra il Mago dei Vini e Vallaki, all'andata come al ritorno, è lungo circa 9,4 km e dura poco più di due ore.
 >
-> ***Wizard of Wines to Berez.*** The journey from the Wizard of Wines to and from Berez is nine and one-quarter miles long and takes just over three hours.
+> ***Dal Mago dei Vini a Berez.*** Il viaggio fra il Mago dei Vini e Berez, all'andata come al ritorno, è lungo circa 13,9 km e dura poco più di tre ore.
 >
-> ***Vallaki to Berez.*** The journey from Vallaki to Berez is four and one-half miles long and takes one and one-half hours.
+> ***Da Vallaki a Berez.*** Il viaggio da Vallaki a Berez è lungo 6,75 km e dura un'ora e mezza.
 
-> [!abstract]+ **Kasimir’s Departure**
-> When the players descend the mountain, Kasimir shares that he must return to the dusk elf encampment at <span class="citation">N9. Vistani Camp (p. 119)</span> to see that his people are protected. “When Patrina first appeared in my dreams, I never believed myself the one who would wield the weapon of sunlight against Zarovich," he says. “I knew that I would uncover it—guard it, if needed, until it found its rightful hand. But my place is with my people, and it is time I returned to them."
+> [!abstract]+ **La partenza di Kasimir**
+> Quando i giocatori scendono dalla montagna, Kasimir spiega che deve tornare all'accampamento degli elfi del crepuscolo, in <span class="citation">N9. Accampamento vistani (p. 119)</span>, per assicurarsi che la sua gente sia protetta. «Quando Patrina apparve per la prima volta nei miei sogni, non ho mai creduto di essere io quello che avrebbe brandito l'arma di luce solare contro Zarovich», dice. «Sapevo che l'avrei trovata e che, se necessario, l'avrei custodita finché non fosse arrivata nella mano giusta. Ma il mio posto è con la mia gente, ed è ora che torni da loro».
 > 
-> Before Kasimir departs, he asks, thoughtfully: “The Vistani have a tradition—the blood rite, they call it—by which a man may become Vistani himself, though he was not born amongst their wagons. When we came to the valley, I shared the blood rite with the man who brought us here; I let Kasimir of Othrondil die, and was reborn as Kasimir Velikov, blood-brother of the Vistani." He pauses, then continues: “But Patrina could never let go of the past. While I sought to move forward, she could only ever look back. I can’t help but wonder, though—if she had completed the blood rite as I did, and so became Vistani, would she have fallen down the dark path she did?"
+> Prima di partire Kasimir chiede, pensieroso: «I Vistani hanno una tradizione, la chiamano il rito del sangue, con cui un uomo può diventare a sua volta Vistani anche se non è nato fra i loro carrozzoni. Quando arrivammo nella valle, compii il rito del sangue con l'uomo che ci aveva portati qui; lasciai morire Kasimir di Othrondil e rinacqui come Kasimir Velikov, fratello di sangue dei Vistani». Fa una pausa, poi continua: «Ma Patrina non riuscì mai a lasciarsi alle spalle il passato. Mentre io cercavo di andare avanti, lei sapeva solo guardarsi indietro. Eppure non posso fare a meno di chiedermi se, avesse compiuto il rito del sangue come me e fosse diventata Vistani, sarebbe caduta lungo quel sentiero oscuro».
 > 
-> Kasimir is grateful for any thoughts and insights the players might share.
+> Kasimir è grato di qualunque riflessione o intuizione i giocatori vogliano condividere.
 
-> [!abstract]+ **Urwin’s Plea**
-> Following his family’s kidnapping at Baba Lysaga’s hands in [[#T3. The Witch of Berez]], Urwin Martikov sent raven messengers to the following locations to await the players’ return: the woods near <span class="citation">Chapter 12: The Wizard of Wines (p. 173)</span>; the woods near <span class="citation">I. Black Carriage (p. 37)</span>; <span class="citation">P. Luna River Crossroads (p. 40)</span>; and <span class="citation">R. Raven River Crossroads (p. 40)</span>. Each messenger bears the following letter, which is tied to its leg in the form of a small parchment scroll:
+> [!abstract]+ **La supplica di Urwin**
+> Dopo che Baba Lysaga ha rapito la sua famiglia ([[#T3. La strega di Berez|La strega di Berez]]), Urwin Martikov ha mandato corvi messaggeri ad aspettare il ritorno dei giocatori in questi luoghi: i boschi vicino al <span class="citation">Capitolo 12: Il Mago dei Vini (p. 173)</span>, i boschi vicino a <span class="citation">I. Carrozza nera (p. 37)</span>, <span class="citation">P. Crocevia del fiume Luna (p. 40)</span> e <span class="citation">R. Crocevia del fiume Corvo (p. 40)</span>. Ogni messaggero porta legata alla zampa, arrotolata in una piccola pergamena, questa lettera:
 >
 > ---
 >
-> Emergency—please come to Blue Water Inn. —Urwin
+> Emergenza, vi prego, venite alla Locanda dell'Acqua Azzurra. Urwin
 >
 > ---
 >
-> Once the players have received its message, a raven flies away to alert the other ravens, as well as Urwin, that its message has been delivered.
+> Quando i giocatori hanno ricevuto il messaggio, il corvo vola via per avvertire gli altri corvi, e Urwin, che il messaggio è stato consegnato.
 > 
-> If spoken to using a *speak with animals* spell, a raven shares that the winery was attacked by a “great evil," and that its flock speaks of a lone survivor who fled to the “home of blue water." (The raven, which didn’t witness the attack personally, is referring to Baba Lysaga and the Blue Water Inn, respectively.)
+> Se gli si parla con un incantesimo *parlare con gli animali*, il corvo racconta che l'azienda vinicola è stata attaccata da un «grande male» e che il suo stormo parla di un unico sopravvissuto fuggito alla «casa dell'acqua azzurra». (Il corvo, che non ha assistito all'attacco di persona, intende rispettivamente Baba Lysaga e la Locanda dell'Acqua Azzurra.)
 
-> [!info]+ **Victor’s Plea**
-> Shortly after the players descend the mountain (e.g., as they conclude their investigation of the Wizard of Wines), if the players befriended or assisted him in [[Arc H - The Lost Soul]], one of them receives the following *sending* from Victor Vallakovich: *I need your help. Lady Wachter has betrayed us, the town has gone mad, and I can’t reach Stella. When will you return?*
+> [!info]+ **La supplica di Victor**
+> Poco dopo che i giocatori sono scesi dalla montagna (per esempio quando finiscono di indagare al Mago dei Vini), se nell'[[Arc H - The Lost Soul|Arco H: L'anima perduta]] avevano fatto amicizia con Victor Vallakovich o lo avevano aiutato, uno di loro riceve da lui questo messaggio con *inviare*: *Ho bisogno del vostro aiuto. Lady Wachter ci ha traditi, la città è impazzita e non riesco a raggiungere Stella. Quando tornate?*
 >
-> If the players ask for further information, Victor replies with the following additional *sending*: *Too much to share like this. Come to my family’s home. Don’t let the gate guards see you.*
-## T2a. The Wizard of Wines
-If the players return to <span class="citation">Chapter 12: The Wizard of Wines (p. 173)</span>, read the following as they approach the winery:
+> Se i giocatori chiedono altre informazioni, Victor risponde con un secondo *inviare*: *Troppe cose da dire così. Venite a casa della mia famiglia. Non fatevi vedere dalle guardie alle porte.*
+## T2a. Il Mago dei Vini
+Se i giocatori tornano al <span class="citation">Capitolo 12: Il Mago dei Vini (p. 173)</span>, leggi questo testo mentre si avvicinano all'azienda:
 
 <div class="description">
-<p>Great holes mar the winery’s northern second-story wall, showing splintered, rubble-strewn rooms beyond. Below, several unfamiliar scarecrows stand silently amidst the vineyard, their painted gazes leering through the mist.</p>
+<p>Grandi squarci deturpano la parete nord del primo piano dell'azienda, e oltre si vedono stanze sventrate e piene di macerie. Più in basso, fra i filari, se ne stanno immobili alcuni spaventapasseri che non avete mai visto, e i loro sguardi dipinti ghignano attraverso la nebbia.</p>
 </div>
 
-> [!lore]+ **Baba Lysaga’s Revenge**
-> After learning of the players’ victory in [[Arc J - The Stolen Gem]], the swamp witch Baba Lysaga resolved to punish them for their defiance, and began crafting more **scarecrows** and **strix** to aid in her endeavor. After hearing of the players’ exploits in [[Arc P - Ravenloft Heist]] and observing Argynvost’s beacon following the events of [[Arc Q - A Shining Beacon]], Lysaga put her foul plan into motion.
+> [!lore]+ **La vendetta di Baba Lysaga**
+> Quando ha saputo della vittoria dei giocatori nell'[[Arc J - The Stolen Gem|Arco J: La gemma rubata]], la strega della palude Baba Lysaga ha deciso di punirli per la loro sfida e ha cominciato a costruire altri **spaventapasseri** e altre **strigi** che la aiutassero nell'impresa. Quando ha sentito delle imprese dei giocatori nell'[[Arc P - Ravenloft Heist|Arco P: Il colpo a Ravenloft]] e ha visto il faro di Argynvost acceso dopo gli eventi dell'[[Arc Q - A Shining Beacon|Arco Q: Un faro splendente]], Lysaga ha messo in atto il suo piano immondo.
 >
-> While the players lingered upon Mt. Ghakis, Baba Lysaga rode her creeping hut down the Luna River, to Luna Lake, then rampaged through the Svalich Woods until she reached the Wizard of Wines vineyard. She, along with her freshly crafted scarecrows and strix, assaulted the winery in the dead of night, first plucking Martin and Viggo from their beds, then imprisoning the other Martikovs in silver cages as they fought in vain to rescue the children. Only the teenage Claudiu escaped, carrying the Winery’s sole remaining enchanted gem and fleeing alone through the night sky to Vallaki, where he sought refuge at the Blue Water Inn.
+> Mentre i giocatori si trovavano sul Monte Ghakis, Baba Lysaga ha guidato la sua capanna strisciante giù per il fiume Luna fino al Lago Luna, poi ha devastato i Boschi di Svalich fino a raggiungere il vigneto del Mago dei Vini. Con i suoi spaventapasseri e le sue strigi appena costruiti ha assalito l'azienda nel cuore della notte: prima ha strappato Martin e Viggo dai loro letti, poi ha rinchiuso in gabbie d'argento gli altri Martikov, che lottavano invano per salvare i bambini. Solo il giovane Claudiu è riuscito a fuggire con l'unica gemma incantata rimasta all'azienda, volando da solo nel cielo notturno fino a Vallaki, dove si è rifugiato alla Locanda dell'Acqua Azzurra.
 >
-> Now, Baba Lysaga lurks in the depths of Berez, waiting for the players to come rescue their beloved feathered friends—and finally die at her hands.
+> Ora Baba Lysaga è in agguato nelle profondità di Berez e aspetta che i giocatori vengano a salvare i loro cari amici piumati, per farli finalmente morire per mano sua.
 
-> [!abstract]+ **Investigating the Trail**
-> A player who succeeds on a DC 13 Wisdom (Survival) check identifies enormous gouges and trenches pockmarking the wet earth in a rough “trail." The trail, which was left by Baba Lysaga’s creeping hut, leads south through the Svalich Woods to Luna Lake, then north beneath Tsolenka Pass along the Luna River, until ending in <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>. If the players follow the trail, their journey to Berez is eight and one-half miles long and takes five and one-third hours.
+> [!abstract]+ **Seguire le tracce**
+> Un giocatore che supera una prova di Saggezza (Sopravvivenza) con CD 13 nota grandi solchi e fosse che crivellano la terra bagnata, formando una specie di «pista». La pista, lasciata dalla capanna strisciante di Baba Lysaga, porta a sud attraverso i Boschi di Svalich fino al Lago Luna, poi a nord sotto il Passo di Tsolenka lungo il fiume Luna, fino al <span class="citation">Capitolo 10: Le rovine di Berez (p. 161)</span>. Se i giocatori seguono la pista, il viaggio fino a Berez è lungo 12,75 km e dura cinque ore e venti minuti.
 
-A total of seven **scarecrows** stands silently still around the winery. They attack any creature that attempts to enter the winery.
+Sette **spaventapasseri** in tutto se ne stanno immobili intorno all'azienda. Attaccano qualunque creatura provi a entrarci.
 
-> [!combat]- **Combat - The Wizard of Wines**  
-> **Combat Level**: Mild
-> **Expected Character Level**: 9
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
-> **Expected HP Consumption:** 18%
+> [!combat]- **Combattimento: il Mago dei Vini**  
+> **Livello di combattimento**: lieve
+> **Livello previsto dei personaggi**: 9
+> **Alleati:** Ireena Kolyana (GS 2), Ezmerelda d'Avenir (GS 4)
+> **Consumo previsto di pf:** 18%
 > 
-> ### **Enemies:**
+> ### **Nemici:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 giocatori | 4 giocatori | 5 giocatori | 6 giocatori |
 > |-|-|-|-|-|
-> | Scarecrow | 5 | 6 | 7 | 8 |
+> | Spaventapasseri | 5 | 6 | 7 | 8 |
 
 
-If the players enter the winery, they find it empty. If they ascend to the second floor, they find that the wall between the two <span class="citation">W19. Sleeping Quarters (p. 179)</span> has been reduced to splinters and rubbles, and that the rooms’ shared southern wall has been marked with the following message, engraved in scorched, blackened wood: “*A Mother Never Forgets.*"
-## T2b. The Town of Vallaki
-### Town Gates
-If the players return to Vallaki, they find each gate guarded by two **guards**, two **cultists** loyal to Lady Wachter, and one **cult fanatic**. Players who previously met the cult fanatics Andrej, Boris, and Miruna in [[Arc H - The Lost Soul]] recognize them at the western Sunset Gate, the Northern Zarovich Gate, and the Eastern Morning Gate, respectively.
+Se i giocatori entrano nell'azienda, la trovano vuota. Se salgono al primo piano, scoprono che la parete fra i due <span class="citation">W19. Dormitorio (p. 179)</span> è stata ridotta in schegge e macerie e che sulla parete sud comune alle due stanze è stato inciso nel legno annerito e bruciato questo messaggio: «*Una madre non dimentica mai*».
+## T2b. La cittadina di Vallaki
+### Le porte della città
+Se i giocatori tornano a Vallaki, trovano ogni porta sorvegliata da due **guardie**, due **cultisti** fedeli a Lady Wachter e un **fanatico del culto**. I giocatori che nell'[[Arc H - The Lost Soul|Arco H: L'anima perduta]] hanno già incontrato i fanatici del culto Andrej, Boris e Miruna li riconoscono rispettivamente alla Porta del Tramonto a ovest, alla Porta Zarovich a nord e alla Porta del Mattino a est.
 
-If the players attempt to enter through the gates, the guards solemnly inform them that they are under strict orders to forbid the players from entering Vallaki. The cult fanatics can further share that these orders have been issued by Burgomistress Lady Fiona Wachter, for unknown reasons. A player who succeeds on a DC 15 Charisma (Intimidation) check can convince the guards to allow them to pass. Otherwise, the guards and cultists attack if the players defy their command and attempt to enter Vallaki anyway. 
+Se i giocatori provano a entrare dalle porte, le guardie li informano in tono solenne di avere l'ordine tassativo di non farli entrare a Vallaki. I fanatici del culto possono aggiungere che l'ordine viene dalla borgomastra, Lady Fiona Wachter, per motivi che non conoscono. Un giocatore che supera una prova di Carisma (Intimidire) con CD 15 può convincere le guardie a lasciarli passare. Altrimenti, se i giocatori disobbediscono e provano a entrare a Vallaki lo stesso, guardie e cultisti attaccano.
 
-If the players kill any guards or cultists, the guards and cultists fight to the death, attempting to kill the players in return. Otherwise, the guards and cultists use nonlethal tactics, surrendering if three or more guards and/or cultists are knocked unconscious.
+Se i giocatori uccidono anche solo una guardia o un cultista, guardie e cultisti combattono fino alla morte e cercano a loro volta di uccidere i giocatori. Altrimenti usano tattiche non letali e si arrendono se tre o più di loro finiscono privi di sensi.
 
-> [!abstract]+ **Breaking Into Vallaki**
-> Vallaki’s guard patrols are largely as described in <span class="citation">Town Gates (p. 95)</span>. However, an additional six **cultists** loyal to Lady Wachter patrol the walls alongside the **guards**.
+> [!abstract]+ **Entrare di nascosto a Vallaki**
+> Le pattuglie di guardia di Vallaki sono più o meno come descritte in <span class="citation">Porte della città (p. 95)</span>. Però, insieme alle **guardie**, sorvegliano le mura altri sei **cultisti** fedeli a Lady Wachter.
 
-> [!lore]+ **The Long Arm of Castle Ravenloft**
-> Following the players’ exploits in [[Arc Q - A Shining Beacon]], and upon learning of the players’ close relationship to Lady Fiona Wachter following [[Arc F - Lady Wachter's Wish]] and [[Arc H - The Lost Soul]], Strahd sent an emissary from Castle Ravenloft to bring Lady Wachter—and Vallaki—to heel. Hoping to spread fear and despair in advance of the Grand Conjunction, Strahd commanded his emissary to “break the town’s spirit"—by any means necessary. (If Volenta Popofsky, Ludmilla Vilisevic, or Anastrasya Karelova are still alive, Strahd designated one of them as his emissary. Otherwise, he turned his fanatical Vistani **spy** Eliza into a **vampire spawn** and designated her as his emissary instead. If neither Volenta, Ludmilla, Anastrasya, nor Eliza survive, Strahd instead chose the **vampire spawn** Helga, who is as described in <span class="citation">K32. Maid in Hell (p. 64)</span>.
+> [!lore]+ **Il lungo braccio del Castello di Ravenloft**
+> Dopo le imprese dei giocatori nell'[[Arc Q - A Shining Beacon|Arco Q: Un faro splendente]], e dopo aver saputo dello stretto legame fra i giocatori e Lady Fiona Wachter nato nell'[[Arc F - Lady Wachter's Wish|Arco F: Il desiderio di Lady Wachter]] e nell'[[Arc H - The Lost Soul|Arco H: L'anima perduta]], Strahd ha mandato un emissario dal Castello di Ravenloft per ridurre all'obbedienza Lady Wachter, e Vallaki con lei. Sperando di diffondere paura e disperazione prima della Grande Congiunzione, Strahd ha ordinato al suo emissario di «spezzare lo spirito della città» con qualunque mezzo. (Se Volenta Popofsky, Ludmilla Vilisevic o Anastrasya Karelova sono ancora vive, Strahd ha scelto una di loro come emissaria. Altrimenti ha trasformato la sua fanatica **spia** vistani Eliza in una **progenie vampirica** e ha scelto lei. Se non sono sopravvissute né Volenta né Ludmilla né Anastrasya né Eliza, Strahd ha scelto invece la **progenie vampirica** Helga, descritta in <span class="citation">K32. Una cameriera all'inferno (p. 64)</span>.)
 >
-> Upon arriving at Wachterhaus, Strahd’s emissary presented Lady Wachter with a signed and sealed proclamation from Castle Ravenloft designating the emissary as Strahd’s official “voice" in Vallaki. A reluctant Lady Wachter invited the emissary into her home and allowed the emissary to place a coffin in <span class="citation">N4q. Storage Room (p. 114)</span>. 
+> Appena arrivato a Wachterhaus, l'emissario di Strahd ha presentato a Lady Wachter un proclama firmato e sigillato dal Castello di Ravenloft che lo nominava «voce» ufficiale di Strahd a Vallaki. Lady Wachter, controvoglia, lo ha invitato in casa e gli ha permesso di sistemare una bara in <span class="citation">N4q. Ripostiglio (p. 114)</span>.
 >
-> That night, the emissary used a *potion of waking slumber*, brewed by the coven of **Barovian witches** in Castle Ravenloft, to place Stella, Nikolai, and Karl Wachter within an unconscious trance. The emissary’s accomplices, two loyal **vampire spawn**, then secretly guided Lady Wachter’s three children out of Wachterhaus to <span class="citation">N5. Arasek Stockyard (p. 115)</span>, killed Gunther and Yelena Arasek, and locked the Wachter children in a warehouse adjoining <span class="citation">N6. Coffin Maker’s Shop (p. 116)</span>.
+> Quella notte l'emissario ha usato una *pozione del sonno vigile*, preparata dalla congrega di **streghe baroviane** del Castello di Ravenloft, per far cadere Stella, Nikolai e Karl Wachter in una trance incosciente. I complici dell'emissario, due fedeli **progenie vampiriche**, hanno poi portato di nascosto i tre figli di Lady Wachter fuori da Wachterhaus fino al <span class="citation">N5. Recinto di Arasek (p. 115)</span>, hanno ucciso Gunther e Yelena Arasek e hanno chiuso a chiave i ragazzi Wachter in un magazzino accanto alla <span class="citation">N6. Bottega del fabbricante di bare (p. 116)</span>.
 >
-> The following morning, the emissary presented Lady Wachter with a list of edicts to issue—and warned her that, although her children were “in a safe place," they would remain so only during Lady Wachter’s “good behavior." Recognizing that the emissary intended her children to serve as hostages, Lady Wachter has obediently followed the emissary’s commands ever since. 
+> La mattina dopo l'emissario ha consegnato a Lady Wachter un elenco di editti da emanare e l'ha avvertita che i suoi figli erano «in un posto sicuro», ma che ci sarebbero rimasti solo finché lei «si fosse comportata bene». Capito che l'emissario intendeva usare i suoi figli come ostaggi, da allora Lady Wachter esegue docilmente i suoi ordini.
 >
-> Thus far, Lady Wachter has ordered that the players be barred from Vallaki and that posters be placed across town naming them enemies of Vallaki. She has also restricted Vallakians from leaving town, ordered that Father Lucian Petrovich be arrested for “treason," and commanded that the Blue Water Inn be closed for “harboring enemies of Vallaki." If the players befriended him, when the toymaker Gadof Blinsky began selling dolls shaped like the players, Lady Wachter also had Blinsky thrown in the stocks.
+> Finora Lady Wachter ha ordinato di vietare ai giocatori l'ingresso a Vallaki e di affiggere in tutta la città manifesti che li dichiarano nemici di Vallaki. Ha anche impedito ai vallakiani di lasciare la città, ha fatto arrestare padre Lucian Petrovich per «tradimento» e ha fatto chiudere la Locanda dell'Acqua Azzurra perché «dava rifugio a nemici di Vallaki». Se i giocatori ne avevano conquistato l'amicizia, quando il giocattolaio Gadof Blinsky ha cominciato a vendere bambole con le loro fattezze Lady Wachter lo ha fatto anche mettere alla gogna.
 >
-> Rumors speak of a group of Vallakian guards who visited Wachterhaus to speak out against Lady Wachter’s new edicts—and who vanished, presumed to be dead or spirited away to Castle Ravenloft. It’s also common knowledge that swarms of bats now sleep somewhere in Vallaki, flying out into the streets to spy for the Burgomistress each night. As such, although some Vallakians chafe under the new regime, none dare stand up to it.
+> Si dice che un gruppo di guardie vallakiane sia andato a Wachterhaus a protestare contro i nuovi editti di Lady Wachter e sia sparito: si pensa che siano morti o che siano stati portati via al Castello di Ravenloft. È anche risaputo che ora degli sciami di pipistrelli dormono da qualche parte a Vallaki e ogni notte escono in volo per le strade a spiare per conto della borgomastra. Per questo, anche se alcuni vallakiani mal sopportano il nuovo regime, nessuno osa opporsi.
 
-> [!item]+ **Potion of Waking Slumber**
-> A creature that drinks this potion must succeed on a DC 17 Wisdom saving throw or fall asleep for one hour. While asleep in this way, it hears and obeys any commands provided to it in a language that it understands.
+> [!item]+ **Pozione del sonno vigile**
+> Una creatura che beve questa pozione deve superare un tiro salvezza su Saggezza con CD 17 o addormentarsi per un'ora. Mentre dorme in questo modo, sente ed esegue qualunque ordine le venga dato in una lingua che capisce.
 
-> [!info]+ **Securing the Hostages**
-> The hostages’ location is concealed by a *beacon of private sanctum* (see below), which Strahd’s emissary obtained from Baba Lysaga and deployed in Arasek Stockyard. (This is why Victor has been unable to reach Stella using his *sending* spell.)
+> [!info]+ **La custodia degli ostaggi**
+> Il luogo dove si trovano gli ostaggi è nascosto da un *faro del santuario privato* (vedi più sotto), che l'emissario di Strahd ha avuto da Baba Lysaga e ha sistemato nel Recinto di Arasek. (Per questo Victor non è riuscito a raggiungere Stella con il suo incantesimo *inviare*.)
 
-> [!item]+ **Beacon of Private Sanctum**
-> *Wondrous item, rare*
+> [!item]+ **Faro del santuario privato**
+> *Oggetto meraviglioso, raro*
 >
-> Once per day (resetting at dawn), the bearer of this six-inch iron cage may speak its command word to cast *private sanctum* with no material components. When cast indoors in this way, the *private sanctum* extends no further than the walls of the structure that contains it.
+> Una volta al giorno (l'uso si ricarica all'alba), chi porta questa gabbietta di ferro di 15 cm può pronunciarne la parola di comando per lanciare *santuario privato di Mordenkainen* senza componenti materiali. Se lanciato al chiuso in questo modo, il *santuario privato* non si estende oltre le pareti dell'edificio che lo contiene.
 
-### St. Andral’s Church
-If the players pass <span class="citation">N1. St. Andral’s Church (p. 97)</span> during the daytime, read:
+### La Chiesa di Sant'Andral
+Se i giocatori passano davanti alla <span class="citation">N1. Chiesa di Sant'Andral (p. 97)</span> durante il giorno, leggi:
 
 <div class="description">
-<p>A dark-haired woman wearing a gray robe stands on the church steps, a small crowd encircling her from below. An unfamiliar poster has been posted on the church doors behind her.</p>
-<p>"The silver light is a message from Ezra, She Who Dwells in the Mists," the woman proclaims. “We must not surrender to darkness, nor lose ourselves to fantasies of a golden dawn. We must bend with the wind and seek solace in the mist, for only there may we endure what must be endured."</p>
+<p>Sui gradini della chiesa c'è una donna dai capelli scuri con una veste grigia, circondata da una piccola folla. Sulle porte della chiesa, alle sue spalle, è stato affisso un manifesto che non avete mai visto.</p>
+<p>«La luce d'argento è un messaggio di Ezra, Colei che dimora nelle Nebbie», proclama la donna. «Non dobbiamo arrenderci alle tenebre, né perderci in fantasie di un'alba dorata. Dobbiamo piegarci al vento e cercare conforto nella nebbia, perché solo lì potremo sopportare ciò che va sopportato».</p>
 </div>
 
-If the players previously encountered her in [[Arc H - The Lost Soul]], they recognize her as the **cult fanatic** Ruxandra, a loyal follower of Lady Wachter. (The “silver light" Ruxandra refers to is the lit beacon of Argynvostholt.) If inspected, the poster reads: “BEWARE: ARMED AND DANGEROUS. REPORT ANY SIGHTINGS TO THE BURGOMISTRESS," and features a rough sketch and description of the players.
+Se l'hanno già incontrata nell'[[Arc H - The Lost Soul|Arco H: L'anima perduta]], i giocatori riconoscono in lei il **fanatico del culto** Ruxandra, fedele seguace di Lady Wachter. (La «luce d'argento» di cui parla Ruxandra è il faro acceso di Argynvostholt.) Se lo si esamina, il manifesto dice: «ATTENZIONE: ARMATI E PERICOLOSI. SEGNALATE OGNI AVVISTAMENTO ALLA BORGOMASTRA», con un ritratto approssimativo e la descrizione dei giocatori.
 
-> [!abstract]+ **Ruxandra’s Sermon**
-> If the players continue to listen to her sermon, Ruxandra preaches to the crowd that, “as Ezra teaches us, to want is to wound ourselves. When we struggle, we harm only ourselves and those we love. To find peace, we must surrender, opening ourselves to what *is*, rather than what *cannot be*. In dreams, we shall find only bitterness; only through acceptance may we find solace and comfort."
+> [!abstract]+ **La predica di Ruxandra**
+> Se i giocatori continuano ad ascoltare la predica, Ruxandra insegna alla folla che «come ci insegna Ezra, desiderare è ferire sé stessi. Quando lottiamo, facciamo del male solo a noi stessi e a chi amiamo. Per trovare la pace dobbiamo arrenderci e aprirci a ciò che *è*, non a ciò che *non può essere*. Nei sogni troveremo solo amarezza; solo nell'accettazione potremo trovare consolazione e conforto».
 
-If Milivoj is alive and in Vallaki, add:
+Se Milivoj è vivo e si trova a Vallaki, aggiungi:
 
 <div class="description">
-<p>A dozen yards away, Milivoj kneels amidst the churchyard, a small pile of weeds beneath his muddy gloves and a brown cloak draped across his shoulders. He glares silently at the woman from afar.</p>
+<p>A una decina di metri, Milivoj è inginocchiato nel cortile della chiesa, con un mucchietto di erbacce sotto i guanti infangati e un mantello marrone sulle spalle. Da lontano fissa la donna in silenzio, con occhi torvi.</p>
 </div>
 
-If the players make themselves known to him, Milivoj greets them with anxious gratitude. He can share the following information:
+Se i giocatori si fanno riconoscere, Milivoj li saluta con una gratitudine piena d'ansia. Può dire quanto segue:
 
-* Three days ago, Lady Wachter began issuing new edicts, which she claims “bear the authority of Castle Ravenloft."
-* Her first edict was to imprison Father Lucian for “treason" against Vallaki and Castle Ravenloft. (Milivoj doesn’t know where Lucian is being imprisoned.)
-* With Father Lucian imprisoned, the church has closed down, though Milivoj has done his best to maintain the grounds and interior. He’s also invited Yeska to live with his family.
-* Since the church’s closure, a small group of Vallakians have begun using the church’s front steps to preach the religion of Ezra, the Goddess of the Mists. (Milivoj’s mouth twists in distaste at the name. “Father Lucian’s sermons always encouraged us to dream of a brighter future," he spits. “But this ‘Ezra’ seems to just want everyone to sit down and shut up.")
-* Lady Wachter has also issued other edicts. She’s shut down the Blue Water Inn, forbidden most Vallakians from leaving the walls, and (if the players have previously befriended Gadof Blinsky) thrown the local toymaker into the stocks. (Milivoj, who has always found Blinsky Toys to be fairly creepy, isn’t sure how he feels about the latter.) Lady Wachter has also put up posters warning of the players and asking that any sightings be reported to Wachterhaus.
-* Rumor has it that a group of Vallakian guards went to Wachterhaus to protest Lady Wachter’s edicts, and that all of them were either killed or sent to Castle Ravenloft. 
-* Every night, bats fill the streets of Vallaki, with many hanging from roofs or eavesdropping through windows. Nobody knows where they sleep during the day.
+* Tre giorni fa Lady Wachter ha cominciato a emanare nuovi editti che, secondo lei, «hanno l'autorità del Castello di Ravenloft».
+* Il primo editto è stato imprigionare padre Lucian per «tradimento» contro Vallaki e il Castello di Ravenloft. (Milivoj non sa dove sia imprigionato Lucian.)
+* Con padre Lucian in prigione la chiesa ha chiuso, anche se Milivoj ha fatto del suo meglio per curarne il terreno e l'interno. Ha anche invitato Yeska a vivere con la sua famiglia.
+* Da quando la chiesa è chiusa, un gruppetto di vallakiani ha cominciato a usarne i gradini d'ingresso per predicare la religione di Ezra, la dea delle Nebbie. (A quel nome Milivoj storce la bocca per il disgusto. «Le prediche di padre Lucian ci incoraggiavano sempre a sognare un futuro migliore», sputa. «Questa "Ezra", invece, pare che voglia solo farci stare seduti e zitti».)
+* Lady Wachter ha emanato anche altri editti. Ha chiuso la Locanda dell'Acqua Azzurra, ha proibito a quasi tutti i vallakiani di uscire dalle mura e (se i giocatori avevano conquistato l'amicizia di Gadof Blinsky) ha messo alla gogna il giocattolaio del posto. (Milivoj, che ha sempre trovato abbastanza inquietanti i Giocattoli Blinsky, non sa bene che cosa pensare di quest'ultima cosa.) Lady Wachter ha anche fatto affiggere manifesti che mettono in guardia contro i giocatori e chiedono di segnalare a Wachterhaus ogni avvistamento.
+* Si dice che un gruppo di guardie vallakiane sia andato a Wachterhaus a protestare contro gli editti di Lady Wachter e che siano stati tutti uccisi o mandati al Castello di Ravenloft.
+* Ogni notte i pipistrelli riempiono le strade di Vallaki, e molti si appendono ai tetti o origliano alle finestre. Nessuno sa dove dormano di giorno.
 
-Milivoj asks the players to convince Lady Wachter to free Father Lucian from imprisonment—and, he adds darkly, to free him themselves if she refuses. He is grateful for any aid the players are able to promise or offer.
-### The Blue Water Inn
-If the players pass or approach <span class="citation">N2. Blue Water Inn (p. 98)</span>, they find the tavern evidently deserted. A large sign has been hammered into the front door, and reads: “CLOSED BY ORDER OF THE BURGOMISTRESS." (The door is unlocked.)
+Milivoj chiede ai giocatori di convincere Lady Wachter a liberare padre Lucian e, aggiunge cupo, di liberarlo loro stessi se lei si rifiuta. È grato di qualunque aiuto i giocatori possano promettere o offrire.
+### La Locanda dell'Acqua Azzurra
+Se i giocatori passano davanti alla <span class="citation">N2. Locanda dell'Acqua Azzurra (p. 98)</span> o ci si avvicinano, la trovano in apparenza deserta. Sulla porta d'ingresso è stato inchiodato un grande cartello: «CHIUSO PER ORDINE DELLA BORGOMASTRA». (La porta non è chiusa a chiave.)
 
-If the players enter the inn during the day, they find <span class="citation">N2c. Taproom (p. 100)</span> and <span class="citation">N2e. Kitchen (p. 101)</span> empty, but hear Danika’s voice drifting across <span class="citation">N2j. Great Balcony (p. 102)</span>, originating from <span class="citation">N2o. Boys’ Bedroom (p. 102)</span>.
+Se i giocatori entrano nella locanda di giorno, trovano vuote la <span class="citation">N2c. Sala comune (p. 100)</span> e la <span class="citation">N2e. Cucina (p. 101)</span>, ma sentono la voce di Danika che arriva attraverso la <span class="citation">N2j. Grande balconata (p. 102)</span> dalla <span class="citation">N2o. Camera dei ragazzi (p. 102)</span>.
 
-A player who succeeds on a DC 10 Wisdom (Perception) check overhears Danika saying: “—know you want to go outside, but I need you to stay out of trouble right now, and that means staying inside. Okay?" A moment later, Brom and Bray’s voices murmur something unintelligible, and Danika replies: “I knew I could count on you to understand. Now play quietly, okay?" She then exits <span class="citation">N2o. Boys’ Bedroom (p. 102)</span>.
+Un giocatore che supera una prova di Saggezza (Percezione) con CD 10 sente Danika che dice: «…so che volete uscire, ma adesso ho bisogno che stiate lontani dai guai, e questo vuol dire restare dentro. D'accordo?». Un attimo dopo Brom e Bray mormorano qualcosa di incomprensibile, e Danika risponde: «Lo sapevo che potevo contare su di voi. Adesso giocate in silenzio, va bene?». Poi esce dalla <span class="citation">N2o. Camera dei ragazzi (p. 102)</span>.
 
-> [!info]+ **Yeska’s Second Home**
-> If Milivoj is dead or imprisoned in Castle Ravenloft, Yeska is a guest at the Blue Water Inn, and has received a cot in <span class="citation">N2o. Boys’ Bedroom (p. 102)</span> while he waits and hopes for Father Lucian to be set free. If the players speak with him, he asks that they “bring Father Lucian back" while fighting back tears.
+> [!info]+ **La seconda casa di Yeska**
+> Se Milivoj è morto o prigioniero al Castello di Ravenloft, Yeska è ospite alla Locanda dell'Acqua Azzurra e ha ricevuto una branda nella <span class="citation">N2o. Camera dei ragazzi (p. 102)</span>, mentre aspetta e spera che padre Lucian venga liberato. Se i giocatori parlano con lui, Yeska li prega, trattenendo le lacrime, di «riportare indietro padre Lucian».
 
-***Speaking to Danika.*** Danika is grateful to see the players, and insists on preparing them hot tea and reheated potato soup in the kitchen. Though she hopes to learn of the players’ recent exploits, she can also share the following information if asked:
+***Parlare con Danika.*** Danika è grata di rivedere i giocatori e insiste per preparare loro del tè caldo e riscaldare della zuppa di patate in cucina. Spera di sapere delle ultime imprese dei giocatori, ma se glielo chiedono può anche dire quanto segue:
 
-* Urwin is currently away from the inn, gathering information from a flock of ravens passing through the eastern woods. He should return within the hour. 
-* The Blue Water Inn is currently closed, by order of Lady Wachter for “harboring traitors against Vallaki and Castle Ravenloft." It hasn’t had any customers for two days.
-* Three days ago, Lady Wachter began issuing new edicts, which she claims “bear the authority of Castle Ravenloft." In addition to closing the inn, she’s imprisoned the priest of St. Andral’s Church, forbidden most Vallakians from leaving the walls, and (if the players have previously befriended Blinsky) thrown the local toymaker, Gadof Blinsky into the stocks.
-* Two nights ago, a group of Vallakian guards went to Wachterhaus to protest Lady Wachter’s edicts. None returned.
-* Dozens of swarms of bats have taken up residence in Arasek Stockyard, swarming out every night to fill the streets of Vallaki, with many hanging from roofs or eavesdropping through windows. The bats are hostile to ravens, forcing Urwin’s raven spies to skirt the town’s walls instead of passing through.
+* Urwin al momento è fuori dalla locanda a raccogliere informazioni da uno stormo di corvi di passaggio nei boschi a est. Dovrebbe tornare entro un'ora.
+* La Locanda dell'Acqua Azzurra per ora è chiusa, per ordine di Lady Wachter, perché «dava rifugio a traditori di Vallaki e del Castello di Ravenloft». Non ha clienti da due giorni.
+* Tre giorni fa Lady Wachter ha cominciato a emanare nuovi editti che, secondo lei, «hanno l'autorità del Castello di Ravenloft». Oltre a chiudere la locanda, ha imprigionato il sacerdote della Chiesa di Sant'Andral, ha proibito a quasi tutti i vallakiani di uscire dalle mura e (se i giocatori avevano conquistato l'amicizia di Blinsky) ha messo alla gogna il giocattolaio del posto, Gadof Blinsky.
+* Due notti fa un gruppo di guardie vallakiane è andato a Wachterhaus a protestare contro gli editti di Lady Wachter. Non è tornato nessuno.
+* Decine di sciami di pipistrelli si sono stabiliti nel Recinto di Arasek ed escono ogni notte a riempire le strade di Vallaki, e molti si appendono ai tetti o origliano alle finestre. I pipistrelli sono ostili ai corvi, e per questo i corvi spia di Urwin devono girare intorno alle mura della città invece di attraversarla.
 
-Danika can also share concerning news regarding the Wizard of Wines winery:
+Danika può anche dare notizie preoccupanti sull'azienda vinicola del Mago dei Vini:
 
-* Two nights ago, the witch of Berez, Baba Lysaga, attacked the Wizard of Wines atop a living hut, which shattered the winery’s upper walls in the dead of night.
-* Claudiu, Stefenia and Dag’s eldest teenage son, escaped alone, and is staying in <span class="citation">N2n. Private Guest Room (p. 102)</span>. The rest of the Martikov clan was captured and spirited away—presumably to Berez.
-* Claudiu brought with him the Winery’s final enchanted gem, which Urwin and Danika took for safekeeping. (The gem is hidden in the locked chest in <span class="citation">N2h. Ravens’ Loft (p. 101)</span>. If Izek Strazni previously found the chest in [[Arc G - The Strazni Siblings]], the Martikovs have relocated it to <span class="citation">N2q. Secret Attic (p. 103)</span>.)
-* Urwin’s raven spies have been working to track the Martikovs into Berez. Urwin hopes to have more information when he returns in an hour.
-* Last night, Claudiu tried to sneak out of the Blue Water Inn to fly to Berez. Urwin stopped him, and brought him back to the inn. (Danika and Urwin agree that fifteen-year-old Claudiu is too young and inexperienced to be allowed to take field missions for the Keepers of the Feather, and that Baba Lysaga would surely capture or slaughter him if she found him there.)
+* Due notti fa la strega di Berez, Baba Lysaga, ha attaccato il Mago dei Vini in groppa a una capanna vivente, che nel cuore della notte ha sfondato le pareti del piano superiore dell'azienda.
+* Claudiu, il figlio maggiore di Stefania e Dag, ancora adolescente, è fuggito da solo e ora alloggia nella <span class="citation">N2n. Camera privata per gli ospiti (p. 102)</span>. Il resto del clan Martikov è stato catturato e portato via, probabilmente a Berez.
+* Claudiu ha portato con sé l'ultima gemma incantata dell'azienda, che Urwin e Danika custodiscono. (La gemma è nascosta nel forziere chiuso a chiave del <span class="citation">N2h. Soppalco dei corvi (p. 101)</span>. Se nell'[[Arc G - The Strazni Siblings|Arco G: I fratelli Strazni]] Izek Strazni aveva trovato il forziere, i Martikov lo hanno spostato nella <span class="citation">N2q. Soffitta segreta (p. 103)</span>.)
+* I corvi spia di Urwin stanno cercando di seguire le tracce dei Martikov fino a Berez. Urwin spera di avere altre informazioni quando torna, fra un'ora.
+* Ieri notte Claudiu ha cercato di sgattaiolare fuori dalla Locanda dell'Acqua Azzurra per volare a Berez. Urwin lo ha fermato e lo ha riportato alla locanda. (Danika e Urwin sono d'accordo che Claudiu, a quindici anni, è troppo giovane e inesperto per partecipare alle missioni sul campo dei Custodi della Piuma e che Baba Lysaga di sicuro lo catturerebbe o lo farebbe a pezzi se lo trovasse lì.)
 
-> [!abstract]+ **Where’s Muriel?**
-> If the players ask for the location of Muriel Vinshaw, Danika can share that Muriel has been dispatched to the eastern Svalich Wood on an assignment to recruit flocks of ravens to aid the Keepers of the Feather. “Urwin thinks a storm is coming," Danika says softly. “I don’t doubt that he’s right."
+> [!abstract]+ **Dov'è Muriel?**
+> Se i giocatori chiedono dove sia Muriel Vinshaw, Danika racconta che Muriel è stata mandata nei Boschi di Svalich orientali per reclutare stormi di corvi che aiutino i Custodi della Piuma. «Urwin pensa che stia arrivando una tempesta», dice Danika a bassa voce. «Non ho dubbi che abbia ragione».
 
-***Speaking with Claudiu.*** If the players seek to speak with Claudiu, they can find him sitting on the bed in <span class="citation">N2n. Private Guest Room (p. 102)</span> and staring silently out the southern window. Claudiu, who is shocked and despondent following Baba Lysaga’s attack, can share the following information if asked:
+***Parlare con Claudiu.*** Se i giocatori cercano Claudiu, lo trovano seduto sul letto nella <span class="citation">N2n. Camera privata per gli ospiti (p. 102)</span>, con lo sguardo fisso fuori dalla finestra a sud, in silenzio. Claudiu, sconvolto e abbattuto dopo l'attacco di Baba Lysaga, se glielo chiedono può dire quanto segue:
 
-* Two nights ago, he and his brothers, Martin and Viggo, were asleep in their beds in <span class="citation">W19. Sleeping Quarters (p. 179)</span> at the Wizard of Wines winery, when a pair of enormous living tree roots broke through the wall and grabbed Martin and Viggo.
-* When “Uncle Adrian," “Uncle Elvir," “Mom" (Stefania), “Dad" (Dag), and “Grandpa Davian" joined the fight, a pair of giant scarecrow-like birds—**strix**—filled them with silver needles, preventing them from transforming, while a marching platoon of **scarecrows** used their leering glares to paralyze them from below.
-* The roots belonged to an enormous living tree stump, upon which sat a run-down hut. The hut, the birds, and the scarecrows were commanded by a cackling old woman—the witch Baba Lysaga—who oversaw the fight from a flying giant’s skull that she rode through the air.
-* During the attack, Claudiu saw a familiar green light seeping from the hut’s doorway—a light he recognized as belonging to one of the Winery’s stolen enchanted gems. (If asked, Claudiu shares his belief that the stolen gem is hidden somewhere within the hut.)
-* Claudiu escaped with the Winery’s final enchanted gem in the chaos, but all of his family members were captured. “I ran away," he growls, stifling a hiccuping sob as his hands curl into trembling fists. “They were in trouble, and all I could think of was *running away*." (Claudiu doesn’t know where his family was taken, but believes them to be in Berez.)
-* Claudiu has begged Danika and Urwin to allow him to travel to Berez to rescue his family. However, when he attempted to leave in secret last night, Urwin and a **swarm of ravens** met him in the southern Svalich Wood and ordered him to return to the Blue Water Inn. (Frustrated, and loathing himself for his cowardice and passivity, Claudiu obeyed.)
+* Due notti fa lui e i suoi fratelli, Martin e Viggo, dormivano nei loro letti nel <span class="citation">W19. Dormitorio (p. 179)</span> dell'azienda vinicola del Mago dei Vini, quando un paio di enormi radici vive hanno sfondato la parete e hanno afferrato Martin e Viggo.
+* Quando «zio Adrian», «zio Elvir», «mamma» (Stefania), «papà» (Dag) e «nonno Davian» si sono uniti alla lotta, una coppia di uccelli giganti simili a spaventapasseri, le **strigi**, li ha crivellati di aghi d'argento, impedendo loro di trasformarsi, mentre un plotone di **spaventapasseri** in marcia li paralizzava da terra con i loro sguardi maligni.
+* Le radici appartenevano a un enorme ceppo d'albero vivente su cui poggiava una capanna malandata. La capanna, gli uccelli e gli spaventapasseri erano agli ordini di una vecchia che rideva sguaiata, la strega Baba Lysaga, che dirigeva la lotta dall'alto, in volo su un teschio di gigante.
+* Durante l'attacco Claudiu ha visto filtrare dalla porta della capanna una luce verde familiare: l'ha riconosciuta come quella di una delle gemme incantate rubate all'azienda. (Se glielo chiedono, Claudiu dice di credere che la gemma rubata sia nascosta da qualche parte nella capanna.)
+* Nel caos Claudiu è fuggito con l'ultima gemma incantata dell'azienda, ma tutti i suoi familiari sono stati catturati. «Sono scappato», ringhia, soffocando un singhiozzo mentre le mani gli si stringono in pugni tremanti. «Erano in pericolo, e io riuscivo solo a pensare a *scappare*». (Claudiu non sa dove sia stata portata la sua famiglia, ma crede che sia a Berez.)
+* Claudiu ha supplicato Danika e Urwin di lasciarlo andare a Berez a salvare la sua famiglia. Però, quando ieri notte ha cercato di partire di nascosto, Urwin e uno **sciame di corvi** lo hanno raggiunto nei Boschi di Svalich meridionali e gli hanno ordinato di tornare alla Locanda dell'Acqua Azzurra. (Frustrato, e pieno di disprezzo per la propria vigliaccheria e passività, Claudiu ha obbedito.)
 
-Claudiu demands that the players rescue his family—and, more quietly, asks that they take him with them when they do. “I ran away once," he says fiercely. “I can’t run away again." (If pressed, Claudiu reluctantly admits that he hasn’t been officially inducted into the Keepers of the Feather, that he’s only fifteen years old, and that although his father Dag has been training him in the use of a shortsword and crossbow, he’s yet to master either.)
+Claudiu pretende che i giocatori salvino la sua famiglia e, più piano, chiede di portarlo con loro quando lo faranno. «Sono scappato una volta», dice con foga. «Non posso scappare di nuovo». (Se lo si incalza, Claudiu ammette a malincuore di non essere ancora entrato ufficialmente nei Custodi della Piuma, di avere solo quindici anni e di non padroneggiare ancora né la spada corta né la balestra, anche se suo padre Dag lo sta addestrando a usarle.)
 
-***Urwin’s Return.*** Urwin returns within an hour of the players’ arrival, entering through the small southern window in <span class="citation">N2q. Secret Attic (p. 103)</span> in raven form, then assuming human form and descending through <span class="citation">N2p. Master Bedroom (p. 103)</span> to <span class="citation">N2c. Taproom (p. 100)</span>.
+***Il ritorno di Urwin.*** Urwin torna entro un'ora dall'arrivo dei giocatori: entra in forma di corvo dalla finestrella sud della <span class="citation">N2q. Soffitta segreta (p. 103)</span>, poi riprende forma umana e scende attraverso la <span class="citation">N2p. Camera padronale (p. 103)</span> fino alla <span class="citation">N2c. Sala comune (p. 100)</span>.
 
-Urwin is grimly pleased to see the players, but clearly frustrated. He can share the following information if asked:
+Urwin è cupamente contento di vedere i giocatori, ma è chiaramente frustrato. Se glielo chiedono, può dire quanto segue:
 
-* None of his ravens have been able to catch a glimpse of Berez, which has been swallowed up by an enormous hedge-like structure of vines and thorns hundreds of feet in height.
-* Dozens of swarms of bats have taken up residence in Arasek Stockyard, swarming out every night to fill the streets of Vallaki, with many hanging from roofs or eavesdropping through windows. The bats, which often visit Wachterhaus, are hostile to ravens, forcing Urwin’s raven spies to skirt the town’s walls instead of passing through. (If asked, Urwin can share that the bats appear to sleep in the warehouse to the immediate left of <span class="citation">N6. Coffin Maker’s Shop (p. 116)</span>.)
-* However, last night, one of Urwin’s flocks caught a glimpse of a strange, cloaked individual exiting Wachterhaus from the rear entrance, then vanishing into the town’s alleyways. This individual didn’t match any known descriptions of the Wachter family or its servants, and Urwin isn’t certain who it could be. (Due to the bats’ presence, the ravens weren’t able to see whether the cloaked figure ever returned.)
+* Nessuno dei suoi corvi è riuscito a intravedere Berez, inghiottita da un'enorme struttura di rovi e rampicanti simile a una siepe, alta decine e decine di metri.
+* Decine di sciami di pipistrelli si sono stabiliti nel Recinto di Arasek ed escono ogni notte a riempire le strade di Vallaki, e molti si appendono ai tetti o origliano alle finestre. I pipistrelli, che vanno spesso a Wachterhaus, sono ostili ai corvi, e per questo i corvi spia di Urwin devono girare intorno alle mura della città invece di attraversarla. (Se glielo chiedono, Urwin può dire che i pipistrelli sembrano dormire nel magazzino subito a sinistra della <span class="citation">N6. Bottega del fabbricante di bare (p. 116)</span>.)
+* Ieri notte, però, uno degli stormi di Urwin ha intravisto una strana figura incappucciata uscire da Wachterhaus dall'ingresso sul retro e sparire nei vicoli della città. La figura non corrispondeva a nessuna descrizione nota della famiglia Wachter o dei suoi servitori, e Urwin non sa chi possa essere. (Per via dei pipistrelli, i corvi non hanno potuto vedere se la figura incappucciata sia poi tornata.)
 
-Urwin is upset at his family’s capture by Baba Lysaga, and frustrated with himself for his inability to help them from Vallaki. “A spymaster with no spies," he growls quietly. “I’m useless to them here—but what more can I do?"
+Urwin è sconvolto per la cattura della sua famiglia da parte di Baba Lysaga e frustrato con sé stesso perché da Vallaki non può aiutarla. «Un capo delle spie senza spie», ringhia sottovoce. «Qui non servo a niente, ma che altro posso fare?».
 
-Urwin apologizes for asking the players to aid his family once again, but asks them to rescue them from Baba Lysaga’s clutches. If the players depart for Berez, proceed to [[#T3. The Witch of Berez]].
+Urwin si scusa per dover chiedere ancora una volta ai giocatori di aiutare la sua famiglia, ma li prega di strapparla dalle grinfie di Baba Lysaga. Se i giocatori partono per Berez, passa a [[#T3. La strega di Berez|La strega di Berez]].
 
-> [!abstract]+ **Urwin Joins the Party**
-Urwin is surprised if the players invite him to travel to Berez with them, and asks to confer with Danika before doing so. Following a brief, private conversation, he agrees to join the players to rescue his family, then retrieves a shortsword, a heavy crossbow and bolts, and a set of studded leather armor from a chest beneath the bed in <span class="citation">N2p. Master Bedroom (p. 103)</span>.
+> [!abstract]+ **Urwin si unisce al gruppo**
+Urwin è sorpreso se i giocatori lo invitano ad andare con loro a Berez e chiede di parlarne prima con Danika. Dopo una breve conversazione privata accetta di unirsi ai giocatori per salvare la sua famiglia, poi prende una spada corta, una balestra pesante con i quadrelli e un'armatura di cuoio borchiato da un forziere sotto il letto della <span class="citation">N2p. Camera padronale (p. 103)</span>.
 
 
 <div class="statblock">
     <h2>Urwin Martikov</h2>
-    <em>Medium humanoid (human, shapechanger), lawful good</em>
+    <em>Umanoide Medio (umano, mutaforma), legale buono</em>
     <hr>
-    <strong>Armor Class</strong> 15 (studded leather armor) (16 with <strong><em>Beacon of Protection</strong></em>)
+    <strong>Classe Armatura</strong> 15 (armatura di cuoio borchiato) (16 con il <strong><em>Faro di protezione</em></strong>)
     <br>
-    <strong>Hit Points</strong> 63 (14d8)
+    <strong>Punti Ferita</strong> 63 (14d8)
     <br>
-    <strong>Speed</strong> 30 ft. (fly 50 ft. in raven and hybrid forms)
+    <strong>Velocità</strong> 9 m (volare 15 m in forma di corvo e in forma ibrida)
     <hr>
     <table class="ability-table">
         <thead>
             <tr>
-                <th>STR</th>
-                <th>DEX</th>
-                <th>CON</th>
+                <th>FOR</th>
+                <th>DES</th>
+                <th>COS</th>
                 <th>INT</th>
-                <th>WIS</th>
-                <th>CHA</th>
+                <th>SAG</th>
+                <th>CAR</th>
             </tr>
         </thead>
         <tbody>
@@ -409,638 +409,638 @@ Urwin is surprised if the players invite him to travel to Berez with them, and a
         </tbody>
     </table>
     <hr>
-    <strong>Skills</strong> Insight +4, Perception +6<br>
-    <strong>Senses</strong> passive Perception 16<br>
-    <strong>Languages</strong> Common (can't speak in raven form)<br>
-    <strong>Challenge Rating</strong> 2<br>
-    <strong>Proficiency Bonus</strong> +2
+    <strong>Abilità</strong> Intuizione +4, Percezione +6<br>
+    <strong>Sensi</strong> Percezione passiva 16<br>
+    <strong>Linguaggi</strong> Comune (non può parlare in forma di corvo)<br>
+    <strong>Sfida</strong> 2<br>
+    <strong>Bonus di competenza</strong> +2
     <hr>
-    <p><strong><em>Regeneration.</em></strong> Urwin regains 10 hit points at the start of his turn if he hasn't taken necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon since his last turn. He dies only if he starts his turn with 0 hit points and doesn't regenerate.</p>
-    <p><strong><em>Mimic.</em></strong> Urwin can mimic simple sounds he has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.</p>
-    <h3>Actions</h3>
-    <p><strong><em>Multiattack.</em></strong> Urwin makes two weapon attacks, one of which can be with his heavy crossbow.</p>
-    <p><strong><em>Shortsword.</em></strong> (Humanoid or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
-    <p><strong><em>Heavy Crossbow.</em></strong> (Humanoid or Hybrid Form Only) <em>Ranged Weapon Attack:</em> +5 to hit, range 100/400 ft., one target. <em>Hit:</em> 8 (1d10 + 3) piercing damage.</p>
-    <p><strong><em>Beak.</em></strong> (Raven or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 1 piercing damage in raven form, or 5 (1d4 + 3) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.</p>
-    <h3>Bonus Actions</h3>
-    <p><strong><em>Shapechange.</em></strong> Urwin polymorphs into a raven-humanoid hybrid or into a raven, or back into his human form. His statistics, other than his size, are the same in each form. Any equipment he is wearing or carrying isn't transformed. He reverts back to his human form if he dies.</p>
+    <p><strong><em>Rigenerazione.</em></strong> Urwin recupera 10 punti ferita all'inizio del suo turno se dal turno precedente non ha subito danni necrotici né danni contundenti, perforanti o taglienti da un'arma argentata. Muore solo se inizia il turno con 0 punti ferita e non si rigenera.</p>
+    <p><strong><em>Imitazione.</em></strong> Urwin sa imitare suoni semplici che ha sentito, come una persona che sussurra, un neonato che piange o il verso stridulo di un animale. Una creatura che sente quei suoni capisce che sono imitazioni se supera una prova di Saggezza (Intuizione) con CD 10.</p>
+    <h3>Azioni</h3>
+    <p><strong><em>Multiattacco.</em></strong> Urwin effettua due attacchi con un'arma, e uno dei due può essere con la balestra pesante.</p>
+    <p><strong><em>Spada corta.</em></strong> (solo in forma umanoide o ibrida) <em>Attacco con arma da mischia:</em> +5 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 6 (1d6 + 3) danni perforanti.</p>
+    <p><strong><em>Balestra pesante.</em></strong> (solo in forma umanoide o ibrida) <em>Attacco con arma a distanza:</em> +5 al tiro per colpire, gittata 30/120 m, un bersaglio. <em>Colpito:</em> 8 (1d10 + 3) danni perforanti.</p>
+    <p><strong><em>Becco.</em></strong> (solo in forma di corvo o ibrida) <em>Attacco con arma da mischia:</em> +5 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 1 danno perforante in forma di corvo, oppure 5 (1d4 + 3) danni perforanti in forma ibrida. Se il bersaglio è un umanoide, deve superare un tiro salvezza su Costituzione con CD 10, altrimenti è colpito dalla maledizione della licantropia del corvo mannaro.</p>
+    <h3>Azioni bonus</h3>
+    <p><strong><em>Mutare forma.</em></strong> Urwin si trasforma in un ibrido di corvo e umanoide o in un corvo, oppure torna alla sua forma umana. Le sue statistiche, a parte la taglia, sono le stesse in ogni forma. L'equipaggiamento che indossa o trasporta non si trasforma. Se muore, torna alla forma umana.</p>
 </div>
 
-> [!abstract]+ **The Third Gem**
-> If the players show Urwin the gem they obtained from [[#T1d. The Roc’s Nest]], he assumes that the players recovered it from Berez and asks, awed, how they managed to do so. If the players inform him that this is the third enchanted gem, which was stolen from the winery ten years ago, Urwin is struck speechless and asks, raggedly, to hold and see it. (“Ten years since I left," he mumbles, turning it over in his hands. “Did you know that my sons have never met their grandfather? All for *this*.")
+> [!abstract]+ **La terza gemma**
+> Se i giocatori mostrano a Urwin la gemma presa al [[#T1d. Il nido del roc|nido del roc]], lui pensa che l'abbiano recuperata a Berez e chiede, ammirato, come ci siano riusciti. Se i giocatori gli dicono che si tratta della terza gemma incantata, quella rubata all'azienda dieci anni fa, Urwin resta senza parole e chiede, con voce rotta, di poterla vedere e tenere in mano. («Dieci anni da quando me ne sono andato», borbotta, rigirandola fra le mani. «Lo sapevate che i miei figli non hanno mai conosciuto il nonno? Tutto per *questa*».)
 >
-> Urwin pleads with the players to share the gem’s location—and thief, if they know its identity. He is shocked to learn that the gem was hidden at the peak of Mt. Ghakis—but begins laughing with a deep, disbelieving chuckle upon learning that it was taken by the roc of Mt. Ghakis. “Madness," he croaks in bewildered delight, wiping a tear from his eye. “Everything else in the world has gone insane. Why not this?"
-### Vallakovich Manor
-If the players visit <span class="citation">N3. Burgomaster’s Mansion (p. 103)</span>, Victor Vallakovich greets them at the door and ushers them to <span class="citation">N3t. Victor’s Workroom (p. 109)</span> to “talk in private," hissing that “*her* spies could be listening" (referring to Lady Wachter). (If Vargas Vallakovich died in [[Arc R - Trials of the Mountain]], Victor leads the players to <span class="citation">N3l. Library (p. 107)</span>, which he has adopted as his own study since his father’s death.)
+> Urwin supplica i giocatori di dirgli dove si trovava la gemma e chi l'aveva rubata, se lo sanno. È sbalordito quando scopre che la gemma era nascosta sulla vetta del Monte Ghakis, ma quando viene a sapere che l'ha presa il roc del Monte Ghakis scoppia in una risata profonda e incredula. «Follia», gracchia, frastornato e felice, asciugandosi una lacrima. «Tutto il resto del mondo è impazzito. Perché non anche questo?»
+### Villa Vallakovich
+Se i giocatori vanno alla <span class="citation">N3. Villa del borgomastro (p. 103)</span>, Victor Vallakovich li accoglie alla porta e li accompagna nel <span class="citation">N3t. Laboratorio di Victor (p. 109)</span> per «parlare in privato», sibilando che «le *sue* spie potrebbero ascoltare» (intende Lady Wachter). (Se Vargas Vallakovich è morto nell'[[Arc R - Trials of the Mountain|Arco R: Le prove della montagna]], Victor porta i giocatori nella <span class="citation">N3l. Biblioteca (p. 107)</span>, che dalla morte del padre ha fatto diventare il suo studio.)
 
-> [!abstract]+ **Vargas’s Death**
-> If Vargas Vallakovich died in [[Arc R - Trials of the Mountain]], both Victor and Vargas’s wife, Lydia Petrovna, have struggled to adapt to his death. Although Victor stands to inherit Vargas’s lands and titles when he comes of age—thereby preserving the family’s wealth and status—both Victor and his mother have found it difficult to accustom themselves to a world without Vargas in it. 
+> [!abstract]+ **La morte di Vargas**
+> Se Vargas Vallakovich è morto nell'[[Arc R - Trials of the Mountain|Arco R: Le prove della montagna]], sia Victor sia la moglie di Vargas, Lydia Petrovna, faticano ad accettarne la morte. Victor erediterà le terre e i titoli di Vargas quando diventerà maggiorenne, e così la famiglia conserverà ricchezza e rango, ma sia lui sia la madre trovano difficile abituarsi a un mondo senza Vargas.
 >
-> Though Victor bore no great love for his father, and despised him in many respects, Vargas was a constant in his life; “without Father," he can share quietly, “this place feels . . . empty." Meanwhile, Lydia—who once loved Vargas, and did her best to love him as he grew ever-more despotic and permissive of Izek’s cruelty—has largely withdrawn to <span class="citation">N3p. Bridal Gown (p. 108)</span>, reflecting upon the man she married and the monster he became.
+> Victor non amava molto il padre e per molti versi lo disprezzava, ma Vargas era una presenza costante nella sua vita; «senza mio padre», può dire a bassa voce, «questo posto sembra... vuoto». Lydia, che un tempo amava Vargas e aveva fatto del suo meglio per continuare ad amarlo mentre diventava sempre più dispotico e tollerava la crudeltà di Izek, si è per lo più ritirata nella <span class="citation">N3p. Abito da sposa e specchio degli spiriti (p. 108)</span>, dove ripensa all'uomo che aveva sposato e al mostro che era diventato.
 
-Victor can share the following information with the players:
+Victor può dire ai giocatori quanto segue:
 
-* He hasn’t seen Stella in several days. 
-* When he tried to visit Wachterhaus to see her, Lady Wachter’s manservant turned him away.
-* He’s deeply concerned for Stella’s safety, and fears Lady Wachter may have sold her children to Strahd—or worse. (“My father always said she was in league with the Devil," he says darkly. “It looks like he was right.")
+* Non vede Stella da diversi giorni.
+* Quando ha provato ad andarla a trovare a Wachterhaus, il domestico di Lady Wachter lo ha mandato via.
+* È molto preoccupato per l'incolumità di Stella e teme che Lady Wachter abbia venduto i figli a Strahd, o peggio. («Mio padre diceva sempre che era in combutta con il Diavolo», dice cupo. «A quanto pare aveva ragione».)
 
-Victor is glad to join the players in their efforts to confront Lady Wachter and find Stella if invited.
-### The Town Square
-If the players visit <span class="citation">N8. Town Square (p. 119)</span>, read:
+Se lo invitano, Victor si unisce volentieri ai giocatori per affrontare Lady Wachter e trovare Stella.
+### La piazza della città
+Se i giocatori vanno in <span class="citation">N8. Piazza della città (p. 119)</span>, leggi:
 
 <div class="description">
-<p>Proclamations are posted all around the town square. At the north end of the square, the row of stocks holds a reedy, balding man wearing a fisherman’s vest. Two guards holding spears stand beside the stocks.</p>
+<p>Tutto intorno alla piazza sono affissi dei proclami. All'estremità nord della piazza, nella fila di gogne, è bloccato un uomo esile e stempiato con un gilet da pescatore. Accanto alle gogne ci sono due guardie armate di lancia.</p>
 </div>
 
-If the players previously befriended the toymaker Gadof Blinsky, instead read:
+Se i giocatori avevano conquistato l'amicizia del giocattolaio Gadof Blinsky, leggi invece:
 
 <div class="description">
-<p>Proclamations are posted all around the town square. At the north end of the square, the row of stocks hold two figures: a reedy, balding man wearing a fisherman’s vest, and a stocky, miserable-looking man wearing a jester’s cap and costume. Two guards holding spears stand beside the stocks.</p>
+<p>Tutto intorno alla piazza sono affissi dei proclami. All'estremità nord della piazza, nella fila di gogne, sono bloccate due figure: un uomo esile e stempiato con un gilet da pescatore e un uomo tarchiato dall'aria infelice, con il berretto e il costume da giullare. Accanto alle gogne ci sono due guardie armate di lancia.</p>
 </div>
 
-The balding man is the fisherman Bluto Krogarov. The stocky man is Gadof Blinsky.
+L'uomo stempiato è il pescatore Bluto Krogarov. L'uomo tarchiato è Gadof Blinsky.
 
-> [!lore]+ **The Prisoners in the Stocks**
-> If the players previously befriended him, Gadof Blinsky—who has few other acquaintances—regards them as treasured friends. When Lady Wachter first issued her proclamations warning of the players two days ago, a horrified Blinsky marched to Wachterhaus and pleaded for her to remove them. When Lady Wachter solemnly shared that the players had been banned from Vallaki, Blinsky grew agitated, and was subsequently arrested and placed in the stocks for “trespassing and contempt." (Lady Wachter, who would have preferred to let Blinsky go free, felt the punishment was necessary to prevent Strahd’s emissary from making a meal of him instead.)
+> [!lore]+ **I prigionieri alla gogna**
+> Se i giocatori ne avevano conquistato l'amicizia, Gadof Blinsky, che ha pochi altri conoscenti, li considera amici preziosi. Quando due giorni fa Lady Wachter ha emanato i primi proclami contro i giocatori, Blinsky, inorridito, è andato a Wachterhaus e l'ha supplicata di ritirarli. Quando Lady Wachter gli ha spiegato in tono solenne che ai giocatori era stato vietato l'ingresso a Vallaki, Blinsky si è agitato, ed è stato arrestato e messo alla gogna per «violazione di proprietà e oltraggio». (Lady Wachter avrebbe preferito lasciarlo andare, ma ha ritenuto necessaria la punizione per evitare che l'emissario di Strahd se ne facesse un pasto.)
 >
-> When Lady Wachter issued her edict forbidding most Vallakians from venturing outside of the town walls, Bluto marched to the North Gate and demanded that he be allowed to pass in order to continue his livelihood at Lake Zarovich. A brief struggle ensued, after which Bluto was locked in the stocks for “insubordination and disorderly conduct."
+> Quando Lady Wachter ha emanato l'editto che proibisce a quasi tutti i vallakiani di avventurarsi fuori dalle mura, Bluto è andato alla porta nord e ha preteso di passare per continuare a guadagnarsi da vivere al Lago Zarovich. Ne è nata una breve colluttazione, dopo la quale Bluto è stato chiuso alla gogna per «insubordinazione e condotta molesta».
 
-Each proclamation reads “BEWARE: ARMED AND DANGEROUS. REPORT ANY SIGHTINGS TO THE BURGOMISTRESS," and features a rough sketch and description of the players.
+Ogni proclama dice: «ATTENZIONE: ARMATI E PERICOLOSI. SEGNALATE OGNI AVVISTAMENTO ALLA BORGOMASTRA», con un ritratto approssimativo e la descrizione dei giocatori.
 
-The two **guards** watching the stocks have no personal enmity toward Blinsky and Bluto, and no great loyalty to Lady Wachter. However, both are reluctant to be disciplined or removed from the guard. More significantly, both fear the rumors they’ve heard of Lady Wachter’s newest guest, who is said amongst the town guard to be an emissary sent from Castle Ravenloft itself.
+Le due **guardie** che sorvegliano le gogne non hanno niente di personale contro Blinsky e Bluto e non sono particolarmente fedeli a Lady Wachter. Però non vogliono essere punite o cacciate dalla guardia. Soprattutto, tutte e due temono le voci che girano sul nuovo ospite di Lady Wachter, che secondo le guardie della città sarebbe un emissario mandato direttamente dal Castello di Ravenloft.
 
-If the players attempt to openly free Blinsky or Bluto from the stocks, the guards protest and ready their arms. The players can convince the guards to stand down on a successful DC 15 Charisma (Persuasion) check or a DC 10 Charisma (Intimidation) check, made with advantage if the players reference Lady Wachter’s proclamations that they are “ARMED AND DANGEROUS." 
+Se i giocatori provano a liberare apertamente Blinsky o Bluto dalla gogna, le guardie protestano e impugnano le armi. I giocatori possono convincerle a farsi da parte con una prova di Carisma (Persuasione) con CD 15 o di Carisma (Intimidire) con CD 10, che si effettua con vantaggio se i giocatori citano i proclami di Lady Wachter che li definiscono «ARMATI E PERICOLOSI».
 
-Otherwise, if the players disregard their orders to stand down, the guards attack any character who attempts to free either man from the stocks, seeking to knock them unconscious and bring them to Wachterhaus for questioning. If one guard is knocked unconscious or killed, the surviving guard surrenders or flees, respectively.
+Altrimenti, se i giocatori ignorano l'ordine di farsi indietro, le guardie attaccano qualunque personaggio provi a liberare uno dei due uomini dalla gogna, cercando di metterlo fuori combattimento e portarlo a Wachterhaus per interrogarlo. Se una guardia finisce priva di sensi, l'altra si arrende; se una guardia viene uccisa, l'altra fugge.
 ### Wachterhaus
-If the players visit Wachterhaus, proceed to [[#T5. A Light in the Dark]].
-## T2c. The Tyrant’s Final Trial
-> [!warning]+ **Modified Scene**
-> This scene has been modified since its original publication. It now occurs only if the players have not yet ignited the *Sunsword* by their first night away from Mt. Ghakis after completing [[Arc S - A Sword of Sunlight]]. (Strahd won't willingly leave Castle Ravenloft while the players have an ignited *Sunsword*.)
+Se i giocatori vanno a Wachterhaus, passa a [[#T5. Una luce nel buio|Una luce nel buio]].
+## T2c. L'ultima prova del Tiranno
+> [!warning]+ **Scena modificata**
+> Questa scena è cambiata rispetto alla prima pubblicazione. Ora accade solo se i giocatori non hanno ancora acceso la *Spada del Sole* entro la prima notte passata lontano dal Monte Ghakis dopo aver completato l'[[Arc S - A Sword of Sunlight|Arco S: Una spada di luce solare]]. (Strahd non lascia di sua volontà il Castello di Ravenloft finché i giocatori hanno con sé una *Spada del Sole* accesa.)
 
-The first night the players spend away from Mt. Ghakis after completing [[Arc S - A Sword of Sunlight]], Strahd scries or tracks them as described in [[Arc R - Trials of the Mountain#R3b. The Tyrant’s First Trial|Arc R - Trials of the Mountain]]. 
+La prima notte che i giocatori passano lontano dal Monte Ghakis dopo aver completato l'[[Arc S - A Sword of Sunlight|Arco S: Una spada di luce solare]], Strahd li scruta o li rintraccia come descritto in [[Arc R - Trials of the Mountain#R3b. La prima prova del Tiranno|La prima prova del Tiranno]].
 
-Upon locating them, he dismisses Beucephalus into the Ethereal Plane, then attempts to drive the players into the open or obtain an invitation into their resting place, as described in [[Arc R - Trials of the Mountain#Strahd’s Greeting|The Tyrant’s First Trial]]. If he successfully does so, Strahd congratulates the players for avoiding him during their stay on Mt. Ghakis (e.g., due to Soldav’s protective enchantments and the roc’s protection). “Nevertheless," he says coldly, “such cowardice violated the rules of our game—and so I have come to collect your penalty."
+Quando li ha trovati, rimanda Beucephalus nel Piano Etereo, poi cerca di stanarli all'aperto o di farsi invitare nel luogo dove riposano, come descritto in [[Arc R - Trials of the Mountain#Il saluto di Strahd|Il saluto di Strahd]]. Se ci riesce, Strahd si complimenta con i giocatori per essere riusciti a evitarlo durante il soggiorno sul Monte Ghakis (per esempio grazie agli incantesimi protettivi di Soldav e alla protezione del roc). «Eppure», dice gelido, «questa vigliaccheria ha violato le regole del nostro gioco, e sono venuto a riscuotere la penale».
 
-Strahd informs the players that, for each night they escaped his “game," he will claim one of them as a vampire spawn—tonight. (For example, if the players spent two nights in Soldav and were protected by the roc of Mt. Ghakis for an additional night, Strahd intends to claim three players as vampire spawn tonight.)
+Strahd annuncia ai giocatori che per ogni notte in cui sono sfuggiti al suo «gioco» prenderà uno di loro come progenie vampirica, stanotte stessa. (Per esempio, se i giocatori hanno passato due notti a Soldav e per un'altra notte li ha protetti il roc del Monte Ghakis, Strahd intende prendere stanotte tre giocatori come progenie vampiriche.)
 
-Strahd then attempts to repeat the voting game described in [[Arc R - Trials of the Mountain#Strahd’s Game|Arc R - Trials of the Mountain]], with one change: Each player must vote for a number of victims equal to those Strahd will claim. (For example, if Strahd intends to claim three players as vampire spawn, Strahd commands the players to “pick three among you to join my court this night.")
+Poi Strahd cerca di ripetere il gioco della votazione descritto in [[Arc R - Trials of the Mountain#Il gioco di Strahd|Il gioco di Strahd]], con una modifica: ogni giocatore deve votare tante vittime quante sono quelle che Strahd prenderà. (Per esempio, se Strahd intende prendere tre giocatori come progenie vampiriche, ordina ai giocatori di «sceglierne tre fra voi che stanotte entreranno nella mia corte».)
 
-If the players attack, refuse to play his game, or refuse to allow Strahd to drink from the chosen targets, Strahd attacks, intending to knock the entire party unconscious, then take his chosen targets back to Ravenloft to be turned into vampire spawn.
+Se i giocatori attaccano, si rifiutano di partecipare al gioco o non permettono a Strahd di bere dai bersagli scelti, Strahd attacca, deciso a mettere fuori combattimento l'intero gruppo e a portare i bersagli scelti a Ravenloft per trasformarli in progenie vampiriche.
 
-In combat, Strahd begins in his **Vampire** phase, rather than his Mage phase, but assumes his Mage phase automatically if his **Vampire** phase is reduced to 155 hit points or less.
+In combattimento Strahd comincia nella fase del **Vampiro** invece che in quella del Mago, ma passa automaticamente alla fase del Mago se la sua fase del **Vampiro** scende a 155 punti ferita o meno.
 
-If the players reveal the *Sunsword*’s hilt to Strahd, he bares his teeth in a cold, mirthless smile. “I see you’ve found half of my brother’s old sword," he says. “I had thought it destroyed long ago, but no matter. Do you mean to enchant me with nostalgia for the past, or do you truly believe that this trinket poses some threat to me?"
+Se i giocatori mostrano a Strahd l'elsa della *Spada del Sole*, lui scopre i denti in un sorriso freddo e senza allegria. «Vedo che avete trovato metà della vecchia spada di mio fratello», dice. «Credevo che fosse stata distrutta molto tempo fa, ma non importa. Volete incantarmi con la nostalgia del passato, o credete davvero che questo ninnolo sia una minaccia per me?»
 
-If the players reduce Strahd's second form to 155 hit points or fewer, he snarls with pain and fury. He then uses his movement and reactions to retreat. Read:
-
-<div class="description">
-<p>Strahd’s body trembles with rage. His batlike nostrils flare, his crimson eyes flashing as wounds across his body start to knit back together.</p>
-<p>"You may think your misguided courage will save you," he hisses. “But as you sleep tonight, do not forget: Your souls are <em>mine</em>—and I shall claim them when I choose.".</p>
-</div>
-
-On his next turn, Strahd uses his ***shapechange*** feature to assume the form of a **bat**. He then retreats into the sky, returning to Castle Ravenloft. 
-
-# T3. The Witch of Berez
-## T3a. Berez Outskirts
-The players’ approach to Berez is largely as described in <span class="citation">Approaching the Ruins (p. 161)</span>. However, revise this area’s description as follows:
+Se i giocatori riducono la seconda forma di Strahd a 155 punti ferita o meno, lui ringhia di dolore e di furia. Poi usa il movimento e le reazioni per ritirarsi. Leggi:
 
 <div class="description">
-<p>The trail hugs the river for several miles. The dirt and grass soon turn to marsh as the trail dissolves into spongy earth pockmarked with stands of tall reeds and pools of stagnant water. A thick shroud of fog covers all.</p>
-<p>Past the trail’s end, an enormous shadow rises within the fog: a mass of vines, thorns, and branches more than two hundred feet in height. The structure sprawls a half-mile wide and a half-mile deep, its southeastern edge hugging the river as it flows sluggishly through the basin. A tall, gaping hole thirty feet wide and thirty feet tall stands at its northeastern corner, the trail vanishing into its darkened depths.</p>
+<p>Il corpo di Strahd trema di rabbia. Le narici da pipistrello si dilatano e gli occhi cremisi lampeggiano, mentre le ferite sul suo corpo cominciano a richiudersi.</p>
+<p>«Potete anche credere che il vostro coraggio sconsiderato vi salverà», sibila. «Ma stanotte, mentre dormite, non dimenticatelo: le vostre anime sono <em>mie</em>, e le prenderò quando vorrò».</p>
 </div>
 
-The structure is a giant hedge maze created by Baba Lysaga’s _mirage arcane_. To prepare for the players’ arrival, Baba Lysaga has overlaid the swamp with six identical _mirage arcane_ spells. (A player must successfully cast _dispel magic_ six consecutive times to dispel all six _mirage arcane_ spells.)
+Al turno successivo Strahd usa il privilegio ***mutare forma*** per assumere la forma di un **pipistrello**. Poi si ritira nel cielo e torna al Castello di Ravenloft.
 
-Baba Lysaga has also placed a _programmed illusion_ spell covering the thirty-foot hole that serves as the maze’s entrance. The first time the players enter the maze, the _programmed illusion_ activates, echoing across all of Berez. Read:
+# T3. La strega di Berez
+## T3a. La periferia di Berez
+L'avvicinamento dei giocatori a Berez è più o meno come descritto in <span class="citation">Avvicinarsi alle rovine (p. 161)</span>. Modifica però così la descrizione dell'area:
 
 <div class="description">
-<p>A bright flash of sickly green light fills the air, casting harsh shadows across the thorny walls. As it does, a woman’s deep cackle rings through the air, echoing like thunder through the fog.</p>
-<p>"Welcome, brave heroes!" the woman’s voice jeers, her voice ringing across the swamp. “I’m so glad that you’ve decided to play my little game. The rules are simple: You have one hour to find me. Each time an hour passes, I’ll rip the wings off of one of your feathered friends. Don’t worry, though; to ensure the little dears don’t bleed out, I’ll make sure to cauterize their wounds—with <em>molten silver</em>."</p>
-<p>Another cackle rings through the air, seeming to come from every direction at once. “Your time begins—<em>now</em>.
+<p>Il sentiero costeggia il fiume per diversi chilometri. Presto la terra e l'erba lasciano il posto alla palude, e il sentiero si dissolve in un terreno spugnoso crivellato di ciuffi di canne alte e pozze d'acqua stagnante. Tutto è coperto da una fitta coltre di nebbia.</p>
+<p>Dove il sentiero finisce, un'ombra enorme si leva nella nebbia: un ammasso di rampicanti, rovi e rami alto più di 60 metri. La struttura si estende per 750 metri in larghezza e altrettanti in profondità, e il suo margine sud-orientale costeggia il fiume che scorre lento nella conca. All'angolo nord-orientale si apre una grande breccia, larga 9 metri e alta altrettanto, dove il sentiero sparisce nell'oscurità.</p>
 </div>
 
-Beyond the entrance, the hedge maze splits into two corridors: one that runs westward, and one that runs southward.
+La struttura è un gigantesco labirinto di siepi creato dal *miraggio arcano* di Baba Lysaga. Per prepararsi all'arrivo dei giocatori, Baba Lysaga ha sovrapposto alla palude sei incantesimi *miraggio arcano* identici. (Per dissolverli tutti e sei, un giocatore deve lanciare con successo *dissolvi magie* sei volte di fila.)
 
-* The westward passage leads to [[#T3b. Northern Cottages]]
-* The southward passage leads to [[#T3c. Southern Cottages]].)
+Baba Lysaga ha anche coperto con un incantesimo *illusione programmata* la breccia di 9 metri che fa da ingresso al labirinto. La prima volta che i giocatori entrano nel labirinto, l'*illusione programmata* si attiva e risuona per tutta Berez. Leggi:
+
+<div class="description">
+<p>Un lampo accecante di luce verde malata riempie l'aria e getta ombre nette sulle pareti di rovi. Nello stesso momento risuona nell'aria la risata profonda e gracchiante di una donna, che rimbomba come un tuono attraverso la nebbia.</p>
+<p>«Benvenuti, prodi eroi!», schernisce la voce della donna, che risuona su tutta la palude. «Sono così contenta che abbiate deciso di partecipare al mio giochetto. Le regole sono semplici: avete un'ora per trovarmi. Ogni volta che passa un'ora, strapperò le ali a uno dei vostri amici piumati. Ma non preoccupatevi: perché quei tesorucci non muoiano dissanguati, mi assicurerò di cauterizzare le ferite, con <em>argento fuso</em>».</p>
+<p>Un'altra risata gracchiante risuona nell'aria e sembra venire da tutte le direzioni insieme. «Il vostro tempo comincia... <em>adesso</em>».</p>
+</div>
+
+Oltre l'ingresso il labirinto di siepi si divide in due corridoi, uno verso ovest e uno verso sud.
+
+* Il passaggio verso ovest porta alle [[#T3b. Le casupole nord|casupole nord]].
+* Il passaggio verso sud porta alle [[#T3c. Le casupole sud|casupole sud]].
 
 ![[Berez_Dungeon.png]]
 
-> [!info]+ **The Hedge Maze**
-> The hedge maze has ten “rooms," as shown on the map above: 
+> [!info]+ **Il labirinto di siepi**
+> Il labirinto di siepi ha dieci «stanze», come mostra la mappa qui sopra:
 >
-> * [[#T3d. Town Green]], comprising the town green between <span class="citation">U1. Abandoned Cottages (p. 162)</span> (north cottages) and <span class="citation">U1. Abandoned Cottages (p. 162)</span> (south cottages))
-> * [[#T3b. Northern Cottages]], comprising <span class="citation">U1. Abandoned Cottages (p. 162)</span> (north cottages) 
-> * [[#T3c. Southern Cottages]], comprising <span class="citation">U1. Abandoned Cottages (p. 162)</span> (south cottages) 
-> * [[#T3e. Churchyard]], comprising <span class="citation">U4. Churchyard (p. 164)</span>
-> * [[#T3f. Marina’s Monument]], comprising <span class="citation">U5. Marina’s Monument (p. 164)</span>
-> * [[#T3h. Goat Pen]], comprising <span class="citation">U2. Ulrich Mansion (p. 162)</span> (goat pen only)
-> * [[#T3g. Manor Cellar]], comprising <span class="citation">U2. Ulrich Mansion (p. 162)</span> (cellar only)
-> * [[#T3i. Garden]], comprising <span class="citation">U2. Ulrich Mansion (p. 162)</span> (garden only)
-> * [[#T3j. Ulrich Manor]], comprising <span class="citation">U2. Ulrich Mansion (p. 162)</span> (mansion only)
-> * [[#T3k. Baba Lysaga’s Hut]], comprising <span class="citation">U3. Baba Lysaga’s Hut (p. 163)</span>
+> * [[#T3d. Il prato del paese|Il prato del paese]], che comprende il prato fra le <span class="citation">U1. Casupole abbandonate (p. 162)</span> (casupole nord) e le <span class="citation">U1. Casupole abbandonate (p. 162)</span> (casupole sud)
+> * [[#T3b. Le casupole nord|Le casupole nord]], che comprende le <span class="citation">U1. Casupole abbandonate (p. 162)</span> (casupole nord)
+> * [[#T3c. Le casupole sud|Le casupole sud]], che comprende le <span class="citation">U1. Casupole abbandonate (p. 162)</span> (casupole sud)
+> * [[#T3e. Il sagrato|Il sagrato]], che comprende <span class="citation">U4. Sagrato (p. 164)</span>
+> * [[#T3f. Il monumento di Marina|Il monumento di Marina]], che comprende <span class="citation">U5. Monumento di Marina (p. 164)</span>
+> * [[#T3h. Il recinto delle capre|Il recinto delle capre]], che comprende <span class="citation">U2. Villa Ulrich (p. 162)</span> (solo il recinto delle capre)
+> * [[#T3g. La cantina del maniero|La cantina del maniero]], che comprende <span class="citation">U2. Villa Ulrich (p. 162)</span> (solo la cantina)
+> * [[#T3i. Il giardino|Il giardino]], che comprende <span class="citation">U2. Villa Ulrich (p. 162)</span> (solo il giardino)
+> * [[#T3j. Il maniero degli Ulrich|Il maniero degli Ulrich]], che comprende <span class="citation">U2. Villa Ulrich (p. 162)</span> (solo la villa)
+> * [[#T3k. La capanna di Baba Lysaga|La capanna di Baba Lysaga]], che comprende <span class="citation">U3. Capanna di Baba Lysaga (p. 163)</span>
 >
-> The hedge maze’s walls and ceilings are each one hundred feet thick, and each room is one hundred feet high. Each five-foot-square segment of a wall or ceiling has AC 15, 20 hit points, and immunity to poison and psychic damage.
+> Le pareti e i soffitti del labirinto di siepi sono spessi 30 metri, e ogni stanza è alta 30 metri. Ogni sezione di parete o di soffitto di 1,5 metri per lato ha CA 15, 20 punti ferita e immunità ai danni da veleno e psichici.
 >
-> All corridors through the maze are ten feet wide, winding their way through the walls to break lines of sight.
+> Tutti i corridoi del labirinto sono larghi 3 metri e serpeggiano fra le pareti in modo da interrompere la linea di vista.
 
-> [!info]+ **Light in the Maze**
-> Except in [[#T3k. Baba Lysaga’s Hut]], no natural or artificial light illuminates the interior of the hedge maze, leaving all rooms in darkness unless illuminated by the players.
-## T3b. Northern Cottages
-This area is largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span> (north cottages). However, two **greater strix** hang from the ceiling above the cottages. When the players enter, the strix descend upon the players and attack, releasing a pair of shrill, piercing shrieks.
+> [!info]+ **La luce nel labirinto**
+> Tranne che nella [[#T3k. La capanna di Baba Lysaga|capanna di Baba Lysaga]], nessuna luce naturale o artificiale illumina l'interno del labirinto di siepi, e tutte le stanze restano al buio se non le illuminano i giocatori.
+## T3b. Le casupole nord
+Quest'area è più o meno come descritta in <span class="citation">U1. Casupole abbandonate (p. 162)</span> (casupole nord). Però dal soffitto, sopra le casupole, pendono due **strigi maggiori**. Quando i giocatori entrano, le strigi piombano su di loro e attaccano, lanciando due strilli acuti e penetranti.
 
-> [!combat]- **Combat - The Northern Cottages**  
-> **Combat Level**: Mild
-> **Expected Character Level**: 9
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
-> **Expected HP Consumption:** 4%
+> [!combat]- **Combattimento: le casupole nord**  
+> **Livello di combattimento**: lieve
+> **Livello previsto dei personaggi**: 9
+> **Alleati:** Ireena Kolyana (GS 2), Ezmerelda d'Avenir (GS 4)
+> **Consumo previsto di pf:** 4%
 > 
-> ### **Enemies:**
+> ### **Nemici:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 giocatori | 4 giocatori | 5 giocatori | 6 giocatori |
 > |-|-|-|-|-|
-> | Greater Strix | 1 | 2 | 2 | 2 |
+> | Strige maggiore | 1 | 2 | 2 | 2 |
 
 
-Three ten-foot-wide passages lead from this chamber:
+Da questa sala partono tre passaggi larghi 3 metri:
 
-* One to the northeast, which leads to [[#T3a. Berez Outskirts]]
-* One along the southeast wall, which leads to [[#T3d. Town Green]]
-* One to the southwest, which leads to [[#T3e. Churchyard]]
-## T3c. Southern Cottages
-This area is largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span> (south cottages). However, if they weren’t killed in [[Arc Q - A Shining Beacon]], two **Barovian hexwitches** and two **Barovian bogwitches**, as described in [[Arc P - Ravenloft Heist#P9c. La stanza del calderone|Arc P - Ravenloft Heist]], lurk in four cottages flanking the road. If she’s still alive, Wensencia and her undead **dire wolf**, as described in [[Arc M - The Dragon's Manor#Il raccolto della strega|The Witch's Harvest]], lurk in a fifth cottage. The witches emerge and attack any players who pass between or enter the cottages.
+* Uno a nord-est, che porta alla [[#T3a. La periferia di Berez|periferia di Berez]]
+* Uno lungo la parete sud-est, che porta al [[#T3d. Il prato del paese|prato del paese]]
+* Uno a sud-ovest, che porta al [[#T3e. Il sagrato|sagrato]]
+## T3c. Le casupole sud
+Quest'area è più o meno come descritta in <span class="citation">U1. Casupole abbandonate (p. 162)</span> (casupole sud). Però, se non sono state uccise nell'[[Arc Q - A Shining Beacon|Arco Q: Un faro splendente]], due **streghe baroviane delle maledizioni** e due **streghe baroviane delle torbiere**, descritte nell'[[Arc P - Ravenloft Heist#P9c. La stanza del calderone|Arco P: Il colpo a Ravenloft]], sono in agguato in quattro casupole ai lati della strada. Se è ancora viva, in una quinta casupola sono in agguato Wensencia e il suo **lupo crudele** non morto, descritti nel [[Arc M - The Dragon's Manor#Il raccolto della strega|raccolto della strega]]. Le streghe escono e attaccano i giocatori che passano fra le casupole o ci entrano.
 
-> [!combat]- **Combat - The Southern Cottages**  
-> **Combat Level**: Mild
-> **Expected Character Level**: 9
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
-> **Expected HP Consumption:** 8%
+> [!combat]- **Combattimento: le casupole sud**  
+> **Livello di combattimento**: lieve
+> **Livello previsto dei personaggi**: 9
+> **Alleati:** Ireena Kolyana (GS 2), Ezmerelda d'Avenir (GS 4)
+> **Consumo previsto di pf:** 8%
 > 
-> ### **Enemies:**
+> ### **Nemici:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 giocatori | 4 giocatori | 5 giocatori | 6 giocatori |
 > |-|-|-|-|-|
-> | Barovian Bogwitch | 2 | 2 | 2 | 3 |
-> | Barovian Hexwitch | 0 | 1 | 2 | 2 |
-> | Dire Wolf | 1 | 1 | 1 | 1 |
+> | Strega baroviana delle torbiere | 2 | 2 | 2 | 3 |
+> | Strega baroviana delle maledizioni | 0 | 1 | 2 | 2 |
+> | Lupo crudele | 1 | 1 | 1 | 1 |
 > | Wensencia | 1 | 1 | 1 | 1 |
 
 
-Three ten-foot-wide passages lead from this chamber:
+Da questa sala partono tre passaggi larghi 3 metri:
 
-* One to the northwest, which leads to [[#T3d. Town Green]]
-* One to the north, which leads to [[#T3a. Berez Outskirts]]
-* One to the southwest, which leads to [[#T3h. Goat Pen]]
+* Uno a nord-ovest, che porta al [[#T3d. Il prato del paese|prato del paese]]
+* Uno a nord, che porta alla [[#T3a. La periferia di Berez|periferia di Berez]]
+* Uno a sud-ovest, che porta al [[#T3h. Il recinto delle capre|recinto delle capre]]
 
-## T3d. Town Green
-When the players enter this area, read:
-
-<div class="description">
-<p>A dark, gloomy fen stretches hundreds of feet into the darkness.</p>
-</div>
-
-This room is filled by a marsh of stagnant water two feet deep. The water is difficult terrain.
-
-Seven bloated, distended human corpses float in the darkened mire, with six spread in a circle around the edges of the room and a seventh placed in the room’s center. One corpse lies fifty feet from the corridor leading to [[#T3b. Northern Cottages]], while another lies fifty feet from the corridor leading to [[#T3c. Southern Cottages]]. If the players’ light source or darkvision illuminates one of these corpses, read:
+## T3d. Il prato del paese
+Quando i giocatori entrano in quest'area, leggi:
 
 <div class="description">
-<p>Fifty feet away, something floats in the fetid water.</p>
+<p>Un acquitrino buio e tetro si allunga per decine di metri nell'oscurità.</p>
 </div>
 
-If the players approach any of the corpses, read:
+La stanza è occupata da una palude d'acqua stagnante profonda 60 centimetri. L'acqua è terreno difficile.
+
+Nel pantano buio galleggiano sette cadaveri umani gonfi e deformi: sei sono disposti in cerchio lungo i bordi della stanza e il settimo è al centro. Un cadavere si trova a 15 metri dal corridoio che porta alle [[#T3b. Le casupole nord|casupole nord]], un altro a 15 metri dal corridoio che porta alle [[#T3c. Le casupole sud|casupole sud]]. Se la fonte di luce o la scurovisione dei giocatori rivela uno di questi cadaveri, leggi:
 
 <div class="description">
-<p>Just beneath the water’s surface floats a human corpse, its stomach bloated and gray flesh distended. Its glassy eyes stare unblinkingly through the still water.</p>
+<p>A una quindicina di metri da voi qualcosa galleggia nell'acqua fetida.</p>
 </div>
 
-Each **walking corpse** is largely as described in <span class="citation">U5. Marina’s Monument, Fortunes of Ravenloft (p. 165)</span>. However, rather than a **commoner**’s ***club*** action, each corpse gains the following action:
+Se i giocatori si avvicinano a uno dei cadaveri, leggi:
 
-* ***Slam.*** *Melee Attack Roll:* +2, reach 5 ft. *Hit:* 1 bludgeoning damage, and the target is grappled.
+<div class="description">
+<p>Appena sotto il pelo dell'acqua galleggia un cadavere umano, con il ventre gonfio e la carne grigia tesa e deforme. Gli occhi vitrei fissano senza battere ciglio attraverso l'acqua immobile.</p>
+</div>
 
-A walking corpse rises from the mire and attacks if touched, or if the players attempt to move past it. In combat, a walking corpse first attempts to grapple a target using its ***slam***, then attempts to drown the grappled target by shoving it prone beneath the swamp’s waters.
+Ogni **cadavere ambulante** è più o meno come descritto in <span class="citation">U5. Monumento di Marina, Le fortune di Ravenloft (p. 165)</span>. Però, al posto dell'azione ***randello*** del **popolano**, ogni cadavere ottiene questa azione:
 
-The sounds of combat awaken any other walking corpses within the room. Once awakened, each walking corpse arises and lurches toward the players, converging on the players’ location by sound five rounds later. When they do, read the text described in <span class="citation">U5. Marina’s Monument, Fortunes of Ravenloft (p. 165)</span>.
+* ***Schianto.*** *Tiro per colpire in mischia:* +2, portata 1,5 m. *Colpito:* 1 danno contundente, e il bersaglio è afferrato.
 
-> [!combat]- **Combat - The Town Green**  
-> **Combat Level**: Mild (first phase), Bruising (second phase)
-> **Expected Character Level**: 9
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
-> **Expected HP Consumption:** 30%
+Un cadavere ambulante si leva dal pantano e attacca se viene toccato o se i giocatori provano a passargli accanto. In combattimento un cadavere ambulante cerca prima di afferrare un bersaglio con lo ***schianto***, poi cerca di annegarlo spingendolo prono sotto l'acqua della palude.
+
+Il rumore del combattimento risveglia gli altri cadaveri ambulanti presenti nella stanza. Una volta svegli, si alzano e avanzano barcollando verso i giocatori, guidati dal rumore, e li raggiungono cinque round dopo. Quando arrivano, leggi il testo descritto in <span class="citation">U5. Monumento di Marina, Le fortune di Ravenloft (p. 165)</span>.
+
+> [!combat]- **Combattimento: il prato del paese**  
+> **Livello di combattimento**: lieve (prima fase), impegnativo (seconda fase)
+> **Livello previsto dei personaggi**: 9
+> **Alleati:** Ireena Kolyana (GS 2), Ezmerelda d'Avenir (GS 4)
+> **Consumo previsto di pf:** 30%
 > 
-> ### **Enemies:**
+> ### **Nemici:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 giocatori | 4 giocatori | 5 giocatori | 6 giocatori |
 > |-|-|-|-|-|
-> | Walking Corpses | 5 | 6 | 7 | 8 |
+> | Cadaveri ambulanti | 5 | 6 | 7 | 8 |
 
-Two ten-foot-wide passages lead from this chamber:
+Da questa sala partono due passaggi larghi 3 metri:
 
-* One to the northwest, which leads to [[#T3b. Northern Cottages]]
-* One to the southeast, which leads to [[#T3c. Southern Cottages]]
-## T3e. Churchyard
-This area is largely as described in <span class="citation">U4. Churchyard</span>. However, add the following to the end of this area’s description:
+* Uno a nord-ovest, che porta alle [[#T3b. Le casupole nord|casupole nord]]
+* Uno a sud-est, che porta alle [[#T3c. Le casupole sud|casupole sud]]
+## T3e. Il sagrato
+Quest'area è più o meno come descritta in <span class="citation">U4. Sagrato</span>. Aggiungi però questo testo alla fine della descrizione:
 
 <div class="description">
-<p>Three flickering lights bob between the graves.</p>
+<p>Fra le tombe ondeggiano tre luci tremolanti.</p>
 </div>
 
-The three lights are **will-o’-wisps**. A player who scrutinizes the lights from a distance and succeeds on a DC 10 Wisdom (Perception) check discerns that the lights aren’t being carried, but are hovering in the air.
+Le tre luci sono **fuochi fatui**. Un giocatore che osserva le luci da lontano e supera una prova di Saggezza (Percezione) con CD 10 capisce che nessuno le porta: fluttuano nell'aria da sole.
 
-If the wisps detect the players, they turn invisible using their ***invisibility*** feature, take the Hide action, and attack when the players seem most vulnerable (but before the players depart this area). The players can attempt to sneak past the wisps, succeeding with a successful group DC 13 Dexterity (Stealth) check.
+Se i fuochi fatui si accorgono dei giocatori, diventano invisibili con il privilegio ***invisibilità***, effettuano l'azione Nascondersi e attaccano quando i giocatori sembrano più vulnerabili (ma prima che lascino l'area). I giocatori possono provare a passare di soppiatto oltre i fuochi fatui e ci riescono con una prova di gruppo di Destrezza (Furtività) con CD 13.
 
-> [!combat]- **Combat - The Churchyard**  
-> **Combat Level**: Mild
-> **Expected Character Level**: 9
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
-> **Expected HP Consumption:** 6%
+> [!combat]- **Combattimento: il sagrato**  
+> **Livello di combattimento**: lieve
+> **Livello previsto dei personaggi**: 9
+> **Alleati:** Ireena Kolyana (GS 2), Ezmerelda d'Avenir (GS 4)
+> **Consumo previsto di pf:** 6%
 > 
-> ### **Enemies:**
+> ### **Nemici:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 giocatori | 4 giocatori | 5 giocatori | 6 giocatori |
 > |-|-|-|-|-|
-> | Will-o'-Wisp | 2 | 3 | 3 | 4 |
+> | Fuoco fatuo | 2 | 3 | 3 | 4 |
 
-Three ten-foot-wide passages lead from this chamber:
+Da questa sala partono tre passaggi larghi 3 metri:
 
-* One to the north, which leads to [[#T3b. Northern Cottages]]
-* One to the south, which leads to [[#T3g. Manor Cellar]]
-* One to the southwest, which leads to [[#T3f. Marina’s Monument]]. (A faint golden glow emanates from this passage.)
-## T3f. Marina’s Monument
-This area is largely as described in <span class="citation">U5. Marina’s Monument (p. 164)</span>. However, modify this area’s description as follows:
+* Uno a nord, che porta alle [[#T3b. Le casupole nord|casupole nord]]
+* Uno a sud, che porta alla [[#T3g. La cantina del maniero|cantina del maniero]]
+* Uno a sud-ovest, che porta al [[#T3f. Il monumento di Marina|monumento di Marina]]. (Da questo passaggio arriva un debole bagliore dorato.)
+## T3f. Il monumento di Marina
+Quest'area è più o meno come descritta in <span class="citation">U5. Monumento di Marina (p. 164)</span>. Modifica però così la descrizione:
 
 <div class="description">
-<p>Hidden by the fog and elevated a few feet above the surrounding marsh is a raised plot of land, barely ten feet on a side, enclosed by a disintegrating iron fence. In the center of the plot is a stone monument.</p>
-<p>An ethereal, golden figure kneels before the monument.</p>
+<p>Nascosto dalla nebbia, poco più in alto della palude circostante, c'è un piccolo appezzamento di terra rialzato, a malapena 3 metri per lato, chiuso da una recinzione di ferro che cade a pezzi. Al centro c'è un monumento di pietra.</p>
+<p>Davanti al monumento è inginocchiata una figura dorata ed eterea.</p>
 </div>
 
 ![[Marina's Monument.png]]
-<span class="credit">"Marina's Monument" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">«Il monumento di Marina» di Caleb Cleveland. Sostienilo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-The golden figure is the spirit of Sergei von Zarovich (use the statistics of a **phantom warrior**). 
+La figura dorata è lo spirito di Sergei von Zarovich (usa le statistiche di un **guerriero fantasma**).
 
 
-> [!lore]+ **Sergei’s Spirit**
-> When Strahd killed him at his wedding nearly four centuries ago, Sergei’s ghost awoke to find itself entrapped within the Mists, unable to pass on to the afterlife. As the Mists’ first ghost, Sergei has learned how to avoid the cycles of reincarnation that return Barovia’s souls to their next lives. Although Strahd has long searched for his soul, Sergei has also learned how to hide himself away from his brother’s eyes, too fearful—and ashamed—to allow Strahd to find him.
+> [!lore]+ **Lo spirito di Sergei**
+> Quando Strahd lo uccise alle sue nozze, quasi quattro secoli fa, il fantasma di Sergei si risvegliò intrappolato nelle Nebbie, incapace di passare nell'aldilà. Primo fantasma delle Nebbie, Sergei ha imparato a evitare i cicli di reincarnazione che riportano le anime di Barovia alla loro vita successiva. Strahd cerca la sua anima da molto tempo, ma Sergei ha imparato anche a nascondersi agli occhi del fratello: ha troppa paura, e troppa vergogna, per lasciarsi trovare.
 >
-> Sergei fears what Strahd has become—but, more importantly, loathes himself for his failure to see the darkness growing in Strahd’s heart, as well as his own failure to protect Tatyana from Strahd’s assault. He blames himself for Strahd’s fall from grace and for Tatyana’s death at Strahd’s hands; had he not taunted Strahd with their romance, or even departed his position as Moste High Priest of the Morninglord’s Church, Sergei believes, all this tragedy may have been avoided.
+> Sergei teme ciò che Strahd è diventato, ma soprattutto disprezza sé stesso per non aver visto l'oscurità che cresceva nel cuore di Strahd e per non essere riuscito a proteggere Tatyana dal suo assalto. Si dà la colpa della caduta di Strahd e della morte di Tatyana per mano di Strahd: se non avesse provocato Strahd con la loro storia d'amore, o se non avesse lasciato la carica di Sommo Sacerdote della Chiesa del Signore del Mattino, pensa Sergei, tutta questa tragedia si sarebbe forse potuta evitare.
 >
-> When Tatyana first reincarnated as Marina in the village of Berez, Sergei believed that she offered him a chance at redemption. It was Sergei, unknowingly guided by the Dark Powers’ whispers, who visited Burgomaster Lazlo Ulrich and Brother Grigor in their dreams to warn them of Strahd’s nightly visits. Unfortunately for Sergei, Lazlo and Grigo slew Marina as described in <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>, rather than spiriting her away as Sergei had hoped.
+> Quando Tatyana si reincarnò per la prima volta in Marina, nel villaggio di Berez, Sergei credette che lei gli offrisse un'occasione di redenzione. Fu Sergei, guidato a sua insaputa dai sussurri dei Poteri Oscuri, a visitare in sogno il borgomastro Lazlo Ulrich e frate Grigor per avvertirli delle visite notturne di Strahd. Purtroppo per Sergei, Lazlo e Grigor uccisero Marina come descritto nel <span class="citation">Capitolo 10: Le rovine di Berez (p. 161)</span>, invece di portarla via di nascosto come Sergei aveva sperato.
 >
-> Today, Sergei generally conceals himself near the border of the Deep Ethereal, so as to avoid the watchful eyes of Strahd’s **nightmare** and ghostly servants. However, he occasionally dares to visit Marina’s Monument, where he pays his respects to the woman he failed to save, and the woman his actions condemned. Sergei dreads the day that he might encounter Tatyana’s soul again—and hopes fervently that day will never come.
+> Oggi Sergei di solito si nasconde vicino al confine dell'Etereo Profondo, per sfuggire agli occhi vigili dell'**incubo** e dei servitori spettrali di Strahd. Però a volte osa visitare il monumento di Marina, dove rende omaggio alla donna che non è riuscito a salvare e che le sue azioni hanno condannato. Sergei teme il giorno in cui potrebbe incontrare di nuovo l'anima di Tatyana e spera con tutto sé stesso che quel giorno non arrivi mai.
 
 
 ![[Sergei.png]]
-<span class="credit">"Sergei von Zarovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">«Sergei von Zarovich» di Caleb Cleveland. Sostienilo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-### Sergei’s Surprise
-If the players draw Sergei’s attention, or otherwise fail to conceal their entry to this area, read:
-
-<div class="description">
-<p>The golden figure turns, revealing the familiar face of Strahd von Zarovich—but softer, younger, and worn with grief.</p>
-</div>
-
-If Ireena is present, add:
+### La sorpresa di Sergei
+Se i giocatori attirano l'attenzione di Sergei, o comunque non riescono a nascondere il loro ingresso nell'area, leggi:
 
 <div class="description">
-<p>The figure’s eyes fall upon Ireena’s face, and his eyes widen. With a quiet, terrified gasp, he whirls away—and vanishes from sight.</p>
+<p>La figura dorata si volta e rivela il volto familiare di Strahd von Zarovich, ma più dolce, più giovane e consumato dal dolore.</p>
 </div>
 
-If Ireena is not present, instead add:
+Se Ireena è presente, aggiungi:
 
 <div class="description">
-<p>The figure rocks to his feet, his face paling. With a startled gasp, he steps back—and vanishes from sight.</p>
+<p>Lo sguardo della figura cade sul volto di Ireena, e i suoi occhi si spalancano. Con un sussulto sommesso e terrorizzato si gira di scatto e sparisce alla vista.</p>
 </div>
 
-Sergei, who has used his ***etherealness*** feature to escape into the Ethereal Plane, lingers in the Border Ethereal to watch the players. The players can convince Sergei to return to the Material Plane by succeeding on a DC 15 Charisma (Persuasion) check, made with advantage if the players call him by name. The check succeeds automatically if Ireena calls for Sergei, or if the players show Sergei the hilt of the *Sunsword*.
+Se Ireena non è presente, aggiungi invece:
 
-> [!abstract]+ **Sergei’s Aid**
-> If he sees Ireena depart this area, Sergei follows her in the Ethereal Plane while she remains in Berez, yearning to hear her voice but terrified of revealing himself to her. (Sergei doesn’t follow Ireena if she leaves Berez.)
+<div class="description">
+<p>La figura balza in piedi, impallidendo. Con un sussulto di sorpresa fa un passo indietro e sparisce alla vista.</p>
+</div>
+
+Sergei, che ha usato il privilegio ***forma eterea*** per fuggire nel Piano Etereo, resta nell'Etereo di Confine a osservare i giocatori. I giocatori possono convincerlo a tornare nel Piano Materiale superando una prova di Carisma (Persuasione) con CD 15, che effettuano con vantaggio se lo chiamano per nome. La prova riesce automaticamente se è Ireena a chiamare Sergei, o se i giocatori gli mostrano l'elsa della *Spada del Sole*.
+
+> [!abstract]+ **L'aiuto di Sergei**
+> Se vede Ireena lasciare l'area, Sergei la segue nel Piano Etereo finché lei resta a Berez: desidera sentire la sua voce, ma è terrorizzato all'idea di mostrarsi a lei. (Se Ireena lascia Berez, Sergei non la segue.)
 >
-> If Sergei believes Ireena to be in danger while she remains in Berez, he uses his ***etherealness*** feature to enter the Material Plane and aid her. Once Ireena is safe, he moves to return to the Ethereal Plane unless the players convince him to stay, as described above.
+> Se crede che Ireena sia in pericolo mentre si trova a Berez, Sergei usa il privilegio ***forma eterea*** per entrare nel Piano Materiale e aiutarla. Quando Ireena è al sicuro, cerca di tornare nel Piano Etereo, a meno che i giocatori non lo convincano a restare come descritto sopra.
 
-If the players approach Marina’s Monument, read:
-
-<div class="description">
-<p>The stone monument is carved in the likeness of a kneeling peasant girl clutching a rose. Although her features are gray and weatherworn, she bears a striking resemblance to Ireena Kolyana.</p>
-<p>Carved into the monument's base is an epitaph: <em>Marina, Taken by the Mists</em>.</p>
-</div>
-
-### Speaking with Sergei
-If the players successfully convince Sergei to return to the Material Plane, read:
+Se i giocatori si avvicinano al monumento di Marina, leggi:
 
 <div class="description">
-<p>Motes of golden light glimmer in the air—then resolve once more into the figure’s form.</p>
-<p>When he speaks, his voice is soft and gentle, though choked with quiet grief. “Hello," he says.</p>
+<p>Il monumento di pietra raffigura una ragazza di campagna inginocchiata che stringe una rosa. I lineamenti sono grigi e consumati dalle intemperie, ma la somiglianza con Ireena Kolyana è impressionante.</p>
+<p>Sulla base del monumento è incisa un'epigrafe: <em>Marina, presa dalle Nebbie</em>.</p>
 </div>
 
-> [!info]+ **Sergei’s Grief**
-> While Ireena is present, Sergei does his best to avoid meeting her eyes, cringing away every time he does so. A player who succeeds on a DC 12 Wisdom (Insight) check discerns that Sergei feels a deep sense of shame toward her—one bordering on terror.
+### Parlare con Sergei
+Se i giocatori convincono Sergei a tornare nel Piano Materiale, leggi:
 
-Upon returning to the Material Plane, Sergei is willing to share the following information with the players:
+<div class="description">
+<p>Granelli di luce dorata scintillano nell'aria, poi si ricompongono nella forma della figura.</p>
+<p>Quando parla, la sua voce è morbida e gentile, ma rotta da un dolore sommesso. «Salve», dice.</p>
+</div>
 
-* He is Sergei von Zarovich, the younger brother of Strahd von Zarovich.
-* The monument, which is called Marina’s Monument, was erected by Strahd three-and-a-half centuries ago, shortly after the destruction of Berez in a terrible flood. 
-* Strahd raised the monument to honor the memory of a woman named Marina Ulrich, the daughter of the local burgomaster. 
-* Marina was slain by her father, Burgomaster Lazlo Ulrich, and a priest of the Morninglord called Brother Grigor, as described in <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>. (A player with a passive Wisdom (Insight) score of 13 or more notices that Sergei’s spirit seems to bite his tongue before speaking further, and that he seems ashamed to speak further on the matter.)
+> [!info]+ **Il dolore di Sergei**
+> Finché Ireena è presente, Sergei fa il possibile per non incrociare il suo sguardo e ogni volta che succede si ritrae. Un giocatore che supera una prova di Saggezza (Intuizione) con CD 12 capisce che Sergei prova verso di lei una vergogna profonda, che sfiora il terrore.
 
-The players can convince Sergei to elaborate on his role in Marina’s death by succeeding on a DC 15 Charisma (Persuasion) check, made with advantage if the players point out that he clearly feels guilty for her death. The check succeeds automatically if Ireena assists the players in doing so. On a success, a miserable Sergei can share the following additional information:
+Tornato nel Piano Materiale, Sergei è disposto a dire ai giocatori quanto segue:
 
-* When Strahd paid his first nocturnal visit to Marina, Sergei immediately feared for her life. When Strahd departed, Sergei visited the dreams of Burgomaster Ulrich and Brother Grigor, whispering to them that Marina had been preyed upon by the lord of the land, and that her life was in grave danger. (“I had hoped," Sergei says, swallowing, “that they would do what I could not, and take her away to safety.")
-* The following morning, Burgomaster Ulrich and Brother Grigor inspected Marina’s neck and found the marks of Strahd’s fangs upon her neck. Rather than spirit her away, as Sergei had hoped, a mournful Ulrich and stoic Grigor killed her instead, intent on keeping Strahd from claiming her soul as a vampire. (“I had meant to save her," Sergei says bitterly. “But instead, I had killed her once again.")
+* È Sergei von Zarovich, il fratello minore di Strahd von Zarovich.
+* Il monumento, chiamato monumento di Marina, fu eretto da Strahd tre secoli e mezzo fa, poco dopo che una terribile inondazione distrusse Berez.
+* Strahd lo eresse per onorare la memoria di una donna di nome Marina Ulrich, la figlia del borgomastro del villaggio.
+* Marina fu uccisa da suo padre, il borgomastro Lazlo Ulrich, e da un sacerdote del Signore del Mattino chiamato frate Grigor, come descritto nel <span class="citation">Capitolo 10: Le rovine di Berez (p. 161)</span>. (Un giocatore con un punteggio passivo di Saggezza (Intuizione) di 13 o più nota che lo spirito di Sergei sembra mordersi la lingua prima di andare avanti e che sembra vergognarsi di parlare ancora dell'argomento.)
 
-If the players ask Sergei how he could have killed Marina “again," mention Tatyana, or ask how he died, Sergei winces and begs the players not to “open old wounds." If the players persist, Sergei sighs, and can share the following additional information if asked:
+I giocatori possono convincere Sergei a spiegare meglio il suo ruolo nella morte di Marina superando una prova di Carisma (Persuasione) con CD 15, che effettuano con vantaggio se gli fanno notare che si sente chiaramente in colpa per la sua morte. La prova riesce automaticamente se Ireena aiuta i giocatori. In caso di successo, Sergei, avvilito, può aggiungere quanto segue:
 
-* His father, King Barov von Zarovich II, was determined to resurrect the old Zarovich dynasty, and the legacy of Old Zarovia. To this end, he waged endless wars against their family’s enemies—and trained Strahd to follow in his footsteps, raising him to be a soldier, a general, and a king.
-* King Barov was already approaching his elder years when Sergei was born. Nearly thirty years Strahd’s younger, and not expected to claim the throne, Sergei was spared the bloodshed of his father and brother’s wars. Instead, his mother, Queen Ravenovia, joined by Prefect Ciril Romulich of the Church of the Morninglord, raised him to be a priest of the Morninglord’s church. (“Not once did I meet the man I called brother," Sergei says mournfully. “My studies kept me at home, while his duties kept him at the war front.")
-* When Sergei was twenty-two, King Barov died of illness. Strahd inherited his father’s throne—and his wars—while Sergei, still kept at home, inherited his father’s *Brightblade*: a radiant sword whose crystal blade shone like the sun. (“I never learned why Strahd had the *Brightblade* sent to me," Sergei says softly. “Perhaps he wanted to carve his own path. Or perhaps a small part of him feared its light, even then.")
-* Not long after King Barov’s death, St. Andral’s successor—Moste High Priest Kir of the Morninglord’s church—raised Sergei to be a High Priest of the church. Four years later, Strahd summoned Sergei and Queen Ravenovia to the seat of his empire: a valley he had named “Barovia," in their father’s honor.
-* Queen Ravenovia, Sergei’s mother, fell gravely ill and died on the journey—and Sergei arrived at Castle Ravenloft alone. There, he met his elder brother, Strahd—who was now well-into middle age himself—for the first time in both of their lives. (“It was strange," Sergei recalls. “Neither of us knew how to speak with the other—me, who had never known war, and he, who had never known peace. We circled each other like cats: fearful of making a wrong move, yet too curious to step away.")
-* Sergei, joined by Ciril Romulich, informed Strahd that Kir had died before Castle Ravenloft was finished, leaving the position of Moste High Priest vacant—a position that the council of high priests had chosen Sergei to fill. (“Kir had withdrawn from daily life in the year before his death," Sergei recalls, if prompted. “When I and Ciril entered his chambers to speak with him, we found him slumped over on his desk, unmoving—and with a platinum sunburst lying in his hands, its center set with a ruby that shone like the sun. His notes called it the *Sigil of the Sun*, and claimed that it would be needed one day when the Morninglord’s faithful did battle with a great enemy." Sergei recognizes the *Holy Symbol of Ravenkind* as the *Sigil of the Sun* if shown, and expresses great interest in its recent history.)
-* Shortly after Sergei’s arrival in Barovia, an army of undead began to wage war against Strahd and his armies, ravaging the valley’s defenses and stockpiles. When Strahd departed from the castle to lead the fight, Sergei took over his brother’s ministerial duties, visiting the settlements of the valley to oversee their development.
-* It was on one such visit to the village of Barovia that Sergei first met Tatyana Federovna—a peasant girl working as a barmaid at the *Blood of the Vine Tavern*. Sergei was instantly smitten, and visited her daily to pursue her affections. (“She was the most beautiful woman I had ever seen," Sergei reminisces, “both inside and out. She was kind and gentle, but brilliant and *fierce*." He chuckles sadly, lost in memories. “She was also the most stubborn woman I had ever known—but I was determined to be even moreso. It was the happiest day of my life when she accepted my request to court her.")
-* When their courtship began, Tatyana visited Sergei in Castle Ravenloft near-daily, often spending nights—if not weeks—in the castle’s bright halls. Each time she did, Strahd welcomed her fondly, and Tatyana came to greet him warmly as well. (“Each time he saw her, I recognized the lust in his eyes," Sergei confesses, “yet I denied it to myself, unwilling to accept the darkness I saw in his heart. My denial only grew, even as that lust grew to envy, nurturing the monster that stirred in his chest.")
-* Sergei’s dalliances with Tatyana soon began to impede his duties as Moste High Priest to the Morninglord’s church. Not long after, Strahd gave him an ultimatum: end his relationship with Tatyana, or abdicate his position as Moste High Priest. (“I imagine he expected me to choose the former," Sergei muses. “He had never known anything but duty, and the Morninglord’s church had always been mine. But I chose Tatyana—when she agreed to marry me, I forswore my vows, for no light of the Morninglord could shine brighter than hers.")
-* Preparations for the royal wedding proceeded furiously over the next several months—until, finally, on his wedding day, Sergei stood in his castle chambers and prepared himself to become a married man. When a knock came at the door, Sergei went to answer it—and Strahd fell upon him with a dagger, slitting Sergei’s throat and drinking his blood as he died. (“He whispered three words to me as I died," Sergei recalls: “*She. Is. Mine.*")
-* Sergei’s spirit, terrified for Tatyana’s safety, rose as a ghost soon thereafter—but arrived too late to stop Strahd from chasing her to <span class="citation">K6. Overlook (p. 54)</span>. There, Sergei watched with horror as Tatyana leapt from the balcony to escape Strahd’s bloody clutches—falling to her death in the mists far below. (“At each step," Sergei says hollowly, “I failed to save her. I failed to see the darkness growing in my brother’s soul. I failed to choose duty over love. I failed to stop my own death. And when she needed me most, I failed to save my beloved from hers.")
+* Quando Strahd fece la sua prima visita notturna a Marina, Sergei temette subito per la sua vita. Appena Strahd se ne fu andato, Sergei visitò i sogni del borgomastro Ulrich e di frate Grigor e sussurrò loro che il signore della terra aveva fatto di Marina la sua preda e che la sua vita era in grave pericolo. («Speravo», dice Sergei deglutendo, «che facessero quello che io non potevo fare, e la portassero in salvo».)
+* La mattina dopo il borgomastro Ulrich e frate Grigor esaminarono il collo di Marina e ci trovarono i segni delle zanne di Strahd. Invece di portarla via di nascosto, come Sergei aveva sperato, Ulrich, affranto, e Grigor, impassibile, la uccisero, decisi a impedire che Strahd si prendesse la sua anima facendone una vampira. («Volevo salvarla», dice Sergei con amarezza. «E invece l'avevo uccisa un'altra volta».)
 
-If prompted to continue, Sergei can also share the following information:
+Se i giocatori chiedono a Sergei come abbia potuto uccidere Marina «un'altra volta», nominano Tatyana o gli chiedono come sia morto, Sergei trasale e li prega di non «riaprire vecchie ferite». Se i giocatori insistono, Sergei sospira e, se glielo chiedono, può aggiungere quanto segue:
 
-* After Tatyana’s death, Sergei withdrew to the realm of spirits, too fearful of what his brother had become, and too ashamed of his own failures, to return to the Material Plane. “I searched long for Tatyana’s spirit in the Ethereal Plane," Sergei mourns. “Eventually, I gave up the search—but perhaps I gave up too soon.")
-* Forty years after Tatyana’s death, Sergei learned that Strahd had discovered a new woman to prey upon: Marina Ulrich, the daughter of Berez’s burgomaster. “She was like Tatyana come to life again," Sergei recalls wistfully. “Her face, her voice—even her eyes matched Tatyana’s perfectly."
-* Both Strahd and Sergei came to believe that Marina *was* Tatyana born anew—but where Strahd sought to conquer what he had once lost, Sergei wanted only to rescue the woman he had once failed to save. (“These Mists entrap our souls," Sergei shares. “Bereft of any place to receive us, and without any place to draw new souls from, I have seen many old spirits drawn into newborn infants, reincarnated through the centuries to live again through fresh eyes.")
+* Suo padre, re Barov von Zarovich II, era deciso a far rinascere l'antica dinastia degli Zarovich e l'eredità della Vecchia Zarovia. Per questo combatté guerre senza fine contro i nemici della famiglia e addestrò Strahd a seguire le sue orme, crescendolo come soldato, generale e re.
+* Quando nacque Sergei, re Barov era già avanti negli anni. Sergei, di quasi trent'anni più giovane di Strahd e non destinato al trono, fu risparmiato dal sangue delle guerre del padre e del fratello. La madre, la regina Ravenovia, insieme al prefetto Ciril Romulich della Chiesa del Signore del Mattino, lo crebbe invece come sacerdote della Chiesa. («Non ho mai incontrato una sola volta l'uomo che chiamavo fratello», dice Sergei con tristezza. «I miei studi mi trattenevano a casa, i suoi doveri al fronte».)
+* Quando Sergei aveva ventidue anni, re Barov morì di malattia. Strahd ereditò il trono del padre, e le sue guerre, mentre Sergei, rimasto a casa, ereditò la *Lama Lucente* del padre: una spada radiosa la cui lama di cristallo splendeva come il sole. («Non ho mai saputo perché Strahd mi abbia fatto mandare la *Lama Lucente*», dice Sergei a bassa voce. «Forse voleva tracciare la propria strada. O forse una piccola parte di lui temeva la sua luce, già allora».)
+* Poco dopo la morte di re Barov, il successore di Sant'Andral, il Sommo Sacerdote Kir della Chiesa del Signore del Mattino, nominò Sergei Alto Sacerdote della Chiesa. Quattro anni dopo, Strahd convocò Sergei e la regina Ravenovia nel cuore del suo impero: una valle che aveva chiamato «Barovia» in onore del padre.
+* La regina Ravenovia, la madre di Sergei, si ammalò gravemente e morì durante il viaggio, e Sergei arrivò da solo al Castello di Ravenloft. Lì incontrò per la prima volta in vita sua il fratello maggiore, Strahd, ormai anche lui in piena età matura. («Fu strano», ricorda Sergei. «Nessuno dei due sapeva come parlare all'altro: io che non avevo mai conosciuto la guerra, lui che non aveva mai conosciuto la pace. Ci giravamo intorno come gatti, timorosi di fare la mossa sbagliata e troppo curiosi per allontanarci».)
+* Sergei, insieme a Ciril Romulich, informò Strahd che Kir era morto prima che il Castello di Ravenloft fosse terminato, lasciando vacante la carica di Sommo Sacerdote e che il consiglio degli alti sacerdoti aveva scelto Sergei per ricoprirla. («Nell'anno prima di morire Kir si era ritirato dalla vita di tutti i giorni», ricorda Sergei, se lo si sollecita. «Quando io e Ciril entrammo nelle sue stanze per parlargli, lo trovammo accasciato sulla scrivania, immobile, con in mano una raggiera di platino con al centro un rubino che splendeva come il sole. Nei suoi appunti la chiamava il *Sigillo del Sole* e sosteneva che un giorno sarebbe servita, quando i fedeli del Signore del Mattino avrebbero combattuto contro un grande nemico». Se gli si mostra il *Simbolo Sacro di Ravenkind*, Sergei lo riconosce come il *Sigillo del Sole* e mostra un grande interesse per la sua storia recente.)
+* Poco dopo l'arrivo di Sergei a Barovia, un esercito di non morti cominciò a fare guerra a Strahd e ai suoi eserciti, devastando le difese e le scorte della valle. Quando Strahd lasciò il castello per guidare la lotta, Sergei si fece carico dei compiti di governo del fratello e visitò gli insediamenti della valle per sovrintendere al loro sviluppo.
+* Fu durante una di queste visite al villaggio di Barovia che Sergei conobbe Tatyana Federovna, una ragazza di campagna che lavorava come cameriera alla *Taverna Sangue della Vite*. Sergei ne fu subito conquistato e andava a trovarla ogni giorno per corteggiarla. («Era la donna più bella che avessi mai visto», ricorda Sergei, «dentro e fuori. Era gentile e dolce, ma brillante e *fiera*». Ride con tristezza, perso nei ricordi. «Era anche la donna più testarda che avessi mai conosciuto, ma io ero deciso a esserlo ancora di più. Il giorno in cui accettò di farsi corteggiare da me fu il più felice della mia vita».)
+* Quando cominciò il corteggiamento, Tatyana andava a trovare Sergei al Castello di Ravenloft quasi ogni giorno e spesso passava notti intere, se non settimane, nelle sale luminose del castello. Ogni volta Strahd la accoglieva con affetto, e anche Tatyana cominciò a salutarlo con calore. («Ogni volta che la vedeva, riconoscevo il desiderio nei suoi occhi», confessa Sergei, «eppure lo negavo a me stesso, perché non volevo accettare l'oscurità che vedevo nel suo cuore. E continuai a negarlo anche quando quel desiderio diventò invidia e nutrì il mostro che si agitava nel suo petto».)
+* Ben presto la relazione con Tatyana cominciò a ostacolare i doveri di Sergei come Sommo Sacerdote della Chiesa del Signore del Mattino. Poco dopo Strahd gli pose un ultimatum: mettere fine alla relazione con Tatyana o rinunciare alla carica di Sommo Sacerdote. («Immagino che si aspettasse che scegliessi la prima strada», riflette Sergei. «Lui non aveva mai conosciuto altro che il dovere, e la Chiesa del Signore del Mattino era sempre stata la mia vita. Ma io scelsi Tatyana: quando lei accettò di sposarmi rinunciai ai miei voti, perché nessuna luce del Signore del Mattino poteva splendere più della sua».)
+* Nei mesi seguenti i preparativi per le nozze reali procedettero frenetici, finché il giorno delle nozze Sergei, nelle sue stanze al castello, si preparava a diventare un uomo sposato. Quando bussarono alla porta, Sergei andò ad aprire, e Strahd gli si avventò addosso con un pugnale, gli tagliò la gola e bevve il suo sangue mentre moriva. («Mentre morivo mi sussurrò tre parole», ricorda Sergei: «*Lei. È. Mia*».)
+* Lo spirito di Sergei, terrorizzato per l'incolumità di Tatyana, si levò poco dopo come fantasma, ma arrivò troppo tardi per impedire a Strahd di inseguirla fino al <span class="citation">K6. Belvedere (p. 54)</span>. Lì Sergei vide con orrore Tatyana gettarsi dal balcone per sfuggire alle grinfie insanguinate di Strahd e precipitare verso la morte nelle nebbie molto più in basso. («A ogni passo», dice Sergei con voce vuota, «non sono riuscito a salvarla. Non ho visto l'oscurità che cresceva nell'anima di mio fratello. Non ho scelto il dovere invece dell'amore. Non ho saputo impedire la mia morte. E quando lei aveva più bisogno di me, non ho saputo salvare la mia amata dalla sua».)
 
-If confronted or pressed, Sergei can reluctantly share the following additional information:
+Se lo si invita a continuare, Sergei può dire anche quanto segue:
 
-* He feels that he failed to prevent Tatyana’s death, and feels personally responsible for Marina’s death. He feels deep shame and self-loathing for both, and believes his spirit is beyond redemption.
-* If he has previously met Ireena Kolyana, he believes her to be the third incarnation of Tatyana’s spirit. (Sergei won’t admit this willingly, and will, at most, admit it by muted silence if the players suggest it, his eyes downcast).
+* Dopo la morte di Tatyana, Sergei si ritirò nel regno degli spiriti, troppo spaventato da ciò che era diventato suo fratello, e troppo pieno di vergogna per i propri fallimenti, per tornare nel Piano Materiale. («Ho cercato a lungo lo spirito di Tatyana nel Piano Etereo», dice Sergei con dolore. «Alla fine ho smesso di cercare, ma forse ho smesso troppo presto».)
+* Quarant'anni dopo la morte di Tatyana, Sergei scoprì che Strahd aveva trovato una nuova preda: Marina Ulrich, la figlia del borgomastro di Berez. «Era come se Tatyana fosse tornata in vita», ricorda Sergei con nostalgia. «Il volto, la voce, perfino gli occhi erano identici a quelli di Tatyana».
+* Strahd e Sergei finirono per credere entrambi che Marina *fosse* Tatyana rinata, ma mentre Strahd voleva conquistare ciò che aveva perduto, Sergei voleva soltanto salvare la donna che una volta non era riuscito a salvare. («Queste Nebbie intrappolano le nostre anime», spiega Sergei. «Senza un luogo che ci accolga, e senza un luogo da cui attingere anime nuove, ho visto molti spiriti antichi attirati in neonati, reincarnati nel corso dei secoli per vivere ancora attraverso occhi nuovi».)
 
-> [!info]+ **Ireena’s Response**
-> If informed that Sergei believes her to be Tatyana’s reincarnation, Ireena pales, her face growing stony. She then steps away from the party to wrestle with Sergei’s words. (If she still possesses it, she retrieves [[Arc B - Welcome to Barovia#B5j. Il Poggio di Lugdana|Tatyana’s bracelet]] from her belongings and turns it over in her hands, staring silently at the inscription engraved inside it.)
+Se lo si affronta o lo si incalza, Sergei può aggiungere a malincuore quanto segue:
+
+* Sente di non aver saputo impedire la morte di Tatyana e si sente personalmente responsabile della morte di Marina. Per entrambe prova una vergogna profonda e un grande disprezzo di sé e crede che il suo spirito non possa più essere redento.
+* Se ha già incontrato Ireena Kolyana, crede che lei sia la terza incarnazione dello spirito di Tatyana. (Sergei non lo ammette di sua volontà; al massimo, se sono i giocatori a suggerirlo, lo ammette con un silenzio muto, gli occhi bassi.)
+
+> [!info]+ **La reazione di Ireena**
+> Se viene a sapere che Sergei la crede la reincarnazione di Tatyana, Ireena impallidisce e il suo volto si fa di pietra. Poi si allontana dal gruppo per fare i conti con le parole di Sergei. (Se lo possiede ancora, prende dalle sue cose il [[Arc B - Welcome to Barovia#B5j. Il Poggio di Lugdana|braccialetto di Tatyana]] e se lo rigira fra le mani, fissando in silenzio l'iscrizione incisa all'interno.)
 >
-> If approached, Ireena, who is grateful for any insights, reassurance, and guidance the players can provide, can share that she is struggling with the implications of Sergei’s tale. “If my soul is Tatyana’s," she whispers, fists clenched, “am I even *me*? Has my life just been a cosmic play—some paler imitation of a woman who came before me, who *meant* more than me? Has anything I’ve ever done even *meant* anything?"
+> Se la si avvicina, Ireena, grata di qualunque riflessione, rassicurazione e consiglio i giocatori possano darle, confida che fatica ad accettare quello che il racconto di Sergei comporta. «Se la mia anima è quella di Tatyana», sussurra a pugni stretti, «sono davvero *io*? La mia vita è stata solo una recita cosmica, la pallida imitazione di una donna venuta prima di me, che *contava* più di me? Ha mai *significato* qualcosa quello che ho fatto?»
 >
-> As the conversation unfolds, Ireena laughs bitterly. “Strahd and Sergei think me Tatyana," she says. “Izek thought me Ireena Strazni. I’ve only ever wanted to be *me*—Ireena Kolyana—but it seems I’m the only one who thinks I *am*."
+> Mentre la conversazione va avanti, Ireena ride con amarezza. «Strahd e Sergei mi credono Tatyana», dice. «Izek mi credeva Ireena Strazni. Io ho sempre voluto essere soltanto *me stessa*, Ireena Kolyana, ma a quanto pare sono l'unica a pensare che io lo *sia*».
 >
-> Ireena ultimately shares that she is grateful to “finally know the truth"—as bitter as it might taste. “At least now I know," she concludes.
-### Seeking Sergei’s Aid
-If the players ask Sergei to empower the hilt of the *Sunsword*, or otherwise ask him to aid them in their battle against Strahd, read:
+> Alla fine Ireena dice di essere grata di «conoscere finalmente la verità», per quanto amara possa essere. «Almeno adesso lo so», conclude.
+### Chiedere l'aiuto di Sergei
+Se i giocatori chiedono a Sergei di dare forza all'elsa della *Spada del Sole*, o comunque gli chiedono di aiutarli nella lotta contro Strahd, leggi:
 
 <div class="description">
-<p>Sergei’s eyes widen, and he takes a step backward. As he does, a tendril of mist drifts lazily past his ear—and he tilts his head unconsciously, as if listening.</p>
-<p>A beat later, his gaze meets yours again. “I can’t," he says apologetically. “I’ve failed everyone else I’ve tried to aid. My soul is damned—you should leave me to my fate, and spare me no further thoughts.</p>
+<p>Gli occhi di Sergei si spalancano, e lui fa un passo indietro. Mentre si muove, un filo di nebbia gli scivola pigro accanto all'orecchio, e lui inclina la testa senza accorgersene, come se ascoltasse.</p>
+<p>Un attimo dopo il suo sguardo incrocia di nuovo il vostro. «Non posso», dice in tono di scusa. «Ho deluso tutti quelli che ho cercato di aiutare. La mia anima è dannata: dovreste lasciarmi al mio destino e non pensarci più».</p>
 </div>
 
-If the players attempt to counter Sergei’s argument, his eyes flash, and he asks “what they hope to accomplish" by “tormenting the remnants of a soul that has lingered long past its time." As he rebuts the players’ argument, if any player has a passive Wisdom (Perception) score of 13 or greater, add:
+Se i giocatori provano a controbattere, gli occhi di Sergei lampeggiano, e lui chiede «che cosa sperino di ottenere» tormentando «i resti di un'anima che si è trattenuta ben oltre il suo tempo». Mentre ribatte agli argomenti dei giocatori, se almeno un giocatore ha un punteggio passivo di Saggezza (Percezione) di 13 o più, aggiungi:
 
 <div class="description">
-<p>As Sergei speaks, faint shadows twist within the tendrils of mist that drift behind him. For an instant, within the mist, you glimpse an assembly of countless amorphous, indistinct silhouettes, their cold, hollow voices whispering into his ears.</p>
+<p>Mentre Sergei parla, deboli ombre si contorcono nei fili di nebbia che gli fluttuano alle spalle. Per un istante, nella nebbia, intravedete un'adunanza di innumerevoli sagome amorfe e indistinte, le cui voci fredde e vuote gli sussurrano all'orecchio.</p>
 </div>
 
-A player who asks Sergei or succeeds on a DC 13 Wisdom (Insight) check learns that Sergei neither perceives the silhouettes nor realizes that they’re there. A player who approaches Sergei or succeeds on a DC 15 Wisdom (Perception) check can make out a few words and phrases from the cacophony of whispers:
+Un giocatore che lo chiede a Sergei, o che supera una prova di Saggezza (Intuizione) con CD 13, capisce che Sergei non percepisce le sagome e non si rende conto che ci sono. Un giocatore che si avvicina a Sergei, o che supera una prova di Saggezza (Percezione) con CD 15, riesce a distinguere qualche parola e qualche frase nel frastuono dei sussurri:
 
-* “You’ve killed her twice before. You’ll kill her again."
-* “They don’t know what you are—how weak, soft, and naive you are."
-* “This is your penance. You can never return to the light."
+* «L'hai già uccisa due volte. La ucciderai di nuovo».
+* «Non sanno che cosa sei, quanto sei debole, molle e ingenuo».
+* «Questa è la tua penitenza. Non potrai mai tornare alla luce».
 
-> [!lore]+ **Dark Whispers**
-> The whispering shadows are a manifestation of the Dark Powers. Eager to keep Ireena Kolyana isolated, and hoping to deprive the players of Sergei’s aid, they have reached out to embrace Sergei’s spirit in order to prevent him from helping them.
+> [!lore]+ **Sussurri oscuri**
+> Le ombre che sussurrano sono una manifestazione dei Poteri Oscuri. Decisi a tenere isolata Ireena Kolyana e sperando di privare i giocatori dell'aiuto di Sergei, si sono protesi ad abbracciare lo spirito di Sergei per impedirgli di aiutarli.
 
-The players can again attempt to persuade Sergei to aid them by making any reasonable argument and succeeding on a DC 15 Charisma (Persuasion) check. The players make the check with advantage if their arguments directly rebut the Dark Powers’ whispers, and succeed automatically if they help Ireena reconcile her identity and recruit her aid in convincing Sergei.
+I giocatori possono provare di nuovo a convincere Sergei ad aiutarli con un qualunque argomento ragionevole e una prova di Carisma (Persuasione) con CD 15 superata. Effettuano la prova con vantaggio se i loro argomenti ribattono direttamente ai sussurri dei Poteri Oscuri, e la superano automaticamente se aiutano Ireena a fare pace con la propria identità e ottengono il suo aiuto per convincere Sergei.
 
-On a success, if the players previously asked Sergei to empower the *Sunsword*, he solemnly agrees to do so. If the players otherwise successfully convince Sergei to aid in the battle against Strahd, he agrees to join them in their fight against Baba Lysaga. (“Afterward," he muses, “we shall see.")
+In caso di successo, se i giocatori gli avevano chiesto di dare forza alla *Spada del Sole*, Sergei accetta solennemente di farlo. Se invece i giocatori lo convincono ad aiutarli nella lotta contro Strahd, accetta di unirsi a loro nello scontro con Baba Lysaga. («Dopo», riflette, «vedremo».)
 
-> [!abstract]+ **Sergei’s Gift**
-> If the players persuade Sergei to aid them in any capacity, he invites each player to approach him and gain “the blessing of the Morninglord" before departing this area. (“Much time has passed since I invoked His name," Sergei says wryly, “but perhaps he favors me still, despite how far as I have fallen.")
+> [!abstract]+ **Il dono di Sergei**
+> Se i giocatori convincono Sergei ad aiutarli in qualunque modo, prima di lasciare l'area lui invita ogni giocatore ad avvicinarsi per ricevere «la benedizione del Signore del Mattino». («È passato molto tempo da quando ho invocato il Suo nome», dice Sergei con ironia, «ma forse mi favorisce ancora, nonostante quanto sono caduto in basso».)
 >
-> If the players accept, Sergei lays his hands upon each of them in turn. Each time he does so, that player immediately gains the benefits of a short rest. (Sergei can do this once per character.)
+> Se i giocatori accettano, Sergei impone le mani su ciascuno di loro a turno. Ogni volta che lo fa, quel giocatore ottiene subito i benefici di un riposo breve. (Sergei può farlo una volta per personaggio.)
 
-> [!abstract]+ **Sergei’s Choice**
-> Even if the players convince him to join the fight against Strahd, Sergei won’t accompany the players beyond the ruins of Berez. “Strange things are stirring in the Ethereal Plane," he shares, “and the borders of the Deep Ethereal are growing thin. It may be that the people of this valley—*my* people—need my help more than you. If that is so, I won’t fail them again." (If asked about Ireena’s safety, Sergei shares that Ireena has grown strong in the players’ company, and that he doesn’t believe Ireena needs his protection anymore. “Perhaps she never did," he reflects softly.)
-## T3g. Manor Cellar
-When the players first enter this area, read:
-
-<div class="description">
-<p>This small chamber is fifteen feet across. Along the eastern wall, a set of rotted cellar doors hangs askew above a debris-strewn stone staircase, which descends into darkness below.</p>
-<p>"Hello?" a child’s voice—strained and weak—calls from the darkness. “Is someone there? Please, help us!</p>
-</div>
-
-Two rounds later, add:
+> [!abstract]+ **La scelta di Sergei**
+> Anche se i giocatori lo convincono a unirsi alla lotta contro Strahd, Sergei non li accompagna oltre le rovine di Berez. «Nel Piano Etereo si agitano cose strane», spiega, «e i confini dell'Etereo Profondo si stanno assottigliando. Può darsi che la gente di questa valle, la *mia* gente, abbia bisogno del mio aiuto più di voi. Se è così, non la deluderò di nuovo». (Se gli si chiede dell'incolumità di Ireena, Sergei dice che Ireena è diventata forte in compagnia dei giocatori e che non crede che abbia più bisogno della sua protezione. «Forse non ne ha mai avuto bisogno», riflette a bassa voce.)
+## T3g. La cantina del maniero
+Quando i giocatori entrano per la prima volta in quest'area, leggi:
 
 <div class="description">
-<p>"We—"</p>
-<p>The child’s voice cuts off, then shrieks in terror.</p>
+<p>Questa piccola sala è larga 4,5 metri. Lungo la parete est, due battenti di cantina marci pendono sbilenchi sopra una scala di pietra ingombra di detriti, che scende nel buio.</p>
+<p>«C'è qualcuno?», chiama dal buio la voce di un bambino, flebile e tesa. «C'è qualcuno lì? Vi prego, aiutateci!»</p>
 </div>
 
-A player who has previously met Viggo Martikov in [[Arc J - The Stolen Gem]] recognizes the child’s voice as Viggo’s.
-
-> [!info]+ **The Child**
-> The child’s voice is a *programmed illusion* prepared by Baba Lysaga. It activates the first time any of the players enter this chamber.
-
-> [!info]+ **Thin Walls**
-> The eastern hedge wall separating this chamber from [[#T3j. Ulrich Manor]] are only five feet thick. A player who inspects the eastern wall and succeeds on a DC 15 Wisdom (Perception) check observes the faint outline of a fog-filled chamber on the far side of the thorny hedge.
-
-Two ten-foot-wide passages lead from this chamber:
-
-* One to the south, which leads to [[#T3i. Garden]].
-* One to the north, which leads to [[#T3e. Churchyard]].
-### Descending the Stairs
-If the players descend the stairs, read:
+Due round dopo, aggiungi:
 
 <div class="description">
-<p>The stairs descend to a ruined, fog-filled wine cellar. Rotted, hollow casks stand silently against the walls, a trio of forgotten dolls lying scattered beneath them. On the far side of the room, part of the ceiling has collapsed, burying the chamber beneath rubble and debris.</p>
+<p>«Noi...»</p>
+<p>La voce del bambino si interrompe, poi lancia un grido di terrore.</p>
 </div>
 
-The three dolls, which were crafted and left here by Baba Lysaga, have the statistics of <span class="citation">carrionettes (<em>Van Richten’s Guide to Ravenloft</em>, p. 231)</span>, but with the following changes:
+Un giocatore che ha già conosciuto Viggo Martikov nell'[[Arc J - The Stolen Gem|Arco J: La gemma rubata]] riconosce nella voce del bambino quella di Viggo.
 
-* Each carrionette has vulnerability to fire damage.
-* Each carrionette has +6 to Deception rolls.
-* A creature that fails its saving throw against a carrionette's ***silver needle*** attack isn’t cursed. Instead, that creature automatically suffers the effects of the carrionette’s ***soul swap*** action without making an additional saving throw.
-* A creature affected by a carrionette's ***soul swap*** action doesn’t fall unconscious. Instead, both the carrionette and its target fall unconscious until the start of the carrionette's next turn. (While unconscious, a carrionette appears to be dead.) The carrionette then gains control of the target’s body, and the target gains control of the carrionette's body. (While in this state, the target can’t speak.)
-* If the carrionette's body is destroyed, both the carrionette and the target die.
+> [!info]+ **Il bambino**
+> La voce del bambino è un'*illusione programmata* preparata da Baba Lysaga. Si attiva la prima volta che un giocatore entra in questa sala.
 
-The dolls attack if the players approach them or otherwise pass the midpoint of the cellar.
+> [!info]+ **Pareti sottili**
+> La parete di siepe a est, che separa questa sala dal [[#T3j. Il maniero degli Ulrich|maniero degli Ulrich]], è spessa solo 1,5 metri. Un giocatore che esamina la parete est e supera una prova di Saggezza (Percezione) con CD 15 distingue il profilo sfocato di una sala piena di nebbia dall'altra parte della siepe di rovi.
 
-> [!combat]- **Combat - The Manor's Cellar**  
-> **Combat Level**: Mild
-> **Expected Character Level**: 9
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
-> **Expected HP Consumption:** 3%
+Da questa sala partono due passaggi larghi 3 metri:
+
+* Uno a sud, che porta al [[#T3i. Il giardino|giardino]].
+* Uno a nord, che porta al [[#T3e. Il sagrato|sagrato]].
+### Scendere le scale
+Se i giocatori scendono le scale, leggi:
+
+<div class="description">
+<p>Le scale scendono in una cantina dei vini in rovina, piena di nebbia. Botti marce e vuote stanno in silenzio contro le pareti, e sotto di esse giacciono sparpagliate tre bambole dimenticate. Dall'altra parte della stanza una parte del soffitto è crollata e ha sepolto la sala sotto macerie e detriti.</p>
+</div>
+
+Le tre bambole, fabbricate e lasciate qui da Baba Lysaga, hanno le statistiche delle <span class="citation">carrionette (<em>Guida di Van Richten a Ravenloft</em>, p. 231)</span>, con queste modifiche:
+
+* Ogni carrionette ha vulnerabilità ai danni da fuoco.
+* Ogni carrionette ha +6 alle prove di Inganno.
+* Una creatura che fallisce il tiro salvezza contro l'attacco ***ago d'argento*** di una carrionette non viene maledetta. Subisce invece automaticamente gli effetti dell'azione ***scambio d'anima*** della carrionette, senza effettuare altri tiri salvezza.
+* Una creatura colpita dall'azione ***scambio d'anima*** di una carrionette non cade priva di sensi. Invece sia la carrionette sia il bersaglio cadono privi di sensi fino all'inizio del turno successivo della carrionette. (Mentre è priva di sensi, una carrionette sembra morta.) Poi la carrionette prende il controllo del corpo del bersaglio, e il bersaglio prende il controllo del corpo della carrionette. (In questo stato il bersaglio non può parlare.)
+* Se il corpo della carrionette viene distrutto, muoiono sia la carrionette sia il bersaglio.
+
+Le bambole attaccano se i giocatori si avvicinano o comunque superano la metà della cantina.
+
+> [!combat]- **Combattimento: la cantina del maniero**  
+> **Livello di combattimento**: lieve
+> **Livello previsto dei personaggi**: 9
+> **Alleati:** Ireena Kolyana (GS 2), Ezmerelda d'Avenir (GS 4)
+> **Consumo previsto di pf:** 3%
 > 
-> ### **Enemies:**
+> ### **Nemici:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 giocatori | 4 giocatori | 5 giocatori | 6 giocatori |
 > |-|-|-|-|-|
 > | Carrionette | 2 | 2 | 3 | 3 |
 
-> [!info]+ **Roleplaying a Carrionette**
-> If a carrionette successfully gains control of a player’s body, provide that player the following information:
+> [!info]+ **Interpretare una carrionette**
+> Se una carrionette riesce a prendere il controllo del corpo di un giocatore, dai a quel giocatore queste informazioni:
 >
 > ---
 >
-> You have swapped souls with a carrionette. Your soul now resides in the carrionette’s body, and the carrionette’s soul resides in yours.
+> Hai scambiato l'anima con una carrionette. Ora la tua anima abita il corpo della carrionette, e l'anima della carrionette abita il tuo.
 >
-> While your body is possessed, you should roleplay the carrionette’s soul as follows:
+> Finché il tuo corpo è posseduto, interpreta l'anima della carrionette così:
 >
-> * You want to deceive your companions into believing that your soul hasn’t been swapped. 
-> * You want to protect the dolls from harm.
-> * You can’t easily control your childlike behavior, such as giggles at inopportune moments, a deep fascination with interesting objects, and a simple, black-and-white “morality."
-> * If your deception fails, you attempt to flee. 
-> * If captured and interrogated, you claim that your ***soul swap*** is irreversible, and that no act or magic can restore the target’s soul to its body. (While doing so, you then glance nervously toward the carrionette’s physical body—and, if present, its silver needle.
+> * Vuoi ingannare i tuoi compagni e far loro credere che la tua anima non sia stata scambiata.
+> * Vuoi proteggere le bambole da ogni danno.
+> * Non riesci a controllare bene il tuo comportamento infantile: risatine nei momenti meno opportuni, un fascino profondo per gli oggetti interessanti, una «morale» semplice, tutta bianca o nera.
+> * Se l'inganno fallisce, cerchi di fuggire.
+> * Se vieni catturato e interrogato, sostieni che lo ***scambio d'anima*** è irreversibile e che nessun gesto e nessuna magia possono riportare l'anima del bersaglio nel suo corpo. (Mentre lo dici, lanci un'occhiata nervosa verso il corpo fisico della carrionette e, se c'è, verso il suo ago d'argento.)
 
-A player who inspects the collapsed ceiling and succeeds on a DC 8 Intelligence (Investigation) check discerns that the ceiling collapsed long ago—likely centuries before the players arrived.
-## T3h. Goat Pen
-This area is largely as described in <span class="citation">U2. Ulrich Mansion (p. 162)</span>. However, Baba Lysaga has transformed the nine **goats** here into hulking carnivorous beasts (use the statistics of a **giant hyena** with the additional ***gore*** attack of a **rhinoceros**). The goats attack any player who enters their pen.
+Un giocatore che esamina il soffitto crollato e supera una prova di Intelligenza (Indagare) con CD 8 capisce che il crollo è avvenuto molto tempo fa, probabilmente secoli prima dell'arrivo dei giocatori.
+## T3h. Il recinto delle capre
+Quest'area è più o meno come descritta in <span class="citation">U2. Villa Ulrich (p. 162)</span>. Però Baba Lysaga ha trasformato le nove **capre** del recinto in enormi bestie carnivore (usa le statistiche di una **iena gigante** con in più l'attacco ***incornata*** di un **rinoceronte**). Le capre attaccano qualunque giocatore entri nel recinto.
 
-> [!combat]- **Combat - The Goat Pen**  
-> **Combat Level**: Bruising
-> **Expected Character Level**: 9
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
-> **Expected HP Consumption:** 29%
+> [!combat]- **Combattimento: il recinto delle capre**  
+> **Livello di combattimento**: impegnativo
+> **Livello previsto dei personaggi**: 9
+> **Alleati:** Ireena Kolyana (GS 2), Ezmerelda d'Avenir (GS 4)
+> **Consumo previsto di pf:** 29%
 > 
-> ### **Enemies:**
+> ### **Nemici:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 giocatori | 4 giocatori | 5 giocatori | 6 giocatori |
 > |-|-|-|-|-|
-> | Goat | 6 | 7 | 9 | 10 |
+> | Capra | 6 | 7 | 9 | 10 |
 
-Two ten-foot-wide passages lead from this chamber, whose walls are flush with the edges of the goat pen:
+Da questa sala, le cui pareti coincidono con i bordi del recinto delle capre, partono due passaggi larghi 3 metri:
 
-* One to the east, which leads to [[#T3c. Southern Cottages]]
-* One to the southwest, which leads to [[#T3i. Garden]]
-## T3i. Garden
-This area is largely as described in <span class="citation">U2. Ulrich Mansion (p. 162)</span>. However, six **scarecrows** are interspersed among the stone sculptures throughout the garden. The scarecrows and **giant poisonous snakes** attack characters who venture more than 20 feet inside the garden.
+* Uno a est, che porta alle [[#T3c. Le casupole sud|casupole sud]]
+* Uno a sud-ovest, che porta al [[#T3i. Il giardino|giardino]]
+## T3i. Il giardino
+Quest'area è più o meno come descritta in <span class="citation">U2. Villa Ulrich (p. 162)</span>. Però fra le sculture di pietra del giardino sono sparsi sei **spaventapasseri**. Gli spaventapasseri e i **serpenti velenosi giganti** attaccano i personaggi che si spingono per più di 6 metri dentro il giardino.
 
-> [!combat]- **Combat - The Garden**  
-> **Combat Level**: Bruising
-> **Expected Character Level**: 9
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
-> **Expected HP Consumption:** 22%
+> [!combat]- **Combattimento: il giardino**  
+> **Livello di combattimento**: impegnativo
+> **Livello previsto dei personaggi**: 9
+> **Alleati:** Ireena Kolyana (GS 2), Ezmerelda d'Avenir (GS 4)
+> **Consumo previsto di pf:** 22%
 > 
-> ### **Enemies:**
+> ### **Nemici:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 giocatori | 4 giocatori | 5 giocatori | 6 giocatori |
 > |-|-|-|-|-|
-> | Giant Poisonous Snake | 3 | 3 | 4 | 4 |
-> | Scarecrow | 4 | 5 | 6 | 7 |
+> | Serpente velenoso gigante | 3 | 3 | 4 | 4 |
+> | Spaventapasseri | 4 | 5 | 6 | 7 |
 
-Three ten-foot-wide passages lead from this chamber:
+Da questa sala partono tre passaggi larghi 3 metri:
 
-* One to the southwest, which leads to [[#T3g. Manor Cellar]]
-* One to the northwest, which leads to [[#T3j. Ulrich Manor]]
-* One to the northeast, which leads to [[#T3h. Goat Pen]]
-## T3j. Ulrich Manor
-When the players first enter this area, read:
-
-<div class="description">
-<p>A ruined mansion stands here, reduced to piles of stone and rotting timber. Empty, arched windows stare at you, and the rotted remains of furniture and decor lie against the broken walls and floor. Thick coils of fog roll through the mansion’s husk, drifting lazily through the air.</p>
-</div>
-
-Two ten-foot-wide passages lead from this chamber, whose walls are flush with the edges of the ruins:
-
-* One to the south, which leads to [[#T3i. Garden]].
-* One to the north, which leads to [[#T3k. Baba Lysaga’s Hut]].
-
-In addition, when the players first move across the mansion, the **ghost** of Burgomaster Lazlo Ulrich appears before them. When he does so, read:
+* Uno a sud-ovest, che porta alla [[#T3g. La cantina del maniero|cantina del maniero]]
+* Uno a nord-ovest, che porta al [[#T3j. Il maniero degli Ulrich|maniero degli Ulrich]]
+* Uno a nord-est, che porta al [[#T3h. Il recinto delle capre|recinto delle capre]]
+## T3j. Il maniero degli Ulrich
+Quando i giocatori entrano per la prima volta in quest'area, leggi:
 
 <div class="description">
-<p>The fog stirs—then forms into a silhouette: a giant of a man with a thick, drooping mustache, his shadow dark against the mist. As his form resolves, so too do his features: his face and torso are mutilated, with his entrails hanging out like frayed rope.</p>
-<p>"So you are the ones who have her," he rasps. “You are the ones who have my daughter."</p>
+<p>Qui sorge una villa in rovina, ridotta a cumuli di pietre e travi marce. Finestre ad arco vuote vi fissano, e i resti marci di mobili e decorazioni giacciono contro le pareti e i pavimenti sfondati. Spesse spire di nebbia rotolano dentro il guscio della villa, fluttuando pigre nell'aria.</p>
 </div>
 
-> [!lore]+ **Lazlo’s Fall**
-> When Burgomaster Lazlo Ulrich saw the marks on Marina’s neck and confirmed what his dreams had told him—that Strahd had visited his daughter, Marina, in the night—Lazlo felt fear strike deep in his heart. For an instant, he considered fleeing with Marina from the village—to Vallaki’s high walls, or to Krezk to the west—or even confronting the Devil himself, suicide that he knew it to be. 
->
-> Yet the Dark Powers’ voices came to him, whispering sweetly that further struggle would be pointless. Marina was already dead, they told him, for there was nowhere in Barovia that Strahd could not pursue her. If he did, they murmured, she would be lost forever, for she would become a vampire, and her soul would surely be damned. Although Lazlo did not recognize the voices for what they were, he knew in his heart that there was only one way to save her: to carry out the deed himself, so that she could flee where Strahd could not follow.
->
-> To kill Marina, Lazlo first recruited Brother Grigor’s aid to drug her, using the poison _essence of ether_. Lazlo then slit Marina’s throat, draining the blood from her neck so that Strahd could no longer feed upon her. He disposed of her blood in the Luna River—the very river that drowned his village mere hours later.
->
-> When Lazlo died as described in <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>, he did so with a single twisted regret: that he would never know whether Marina appreciated what he had done for her. Since then, his ghost has haunted the ruins of Ulrich Manor, hoping that her spirit will one day return and forgive him his crimes against her—for, as Lazlo fervently believes, his actions were for Marina’s own good. 
+Da questa sala, le cui pareti coincidono con i bordi delle rovine, partono due passaggi larghi 3 metri:
 
-> [!info]+ **What Lazlo Wants**
-> Lazlo wants most to resolve his unfinished business: to reunite with Marina and obtain her forgiveness. Baba Lysaga, hoping to use him as a weapon against the players, has told him that Marina’s soul dwells within Ireena Kolyana—and that only through Ireena’s death can Marina be reunited with him. 
->
-> Blinded by his own desperation, Lazlo believes that Ireena is either a hollow shell for Marina’s soul or Marina herself bereft of her memories, and that Ireena’s death will return his beloved daughter to him once again.
+* Uno a sud, che porta al [[#T3i. Il giardino|giardino]].
+* Uno a nord, che porta alla [[#T3k. La capanna di Baba Lysaga|capanna di Baba Lysaga]].
 
-> [!abstract]+ **Lazlo Meets Ireena**
-> If Lazlo sees Ireena, read:
+Inoltre, la prima volta che i giocatori attraversano la villa, compare davanti a loro il **fantasma** del borgomastro Lazlo Ulrich. Quando succede, leggi:
+
+<div class="description">
+<p>La nebbia si agita, poi prende forma in una sagoma: un uomo gigantesco con folti baffi spioventi, la cui ombra spicca scura contro la foschia. Man mano che la forma si definisce, si definiscono anche i lineamenti: il volto e il torso sono mutilati, e le viscere gli pendono fuori come corde sfilacciate.</p>
+<p>«Allora siete voi che l'avete», dice con voce roca. «Siete voi che avete mia figlia».</p>
+</div>
+
+> [!lore]+ **La caduta di Lazlo**
+> Quando il borgomastro Lazlo Ulrich vide i segni sul collo di Marina ed ebbe la conferma di ciò che gli avevano detto i sogni, cioè che Strahd aveva fatto visita a sua figlia nella notte, sentì la paura colpirlo in fondo al cuore. Per un istante pensò di fuggire dal villaggio con Marina, verso le alte mura di Vallaki o verso Krezk a ovest, o perfino di affrontare il Diavolo in persona, pur sapendo che sarebbe stato un suicidio.
+>
+> Ma gli arrivarono le voci dei Poteri Oscuri, che gli sussurrarono con dolcezza che lottare ancora sarebbe stato inutile. Marina era già morta, gli dissero, perché a Barovia non c'era luogo dove Strahd non potesse inseguirla. Se lo avesse fatto, mormorarono, sarebbe stata perduta per sempre, perché sarebbe diventata una vampira e la sua anima sarebbe stata di sicuro dannata. Lazlo non riconobbe le voci per quello che erano, ma sentì nel cuore che c'era un solo modo per salvarla: compiere lui stesso l'atto, così che lei potesse fuggire dove Strahd non poteva seguirla.
+>
+> Per uccidere Marina, Lazlo chiese prima l'aiuto di frate Grigor per drogarla con il veleno *essenza d'etere*. Poi le tagliò la gola e le svuotò il collo del sangue, perché Strahd non potesse più nutrirsi di lei. Gettò il sangue nel fiume Luna, lo stesso fiume che poche ore dopo sommerse il suo villaggio.
+>
+> Quando Lazlo morì come descritto nel <span class="citation">Capitolo 10: Le rovine di Berez (p. 161)</span>, se ne andò con un solo rimpianto, distorto: non avrebbe mai saputo se Marina avesse apprezzato ciò che aveva fatto per lei. Da allora il suo fantasma infesta le rovine del maniero degli Ulrich, nella speranza che un giorno lo spirito di lei torni e lo perdoni dei suoi crimini, perché Lazlo crede con fervore di aver agito per il bene di Marina.
+
+> [!info]+ **Che cosa vuole Lazlo**
+> Più di ogni altra cosa Lazlo vuole risolvere la sua questione in sospeso: ricongiungersi con Marina e ottenere il suo perdono. Baba Lysaga, che spera di usarlo come arma contro i giocatori, gli ha detto che l'anima di Marina abita in Ireena Kolyana e che solo con la morte di Ireena Marina potrà tornare da lui.
+>
+> Accecato dalla disperazione, Lazlo crede che Ireena sia un guscio vuoto per l'anima di Marina, oppure Marina stessa privata dei ricordi, e che la morte di Ireena gli restituirà la sua amata figlia.
+
+> [!abstract]+ **Lazlo incontra Ireena**
+> Se Lazlo vede Ireena, leggi:
 >
 > ---
-> *The ghost’s eyes widen, and shimmering tears gather at the corners of his eyes.*
+> *Gli occhi del fantasma si spalancano, e agli angoli si raccolgono lacrime scintillanti.*
 >
-> *“Marina—my little girl," he chokes out. He holds his arms out, as if expecting an embrace. “Your Papa has waited so long for you to come home."*
+> *«Marina... la mia bambina», dice con la voce strozzata. Tende le braccia, come se si aspettasse un abbraccio. «Il tuo papà ha aspettato tanto che tornassi a casa».*
 > 
 > ---
 >
-> If the players intervene first, Lazlo angrily commands them to be silent, then swiftly turns his attention to Ireena again, whom he pleadingly asks: “Don’t you recognize me?"
+> Se i giocatori intervengono per primi, Lazlo ordina loro con rabbia di tacere, poi torna subito a rivolgersi a Ireena e le chiede supplichevole: «Non mi riconosci?».
 >
-> Ireena is highly disturbed by Lazlo’s reaction to her, and heatedly denies being “Marina." (If she previously learned of Marina’s history from Sergei von Zarovich at [[#T3f. Marina’s Monument]], Ireena’s denial is somber, not heated.)
+> Ireena è molto turbata dalla reazione di Lazlo e nega con forza di essere «Marina». (Se ha già saputo la storia di Marina da Sergei von Zarovich al [[#T3f. Il monumento di Marina|monumento di Marina]], Ireena lo nega con tristezza, non con rabbia.)
 >
-> If Ireena denies being Marina, read:
+> Se Ireena nega di essere Marina, leggi:
 >
 > ---
-> *The ghost reels back through the air, then settles, his face despondent.*
+> *Il fantasma arretra fluttuando nell'aria, poi si ferma, con il volto avvilito.*
 >
-> *"The witch spoke true, then," he says mournfully. “You do not remember me."*
+> *«Allora la strega diceva il vero», dice con tristezza. «Non ti ricordi di me».*
 
-Lazlo can share the following information with the players if asked:
+Se glielo chiedono, Lazlo può dire ai giocatori quanto segue:
 
-* In life, he was Lazlo Ulrich, last Burgomaster of Berez.
-* He knows that the players travel with “the one that calls herself Ireena Kolyana." (If Ireena is present, Lazlo addresses her as “Marina," then greets her as described above.)
-* He believes that Ireena contains the soul of his daughter, Marina, who died long ago. He wishes to reunite with Marina’s spirit, so that her soul may finally “come home"—and so be at rest. (A player who succeeds on a DC 12 Wisdom (Insight) check identifies a cringing light in Lazlo’s eyes, and discerns that Lazlo has ulterior motives in wanting to return Marina’s spirit “home.")
+* In vita era Lazlo Ulrich, l'ultimo borgomastro di Berez.
+* Sa che i giocatori viaggiano con «quella che si fa chiamare Ireena Kolyana». (Se Ireena è presente, Lazlo la chiama «Marina» e la saluta come descritto sopra.)
+* Crede che in Ireena ci sia l'anima di sua figlia Marina, morta molto tempo fa. Vuole ricongiungersi con lo spirito di Marina, perché la sua anima possa finalmente «tornare a casa» e trovare pace. (Un giocatore che supera una prova di Saggezza (Intuizione) con CD 12 nota negli occhi di Lazlo una luce sfuggente e capisce che Lazlo ha secondi fini nel voler riportare «a casa» lo spirito di Marina.)
 
-> [!abstract]+ **Lazlo’s Confession**
-> Lazlo won’t admit how Marina died if asked, insisting only that “the Count of Castle Ravenloft" visited her in the night and drank her blood. 
+> [!abstract]+ **La confessione di Lazlo**
+> Se glielo chiedono, Lazlo non ammette come sia morta Marina e si limita a ripetere che «il conte del Castello di Ravenloft» le ha fatto visita nella notte e ha bevuto il suo sangue.
 >
-> If the players suggest Lazlo’s role in Marina’s death (such as by deducing that Strahd could *not* have killed her, or else she would have become a vampire spawn), Lazlo angrily retorts that he did not kill her, but *saved* her. “I saw it in the mists," he rasps. “She was already dead in the Devil’s hands. If not for my actions, her soul would have followed."
+> Se i giocatori gli fanno capire di sapere quale ruolo abbia avuto nella morte di Marina (per esempio deducendo che Strahd *non* può averla uccisa, altrimenti sarebbe diventata una progenie vampirica), Lazlo ribatte con rabbia che non l'ha uccisa: l'ha *salvata*. «L'ho visto nelle nebbie», dice con voce roca. «Nelle mani del Diavolo era già morta. Se non avessi fatto quello che ho fatto, la sua anima l'avrebbe seguita».
 >
-> Once he has confessed, Lazlo can share the following additional information:
-> * In his dreams, a man resembling Strahd von Zarovich visited him and warned him that the Count had preyed upon Marina in the night and drank her blood.
-> * The following day, after seeing the marks upon Marina’s neck with his own eyes, Lazlo considered taking her away from Berez—but when he saw Strahd and Marina’s images in a cloud of fog, he knew it to be a sign that wherever she might go, the Count would follow.
-> * Lazlo resolved to take Marina’s life himself, so that she would neither suffer nor lose her soul to damnation as Strahd’s vampiric thrall. He recruited the aid of Brother Grigor, a monk of the Morninglord, who brewed him a dose of _essence of ether_ and slipped it into Marina’s tea. (“When she fell asleep," Lazlo says, his hands curling into fists, “I did what had to be done.")
-> * That night, Strahd returned to Berez—then responded to Marina’s death as described in <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>. (“I do not know how he commanded the river’s banks to rise," Lazlo rumbles. “But if he held such power over the land, I do not doubt that he could have done far worse to Marina, had I allowed him to.")
+> Dopo la confessione, Lazlo può aggiungere quanto segue:
+> * In sogno gli fece visita un uomo che somigliava a Strahd von Zarovich e lo avvertì che nella notte il conte aveva fatto di Marina la sua preda e aveva bevuto il suo sangue.
+> * Il giorno dopo, quando vide con i suoi occhi i segni sul collo di Marina, Lazlo pensò di portarla via da Berez, ma quando vide le immagini di Strahd e di Marina in una nuvola di nebbia capì che era un segno: dovunque fosse andata, il conte l'avrebbe seguita.
+> * Lazlo decise di toglierle la vita lui stesso, perché non soffrisse e non perdesse l'anima nella dannazione come schiava vampirica di Strahd. Chiese l'aiuto di frate Grigor, un monaco del Signore del Mattino, che gli preparò una dose di *essenza d'etere* e la versò di nascosto nel tè di Marina. («Quando si addormentò», dice Lazlo stringendo le mani a pugno, «feci quello che andava fatto».)
+> * Quella notte Strahd tornò a Berez e reagì alla morte di Marina come descritto nel <span class="citation">Capitolo 10: Le rovine di Berez (p. 161)</span>. («Non so come abbia fatto a ordinare agli argini del fiume di sollevarsi», brontola Lazlo. «Ma se aveva un simile potere sulla terra, non ho dubbi che avrebbe potuto fare di molto peggio a Marina, se glielo avessi permesso».)
 
-Lazlo will not allow the players to pass through the mansion unless they agree to leave Ireena with him, so that he may help her “escape her shell" and reunite with him. (If confronted, Lazlo freely admits that he intends to kill Ireena, who he insists is “only a vessel" for his daughter’s soul. “Do you not see?" he asks sadly, his eyes haunted and mad. “She withers and suffers within this false flesh. I freed her once—must I not free her again?")
+Lazlo non lascia passare i giocatori attraverso la villa a meno che non accettino di lasciargli Ireena, perché possa aiutarla a «sfuggire al suo guscio» e a ricongiungersi con lui. (Se lo si affronta, Lazlo ammette senza problemi di voler uccidere Ireena, che secondo lui è «solo un recipiente» per l'anima di sua figlia. «Non lo vedete?», chiede con tristezza, gli occhi tormentati e folli. «Appassisce e soffre dentro questa carne falsa. L'ho già liberata una volta: non dovrei liberarla di nuovo?»)
 
-The players can convince Lazlo that Ireena is more than merely the container for Marina’s soul by succeeding on a DC 20 Charisma (Persuasion) check, made with advantage if they share that Marina herself was the reincarnation of Tatyana Federovna. In addition:
+I giocatori possono convincere Lazlo che Ireena è più di un semplice contenitore per l'anima di Marina superando una prova di Carisma (Persuasione) con CD 20, che effettuano con vantaggio se gli rivelano che Marina stessa era la reincarnazione di Tatyana Federovna. Inoltre:
 
-* If the players previously spoke with Sergei in [[#T3f. Marina’s Monument]] and share the full tales of Tatyana’s tragedy and Sergei’s role in Marina’s death, reduce the DC by 5.
-* If the players solved Meda’s riddle in [[Arc S - A Sword of Sunlight]] and tell Lazlo that the Dark Powers created the apparition Lazlo saw in the Mists, reduce the DC by 5.
+* Se i giocatori hanno parlato con Sergei al [[#T3f. Il monumento di Marina|monumento di Marina]] e raccontano a Lazlo tutta la tragedia di Tatyana e il ruolo di Sergei nella morte di Marina, riduci la CD di 5.
+* Se i giocatori hanno risolto l'indovinello di Meda nell'[[Arc S - A Sword of Sunlight|Arco S: Una spada di luce solare]] e dicono a Lazlo che l'apparizione che ha visto nelle Nebbie era opera dei Poteri Oscuri, riduci la CD di 5.
 
-> [!info]+ **Putting Lazlo to Rest**
-> The players can put Lazlo’s ghost to rest in one of two ways:
+> [!info]+ **Dare pace a Lazlo**
+> I giocatori possono dare pace al fantasma di Lazlo in due modi:
 >
-> * Deceiving him into believing that Ireena is Marina, and that “Marina" understands and forgives him for his crimes against her; or
-> * Convincing him that Ireena is not Marina, that Ireena is her own person, and that Marina’s spirit is lost forever in the cycle of reincarnation, as described above.
+> * fargli credere che Ireena sia Marina e che «Marina» capisca e gli perdoni i crimini commessi contro di lei;
+> * convincerlo che Ireena non è Marina, che Ireena è una persona a sé e che lo spirito di Marina è perduto per sempre nel ciclo delle reincarnazioni, come descritto sopra.
 
-If the players anger Lazlo or attempt to bypass him, read:
+Se i giocatori fanno arrabbiare Lazlo o provano ad aggirarlo, leggi:
 
 <div class="description">
-<p>Several objects—a candelabra, a wrought-iron bookstand, a cracked stone bust, and the shards of a broken pewter mirror—rise into the air, shimmering with silver light. The ghost’s eyes glint madly, and two rusted sabers rise to join them from the wreckage of a ruined mantel.</p>
-<p>"I would not recommend that," he rumbles.</p>
+<p>Diversi oggetti si levano in aria, scintillando di luce argentata: un candelabro, un leggio di ferro battuto, un busto di pietra incrinato e le schegge di uno specchio di peltro rotto. Gli occhi del fantasma brillano di follia, e dai resti di una mensola di camino distrutta si levano per unirsi agli oggetti due sciabole arrugginite.</p>
+<p>«Non ve lo consiglierei», brontola.</p>
 </div>
 
-The candelabra, bookstand, and stone bust each have the statistics of an **animated minor object**. The shards have the statistics of a **swarm of insects** (fly speed), but deal slashing damage rather than piercing damage, can use their actions to attack twice rather than once. The swords each have the statistics of a **flying sword**, but can use their actions to attack twice, rather than once.
+Il candelabro, il leggio e il busto di pietra hanno ciascuno le statistiche di un **oggetto animato minore**. Le schegge hanno le statistiche di uno **sciame di insetti** (con velocità di volare), ma infliggono danni taglienti invece che perforanti e con la loro azione possono attaccare due volte invece di una. Le sciabole hanno ciascuna le statistiche di una **spada volante**, ma con la loro azione possono attaccare due volte invece di una.
 
 <div class="statblock">
-<h2>Animated Minor Object</h2>
-<em>Small or medium construct, unaligned</em>
+<h2>Oggetto animato minore</h2>
+<em>Costrutto Piccolo o Medio, senza allineamento</em>
 <hr>
-<strong>Armor Class</strong> 15
+<strong>Classe Armatura</strong> 15
 <br>
-<strong>Hit Points</strong> 10
+<strong>Punti Ferita</strong> 10
 <br>
-<strong>Speed</strong> 0 ft., fly 30 ft. (hover)
+<strong>Velocità</strong> 0 m, volare 9 m (fluttuare)
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -1055,124 +1055,124 @@ The candelabra, bookstand, and stone bust each have the statistics of an **anima
   </tbody>
 </table>
 <hr>
-<strong>Damage Immunities</strong> poison, psychic<br>
-<strong>Senses</strong> blindsight 30 ft., passive Perception 6<br>
-<strong>Languages</strong> —<br>
-<strong>Challenge</strong> 2<br>
-<strong> Proficiency Bonus</strong> +4
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The object makes two <strong><em>slam</em></strong> attacks.
-<p><strong><em>Slam.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, one target, reach 5 ft. <em>Hit:</em> 8 (1d10 + 3) bludgeoning damage and the target must succeed on a DC 14 Strength saving throw or fall prone.</p>
+<strong>Immunità ai danni</strong> psichico, veleno<br>
+<strong>Sensi</strong> vista cieca 9 m, Percezione passiva 6<br>
+<strong>Linguaggi</strong> —<br>
+<strong>Sfida</strong> 2<br>
+<strong>Bonus di competenza</strong> +4
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> L'oggetto effettua due attacchi di <strong><em>schianto</em></strong>.
+<p><strong><em>Schianto.</em></strong> <em>Attacco con arma da mischia:</em> +6 al tiro per colpire, un bersaglio, portata 1,5 m. <em>Colpito:</em> 8 (1d10 + 3) danni contundenti, e il bersaglio deve superare un tiro salvezza su Forza con CD 14, altrimenti cade prono.</p>
 </div>
 <br>
 
-> [!combat]- **Combat - The Ulrich Manor**  
-> **Combat Level**: Bruising
-> **Expected Character Level**: 9
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
-> **Expected HP Consumption:** 31%
+> [!combat]- **Combattimento: il maniero degli Ulrich**  
+> **Livello di combattimento**: impegnativo
+> **Livello previsto dei personaggi**: 9
+> **Alleati:** Ireena Kolyana (GS 2), Ezmerelda d'Avenir (GS 4)
+> **Consumo previsto di pf:** 31%
 > 
-> ### **Enemies:**
+> ### **Nemici:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 giocatori | 4 giocatori | 5 giocatori | 6 giocatori |
 > |-|-|-|-|-|
-> | Animated Minor Object | 1 | 2 | 3 | 4 |
-> | Flying Sword | 2 | 2 | 2 | 2 |
-> | Ghost | 1 | 1 | 1 | 1 |
-> | Swarm of Insects | 1 | 1 | 1 | 1 |
+> | Oggetto animato minore | 1 | 2 | 3 | 4 |
+> | Spada volante | 2 | 2 | 2 | 2 |
+> | Fantasma | 1 | 1 | 1 | 1 |
+> | Sciame di insetti | 1 | 1 | 1 | 1 |
 
-If the players continue to defy Lazlo, or attack him, he and the animated objects attack.
-## T3k. Baba Lysaga’s Hut
-This area is largely as described in <span class="citation">U3. Baba Lysaga’s Hut (p. 163)</span>. However, if more than 10 minutes have passed since Baba Lysaga’s _programmed illusion_ activated in [[#T3a. Berez Outskirts]], revise this area’s description as follows:
-
-<div class="description">
-<p>A small, grassy hill rises from the mire here. A ramshackle wooden hut rests on a stump atop the hill. The stump’s rotting roots thrust down toward the mire, like the legs of a gigantic spider.</p>
-<p>An open doorway is visible on one side of the hut, the interior concealed behind a curtain of beaded strings. Flanking the hut’s doorway are two empty iron cages that dangle like hideous ornaments from the eaves.</p>
-</div>
-
-> [!info]+ **Lysaga’s Final Trick**
-> Upon hearing her _programmed illusion_ echo from [[#T3a. Berez Outskirts]], Baba Lysaga spent 10 minutes casting _mirage arcane_ an additional time. The spell made a single change: It concealed her, her flying skull, and her **creeping hut** beneath a false “hill" and “hut." (The “hill" is hollow, and the “hut" is empty.)
-
-If the players enter the false hut, read:
+Se i giocatori continuano a sfidare Lazlo, o lo attaccano, lui e gli oggetti animati attaccano.
+## T3k. La capanna di Baba Lysaga
+Quest'area è più o meno come descritta in <span class="citation">U3. Capanna di Baba Lysaga (p. 163)</span>. Però, se sono passati più di 10 minuti da quando si è attivata l'*illusione programmata* di Baba Lysaga alla [[#T3a. La periferia di Berez|periferia di Berez]], modifica così la descrizione dell'area:
 
 <div class="description">
-<p>The hut’s interior is fifteen feet on a side. No furniture stands here, save for a single iron cage that hangs from the far wall. Before it, green light seeps up through cracks beneath the rotting floorboards.</p>
-<p>A lone raven lies in the cage. Some of its feathers are missing, leaving bare patches of raw flesh beneath. Those feathers that remain are bent, broken, or matted with blood. Its wings drag along the bottom of its cage, and a bloody, crusted gash cuts beneath one eye.</p>
-<p>As you enter, the raven flutters to its feet and coos excitedly, flapping its wings against the cage’s iron bars.</p>
+<p>Qui una piccola collina erbosa si leva dal pantano. Sulla cima, su un ceppo, poggia una capanna di legno sgangherata. Le radici marce del ceppo affondano verso il pantano come le zampe di un ragno gigantesco.</p>
+<p>Su un lato della capanna si vede una porta aperta, con l'interno nascosto da una tenda di fili di perline. Ai lati della porta pendono dalla grondaia due gabbie di ferro vuote, come orrendi ornamenti.</p>
 </div>
 
-An iron padlock locks the cage. 
+> [!info]+ **L'ultimo trucco di Lysaga**
+> Quando ha sentito la sua *illusione programmata* risuonare dalla [[#T3a. La periferia di Berez|periferia di Berez]], Baba Lysaga ha passato 10 minuti a lanciare un'altra volta *miraggio arcano*. L'incantesimo ha cambiato una sola cosa: ha nascosto lei, il suo teschio volante e la sua **capanna strisciante** sotto una finta «collina» con una finta «capanna». (La «collina» è cava, e la «capanna» è vuota.)
 
-> [!info]+ **The Green Light**
-The green light and raven are the products of a _programmed illusion_ cast by Baba Lysaga. The illusion activates each time a creature enters the hut. Once activated, it lasts for 5 minutes, then vanishes.
-
-Due to its illusory nature, the raven doesn’t respond to the players’ attempts to interact with it, instead continuing its “performance." Similarly, the cavity beneath the floorboards is empty, and doesn’t contain a magic gem. 
-
-If the players, after investigating the hut, learn that the raven is an illusion, learn that the cavity beneath the floorboards is empty, or otherwise decide that the hut is a trap, Baba Lysaga reveals herself. Read:
+Se i giocatori entrano nella finta capanna, leggi:
 
 <div class="description">
-<p>The hut pitches and shifts, its walls and floorboards splintering and bursting. Below it, the earth groans, sending geysers of soil into the air as the very hill begins to tear itself apart.</p>
-<p>Mighty, black roots, like a spider’s swollen legs, pierce the hillside from within, then rip it away like a fragile shell.</p>
+<p>L'interno della capanna misura 4,5 metri per lato. Non c'è nessun mobile, solo una gabbia di ferro appesa alla parete di fondo. Davanti alla gabbia, una luce verde filtra dalle fessure fra le assi marce del pavimento.</p>
+<p>Nella gabbia giace un corvo solo. Gli mancano alcune piume, e sotto si vedono chiazze di carne viva. Le piume rimaste sono piegate, spezzate o incrostate di sangue. Le ali strisciano sul fondo della gabbia, e sotto un occhio ha uno squarcio incrostato di sangue.</p>
+<p>Quando entrate, il corvo si rialza svolazzando e tuba eccitato, sbattendo le ali contro le sbarre di ferro.</p>
 </div>
 
-Each creature within the hut must immediately succeed on a DC 20 Dexterity saving throw or be grappled by Baba Lysaga’s **creeping hut**. Continue:
+La gabbia è chiusa da un lucchetto di ferro.
+
+> [!info]+ **La luce verde**
+La luce verde e il corvo sono prodotti da un'*illusione programmata* lanciata da Baba Lysaga. L'illusione si attiva ogni volta che una creatura entra nella capanna. Una volta attivata dura 5 minuti, poi svanisce.
+
+Poiché è un'illusione, il corvo non reagisce ai tentativi dei giocatori di interagire con lui e continua la sua «recita». Allo stesso modo, la cavità sotto le assi del pavimento è vuota e non contiene nessuna gemma magica.
+
+Se i giocatori, dopo aver esaminato la capanna, scoprono che il corvo è un'illusione, che la cavità sotto il pavimento è vuota, o comunque decidono che la capanna è una trappola, Baba Lysaga si rivela. Leggi:
 
 <div class="description">
-<p>The shreds of the hill and ruined hut fall away—revealing, beneath them, a thatched roof, a ramshackle wooden hut, and an enormous tree stump whose roots thrust into the air and mire. Twin iron cages hang from its eaves, filled with scores of shrieking, screaming ravens entrapped within.</p>
-<p>Standing in an upside-down, hollowed-out giant’s skull that floats beside the hut, is an old, gnarled woman. Her white hair stands like twin horns upon her head, then falls down into multiple iron-tipped braids that dangle like daggers across her chest. Her dark eyes burn from the depths of her wrinkled, sunken face, her long, yellowed nails curling like claws before her chest.</p>
-<p>"You’ve had your fun, my dears," Baba Lysaga rasps. “Now, I believe it is time for <em>mine.</em>."
+<p>La capanna sobbalza e si sposta, con le pareti e le assi che si spaccano e saltano. Sotto di lei la terra geme e lancia in aria getti di zolle, mentre la collina stessa comincia a lacerarsi.</p>
+<p>Possenti radici nere, simili alle zampe gonfie di un ragno, trafiggono il fianco della collina dall'interno, poi lo strappano via come un guscio fragile.</p>
 </div>
-Baba Lysaga then attacks.
 
-> [!info]+ **The Ravens**
-> Each cage is locked as described in <span class="citation">U3. Baba Lysaga’s Hut (p. 163)</span>, with the password: “Death to Ravenovia." In addition to the **swarms of ravens**, each cage contains the following prisoners:
->
-> * Left Cage: Adrian, Dag, Stefania, Davian, and Elvir Martikov (in raven form)
-> * Right Cage: Martin and Viggo Martikov (in raven form); Yolanda Martikov (polymorphed into a **raven**).
->
-> Each wereraven has 1 hit point and 2 levels of exhaustion.
->
-> A single loop of *silverthorn chain* (see below) lashes the wereravens in the left cage to the bars of the cage, its thorned links impaling each raven’s torso. (Baba Lysaga healed the wounds to ensure the wereravens wouldn’t bleed out and die.)
->
-> A player attempting to remove the chain from a wereravens’ chest without first severing it must succeed on a DC 20 Dexterity (Medicine) check. On a success, the chain is pulled free, and the wereraven can regenerate again. On a failure, the chain is pulled free, but a silver thorn breaks off and is embedded in the wereraven’s flesh, reducing the wereraven to 0 hit points and disabling its regeneration. When reduced to 0 hit points in this way, a wereraven begins dying until it receives magical healing or a player succeeds on a DC 10 Dexterity (Medicine) check to remove the thorn, restoring its regeneration.
+Ogni creatura dentro la capanna deve superare subito un tiro salvezza su Destrezza con CD 20, altrimenti viene afferrata dalla **capanna strisciante** di Baba Lysaga. Continua:
 
-> [!info]+ **Silverthorn Chain**
-> A length of *silverthorn chain* is lined with tiny silver thorns. A lycanthrope touching *silverthorn chain* can’t regenerate or transform.
->
-> A single *silverthorn chain* link has AC 20, 20 hit points, vulnerability to radiant damage, and immunity to poison and psychic damage. Treat spells that target creatures as having an effect on the chain. In addition, on initiative count 0 of each round, a length of *silverthorn chain* takes 5 radiant damage if it’s in sunlight.
+<div class="description">
+<p>I brandelli della collina e della capanna in rovina cadono, e sotto compaiono un tetto di paglia, una capanna di legno sgangherata e un enorme ceppo d'albero le cui radici si protendono nell'aria e nel pantano. Dalla grondaia pendono due gabbie di ferro, piene di decine di corvi che strillano e gridano, intrappolati.</p>
+<p>In piedi dentro un teschio di gigante scavato e capovolto, che fluttua accanto alla capanna, c'è una vecchia nodosa. I capelli bianchi le si alzano sulla testa come due corna e poi ricadono in tante trecce dalle punte di ferro, che le pendono sul petto come pugnali. Gli occhi scuri ardono in fondo al volto rugoso e infossato, e le lunghe unghie ingiallite si incurvano come artigli davanti al petto.</p>
+<p>«Vi siete divertiti, miei cari», dice Baba Lysaga con voce roca. «Adesso credo sia il momento che mi diverta <em>io</em>».</p>
+</div>
+Poi Baba Lysaga attacca.
 
-> [!combat]- **Combat - The Witch**  
-> **Combat Level**: Bruising (phase one), Mild (phase two)
-> **Expected Character Level**: 9
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
-> **Expected HP Consumption:** 72% (phase one), 11% (phase two), for a total of 83%
+> [!info]+ **I corvi**
+> Ogni gabbia è chiusa come descritto in <span class="citation">U3. Capanna di Baba Lysaga (p. 163)</span>, con la parola d'ordine «Morte a Ravenovia». Oltre agli **sciami di corvi**, ogni gabbia contiene questi prigionieri:
+>
+> * Gabbia di sinistra: Adrian, Dag, Stefania, Davian ed Elvir Martikov (in forma di corvo)
+> * Gabbia di destra: Martin e Viggo Martikov (in forma di corvo); Yolanda Martikov (trasformata in **corvo** con *metamorfosi*).
+>
+> Ogni corvo mannaro ha 1 punto ferita e 2 livelli di indebolimento.
+>
+> Un unico giro di *catena di spine d'argento* (vedi più sotto) lega i corvi mannari della gabbia di sinistra alle sbarre, e le sue maglie spinate trafiggono il torso di ognuno. (Baba Lysaga ne ha curato le ferite perché i corvi mannari non morissero dissanguati.)
+>
+> Un giocatore che prova a togliere la catena dal petto di un corvo mannaro senza averla prima spezzata deve superare una prova di Destrezza (Medicina) con CD 20. In caso di successo la catena si sfila, e il corvo mannaro può di nuovo rigenerarsi. In caso di fallimento la catena si sfila, ma una spina d'argento si spezza e resta conficcata nella carne del corvo mannaro, che scende a 0 punti ferita e non può più rigenerarsi. Un corvo mannaro ridotto a 0 punti ferita in questo modo è morente finché non riceve cure magiche o finché un giocatore non supera una prova di Destrezza (Medicina) con CD 10 per togliergli la spina, cosa che gli restituisce la rigenerazione.
+
+> [!info]+ **Catena di spine d'argento**
+> Una *catena di spine d'argento* è ricoperta di minuscole spine d'argento. Un licantropo a contatto con una *catena di spine d'argento* non può rigenerarsi né trasformarsi.
+>
+> Una sola maglia di *catena di spine d'argento* ha CA 20, 20 punti ferita, vulnerabilità ai danni radiosi e immunità ai danni da veleno e psichici. Gli incantesimi che bersagliano creature hanno effetto anche sulla catena. Inoltre, al conteggio di iniziativa 0 di ogni round, una *catena di spine d'argento* subisce 5 danni radiosi se si trova alla luce del sole.
+
+> [!combat]- **Combattimento: la strega**  
+> **Livello di combattimento**: impegnativo (prima fase), lieve (seconda fase)
+> **Livello previsto dei personaggi**: 9
+> **Alleati:** Ireena Kolyana (GS 2), Ezmerelda d'Avenir (GS 4)
+> **Consumo previsto di pf:** 72% (prima fase), 11% (seconda fase), 83% in tutto
 > 
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
+> ### **Bilanciamento:**
+> Se hai meno o più di 5 giocatori, modifica lo scontro così:
 >
-> | Number of Players | Modification |
+> | Numero di giocatori | Modifica |
 > |-|-|
-> | 3 | Reduce **Baba Lysaga's** hit points to 102 in each phase. Reduce her number of reactions in each phase to 3. Decrease the **Creeping Hut's** hit points to 199. Reduce its number of reactions to 2. |
-> | 4 | Reduce **Baba Lysaga's** hit points to 119 in each phase. Reduce her number of reactions in each phase to 4. Decrease the **Creeping Hut's** hit points to 231. Limit its ***root*** reaction to 2/round. |
-> | 6 | Increase **Baba Lysaga's** hit points to 151 in each phase. Increase her number of reactions in each phase to 6. Increase the **Creeping Hut's** hit points to 295. Increase its number of reactions to 4, but limit its ***root*** reaction to 3/round. |
+> | 3 | Riduci i punti ferita di **Baba Lysaga** a 102 in ogni fase. Riduci il numero delle sue reazioni in ogni fase a 3. Riduci i punti ferita della **capanna strisciante** a 199. Riduci il numero delle sue reazioni a 2. |
+> | 4 | Riduci i punti ferita di **Baba Lysaga** a 119 in ogni fase. Riduci il numero delle sue reazioni in ogni fase a 4. Riduci i punti ferita della **capanna strisciante** a 231. Limita la sua reazione ***radice*** a 2/round. |
+> | 6 | Aumenta i punti ferita di **Baba Lysaga** a 151 in ogni fase. Aumenta il numero delle sue reazioni in ogni fase a 6. Aumenta i punti ferita della **capanna strisciante** a 295. Aumenta il numero delle sue reazioni a 4, ma limita la sua reazione ***radice*** a 3/round. |
 
 <div class="statblock">
-<h2>Baba Lysaga, Witch Mother</h2>
-<em>Medium humanoid (human, shapechanger), chaotic evil</em>
+<h2>Baba Lysaga, madre delle streghe</h2>
+<em>Umanoide Medio (umano, mutaforma), caotico malvagio</em>
 <hr>
-<strong>Armor Class</strong> 15 (natural armor)<br>
-<strong>Hit Points</strong> 135 (18d8 + 54)<br>
-<strong>Speed</strong> 30 ft., fly 30 ft. (while in her flying skull)
+<strong>Classe Armatura</strong> 15 (armatura naturale)<br>
+<strong>Punti Ferita</strong> 135 (18d8 + 54)<br>
+<strong>Velocità</strong> 9 m, volare 9 m (quando è sul teschio volante)
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -1187,54 +1187,54 @@ Baba Lysaga then attacks.
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Con +7, Wis +7<br>
-<strong>Skills</strong> Arcana +13, Religion +13<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 13<br>
-<strong>Languages</strong> Abyssal, Common, Draconic, Dwarvish, Giant<br>
-<strong>Challenge</strong> 10<br>
-<strong>Proficiency Bonus</strong> +4
+<strong>Tiri salvezza</strong> Cos +7, Sag +7<br>
+<strong>Abilità</strong> Arcano +13, Religione +13<br>
+<strong>Sensi</strong> scurovisione 18 m, Percezione passiva 13<br>
+<strong>Linguaggi</strong> Abissale, Comune, Draconico, Nanico, Gigante<br>
+<strong>Sfida</strong> 10<br>
+<strong>Bonus di competenza</strong> +4
 <hr>
-<p><strong><em>Blessing of Mother Night.</em></strong> Baba Lysaga is shielded against divination magic, as though protected by a <em>nondetection</em> spell.</p>
-<p><strong><em>Skilled Casting.</em></strong> Baba Lysaga can concentrate on up to three spells at a time. If she would lose concentration on one, she loses concentration on all of them.</p>
-<p><strong><em>Flying Skull.</em></strong> While riding her flying giant’s skull, Baba Lysaga gains a fly speed of 30 ft. and has half cover. The skull shares Baba Lysaga’s Strength, Dexterity, and Constitution scores and saving throws, and is otherwise as described in <span class="citation">U3. Baba Lysaga’s Hut (p. 163)</span>.</p>
-<p><strong><em>Swallowed by the Swamp.</em></strong> When Baba Lysaga is reduced to 0 hit points, she plunges or sinks into the swamp of Berez. She then resurfaces, riding atop a tower of swamp vines coiled around her lower body. Her statistics are instantly replaced by those of her second form. Her initiative count doesn’t change, excess damage doesn’t carry over, and she retains none of the conditions she had in her previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Baba Lysaga uses Hair Blade twice, or uses Spellcasting to cast <em>acid splash</em> twice.</p>
-<p><strong><em>Hair Blades.</em></strong> Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. Hit: <span class="highlight">9 (1d8 + 5)</span> slashing plus <span class="highlight">4 (1d8)</span> poison damage, and the target must succeed on a <span class="highlight">DC 17 Constitution saving throw</span> or be <span class="highlight">poisoned</span> for 1 minute or until it receives magical healing. A creature poisoned in this way must make a <span class="highlight">DC 17 Constitution saving throw</span> at the end of each of its turns. Each time it fails, it becomes <span class="highlight">slowed</span> if it is currently poisoned, or becomes <span class="highlight">paralyzed</span> if it is currently slowed. Each time it succeeds, it becomes slowed if it is currently paralyzed, becomes poisoned if it is currently slowed, or is no longer poisoned if it is currently poisoned. If the creature rolls a natural 20, it’s no longer poisoned.</p>
-<p><strong><em>Spellcasting.</em></strong> Baba Lysaga casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 17, +9 to hit with spell attacks):<br>
-<em>At will</em>: acid splash (3d6 damage), mage hand, detect magic, magic missile (level 2 version), sleep (level 2 version), lightning bolt<br>
-<em>3/day each</em>: Evard’s black tentacles, polymorph<br>
-<em>1/day each</em>: scrying, programmed illusion, mirage arcane</p>
-<p><strong><em>Devouring Flies.</em></strong> Swarming flies fill a <span class="highlight">10-foot-radius</span> sphere centered on a point Baba Lysaga can see within 60 feet. Each creature within the sphere must make a DC 17 Constitution saving throw, taking <span class="highlight">11 (2d10)</span> piercing damage on a failed save or half as much damage on a successful one. Whether a creature succeeds or fails its Constitution saving throw, any spells of 3rd level or lower on that creature end. If a creature is concentrating on a spell that would be dispelled in this way, it can use its reaction to spend a spell slot of 1st level or higher. If it does, the spell doesn’t end.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Swarm.</em></strong> Baba Lysaga magically polymorphs into a <strong>swarm of insects</strong> (flies), flies up to 30 ft., then resumes her true form. Anything she is wearing or carrying transforms with her. While transformed, melee weapon attacks against her have <span class="highlight">disadvantage</span>.</p>
-<h3>Reactions</h3>
-<p>Baba Lysaga can take up to five reactions per round, but only one per turn. If an effect or condition would prevent her from taking reactions, she loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Baba Lysaga can repeat the saving throw against one effect or condition currently affecting her. (This reaction has no effect if the effect or condition didn’t originally require her to fail a saving throw.)</p>
-<p><strong><em>Parry.</em></strong> <strong>Trigger:</strong> Baba Lysaga is hit by a melee attack roll. <strong>Effect:</strong> Baba Lysaga’s bladed hair braids attempt to block the attack, forcing the attacker to reroll the attack. (The attacker must use the new attack roll.) If the new attack roll is a critical miss, Baba Lysaga can immediately use her Hair Blades against the attacker. This reaction has no effect if the first attack was a critical hit.</p>
-<p><strong><em>Swarm.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn or Baba Lysaga takes damage from falling. <strong>Effect:</strong> Baba Lysaga uses her Swarm. If she would take damage from her fall, she takes no damage instead.</p>
-<p><strong><em>Hair Blades.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn after attacking Baba Lysaga with a melee attack. <strong>Effect:</strong> Baba Lysaga uses her Hair Blades against that creature.</p>
-<p><strong><em>Insect Shield (1/round).</em></strong> <strong>Trigger:</strong> Baba Lysaga takes damage from a spell shaped in a cone or line, or from a ranged spell attack roll. <strong>Effect:</strong> Baba Lysaga forces the spell’s caster to make a <span class="highlight">DC 17</span> saving throw using their spellcasting ability. On a failure, Baba Lysaga takes no damage from that spell this turn.</p>
-<p><strong><em>Lightning Bolt (1/round).</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Baba Lysaga uses her Spellcasting to cast <em>lightning bolt</em>.</p>
+<p><strong><em>Benedizione di Madre Notte.</em></strong> Baba Lysaga è protetta dalla magia di divinazione, come se fosse sotto l'effetto di un incantesimo <em>anti-individuazione</em>.</p>
+<p><strong><em>Incantatrice esperta.</em></strong> Baba Lysaga può mantenere la concentrazione su un massimo di tre incantesimi alla volta. Se perde la concentrazione su uno, la perde su tutti.</p>
+<p><strong><em>Teschio volante.</em></strong> Quando cavalca il teschio di gigante volante, Baba Lysaga ottiene una velocità di volare di 9 m e ha copertura parziale. Il teschio usa i punteggi di Forza, Destrezza e Costituzione e i tiri salvezza di Baba Lysaga, e per il resto è come descritto in <span class="citation">U3. Capanna di Baba Lysaga (p. 163)</span>.</p>
+<p><strong><em>Inghiottita dalla palude.</em></strong> Quando Baba Lysaga scende a 0 punti ferita, precipita o affonda nella palude di Berez. Poi riemerge in cima a una torre di rampicanti della palude avvolti attorno alla parte inferiore del corpo. Le sue statistiche vengono subito sostituite da quelle della seconda forma. Il suo punteggio di iniziativa non cambia, i danni in eccesso non si trasferiscono e non conserva nessuna delle condizioni che aveva nella forma precedente.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Baba Lysaga usa due volte Trecce affilate, oppure usa Incantesimi per lanciare due volte <em>spruzzo acido</em>.</p>
+<p><strong><em>Trecce affilate.</em></strong> Attacco con arma da mischia: +9 al tiro per colpire, portata 1,5 m, una creatura. Colpito: <span class="highlight">9 (1d8 + 5)</span> danni taglienti più <span class="highlight">4 (1d8)</span> danni da veleno, e il bersaglio deve superare un <span class="highlight">tiro salvezza su Costituzione con CD 17</span>, altrimenti è <span class="highlight">avvelenato</span> per 1 minuto o finché non riceve cure magiche. Una creatura avvelenata in questo modo deve fare un <span class="highlight">tiro salvezza su Costituzione con CD 17</span> alla fine di ogni suo turno. A ogni fallimento diventa <span class="highlight">rallentata</span> se in quel momento è avvelenata, oppure <span class="highlight">paralizzata</span> se in quel momento è rallentata. A ogni successo torna rallentata se è paralizzata, torna avvelenata se è rallentata, oppure smette di essere avvelenata se è avvelenata. Se la creatura ottiene un 20 naturale, smette di essere avvelenata.</p>
+<p><strong><em>Incantesimi.</em></strong> Baba Lysaga lancia uno dei seguenti incantesimi, usando Intelligenza come caratteristica da incantatore (CD del tiro salvezza degli incantesimi 17, +9 al tiro per colpire con gli attacchi con incantesimo):<br>
+<em>A volontà</em>: spruzzo acido (3d6 danni), mano magica, individuazione del magico, dardo incantato (versione di 2° livello), sonno (versione di 2° livello), fulmine<br>
+<em>3/giorno ciascuno</em>: tentacoli neri di Evard, metamorfosi<br>
+<em>1/giorno ciascuno</em>: scrutare, illusione programmata, miraggio arcano</p>
+<p><strong><em>Mosche divoratrici.</em></strong> Uno sciame di mosche riempie una sfera di <span class="highlight">3 m di raggio</span> centrata su un punto che Baba Lysaga può vedere entro 18 m. Ogni creatura nella sfera deve fare un tiro salvezza su Costituzione con CD 17: se lo fallisce subisce <span class="highlight">11 (2d10)</span> danni perforanti, se lo supera la metà. Che superi o fallisca il tiro salvezza, su quella creatura terminano tutti gli incantesimi di 3° livello o inferiore. Se la creatura è concentrata su un incantesimo che verrebbe dissolto in questo modo, può usare la reazione per spendere uno slot incantesimo di 1° livello o superiore; se lo fa, l'incantesimo non termina.</p>
+<h3>Azioni bonus</h3>
+<p><strong><em>Sciame.</em></strong> Baba Lysaga si trasforma per magia in uno <strong>sciame di insetti</strong> (mosche), vola fino a 9 m e poi riprende la sua vera forma. Tutto ciò che indossa o trasporta si trasforma con lei. Finché è trasformata, gli attacchi con arma da mischia contro di lei hanno <span class="highlight">svantaggio</span>.</p>
+<h3>Reazioni</h3>
+<p>Baba Lysaga può effettuare fino a cinque reazioni per round, ma solo una per turno. Se un effetto o una condizione le impedisse di effettuare reazioni, ne perde invece una sola.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Innesco:</strong> una creatura ostile termina il suo turno. <strong>Effetto:</strong> Baba Lysaga può ripetere il tiro salvezza contro un effetto o una condizione che la colpisce in quel momento. (La reazione non ha effetto se l'effetto o la condizione non richiedevano in origine il fallimento di un tiro salvezza.)</p>
+<p><strong><em>Parata.</em></strong> <strong>Innesco:</strong> Baba Lysaga viene colpita da un tiro per colpire in mischia. <strong>Effetto:</strong> le trecce affilate di Baba Lysaga cercano di bloccare l'attacco e costringono l'attaccante a ripetere il tiro per colpire (l'attaccante deve usare il nuovo risultato). Se il nuovo tiro è un fallimento critico, Baba Lysaga può usare subito Trecce affilate contro l'attaccante. La reazione non ha effetto se il primo attacco era un colpo critico.</p>
+<p><strong><em>Sciame.</em></strong> <strong>Innesco:</strong> una creatura ostile termina il suo turno, oppure Baba Lysaga subisce danni da caduta. <strong>Effetto:</strong> Baba Lysaga usa Sciame. Se dovesse subire danni dalla caduta, non ne subisce.</p>
+<p><strong><em>Trecce affilate.</em></strong> <strong>Innesco:</strong> una creatura ostile termina il suo turno dopo aver attaccato Baba Lysaga in mischia. <strong>Effetto:</strong> Baba Lysaga usa Trecce affilate contro quella creatura.</p>
+<p><strong><em>Scudo di insetti (1/round).</em></strong> <strong>Innesco:</strong> Baba Lysaga subisce danni da un incantesimo a forma di cono o di linea, oppure da un attacco a distanza con incantesimo. <strong>Effetto:</strong> Baba Lysaga costringe chi ha lanciato l'incantesimo a fare un tiro salvezza con <span class="highlight">CD 17</span> usando la propria caratteristica da incantatore. Se lo fallisce, Baba Lysaga non subisce danni da quell'incantesimo in questo turno.</p>
+<p><strong><em>Fulmine (1/round).</em></strong> <strong>Innesco:</strong> una creatura ostile termina il suo turno. <strong>Effetto:</strong> Baba Lysaga usa Incantesimi per lanciare <em>fulmine</em>.</p>
 </div>
 
 <div class="statblock">
-<h2>Baba Lysaga, Of the Swamp</h2>
-<em>Large humanoid (human, shapechanger), chaotic evil</em>
+<h2>Baba Lysaga, signora della palude</h2>
+<em>Umanoide Grande (umano, mutaforma), caotico malvagio</em>
 <hr>
-<strong>Armor Class</strong> 15 (natural armor)<br>
-<strong>Hit Points</strong> 135 (18d8 + 54)<br>
-<strong>Speed</strong> 30 ft.
+<strong>Classe Armatura</strong> 15 (armatura naturale)<br>
+<strong>Punti Ferita</strong> 135 (18d8 + 54)<br>
+<strong>Velocità</strong> 9 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -1249,50 +1249,50 @@ Baba Lysaga then attacks.
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Con +7, Wis +7<br>
-<strong>Skills</strong> Arcana +13, Religion +13<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 13<br>
-<strong>Languages</strong> Abyssal, Common, Draconic, Dwarvish, Giant<br>
-<strong>Challenge</strong> 10<br>
-<strong>Proficiency Bonus</strong> +4
+<strong>Tiri salvezza</strong> Cos +7, Sag +7<br>
+<strong>Abilità</strong> Arcano +13, Religione +13<br>
+<strong>Sensi</strong> scurovisione 18 m, Percezione passiva 13<br>
+<strong>Linguaggi</strong> Abissale, Comune, Draconico, Nanico, Gigante<br>
+<strong>Sfida</strong> 10<br>
+<strong>Bonus di competenza</strong> +4
 <hr>
-<p><strong><em>Blessing of Mother Night.</em></strong> Baba Lysaga is shielded against divination magic, as though protected by a <em>nondetection</em> spell.</p>
-<p><strong><em>Skilled Casting.</em></strong> Baba Lysaga can concentrate on up to three spells at a time. If she would lose concentration on one, she loses concentration on all of them.</p>
-<h3>Actions</h3>
-<p><strong><em>Spellcasting.</em></strong> Baba Lysaga casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 18, +10 to hit with spell attacks):<br>
-<em>At will</em>: acid splash (3d6 damage), control water<br>
-<em>1/day each</em>: giant insect (centipede), wall of thorns</p>
-<p><strong><em>Grasping Vine.</em></strong> Baba Lysaga casts or attacks with <em>grasping vine</em>, using Intelligence as the spellcasting ability (spell save DC 18, +10 to hit). When cast in this way, she must use an action to repeat the attack on her later turns.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Swampwalk.</em></strong> If Baba Lysaga is in Berez, she submerges herself in the water or earth beneath her, then exits from a 5-foot-square patch of water or earth within 30 feet.</p>
-<h3>Reactions</h3>
-<p>Baba Lysaga can take up to five reactions per round, but only one per turn. If an effect or condition would prevent her from taking reactions, she loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Baba Lysaga can repeat the saving throw against one effect or condition currently affecting her. (This reaction has no effect if the effect or condition didn’t originally require her to fail a saving throw.)</p>
-<p><strong><em>Parry.</em></strong> <strong>Trigger:</strong> Baba Lysaga is hit by an attack roll. <strong>Effect:</strong> Baba Lysaga casts and attempts to parry the attack with <em>grasping vine</em>, forcing the attacker to reroll the attack. (She can’t attack with the vine this turn, and the attacker must use the new attack roll.) If the new attack roll is a critical miss, Baba Lysaga can immediately use the grasping vine to attack the attacker. This reaction has no effect if the first attack was a critical hit.</p>
-<p><strong><em>Swampwalk (1/round).</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Baba Lysaga uses her Swampwalk.</p>
-<p><strong><em>Grasping Vine.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Baba Lysaga uses her Grasping Vine against that creature.</p>
+<p><strong><em>Benedizione di Madre Notte.</em></strong> Baba Lysaga è protetta dalla magia di divinazione, come se fosse sotto l'effetto di un incantesimo <em>anti-individuazione</em>.</p>
+<p><strong><em>Incantatrice esperta.</em></strong> Baba Lysaga può mantenere la concentrazione su un massimo di tre incantesimi alla volta. Se perde la concentrazione su uno, la perde su tutti.</p>
+<h3>Azioni</h3>
+<p><strong><em>Incantesimi.</em></strong> Baba Lysaga lancia uno dei seguenti incantesimi, usando Intelligenza come caratteristica da incantatore (CD del tiro salvezza degli incantesimi 18, +10 al tiro per colpire con gli attacchi con incantesimo):<br>
+<em>A volontà</em>: spruzzo acido (3d6 danni), controllare acqua<br>
+<em>1/giorno ciascuno</em>: insetto gigante (millepiedi), muro di spine</p>
+<p><strong><em>Rampicante afferrante.</em></strong> Baba Lysaga lancia <em>rampicante afferrante</em> o attacca con il rampicante, usando Intelligenza come caratteristica da incantatore (CD del tiro salvezza degli incantesimi 18, +10 al tiro per colpire). Quando lo lancia in questo modo, nei turni successivi deve usare un'azione per ripetere l'attacco.</p>
+<h3>Azioni bonus</h3>
+<p><strong><em>Passo della palude.</em></strong> Se si trova a Berez, Baba Lysaga si immerge nell'acqua o nella terra sotto di sé, poi riemerge da un tratto d'acqua o di terra di 1,5 m di lato entro 9 m.</p>
+<h3>Reazioni</h3>
+<p>Baba Lysaga può effettuare fino a cinque reazioni per round, ma solo una per turno. Se un effetto o una condizione le impedisse di effettuare reazioni, ne perde invece una sola.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Innesco:</strong> una creatura ostile termina il suo turno. <strong>Effetto:</strong> Baba Lysaga può ripetere il tiro salvezza contro un effetto o una condizione che la colpisce in quel momento. (La reazione non ha effetto se l'effetto o la condizione non richiedevano in origine il fallimento di un tiro salvezza.)</p>
+<p><strong><em>Parata.</em></strong> <strong>Innesco:</strong> Baba Lysaga viene colpita da un tiro per colpire. <strong>Effetto:</strong> Baba Lysaga lancia <em>rampicante afferrante</em> e cerca di parare l'attacco con il rampicante, costringendo l'attaccante a ripetere il tiro per colpire (in questo turno non può attaccare con il rampicante, e l'attaccante deve usare il nuovo risultato). Se il nuovo tiro è un fallimento critico, Baba Lysaga può usare subito il rampicante per attaccare l'attaccante. La reazione non ha effetto se il primo attacco era un colpo critico.</p>
+<p><strong><em>Passo della palude (1/round).</em></strong> <strong>Innesco:</strong> una creatura ostile termina il suo turno. <strong>Effetto:</strong> Baba Lysaga usa Passo della palude.</p>
+<p><strong><em>Rampicante afferrante.</em></strong> <strong>Innesco:</strong> una creatura ostile termina il suo turno. <strong>Effetto:</strong> Baba Lysaga usa Rampicante afferrante contro quella creatura.</p>
 </div>
 
-> [!info]+ **Grasping Vine**
-> Baba Lysaga’s *grasping vine* spell uses the base statistics provided in the 2024 Player’s Handbook, rather than those provided in the 2014 *Player’s Handbook*.
+> [!info]+ **Rampicante afferrante**
+> L'incantesimo *rampicante afferrante* di Baba Lysaga usa le statistiche di base del *Manuale del Giocatore* del 2024, non quelle del *Manuale del Giocatore* del 2014.
 
 <div class="statblock">
-<h2>Creeping Hut</h2>
-<em>Gargantuan construct, unaligned</em>
+<h2>Capanna strisciante</h2>
+<em>Costrutto Mastodontico, senza allineamento</em>
 <hr>
-<strong>Armor Class</strong> 16 (natural armor)<br>
-<strong>Hit Points</strong> 263 (17d20 + 85)<br>
-<strong>Speed</strong> 30 ft.
+<strong>Classe Armatura</strong> 16 (armatura naturale)<br>
+<strong>Punti Ferita</strong> 263 (17d20 + 85)<br>
+<strong>Velocità</strong> 9 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -1307,453 +1307,453 @@ Baba Lysaga then attacks.
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Str +12<br>
-<strong>Damage Resistances</strong> bludgeoning, cold, piercing<br>
-<strong>Damage Immunities</strong> poison, psychic<br>
-<strong>Condition Immunities</strong> blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, prone<br>
-<strong>Senses</strong> blindsight 120 ft. (blind beyond this radius), passive Perception 6<br>
-<strong>Languages</strong> —<br>
-<strong>Challenge</strong> 15 (8,400 XP)<br>
-<strong>Proficiency Bonus</strong> +4
+<strong>Tiri salvezza</strong> For +12<br>
+<strong>Resistenze ai danni</strong> contundenti, freddo, perforanti<br>
+<strong>Immunità ai danni</strong> veleno, psichici<br>
+<strong>Immunità alle condizioni</strong> accecato, affascinato, assordato, indebolimento, spaventato, paralizzato, pietrificato, prono<br>
+<strong>Sensi</strong> vista cieca 36 m (cieca oltre questo raggio), Percezione passiva 6<br>
+<strong>Linguaggi</strong> –<br>
+<strong>Sfida</strong> 15 (8.400 PE)<br>
+<strong>Bonus di competenza</strong> +4
 <hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> The hut doesn't have disadvantage on its ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Immutable Form.</em></strong> The hut is immune to any spell or effect that would alter its form.</p>
-<p><strong><em>Siege Monster.</em></strong> The hut deals double damage to objects and structures.</p>
-<p><strong><em>Stolen Gem.</em></strong> The hut is animated by a magic gem shaped like a viridian pinecone embedded in the stump beneath its floorboards, held in place by a black root (AC 15, 10 hit points, vulnerability to fire damage, and immunity to poison and psychic damage). A player who removes the hut’s floorboards as described in <span class="citation">U3. Baba Lysaga’s Hut (p. 163)</span> exposes the gem, and can remove the gem by destroying the root or succeeding on a DC 15 Strength check. The hut dies if the gem is removed.</p>
-<h3>Actions</h3>
-<p><strong><em>Root.</em></strong> Melee Weapon Attack: +12 to hit, reach 20 ft., one target. Hit: <span class="highlight">24 (3d10 + 8)</span> bludgeoning damage, and the target must succeed on a <span class="highlight">DC 20 Strength saving throw</span> or be <span class="highlight">knocked prone</span> or <span class="highlight">pushed up to 10 feet</span> away. If the save fails by 10 or more, the hut can <span class="highlight">grapple</span> the target instead of pushing it or knocking it prone (escape DC 20).</p>
-<p><strong><em>Throw.</em></strong> A creature grappled by the hut must succeed on a <span class="highlight">DC 20 Strength saving throw</span> or be <span class="highlight">thrown 60 feet</span> away. A creature thrown in this way falls twenty feet and lands <span class="highlight">prone</span>.</p>
-<p><strong><em>Rock.</em></strong> Ranged Weapon Attack: +12 to hit, range 120 ft., one target. Hit: <span class="highlight">21 (3d8 + 8)</span> bludgeoning damage.</p>
-<h3>Reactions</h3>
-<p>The hut can take up to <strong>three reactions per round</strong>, but only one per turn. If an effect or condition would prevent it from taking reactions, it loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> The hut can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Root.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn within 20 feet of the hut. <strong>Effect:</strong> The hut attacks that creature with its Root.</p>
-<p><strong><em>Bite.</em></strong> <strong>Trigger:</strong> A creature attempts to retrieve the gem from the hut’s stump. <strong>Effect:</strong> The hut attempts to bite the creature’s arm or body with its floorboards, forcing that creature to succeed on a DC 20 Dexterity saving throw or take 9 (2d8) piercing damage and be grappled (escape DC 20). While grappled in this way, a creature has disadvantage on checks made to retrieve the gem.</p>
+<p><strong><em>Combattente ravvicinato.</em></strong> La capanna non ha svantaggio ai tiri per colpire a distanza quando si trova entro 1,5 m da una creatura ostile.</p>
+<p><strong><em>Forma immutabile.</em></strong> La capanna è immune a qualsiasi incantesimo o effetto che ne altererebbe la forma.</p>
+<p><strong><em>Mostro d’assedio.</em></strong> La capanna infligge danni doppi a oggetti e strutture.</p>
+<p><strong><em>La gemma rubata.</em></strong> La capanna è animata da una gemma magica a forma di pigna verde smeraldo, incastonata nel ceppo sotto le assi del pavimento e tenuta ferma da una radice nera (CA 15, 10 punti ferita, vulnerabilità ai danni da fuoco, immunità ai danni da veleno e psichici). Un giocatore che toglie le assi del pavimento come descritto in <span class="citation">U3. Capanna di Baba Lysaga (p. 163)</span> scopre la gemma e può estrarla distruggendo la radice o superando una prova di Forza con CD 15. Se la gemma viene estratta, la capanna muore.</p>
+<h3>Azioni</h3>
+<p><strong><em>Radice.</em></strong> Attacco con arma da mischia: +12 al tiro per colpire, portata 6 m, un bersaglio. Colpito: <span class="highlight">24 (3d10 + 8)</span> danni contundenti, e il bersaglio deve superare un <span class="highlight">tiro salvezza su Forza con CD 20</span>, altrimenti viene <span class="highlight">buttato a terra prono</span> o <span class="highlight">spinto via fino a 3 m</span>. Se fallisce il tiro salvezza di 10 o più, la capanna può <span class="highlight">afferrare</span> il bersaglio invece di spingerlo o buttarlo a terra (CD 20 per sfuggire).</p>
+<p><strong><em>Lancio.</em></strong> Una creatura afferrata dalla capanna deve superare un <span class="highlight">tiro salvezza su Forza con CD 20</span>, altrimenti viene <span class="highlight">scagliata a 18 m</span> di distanza. Una creatura scagliata in questo modo cade da 6 m e atterra <span class="highlight">prona</span>.</p>
+<p><strong><em>Masso.</em></strong> Attacco con arma a distanza: +12 al tiro per colpire, gittata 36 m, un bersaglio. Colpito: <span class="highlight">21 (3d8 + 8)</span> danni contundenti.</p>
+<h3>Reazioni</h3>
+<p>La capanna può effettuare fino a <strong>tre reazioni per round</strong>, ma solo una per turno. Se un effetto o una condizione le impedisse di effettuare reazioni, ne perde invece una sola.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Innesco:</strong> una creatura ostile termina il suo turno. <strong>Effetto:</strong> la capanna può ripetere il tiro salvezza contro un effetto o una condizione che la colpisce in quel momento. (La reazione non ha effetto se l'effetto o la condizione non richiedevano in origine il fallimento di un tiro salvezza.)</p>
+<p><strong><em>Radice.</em></strong> <strong>Innesco:</strong> una creatura ostile termina il suo turno entro 6 m dalla capanna. <strong>Effetto:</strong> la capanna attacca quella creatura con Radice.</p>
+<p><strong><em>Morso.</em></strong> <strong>Innesco:</strong> una creatura cerca di estrarre la gemma dal ceppo della capanna. <strong>Effetto:</strong> la capanna cerca di mordere il braccio o il corpo della creatura con le assi del pavimento: la creatura deve superare un tiro salvezza su Destrezza con CD 20, altrimenti subisce 9 (2d8) danni perforanti ed è afferrata (CD 20 per sfuggire). Finché è afferrata in questo modo, la creatura ha svantaggio alle prove per estrarre la gemma.</p>
 </div>
 
-## T3l. The Feuding Ravens
-If rescued, the captured Martikovs, though traumatized and shaken by their imprisonment, are deeply grateful to the players for saving them. (Immediately after being freed, Stefania and Dag rush to find and comfort Martin, Viggo, and Yolanda. Although permanently polymorphed into a raven by Baba Lysaga’s magic, Yolanda uses her ***shapechange*** feature—for the first time in her life—and resumes her human form shortly after being rescued.)
+## T3l. I corvi in lite
+Se vengono liberati, i Martikov prigionieri, traumatizzati e scossi dalla prigionia, sono profondamente grati ai giocatori per averli salvati. (Appena liberati, Stefania e Dag corrono a cercare e a consolare Martin, Viggo e Yolanda. Anche se la magia di Baba Lysaga l'ha trasformata in corvo in modo permanente, poco dopo essere stata salvata Yolanda usa il privilegio ***mutare forma***, per la prima volta nella sua vita e riprende forma umana.)
 
-> [!abstract]+ **Davian & Urwin**
-> If Urwin Martikov is present when the Martikovs are freed, Davian Martikov regards him with distaste and asks the players why they brought his “wastrel of a son" along to Berez, adding his “sincere apologies" if Urwin “slowed them down." (Urwin is irritated by Davian’s insults, but urges the players to ignore the “old bird’s ramblings.")
+> [!abstract]+ **Davian e Urwin**
+> Se Urwin Martikov è presente quando i Martikov vengono liberati, Davian Martikov lo guarda con disgusto e chiede ai giocatori perché si siano portati dietro a Berez quello «scialacquatore di mio figlio», aggiungendo le sue «sincere scuse» se Urwin «li ha rallentati». (Urwin è irritato dagli insulti di Davian, ma invita i giocatori a ignorare «i vaneggiamenti del vecchio pennuto».)
 
-If told of the players’ visions in [[#T1c. The Cavern of Lights]], or if the players otherwise share that the three gems must be buried to reconsecrate the Fanes, Davian solemnly shares that the Martikovs’ ancestors—servants of one of the valley’s “old gods"—hid the gems away to “keep them safe." “We knew that one day, we’d be called upon to return them," he adds gruffly. “Didn’t expect it to happen in my lifetime, but a man doesn’t choose when the gods call his name." (Davian knows that, without the gems, the Wizard of Wines can’t keep growing grapes like it currently does. “Still," he adds, if the subject is mentioned, “we always knew this day might come—and we’re more than capable of working the land ourselves, with or without magic.")
+Se gli si raccontano le visioni dei giocatori nella [[#T1c. La Caverna delle Luci|Caverna delle Luci]], o se i giocatori gli spiegano comunque che le tre gemme vanno sepolte per riconsacrare i Templi, Davian rivela solennemente che gli antenati dei Martikov, servitori di uno dei «vecchi dei» della valle, nascosero le gemme per «tenerle al sicuro». «Sapevamo che un giorno ci avrebbero chiesto di restituirle», aggiunge burbero. «Non mi aspettavo che succedesse finché ero vivo, ma un uomo non sceglie quando gli dei chiamano il suo nome». (Davian sa che senza le gemme il Mago dei Vini non potrà più coltivare l'uva come fa adesso. «Comunque», aggiunge, se si tocca l'argomento, «abbiamo sempre saputo che questo giorno sarebbe potuto arrivare, e siamo più che capaci di lavorare la terra da soli, con o senza magia».)
 
-Davian and Urwin (if present, or if summoned from or met at the Blue Water Inn) are individually honored to help the players reconsecrate the Swamp Fane by burying the Weaver’s viridian gem at its center. However, both men grow unhappy if told that they must bury the gem together. (If the players share their visions from [[#T1c. The Cavern of Lights]], Davian and Urwin insist that they must have misinterpreted what they saw.)
+Davian e Urwin (se è presente, o se lo si va a chiamare o lo si incontra alla Locanda dell'Acqua Azzurra) sono ciascuno onorato di aiutare i giocatori a riconsacrare il Tempio della Palude seppellendo al centro la gemma verde viridiano della Tessitrice. Però entrambi si scuriscono se si sentono dire che devono seppellire la gemma insieme. (Se i giocatori raccontano le visioni avute nella [[#T1c. La Caverna delle Luci|Caverna delle Luci]], Davian e Urwin insistono che devono aver frainteso quello che hanno visto.)
 
-> [!abstract]+ **The Bitter Feud**
-Even if the players haven’t yet helped them reconcile, Davian and Urwin won’t refuse to bury the gem at the Swamp Fane if pressed. However, both men continue to snark, grump, and insult each other as they do, and burying the gem has no real or apparent impact while their feud remains. In such a case, once the gem is buried, Davian snorts at the players, loudly and obnoxiously insisting that they misinterpreted the prophecy. (Although Urwin tries to avoid offending the players, he also shares that, “to his irritation," he agrees with his father.)
+> [!abstract]+ **La lite amara**
+Anche se i giocatori non li hanno ancora aiutati a riconciliarsi, Davian e Urwin, se incalzati, non si rifiutano di seppellire la gemma al Tempio della Palude. Però intanto continuano a punzecchiarsi, a brontolare e a insultarsi, e finché la lite continua seppellire la gemma non ha nessun effetto, né reale né visibile. In questo caso, una volta sepolta la gemma, Davian sbuffa contro i giocatori e insiste a gran voce, in modo insopportabile, che hanno frainteso la profezia. (Urwin cerca di non offendere i giocatori, ma ammette che, «con sua grande irritazione», è d'accordo con il padre.)
 
-To reconsecrate the Swamp Fane, the players must help Davian and Urwin resolve their feud and reconcile, then help the two men bury the Weaver’s viridian gem at the center of the Swamp Fane. If asked, Davian and Urwin can explain their feud as follows:
+Per riconsacrare il Tempio della Palude, i giocatori devono aiutare Davian e Urwin a chiudere la lite e a riconciliarsi, poi aiutare i due uomini a seppellire la gemma verde viridiano della Tessitrice al centro del Tempio della Palude. Se glielo chiedono, Davian e Urwin possono spiegare la loro lite così:
 
-* Ten years ago, shortly before Urwin and Danika’s wedding, the Wizard of Wines’ third gem vanished as described in <span class="citation">Chapter 12: Wizard of Wines (p. 173)</span>.
-* According to Urwin, when the gem was stolen, he saw a silhouette in the fog and a raven carrying the gem away into the night. Although Urwin gave chase, the raven vanished into the mists, and he never saw it or the gem again.
-* According to Davian, Urwin shirked his watch to spend time with Danika. (Davian doesn’t believe Urwin’s “raven" story because he’s convinced that the Keepers of the Feather know and direct every raven in the valley, and the Keepers have never been able to confirm Urwin’s story.)
+* Dieci anni fa, poco prima delle nozze di Urwin e Danika, la terza gemma del Mago dei Vini scomparve come descritto nel <span class="citation">Capitolo 12: Il Mago dei Vini (p. 173)</span>.
+* Secondo Urwin, quando la gemma fu rubata lui vide una sagoma nella nebbia e un corvo che portava via la gemma nella notte. Urwin lo inseguì, ma il corvo sparì nelle nebbie, e lui non rivide mai più né il corvo né la gemma.
+* Secondo Davian, Urwin abbandonò il suo turno di guardia per stare con Danika. (Davian non crede alla storia del «corvo» di Urwin perché è convinto che i Custodi della Piuma conoscano e guidino ogni corvo della valle, e i Custodi non sono mai riusciti a confermare la storia di Urwin.)
 
-The players can convince Davian and Urwin to reconcile as follows.
+I giocatori possono convincere Davian e Urwin a riconciliarsi così:
 
-* **Davian.** To convince Davian, the players must make a reasonable argument that (a) Urwin wasn’t to blame for the gem’s theft, or (b) their feud has hurt them and their family more than the gem’s theft itself. The players can automatically convince Davian that Urwin wasn’t to blame for the gem’s theft by showing him the Seeker’s ash-green gem from [[#T1d. The Roc’s Nest]], and explaining the Roc and Seeker’s roles in stealing it.
-* **Urwin.** To convince Urwin, the players must either (a) convince Davian to apologize to him for blaming him for the gem’s theft, or (b) make a reasonable argument that Davian is worth reconciling with.
-## T3m. The Swamp Fane
-As the players approach <span class="citation">U6. Standing Stones (p. 165)</span>, read:
+* **Davian.** Per convincere Davian, i giocatori devono sostenere in modo ragionevole che (a) Urwin non ebbe colpa del furto della gemma, oppure che (b) la lite ha fatto a loro e alla loro famiglia più male del furto stesso. I giocatori convincono automaticamente Davian che Urwin non ebbe colpa del furto se gli mostrano la gemma verde salvia del Cercatore presa al [[#T1d. Il nido del roc|nido del roc]] e gli spiegano il ruolo del roc e del Cercatore nel furto.
+* **Urwin.** Per convincere Urwin, i giocatori devono (a) convincere Davian a chiedergli scusa per avergli dato la colpa del furto della gemma, oppure (b) sostenere in modo ragionevole che vale la pena riconciliarsi con Davian.
+## T3m. Il Tempio della Palude
+Mentre i giocatori si avvicinano a <span class="citation">U6. Menhir (p. 165)</span>, leggi:
 
 <div class="description">
-<p>A circle of stout, smooth megaliths stands amidst thick mud at the center of a copse of gnarled trees not far from the river's edge. The trees and standing stones are choked with a thick shroud of bluish-white webs, whose thick cords seem to shimmer with an ethereal quality.</p>
+<p>Un cerchio di megaliti massicci e levigati si erge nel fango denso, al centro di un boschetto di alberi nodosi poco lontano dalla riva del fiume. Gli alberi e i menhir sono soffocati da una spessa coltre di ragnatele bianco-azzurre, i cui fili spessi sembrano scintillare di una qualità eterea.</p>
 </div>
 
-The area within the stones is obscured by the cover provided by the webs, which are described in <span class="citation">Webs (Dungeon Master's Guide, p. 105)</span>.
+L'area dentro il cerchio di pietre è oscurata dalla copertura delle ragnatele, descritte in <span class="citation">Ragnatele (Guida del Dungeon Master, p. 105)</span>.
 
-If the players begin cutting or moving through the webs, their presence draws the attention of one **phase spider**, which uses its ***ethereal jaunt*** to briefly flicker into (then out of) the Material Plane. The following round, the first phase spider repeats the process, now joined by five additional **phase spiders**, before all return to the Ethereal Plane. If the players remain within the webs, all of the spiders attack the following round. 
+Se i giocatori cominciano a tagliare le ragnatele o ad attraversarle, la loro presenza attira l'attenzione di un **ragno fase**, che usa il suo ***salto etereo*** per comparire per un attimo nel Piano Materiale e poi sparire di nuovo. Il round successivo il primo ragno fase ripete la manovra, questa volta con altri cinque **ragni fase**, prima che tutti tornino nel Piano Etereo. Se i giocatori restano fra le ragnatele, il round seguente tutti i ragni attaccano.
 
-> [!info]+ **Fear of Sunlight**
-> The **phase spiders** that haunt the Swamp Fane fear sunlight, and flee permanently into the Ethereal Plane if they fall into the *Sunsword*’s light.
+> [!info]+ **Paura della luce del sole**
+> I **ragni fase** che infestano il Tempio della Palude temono la luce del sole e fuggono per sempre nel Piano Etereo se finiscono nella luce della *Spada del Sole*.
 
-If Urwin and Davian bury the Weaver’s viridian gem within the circle after reconciling, read:
+Se Urwin e Davian, dopo essersi riconciliati, seppelliscono la gemma verde viridiano della Tessitrice dentro il cerchio, leggi:
 
 <div class="description">
-<p>Threads of viridian light flicker weakly between the trees, running down into the dark, loamy circle at the center of the circle. There, a bloated, crimson vein of darkness as wide as a tree’s trunk thrusts into the gray sky above, arcing to the east before vanishing out of sight. As it pulses with malevolent intent, you feel the unmistakable presence of a cruel and ancient consciousness. For an instant, you perceive the burning scarlet eyes of Count Strahd von Zarovich, their hatred and rage boring into your very soul.</p>
-<p>The viridian threads shine ever-brighter, until their intensity consumes your vision. They begin to extend into the air, wrapping across the crimson vein’s surface. There, they spiral like snakes, constricting and binding it—until, with a thunderous snap, they sever it completely.</p>
-<p>For a moment, the clouded skies roil far above. Then, as the red vein dissipates into shreds of darkness, the wind with a deep and peaceful warmth. As you watch, a shimmering green liquid begins to condense around the strands of pulsing light, flowing forth to the swampy soil below. Wherever the liquid touches the earth, it devours the gray mirk. In its place, the grass grows lush and green, red and brown-speckled toadstools sprouting in small, well-rooted colonies across the spongy, moss-covered soil.</p>
-<p>When the liquid reaches the outer menhirs, it flows not out, but up, covering each standing stone until the circle glimmers with ethereal fey light. As the shimmering liquid slowly evaporates, each menhir is left covered in lush, green vines that stretch from stone to stone, covering the air above the circle with a canopy of life. Dozens of small, beautiful spiders begin to emerge from the spaces between the vines, spinning silvery-gray threads until the circle glistens with dew that clings to the newborn webs. And at its center, a small sapling rises from the earth.</p>
-<p>A woman’s soft voice echoes through your minds: <em>What once was stolen, I now give freely. Accept my boon, champions of the Swamp Fane.</em>.</p>
-<p>Several spheres of glittering viridian light rise from the earth, then hang patiently in the air before you—as if waiting to be claimed.</p>
+<p>Fili di luce verde viridiano tremolano deboli fra gli alberi e scendono nel terreno scuro e grasso al centro del cerchio. Lì una vena di oscurità cremisi, gonfia e larga come il tronco di un albero, si protende verso il cielo grigio e piega a est, fino a sparire alla vista. Mentre pulsa di intenti malvagi, avvertite con certezza la presenza di una coscienza crudele e antica. Per un istante vedete gli occhi scarlatti e ardenti del conte Strahd von Zarovich, il cui odio e la cui furia vi trapassano l'anima.</p>
+<p>I fili verdi brillano sempre di più, finché la loro intensità vi acceca. Cominciano ad allungarsi nell'aria e ad avvolgersi sulla superficie della vena cremisi. Lì si attorcigliano come serpenti, la stringono e la legano finché, con uno schianto fragoroso, la recidono del tutto.</p>
+<p>Per un momento, molto in alto, il cielo nuvoloso ribolle. Poi, mentre la vena rossa si dissolve in brandelli di oscurità, il vento si riempie di un tepore profondo e pacifico. Mentre guardate, un liquido verde scintillante comincia a condensarsi intorno ai filamenti di luce pulsante e cola giù sul terreno paludoso. Dovunque il liquido tocchi la terra, divora la fanghiglia grigia. Al suo posto l'erba cresce rigogliosa e verde, e piccole colonie di funghi rossi e bruni maculati spuntano ben radicate nel terreno spugnoso coperto di muschio.</p>
+<p>Quando il liquido raggiunge i menhir esterni, non scorre fuori: sale, e ricopre ogni pietra finché il cerchio brilla di un'eterea luce fatata. Mentre il liquido scintillante evapora lentamente, ogni menhir resta coperto di rampicanti verdi e rigogliosi che si allungano da una pietra all'altra e stendono sopra il cerchio una volta di vita. Dozzine di ragnetti piccoli e bellissimi cominciano a uscire dagli spazi fra i rampicanti e filano fili grigio argento, finché il cerchio luccica della rugiada che si posa sulle ragnatele appena nate. E al centro, dalla terra, spunta un piccolo alberello.</p>
+<p>Una morbida voce di donna risuona nelle vostre menti: <em>Ciò che un tempo fu rubato, ora lo dono liberamente. Accettate il mio dono, campioni del Tempio della Palude.</em></p>
+<p>Diverse sfere di scintillante luce verde viridiano si levano dalla terra e restano sospese pazienti nell'aria davanti a voi, come se aspettassero di essere prese.</p>
 </div>
 
-Each sphere of light is a *boon of the Weaver.* There are enough boons for each character that helped defeat Baba Lysaga, including the players and their companions.
+Ogni sfera di luce è un *dono della Tessitrice*. Ce n'è uno per ogni personaggio che ha contribuito a sconfiggere Baba Lysaga, compresi i giocatori e i loro compagni.
 
-A player can claim their *boon of the Weaver* by grasping or touching it. If they do, read:
+Un giocatore può prendere il suo *dono della Tessitrice* afferrandolo o toccandolo. Se lo fa, leggi:
 
 <div class="description">
-<p>A small, black tattoo in the shape of a spider appears in the palm of your hand.</p>
+<p>Sul palmo della tua mano compare un piccolo tatuaggio nero a forma di ragno.</p>
 </div>
 
-> [!item]+ **Boon of the Weaver**
-> A character who claims the *boon of the Weaver* immediately regains all of their hit points and maximum hit points. In addition, while in Barovia, a character who possesses the *boon of the Weaver* can use their reaction to grant another creature within 30 feet advantage on a saving throw.
+> [!item]+ **Dono della Tessitrice**
+> Un personaggio che prende il *dono della Tessitrice* recupera subito tutti i punti ferita e il massimo dei punti ferita. Inoltre, finché si trova a Barovia, un personaggio che possiede il *dono della Tessitrice* può usare la reazione per dare vantaggio a un'altra creatura entro 9 m su un tiro salvezza.
 
-> [!info]+ **The Sapling**
-> A player who succeeds on a DC 10 Intelligence (Nature) check identifies the sapling as a rowan tree.
+> [!info]+ **L'alberello**
+> Un giocatore che supera una prova di Intelligenza (Natura) con CD 10 riconosce nell'alberello un sorbo.
 
-***Milestone.*** Reconsecrating the Swamp Fane completes a story milestone. When the players claim the *boon of the Weaver*, award each player 5,500 XP.
-# T4. The Monster Hunter
-## T4a. The Luna River Crossroads
-When the players first return to <span class="citation">P. Luna River Crossroads (p. 40)</span> after completing [[Arc S - A Sword of Sunlight]], read:
+***Traguardo.*** Riconsacrare il Tempio della Palude completa un traguardo della storia. Quando i giocatori prendono il *dono della Tessitrice*, assegna a ogni giocatore 5.500 PE.
+# T4. Il cacciatore di mostri
+## T4a. Il crocevia del fiume Luna
+Quando i giocatori tornano per la prima volta a <span class="citation">P. Crocevia del fiume Luna (p. 40)</span> dopo aver completato l'[[Arc S - A Sword of Sunlight|Arco S: Una spada di luce solare]], leggi:
 
 <div class="description">
-<p>The southwestern bushes rustle, and a cloaked and hooded figure steps forth from the underbrush. They raise a hand, gesturing for you to approach.</p>
+<p>I cespugli a sud-ovest frusciano, e una figura con mantello e cappuccio esce dal sottobosco. Alza una mano e vi fa cenno di avvicinarvi.</p>
 </div>
 
-The cloaked figure is the Vistani **bandit** Alexei, sent by Luvash to bring the players a secret message. If the players call out to him, he shakes his head urgently and gestures more frantically for them to approach. If the players ignore him, he hisses, “Please. I have a message for you" while nervously checking his surroundings for any eavesdroppers.
+La figura con il mantello è il **bandito** vistani Alexei, mandato da Luvash a portare ai giocatori un messaggio segreto. Se i giocatori lo chiamano ad alta voce, lui scuote la testa con urgenza e fa cenni ancora più frenetici perché si avvicinino. Se i giocatori lo ignorano, sibila: «Vi prego. Ho un messaggio per voi», mentre si guarda intorno nervoso per controllare che nessuno origli.
 
-If the players follow him into the trees, they can discern his features: a young man with close-cropped, chestnut-brown hair and the barest beginnings of a beard growing across his cheeks. Players who previously encountered him in [[Arc E - The Missing Vistana]] recognize him as Alexei.
+Se i giocatori lo seguono fra gli alberi, possono distinguerne i lineamenti: un giovane con i capelli castani tagliati corti e un accenno di barba appena spuntato sulle guance. I giocatori che lo hanno già incontrato nell'[[Arc E - The Missing Vistana|Arco E: La vistana scomparsa]] lo riconoscono: è Alexei.
 
-> [!lore]+ **The Vistani Guest**
-> Two days ago, Strahd von Zarovich learned from a Vistani spy of the connection between Arturi Radanavich and Dr. Rudolph van Richten. Reasoning that Arturi’s unique curse may be connected to Van Richten—who Strahd hopes to use as a sacrifice in the Grand Conjunction’s ritual—Strahd “invited" Arturi to Castle Ravenloft, where he delivered him into the care of a platoon of surviving castle **wights**. Arturi was made a mandatory guest in <span class="citation">K32. Maid in Hell (p. 64)</span>, imprisoned so that Strahd could study his curse in greater detail.
+> [!lore]+ **L'ospite dei Vistani**
+> Due giorni fa Strahd von Zarovich ha saputo da una spia vistani del legame fra Arturi Radanavich e il dottor Rudolph van Richten. Pensando che la maledizione particolare di Arturi potesse essere legata a Van Richten, che Strahd spera di usare come vittima sacrificale nel rituale della Grande Congiunzione, Strahd ha «invitato» Arturi al Castello di Ravenloft e lo ha affidato a un plotone di **wight** sopravvissuti del castello. Arturi è diventato un ospite obbligato in <span class="citation">K32. Una cameriera all'inferno (p. 64)</span>, imprigionato perché Strahd potesse studiare a fondo la sua maledizione.
 >
-> Last night, Arturi staged a daring escape, barely escaping with his life through the teleportation brazier in <span class="citation">K78. Brazier Room (p. 82)</span>. Upon his arrival at <span class="citation">Chapter 11: Van Richten’s Tower (p. 167)</span>, Arturi swiftly made his way to <span class="citation">N9. Vistani Camp (p. 119)</span>, where he sought refuge with the Vallakian Vistani. Since then, Luvash and Arrigal have concealed Arturi within <span class="citation">N9i. Vistani Treasure Wagon (p. 123)</span>, tended to his wounds, and sent covert messengers to <span class="citation">P. Luna River Crossroads (p. 40)</span> in the hopes of securing the players’ aid.
+> Ieri notte Arturi ha tentato una fuga audace, ed è scampato per un soffio attraverso il braciere di teletrasporto della <span class="citation">K78. Stanza del braciere (p. 82)</span>. Arrivato al <span class="citation">Capitolo 11: La torre di Van Richten (p. 167)</span>, Arturi ha raggiunto in fretta <span class="citation">N9. Accampamento vistani (p. 119)</span>, dove si è rifugiato presso i Vistani di Vallaki. Da allora Luvash e Arrigal hanno nascosto Arturi nel <span class="citation">N9i. Carrozzone del tesoro dei Vistani (p. 123)</span>, gli hanno curato le ferite e hanno mandato messaggeri segreti a <span class="citation">P. Crocevia del fiume Luna (p. 40)</span> nella speranza di ottenere l'aiuto dei giocatori.
 >
-> Arturi knows he can’t stay at the Vistani encampment past nightfall, knowing that his curse will inevitably lure a horde of undead to kill the innocents that dwell there. Arturi, however, fears that Strahd will soon use his *scrying* materials to track him down—and, using Arturi’s cursed connection to Van Richten, track down and capture the doctor as well. With Van Richten dead or turned, Arturi fears that there may be no way to lift his curse, leaving him hunted by undead for the remainder of his life.
+> Arturi sa che non può restare all'accampamento vistani dopo il tramonto, perché la sua maledizione attirerà di sicuro un'orda di non morti che ucciderà gli innocenti che ci vivono. Però teme che presto Strahd userà i suoi strumenti di *scrutare* per rintracciarlo e, sfruttando il legame maledetto fra Arturi e Van Richten, per rintracciare e catturare anche il dottore. Con Van Richten morto o trasformato, Arturi teme che non ci sia più modo di spezzare la sua maledizione e che i non morti gli diano la caccia per il resto della vita.
 
-> [!abstract]+ **The Players Delay**
-> If the players fail to visit Arturi by nightfall on the day they receive Alexei’s message, he flees into the Svalich Woods, hoping to spare the other Vistani the dangers of his curse. Arrigal can subsequently escort the players to Arturi’s hiding place: a small cavern beneath the roots of an oak tree.
+> [!abstract]+ **I giocatori tardano**
+> Se i giocatori non vanno da Arturi entro il tramonto del giorno in cui ricevono il messaggio di Alexei, lui fugge nei Boschi di Svalich, sperando di risparmiare agli altri Vistani i pericoli della sua maledizione. Arrigal può poi accompagnare i giocatori al nascondiglio di Arturi: una piccola grotta sotto le radici di una quercia.
 
-Alexei, who refuses to lower his hood and constantly glances at his surroundings for eavesdroppers, greets the players with a trembling voice, and asks for them by name. If they identify themselves or ask Alexei the reason for his visit, he swallows and informs them that a “guest" at the Vallakian Vistani camp wishes to speak with them about an urgent matter. “Please," he adds, his eyes fearful. (Alexei doesn’t know the guest’s identity—only that this individual is a guest of Luvash’s.)
+Alexei, che si rifiuta di abbassare il cappuccio e si guarda di continuo intorno per paura di essere ascoltato, saluta i giocatori con voce tremante e chiede di loro per nome. Se i giocatori si presentano o gli chiedono il motivo della visita, Alexei deglutisce e spiega che un «ospite» dell'accampamento dei Vistani di Vallaki vuole parlare con loro di una questione urgente. «Vi prego», aggiunge, con gli occhi pieni di paura. (Alexei non sa chi sia l'ospite: sa solo che è un ospite di Luvash.)
 
-If the players ask Alexei the reason for his fear, he laughs nervously, then mumbles that he’s heard the “Lord of Castle Ravenloft" is hunting them, and that any who provide them shelter will suffer alongside them. (Alexei can confirm that this is why Luvash ordered him to deliver this message covertly.)
+Se i giocatori gli chiedono perché abbia paura, Alexei ride nervoso, poi borbotta di aver sentito che il «signore del Castello di Ravenloft» dà loro la caccia e che chiunque li ospiti soffrirà insieme a loro. (Alexei può confermare che proprio per questo Luvash gli ha ordinato di consegnare il messaggio di nascosto.)
 
-If the players express an interest in meeting Luvash’s “guest," Alexei directs the players to speak with Luvash in <span class="citation">N9c. Vistani Tent (p. 121)</span>. 
+Se i giocatori si mostrano interessati a incontrare l'«ospite» di Luvash, Alexei dice loro di parlare con Luvash nella <span class="citation">N9c. Tenda dei Vistani (p. 121)</span>.
 
-Before departing, Alexei warns the players not to approach the Vistani camp openly, and to conceal their presence from any watchful spies. “I cannot return with you," he says, his voice trembling. “If our people are seen with you, it could mean calamity for us—or worse." Alexei then turns and vanishes into the Svalich Wood, making his way back to the Vistani camp by another way.
-## T4b. The Vistani Encampment
-<span class="citation">N9. Vistani Camp (p. 199)</span> is largely as described in [[Arc E - The Missing Vistana]]. However, if the players approach openly or are otherwise recognized, read:
+Prima di andarsene, Alexei avverte i giocatori di non avvicinarsi apertamente all'accampamento vistani e di nascondersi a qualunque spia vigile. «Non posso tornare con voi», dice con voce tremante. «Se la nostra gente viene vista con voi, potrebbe essere una disgrazia per noi, o peggio». Poi si volta e sparisce nei Boschi di Svalich, per tornare all'accampamento vistani da un'altra strada.
+## T4b. L'accampamento vistani
+<span class="citation">N9. Accampamento vistani (p. 199)</span> è più o meno come descritto nell'[[Arc E - The Missing Vistana|Arco E: La vistana scomparsa]]. Però, se i giocatori si avvicinano apertamente o comunque vengono riconosciuti, leggi:
 
 <div class="description">
-<p>Each Vistani that sees your face flinches. Several faces watch fearfully from wagon windows, while parents usher their children away at your approach.</p>
+<p>Ogni Vistani che vede il vostro volto trasale. Diversi visi vi osservano spaventati dai finestrini dei carrozzoni, mentre i genitori allontanano i figli al vostro passaggio.</p>
 </div>
 
-### Escher’s Inquiry
-When the players enter <span class="citation">N9c. Vistani Tent (p. 121)</span>, read:
+### Le indagini di Escher
+Quando i giocatori entrano nella <span class="citation">N9c. Tenda dei Vistani (p. 121)</span>, leggi:
 
 <div class="description">
-<p>A familiar broad-shouldered man with a thick beard and sideburns sits atop a tall wooden crate on the far side of the tent. His chin rests upon his fist, his thick brow furrowed, with a dark frown across his face. A slender man with a pointed goatee stands beside him, his face stony.</p>
+<p>Dall'altra parte della tenda, seduto su un'alta cassa di legno, c'è un uomo che conoscete, dalle spalle larghe, con una folta barba e le basette. Ha il mento appoggiato al pugno, la fronte folta aggrottata e il volto scuro e accigliato. Accanto a lui c'è in piedi un uomo snello con il pizzetto a punta, il volto impassibile.</p>
 </div>
 
-The sitting man is Luvash. The slender man beside him is Arrigal. The tent contains no other Vistani.
+L'uomo seduto è Luvash. L'uomo snello accanto a lui è Arrigal. Nella tenda non ci sono altri Vistani.
 
-If he still lives, the vampire spawn Escher is present. Add:
+Se è ancora vivo, è presente anche la progenie vampirica Escher. Aggiungi:
 
 <div class="description">
-<p>A pale, blond-faced man wearing aristocratic finery stands before Luvash, his long-tipped claws twitching. Two pale figures stand beside him.</p>
+<p>Davanti a Luvash c'è un uomo pallido e biondo in abiti aristocratici, con i lunghi artigli appuntiti che fremono. Accanto a lui stanno due figure pallide.</p>
 </div>
 
-The two pale figures are **vampire spawn**. Escher is a **vampire spawn** with the following additional bonus action:
+Le due figure pallide sono **progenie vampiriche**. Escher è una **progenie vampirica** con questa azione bonus aggiuntiva:
 
-* ***Shapechange.*** If Escher isn’t in sunlight or running water, he shape-shifts into a Tiny bat or returns to his vampire form. Anything he’s wearing transforms with him. While in bat form, Escher can’t speak. His game statistics, other than his Strength, Constitution, size, speed, and actions, are unchanged.
+* ***Mutare forma.*** Se non si trova alla luce del sole o in acqua corrente, Escher si trasforma in un pipistrello Minuscolo o torna alla sua forma di vampiro. Tutto ciò che indossa si trasforma con lui. In forma di pipistrello Escher non può parlare. Le sue statistiche di gioco, a parte Forza, Costituzione, taglia, velocità e azioni, restano invariate.
 
-If the players don’t intervene or call attention to themselves, the conversation continues as follows:
+Se i giocatori non intervengono e non attirano l'attenzione, la conversazione continua così:
 
-* Escher continues, speaking to Luvash: “As I’m sure you are aware, his Grace can be a powerful friend—and an even more dangerous enemy. Should you hear word of him, Ravenloft would be in your debt. The activities of such a traitor can be dangerous, and my Lord wishes to see this man swiftly returned to custody, lest his dark nature endanger more of Barovia. I am sure you understand."
-* Luvash considers Escher’s words, then nods. “We are grateful for Count von Zarovich’s trust in our people. I assure you that I will look into this matter."
-* Escher smiles thinly. “You may be able to look into it sooner than you might think?" (Luvash raises an eyebrow, and Escher continues.) “We have a report," Escher says softly, “that a cloaked individual was recently seen entering one of your wagons." He pauses. “It is, unfortunately, all too common for our friends to undertake dangerous activities under our noses. Should you cooperate fully in this investigation, I assure you that you will be rewarded, and no harm will come to you or your community." 
+* Escher prosegue, rivolto a Luvash: «Come certo saprete, Sua Grazia può essere un amico potente, e un nemico ancora più pericoloso. Se doveste sentire parlare di lui, Ravenloft vi sarebbe debitore. Le attività di un simile traditore possono essere pericolose, e il mio signore desidera che quest'uomo torni al più presto sotto custodia, prima che la sua natura oscura metta in pericolo altre parti di Barovia. Sono certo che capite».
+* Luvash riflette sulle parole di Escher, poi annuisce. «Siamo grati della fiducia che il conte von Zarovich ripone nel nostro popolo. Vi assicuro che me ne occuperò».
+* Escher sorride appena. «Forse potreste occuparvene prima di quanto pensiate». (Luvash alza un sopracciglio, ed Escher continua.) «Ci è stato riferito», dice Escher sottovoce, «che di recente una persona incappucciata è stata vista entrare in uno dei vostri carrozzoni». Fa una pausa. «Purtroppo capita fin troppo spesso che i nostri amici si dedichino ad attività pericolose sotto il nostro naso. Se collaborerete pienamente a questa indagine, vi assicuro che sarete ricompensati e che a voi e alla vostra comunità non verrà fatto alcun male».
 
-If the players reveal their identities and confront him, Escher stumbles from them in fear. “You can’t touch me," he stammers. “I’m here on official business from the Count himself. I-if you hurt me, he’ll crush you, and everyone here." 
+Se i giocatori rivelano chi sono e lo affrontano, Escher arretra da loro inciampando per la paura. «Non potete toccarmi», balbetta. «Sono qui in veste ufficiale per conto del conte in persona. S-se mi fate del male, vi schiaccerà, voi e tutti quelli che sono qui».
 
-Escher fears Strahd more than he fears the players. If the players attempt to intimidate or attack him, Escher commands his two **vampire spawn** to attack, then retreats out of the players’ reach. If the players defeat his two vampire spawn, reduce him to 41 hit points or fewer, or ignite the *Sunsword*, Escher uses his ***shapechange*** to assume the form of a bat, then flees for Castle Ravenloft to the east. (If unable to do so because he’s in the sunlight created by the *Sunsword*, Escher flees first on foot instead, sobbing in terror and pain.)
+Escher teme Strahd più dei giocatori. Se i giocatori provano a intimidirlo o ad attaccarlo, Escher ordina alle sue due **progenie vampiriche** di attaccare, poi si ritira fuori dalla loro portata. Se i giocatori sconfiggono le due progenie vampiriche, lo riducono a 41 punti ferita o meno o accendono la *Spada del Sole*, Escher usa il suo ***mutare forma*** per assumere la forma di un pipistrello e fugge verso il Castello di Ravenloft, a est. (Se non può farlo perché si trova nella luce solare creata dalla *Spada del Sole*, Escher fugge prima a piedi, singhiozzando di terrore e di dolore.)
 
-> [!abstract]+ **Hiding Arturi**
-> Players who depart the tent alone in search of Arturi can attempt to convince a nearby Vistani to show them Arturi’s hiding place by succeeding on a DC 12 Charisma (Persuasion) check. On a success, the Vistani silently points them toward <span class="citation">N9i. Vistani Treasure Wagon (p. 123)</span>.
+> [!abstract]+ **Nascondere Arturi**
+> I giocatori che lasciano la tenda da soli per cercare Arturi possono provare a convincere un Vistani lì vicino a mostrare loro il nascondiglio di Arturi superando una prova di Carisma (Persuasione) con CD 12. In caso di successo, il Vistani indica loro in silenzio il <span class="citation">N9i. Carrozzone del tesoro dei Vistani (p. 123)</span>.
 >
-> If the players enter <span class="citation">N9i. Vistani Treasure Wagon (p. 123)</span>, read:
->
-> ---
->
-> *This wagon contains a pair of chests, an onyx jewelry box, a rolled-up rug, and a wooden throne with gold inlay and decorative stones. Upon the throne sits a man, his head bowed. His hair is dark, with small streaks of gray beginning to touch his temples. His right torso is wrapped heavily with blood-stained bandages, and more bandages wrap around the top of his head.*
+> Se i giocatori entrano nel <span class="citation">N9i. Carrozzone del tesoro dei Vistani (p. 123)</span>, leggi:
 >
 > ---
-> 
-> If the players make themselves known, add:
+>
+> *Nel carrozzone ci sono due forzieri, un portagioie d'onice, un tappeto arrotolato e un trono di legno intarsiato d'oro e decorato con pietre. Sul trono siede un uomo a capo chino. Ha i capelli scuri, con qualche striatura grigia che comincia a toccargli le tempie. Il fianco destro è avvolto in bende macchiate di sangue, e altre bende gli fasciano la sommità del capo.*
 >
 > ---
 > 
-> *Arturi Radanavich looks up at you, his olive-green eyes cutting through the wagon’s dim interior. “You came," he croaks. “Thank you."*
+> Se i giocatori si fanno riconoscere, aggiungi:
+>
+> ---
+> 
+> *Arturi Radanavich alza lo sguardo su di voi, e i suoi occhi verde oliva fendono la penombra del carrozzone. «Siete venuti», gracchia. «Grazie».*
 >
 > ---
 >
-> If informed of Escher’s presence, Arturi is glad to accompany the players away from Escher’s sight. To do so, Arturi and any players accompanying him must succeed on a DC 14 Dexterity (Stealth) check, succeeding automatically if the players disguise him, conceal him (e.g., by making him invisible), or create a sufficient distraction.
+> Se viene a sapere che Escher è lì, Arturi è contento di allontanarsi con i giocatori dalla vista di Escher. Per farlo, Arturi e i giocatori che lo accompagnano devono superare una prova di Destrezza (Furtività) con CD 14, che riesce automaticamente se i giocatori lo travestono, lo nascondono (per esempio rendendolo invisibile) o creano un diversivo sufficiente.
 >
-> If Escher notices Arturi, he demands that Arturi surrender and return with him to Castle Ravenloft. Escher otherwise acts as described above.
-### Luvash’s Guest
-Once Escher has been dispatched or driven away, or otherwise departed, Luvash and Arrigal thank the players for answering their summons and ask to know their recent activities across the valley. “It seems the world has gone mad," Arrigal hisses. “Rumors of the Count’s brides, dead; of the castle, raided; and of the Count himself visiting his wrath upon the denizens of the valley. I do not wish to know more than I need to, but tell us—are we in danger? Are our people in danger?"
+> Se Escher nota Arturi, gli intima di arrendersi e di tornare con lui al Castello di Ravenloft. Per il resto Escher si comporta come descritto sopra.
+### L'ospite di Luvash
+Quando Escher è stato eliminato, scacciato o comunque se n'è andato, Luvash e Arrigal ringraziano i giocatori per aver risposto alla loro chiamata e chiedono che cosa abbiano fatto di recente nella valle. «Pare che il mondo sia impazzito», sibila Arrigal. «Si dice che le spose del conte siano morte, che il castello sia stato saccheggiato e che il conte in persona stia sfogando la sua ira sugli abitanti della valle. Non voglio sapere più di quanto mi serva, ma ditemi: siamo in pericolo? La nostra gente è in pericolo?»
 
-Luvash and Arrigal won’t share information regarding Arturi’s presence in the open. Instead, when the players have answered his questions to his satisfaction, Arrigal conceals himself beneath his hooded cloak and instructs the players to do the same, so that he may lead them to their “guest." “He has asked for you anxiously since he arrived," Arrigal says quietly. “I know not why the Count seeks him, but he seems to believe you may hold the key to his freedom."
+Luvash e Arrigal non parlano della presenza di Arturi allo scoperto. Quando i giocatori hanno risposto in modo soddisfacente alle sue domande, Arrigal si nasconde sotto il mantello con il cappuccio e dice ai giocatori di fare lo stesso, così potrà accompagnarli dal loro «ospite». «Da quando è arrivato ha chiesto di voi con ansia», dice Arrigal a bassa voce. «Non so perché il conte lo cerchi, ma lui sembra credere che abbiate la chiave della sua libertà».
 
-Arrigal guides the players to <span class="citation">N9i. Vistani Treasure Wagon (p. 123)</span>. After carefully checking that he is not being watched, Arrigal carefully unlocks the door to the wagon and gestures for the players to enter. He then swiftly departs.
+Arrigal guida i giocatori fino al <span class="citation">N9i. Carrozzone del tesoro dei Vistani (p. 123)</span>. Dopo aver controllato con cura che nessuno lo osservi, apre con attenzione la porta del carrozzone e fa cenno ai giocatori di entrare. Poi se ne va in fretta.
 
-If the players enter the treasure wagon, read:
+Se i giocatori entrano nel carrozzone del tesoro, leggi:
 
 <div class="description">
-<p>This wagon contains a pair of chests, an onyx jewelry box, a rolled-up rug, and a wooden throne with gold inlay and decorative stones. Upon the throne sits a man, his head bowed. His hair is dark, with small streaks of gray beginning to touch his temples. His right torso is wrapped heavily with blood-stained bandages, and more bandages wrap around the top of his head.</p>
+<p>Nel carrozzone ci sono due forzieri, un portagioie d'onice, un tappeto arrotolato e un trono di legno intarsiato d'oro e decorato con pietre. Sul trono siede un uomo a capo chino. Ha i capelli scuri, con qualche striatura grigia che comincia a toccargli le tempie. Il fianco destro è avvolto in bende macchiate di sangue, e altre bende gli fasciano la sommità del capo.</p>
 </div>
 
-If the players make themselves known, add:
+Se i giocatori si fanno riconoscere, aggiungi:
 
 <div class="description">
-<p>Arturi Radanavich looks up at you, his olive-green eyes cutting through the wagon’s dim interior. “You came," he croaks. “Thank you."</p>
+<p>Arturi Radanavich alza lo sguardo su di voi, e i suoi occhi verde oliva fendono la penombra del carrozzone. «Siete venuti», gracchia. «Grazie».</p>
 </div>
 
-Arturi is deeply grateful for the players’ presence. He can share the following information:
+Arturi è profondamente grato della presenza dei giocatori. Può dire quanto segue:
 
-* Since he and the players first met in [[Arc C - Into the Valley#C4c. L'ospitalità vistani|C4c. Vistani Hospitality]], he has continued his efforts to search the valley for Dr. Rudolph van Richten, hoping that "the good doctor" may hold the secret to curing what ails him. (Arturi’s mouth twists as he says the phrase “the good doctor.")
-* If asked, Arturi shares that his "ailment" is a curse: that the undead pursue him wherever he goes, and that they have haunted him each night for the past eighteen years. "Luvash and Arrigal have taken on a terrible danger in sheltering me," he says, wincing. “No matter the outcome of our meeting, I must be gone from their wagons before nightfall."
-* Arturi prefers not to share the cause of his "ailment" before meeting Dr. Van Richten. However, a player who succeeds on a DC 12 Charisma (Persuasion) check can convince Arturi to share that "a man once vowed that undead shall take me." Arturi chuckles weakly. "Although they have not yet succeeded, they have never failed to try." He then coughs, adding, "Please, I must see Dr. Van Richten. His life may be in urgent danger, as well as mine."
+* Da quando lui e i giocatori si sono conosciuti in [[Arc C - Into the Valley#C4c. L'ospitalità vistani|C4c. L'ospitalità vistani]], ha continuato a cercare il dottor Rudolph van Richten per la valle, sperando che «il buon dottore» conosca il segreto per curare il suo male. (Quando pronuncia le parole «il buon dottore», Arturi storce la bocca.)
+* Se glielo chiedono, Arturi spiega che il suo «male» è una maledizione: i non morti lo inseguono dovunque vada e da diciotto anni lo tormentano ogni notte. «Luvash e Arrigal si sono presi un rischio terribile dandomi rifugio», dice con una smorfia. «Comunque vada il nostro incontro, devo lasciare i loro carrozzoni prima del tramonto».
+* Arturi preferisce non rivelare la causa del suo «male» prima di aver incontrato il dottor Van Richten. Però un giocatore che supera una prova di Carisma (Persuasione) con CD 12 può convincerlo a dire che «un uomo una volta giurò che i non morti mi avrebbero preso». Arturi ride debolmente. «Finora non ci sono riusciti, ma non hanno mai smesso di provarci». Poi tossisce e aggiunge: «Vi prego, devo vedere il dottor Van Richten. La sua vita potrebbe essere in pericolo, come la mia».
 
-A player can convince Arturi to share the cause of his “ailment" or the reason for his unique interest in Dr. Van Richten by succeeding on a DC 18 Charisma (Persuasion) check, succeeding automatically if they threaten to withhold knowledge of Van Richten’s location or otherwise make a reasonable argument. If they do, Arturi can share the following additional information:
+Un giocatore può convincere Arturi a rivelare la causa del suo «male», o il motivo del suo interesse per il dottor Van Richten, superando una prova di Carisma (Persuasione) con CD 18; la prova riesce automaticamente se i giocatori minacciano di non dirgli dove si trova Van Richten o comunque gli danno una ragione valida. In questo caso Arturi può aggiungere quanto segue:
 
-* Twenty years ago, when Arturi was only seventeen, several members of his extended family amongst the Radanavich caravan invited him on a “hunting trip." Awkward, lonesome, and desperate for connection, Arturi accepted their invitation gratefully.
-* It wasn’t long, however, before Arturi learned the true nature of their hunt. His aunt, Madame Irene Radanavich and the leader of the caravan, had recently seen her son, Radu, gravely injured in a fight with bandits on the road. When the Vistani’s treatments proved fruitless, Madame Radanavich had taken Radu to a healer in a nearby village—a doctor named Rudolph van Richten. Radu died under Van Richten’s care, and a vengeful and grieving Madame Radanavich sought to visit this pain upon Van Richten in turn.
-* Arturi felt bewildered and afraid—but each time he thought to open his mouth, he imagined the insults and jeers of his cousins or “Auntie Irene’s" smoldering glare. And so, Arturi watched silently as his family kidnapped Van Richten’s fourteen-year-old son, Erasmus, spirited him away to a darkened keep, and sold him to the vampire lord Baron Metus. The Radanaviches then fled through the Mists, to Barovia, hoping to escape the reach of Van Richten and Metus alike. In doing so, they parted ways with the d’Avenirs—a Vistani husband and wife who had accompanied the Radanaviches with their young daughter, Ezmerelda. (Arturi doesn’t know what became of the Radanaviches, nor does he recognize Ezmerelda unless reintroduced.)
-* Three years later, Van Richten returned, grim-faced and surrounded by a swarm of ravenous undead. He declared that his son Erasmus had died—transformed by Baron Metus into a vampire spawn and killed by Van Richten’s own hand. Torn by fury and grief, Van Richten released the undead horde upon the Radanavich caravan, howling, “Undead take you as you have taken my son!"
-* Arturi alone survived the assault, hiding himself away in his grandmother’s magical trunk. When he finally emerged, hours later, he found the encampment shattered and his family slaughtered—and Van Richten nowhere to be found.
-* Arturi soon learned, however, that Van Richten’s vengeful words had taken on a life of their own, haunting him like a curse. “Undead take you," Van Richten had promised—and so they did, pursuing Arturi wherever he went. The Vistani banished him from their camps after dusk, naming him *mortu*, or “outcast," a word that can also be more directly translated as “living dead." No village gave Arturi sanctuary, and no town’s walls would protect him; no matter where he slept, the dead would rise and find him.
-* For eighteen years, Arturi evaded his eternal pursuers, even as he desperately searched for a way to escape the clutches of his curse. Finally, three months ago, he returned to Barovia to seek the counsel of the Vistana seer Madam Eva. "The past must burn," she told him. “Find the man who forged your fetters. His final breath will set you free."
-* Arturi has ranged across Barovia several times since then in search of Van Richten. On one occasion, he even recovered a supply cache hidden in a hollow near Lake Baratok, which contained a half-written manuscript on werewolves and a small assortment of weapons. He has been unable, however, to locate the doctor himself.
-* Two days ago, Strahd kidnapped Arturi and brought him to Castle Ravenloft. Strahd appeared intrigued by the nature of Arturi’s curse, studying its magic and extracting his blood for his own experimentation. Strahd appears to believe that Arturi's curse, which binds him to Dr. Van Richten, will allow him to finally hunt Van Richten down—and so end the tale that began with Barovia’s recent rebellion. “Should that happen," Arturi says, “I fear I will never be rid of this curse—or that it shall eventually grow to consume and swallow me, leaving nothing left." He adds: “But if my curse is lifted, I shall be useless to him—and he will have no means to track Doctor Van Richten through me."
+* Vent'anni fa, quando Arturi aveva appena diciassette anni, alcuni parenti della carovana dei Radanavich lo invitarono a una «battuta di caccia». Impacciato, solo e disperatamente bisognoso di legami, Arturi accettò l'invito con gratitudine.
+* Ma ben presto Arturi scoprì la vera natura di quella caccia. Sua zia, Madame Irene Radanavich, capo della carovana, aveva da poco visto il figlio Radu ferito gravemente in uno scontro con dei banditi lungo la strada. Quando le cure dei Vistani si rivelarono inutili, Madame Radanavich aveva portato Radu da un guaritore di un villaggio vicino, un dottore di nome Rudolph van Richten. Radu morì mentre era in cura da Van Richten, e Madame Radanavich, accecata dal dolore e dalla sete di vendetta, decise di infliggere lo stesso dolore a Van Richten.
+* Arturi era confuso e spaventato, ma ogni volta che pensava di aprire bocca immaginava gli insulti e gli scherni dei cugini, o lo sguardo rovente di «zia Irene». E così Arturi guardò in silenzio la sua famiglia rapire Erasmus, il figlio quattordicenne di Van Richten, portarlo in una fortezza oscura e venderlo al signore dei vampiri, il barone Metus. Poi i Radanavich fuggirono attraverso le Nebbie fino a Barovia, sperando di sfuggire sia a Van Richten sia a Metus. Così facendo si separarono dai d'Avenir, una coppia di Vistani, marito e moglie, che viaggiavano con i Radanavich insieme alla figlioletta Ezmerelda. (Arturi non sa che fine abbiano fatto i Radanavich e non riconosce Ezmerelda a meno che non gli venga presentata di nuovo.)
+* Tre anni dopo Van Richten tornò, cupo in volto e circondato da uno sciame di non morti famelici. Annunciò che suo figlio Erasmus era morto: il barone Metus lo aveva trasformato in una progenie vampirica e Van Richten lo aveva ucciso con le sue mani. Straziato dalla furia e dal dolore, Van Richten scatenò l'orda di non morti sulla carovana dei Radanavich, urlando: «Che i non morti vi prendano come voi avete preso mio figlio!».
+* Arturi fu l'unico a sopravvivere all'assalto, nascosto nel baule magico della nonna. Quando finalmente ne uscì, ore dopo, trovò l'accampamento distrutto e la sua famiglia massacrata, e di Van Richten nessuna traccia.
+* Presto però Arturi scoprì che le parole di vendetta di Van Richten avevano preso vita propria e lo perseguitavano come una maledizione. «Che i non morti vi prendano», aveva promesso Van Richten, e così fu: i non morti inseguirono Arturi dovunque andasse. I Vistani lo cacciarono dai loro accampamenti dopo il tramonto e lo chiamarono *mortu*, «reietto», una parola che si può tradurre anche più alla lettera con «morto vivente». Nessun villaggio diede asilo ad Arturi, e nessuna città lo protesse con le sue mura; dovunque dormisse, i morti si alzavano e lo trovavano.
+* Per diciotto anni Arturi è sfuggito ai suoi eterni inseguitori, cercando disperatamente un modo per liberarsi dalla stretta della maledizione. Finalmente, tre mesi fa, è tornato a Barovia per chiedere consiglio alla veggente vistana Madam Eva. «Il passato deve bruciare», gli disse lei. «Trova l'uomo che ha forgiato le tue catene. Il suo ultimo respiro ti renderà libero».
+* Da allora Arturi ha percorso Barovia più volte in cerca di Van Richten. Una volta ha perfino trovato un deposito di provviste nascosto in una conca vicino al Lago Baratok, con un manoscritto a metà sui lupi mannari e un piccolo assortimento di armi. Però non è riuscito a trovare il dottore.
+* Due giorni fa Strahd ha rapito Arturi e lo ha portato al Castello di Ravenloft. Strahd sembrava affascinato dalla natura della sua maledizione: ne ha studiato la magia e gli ha prelevato il sangue per i suoi esperimenti. Strahd sembra credere che la maledizione di Arturi, che lo lega al dottor Van Richten, gli permetterà finalmente di stanare Van Richten e di chiudere così la storia cominciata con la recente ribellione di Barovia. «Se dovesse succedere», dice Arturi, «temo che non mi libererò mai di questa maledizione, o che finirà per consumarmi e inghiottirmi, finché di me non resterà niente». E aggiunge: «Ma se la mia maledizione viene spezzata, non gli servirò più a niente, e non avrà modo di rintracciare il dottor Van Richten attraverso di me».
 
-Arturi believes it clear that Madam Eva’s first words —the “man who forged his fetters"—refer to Dr. Van Richten. He isn’t sure how to interpret “His final breath will set you free," but—although he conceals this from the players—grimly believes that he may need to personally kill Van Richten to free himself of his curse.
+Arturi crede evidente che le prime parole di Madam Eva, «l'uomo che ha forgiato le tue catene», si riferiscano al dottor Van Richten. Non sa bene come interpretare «Il suo ultimo respiro ti renderà libero», ma, anche se lo nasconde ai giocatori, è cupamente convinto che potrebbe dover uccidere Van Richten con le sue mani per liberarsi della maledizione.
 
-Arturi asks the players to take him to Van Richten, believing that they, following their travels through the valley, may have knowledge of his location. "I heard what you did at the vampire's castle," he adds, a touch of desperation to his voice. “No others in this valley have the strength or courage to defy him. Please help me—I beg of you."
+Arturi chiede ai giocatori di portarlo da Van Richten, convinto che, dopo aver viaggiato tanto per la valle, sappiano dove si trova. «Ho sentito che cosa avete fatto al castello del vampiro», aggiunge, con una punta di disperazione nella voce. «Nessun altro in questa valle ha la forza o il coraggio di sfidarlo. Vi prego, aiutatemi. Vi supplico».
 
-> [!abstract]+ **The Sparrows and the Fox**
-> If asked, Arturi grimly confirms that his tale of the sparrows and the fox from [[Arc C - Into the Valley#Il racconto di Arturi|Arc C - Into the Valley]] was a symbolic retelling of his and Van Richten’s tale, with the Radanaviches as the sparrows, Van Richten as the fox, and the undead as the rats. “All stories have a grain of truth within them," he coughs. “This one simply had more than most."
+> [!abstract]+ **I passeri e la volpe**
+> Se glielo chiedono, Arturi conferma cupo che il racconto dei passeri e della volpe dell'[[Arc C - Into the Valley#Il racconto di Arturi|Arco C: Nella valle]] era una versione simbolica della storia sua e di Van Richten, con i Radanavich nel ruolo dei passeri, Van Richten in quello della volpe e i non morti in quello dei ratti. «Ogni storia ha un fondo di verità», dice tossendo. «Questa ne aveva solo più di altre».
 
-> [!info]+ **Finding Van Richten**
-> Unless the players’ actions have caused him to relocate, Rudolph van Richten remains wherever the players left him at the conclusion of [[Arc E - The Missing Vistana]]. If he’s not in or near Vallaki, the players can convince him to travel to them by sending a message with sufficient details to verify their identity. (If the players don’t think to do so, Ezmerelda urges them to include such details in their letter, preferably in vague or coded form, so that the ever-paranoid Van Richten knows to trust their words.)
+> [!info]+ **Trovare Van Richten**
+> A meno che le azioni dei giocatori non lo abbiano spinto a spostarsi, Rudolph van Richten si trova ancora dove i giocatori lo hanno lasciato alla fine dell'[[Arc E - The Missing Vistana|Arco E: La vistana scomparsa]]. Se non è a Vallaki o nei dintorni, i giocatori possono convincerlo a raggiungerli mandandogli un messaggio con dettagli sufficienti a dimostrare chi sono. (Se ai giocatori non viene in mente, Ezmerelda insiste perché includano questi dettagli nella lettera, meglio se in forma vaga o in codice, così che Van Richten, sempre sospettoso, sappia di potersi fidare.)
 >
-> If the players send such a message to Van Richten, Arturi asks them not to mention his identity. Arturi fears that Strahd or his minions may intercept the message, and, more significantly, that Van Richten may not come if he knows Arturi’s identity. (Arturi is reluctant to disclose the latter reason, but does so if pressed.)
+> Se i giocatori mandano un messaggio del genere a Van Richten, Arturi chiede loro di non dire chi è. Teme che Strahd o i suoi tirapiedi possano intercettare il messaggio e, soprattutto, che Van Richten non venga se sa chi è Arturi. (Arturi è restio a rivelare questa seconda ragione, ma lo fa se lo si incalza.)
 
-> [!abstract]+ **Ezmerelda’s Response**
-> If Ezmerelda hears Arturi’s accusations against Van Richten, a player with a passive Wisdom (Insight) score of 13 or greater notices her stiffen at Arturi’s words, her hands curling into fists. While Ezmerelda won’t discuss the matter further in Arturi’s presence, a player who later approaches her can convince her to share her disbelief that Dr. Rudolph van Richten—"a man of science, her mentor, and the man who spared her parents"—could commit such a terrible crime. 
+> [!abstract]+ **La reazione di Ezmerelda**
+> Se Ezmerelda sente le accuse di Arturi contro Van Richten, un giocatore con un punteggio passivo di Saggezza (Intuizione) di 13 o più la vede irrigidirsi alle parole di Arturi e stringere le mani a pugno. Ezmerelda non ne parla davanti ad Arturi, ma un giocatore che la avvicina più tardi può convincerla a confidare che non riesce a credere che il dottor Rudolph van Richten, «un uomo di scienza, il suo maestro e l'uomo che aveva risparmiato i suoi genitori», possa aver commesso un crimine così terribile.
 >
-> “I know that Dr. Van Richten has suffered great tragedies in his life," Ezmerelda says soberly, "but there must be some explanation for what became of the Radanaviches. Perhaps Van Richten suffered some curse or enchantment, or was controlled by a demon. Perhaps his presence was simply an illusion, and he was never there at all. Or perhaps—" (Ezmerelda abruptly falls silent, but, if pushed, reluctantly suggests that Arturi may be lying.)
+> «So che il dottor Van Richten ha subito grandi tragedie nella vita», dice Ezmerelda seria, «ma deve esserci una spiegazione per quello che è successo ai Radanavich. Forse Van Richten era vittima di una maledizione o di un incantesimo, o era controllato da un demone. Forse la sua presenza era solo un'illusione, e lui non c'è mai stato. O forse...» (Ezmerelda si interrompe di colpo ma, se la si incalza, ipotizza a malincuore che Arturi possa mentire.)
 >
-> Unless she hears it from Van Richten directly, Ezmerelda won’t entertain the notion that Van Richten may have willingly murdered the Radanavich clan, and grows angry if the players press the issue.
-### The Hunter & the Hunted
-If the players reunite with Van Richten, he notes that he has heard talk of their exploits across the valley. Upon hearing Arturi’s surname, “Radanavich," read:
+> A meno che non lo senta dire da Van Richten in persona, Ezmerelda non prende nemmeno in considerazione l'idea che Van Richten abbia sterminato di sua volontà il clan Radanavich e si arrabbia se i giocatori insistono.
+### Il cacciatore e la preda
+Se i giocatori ritrovano Van Richten, lui dice di aver sentito parlare delle loro imprese nella valle. Quando sente il cognome di Arturi, «Radanavich», leggi:
 
 <div class="description">
-<p>Van Richten's jaw drops, and he staggers a half-step backward. His face pales as though he had seen a ghost.</p>
+<p>A Van Richten cade la mascella, e lui barcolla di mezzo passo all'indietro. Impallidisce come se avesse visto un fantasma.</p>
 </div>
 
-If Arturi is present, their conversation unfolds as follows unless the players intervene:
+Se Arturi è presente, la loro conversazione si svolge così, a meno che i giocatori non intervengano:
 
-* "Yes," Arturi says gravely, "the same. I am the sole survivor of that terrible night so long ago, when you gave my people to the undead, though I was only a child then."
-* Van Richten draws a sharp breath, his eyes widening. "I thought no one had survived."
-* Arturi shakes his head. "I hid in my Nana's *vardo*, in a chest of magical clothing. The monsters would not touch it."
-* Van Richten's grip stiffens around the head of his cane, and he turns to the players. "Have you brought this man here to kill me, then?"
+* «Sì», dice Arturi con gravità, «proprio loro. Sono l'unico sopravvissuto di quella notte terribile di tanto tempo fa, quando avete dato la mia gente ai non morti, anche se allora ero solo un ragazzo».
+* Van Richten trattiene il fiato, con gli occhi spalancati. «Credevo che non fosse sopravvissuto nessuno».
+* Arturi scuote la testa. «Mi nascosi nel *vardo* della nonna, in un baule di vestiti magici. I mostri non lo toccarono».
+* Van Richten stringe il pomo del bastone e si volta verso i giocatori. «Allora avete portato quest'uomo qui per uccidermi?»
 
-Regardless of the players’ response, the conversation continues as follows, unless the players intervene:
+Qualunque cosa rispondano i giocatori, la conversazione continua così, a meno che i giocatori non intervengano:
 
-* Arturi meets Van Richten’s gaze. "You are cursed by my tribe, Dr. Rudolph van Richten—to live forever among monsters and see all whom you love die by them."
-* "Yes," Van Richten replies through clenched teeth. "I know." (If she is present, a player with a passive Wisdom (Perception) score of 14 or greater notices Ezmerelda’s eyes widen in shock.)
-* Arturi continues: "But I, too, am cursed—by you."
-* Van Richten winces, as though struck. "By . . . *me*?"
-* "Do you not recall?" Arturi says softly. "No sooner did Nana lay her curse upon you than you returned a deadly curse of your own. I will never forget the sound of your voice as you cried: '*Undead take you as you have taken my son!*'"
-* Arturi continues: "Yes, I have been pursued these eighteen years by the walking dead. They follow me wherever I go, like a golem tracking its creator, and they make me an outcast. No tribe will grant me asylum. No Vistana or *giorgio* will take pity upon me. Nothing removes the taint you have put upon the name of Radanavich."
-* Van Richten's lip curls into a sudden snarl. "Can you blame me?" he says, incensed. "You stole my child, and sold him to a vampire!" 
-* Arturi nods, his face grave. "Yes. We are linked, in this way, by the sins of our pasts. And that is why I have come—to lift the curse you placed upon me, as the seer Madam Eva bade me."
-* Van Richten's eyes widen. "Madam Eva?"
-* Arturi nods. "Indeed. She spake thus: *The past must burn. Find the man who forged your fetters. His final breath shall set you free.*"
-* "'Then you *have* come to kill me," Van Richten growls, his hand stiffening around his cane.
-* Arturi regards him steadily. "Perhaps," he says. "Unless you or your friends know another way to decipher the words of prophecy."
+* Arturi sostiene lo sguardo di Van Richten. «La mia tribù vi ha maledetto, dottor Rudolph van Richten: vivrete per sempre tra i mostri e vedrete morire per mano loro tutti quelli che amate».
+* «Sì», risponde Van Richten a denti stretti. «Lo so». (Se Ezmerelda è presente, un giocatore con un punteggio passivo di Saggezza (Percezione) di 14 o più la vede spalancare gli occhi, sconvolta.)
+* Arturi continua: «Ma anch'io sono maledetto. Da voi».
+* Van Richten trasale, come se l'avessero colpito. «Da... *me*?»
+* «Non ricordate?», dice Arturi a bassa voce. «Appena la nonna vi ebbe lanciato la sua maledizione, voi ne restituiste una altrettanto letale. Non dimenticherò mai il suono della vostra voce quando gridaste: "*Che i non morti vi prendano come voi avete preso mio figlio!*"».
+* Arturi continua: «Sì, da diciotto anni mi inseguono i morti che camminano. Mi seguono dovunque vada, come un golem che segue il suo creatore, e fanno di me un reietto. Nessuna tribù mi concede asilo. Nessun Vistana e nessun *giorgio* ha pietà di me. Niente cancella la macchia che avete gettato sul nome dei Radanavich».
+* Le labbra di Van Richten si arricciano all'improvviso in un ringhio. «Potete darmi torto?», dice, furioso. «Avete rubato mio figlio e lo avete venduto a un vampiro!»
+* Arturi annuisce, con il volto grave. «Sì. In questo siamo legati, dai peccati del nostro passato. Ed è per questo che sono venuto: per spezzare la maledizione che mi avete lanciato, come mi ha detto di fare la veggente Madam Eva».
+* Van Richten spalanca gli occhi. «Madam Eva?»
+* Arturi annuisce. «Proprio lei. Così parlò: *Il passato deve bruciare. Trova l'uomo che ha forgiato le tue catene. Il suo ultimo respiro ti renderà libero.*»
+* «Allora *siete* venuto per uccidermi», ringhia Van Richten, stringendo il bastone.
+* Arturi lo fissa senza scomporsi. «Forse», dice. «A meno che voi o i vostri amici non conosciate un altro modo per decifrare le parole della profezia».
 
-> [!info]+ **Madam Eva’s Prophecy**
-> To fulfill Madam Eva’s prophecy, Arturi must find Dr. Rudolph van Richten and either kill him or convince him to leave his past behind, thereby “dying" and becoming a new man. To abandon his past, Dr. Van Richten must forgive himself for the Radanavich’s deaths, complete a Vistani blood rite to become a member of the Radanavich clan, and join Arturi in burning the wreckage of the Radanavich caravan.
+> [!info]+ **La profezia di Madam Eva**
+> Per compiere la profezia di Madam Eva, Arturi deve trovare il dottor Rudolph van Richten e ucciderlo, oppure convincerlo a lasciarsi alle spalle il passato, così da «morire» e diventare un uomo nuovo. Per abbandonare il passato, il dottor Van Richten deve perdonarsi per la morte dei Radanavich, compiere un rito del sangue vistani per entrare nel clan Radanavich e bruciare insieme ad Arturi i resti della carovana dei Radanavich.
 
-If the players suggest that Van Richten, the “fox," become a second “sparrow," as depicted by the Ladies in [[#T1c. The Cavern of Lights]], Arturi replies—looking surprised, yet thoughtful, that “there is a ritual: the blood rite—a mingling of blood that joins the two whose blood intermixes." Arturi explains that a *giorgio*—a non-Vistani—who completes the blood rite becomes *giogoto*—a friend to the Vistani—and a member of the tribe to which they joined, leaving their old life behind.
+Se i giocatori suggeriscono che Van Richten, la «volpe», diventi un secondo «passero», come mostrato dalle Dame nella [[#T1c. La Caverna delle Luci|Caverna delle Luci]], Arturi risponde, sorpreso ma pensieroso, che «esiste un rituale: il rito del sangue, una mescolanza di sangue che unisce i due il cui sangue si mescola». Arturi spiega che un *giorgio*, cioè chi non è Vistani, che compie il rito del sangue diventa *giogoto*, un amico dei Vistani e un membro della tribù a cui si unisce e si lascia alle spalle la vecchia vita.
 
-If the players suggest that Arturi and Van Richten carry out the blood rite, so that Van Richten becomes a member of the Radanavich clan, both men object as follows:
+Se i giocatori suggeriscono che Arturi e Van Richten compiano il rito del sangue, così che Van Richten entri nel clan Radanavich, entrambi gli uomini obiettano così:
 
-* Arturi protests that Van Richten killed his family. "How can I accept him as one of our own?" he asks.
-* Van Richten scowls. "Become a Radanavich?" he asks. "Take the name of those who delivered my son into death, and whose crimes led my wife to follow him into the grave? How can I dishonor their memories so?"
+* Arturi protesta che Van Richten ha ucciso la sua famiglia. «Come posso accettarlo come uno dei nostri?», chiede.
+* Van Richten si acciglia. «Diventare un Radanavich?», chiede. «Prendere il nome di chi ha mandato a morte mio figlio, e i cui crimini hanno spinto mia moglie a seguirlo nella tomba? Come posso disonorare così la loro memoria?»
 
-Arturi and Van Richten can be convinced by any reasonable argument. (For example, the players might argue that completing the blood rite will allow them to dictate a new chapter of their lives, or redeem the Radanavich legacy.)
+Arturi e Van Richten si lasciano convincere da qualunque argomento ragionevole. (Per esempio, i giocatori potrebbero sostenere che il rito del sangue permetterà loro di scrivere un nuovo capitolo della propria vita, o di riscattare l'eredità dei Radanavich.)
 
-If the players convince Arturi and Van Richten to complete the blood rite, Arturi softly insists that they do so at his family’s encampment, “where it all began." “The wreck of the Radanavich caravan is not far from here," he adds, telling Van Richten: “Look upon the graves of my family, and I will do this with you, beneath their eyes. And then, we will burn the husks that lie there, and put their old ghosts to rest."
-### Ezmerelda’s Revelation
-If she hears Van Richten confirm his murder of the Radanaviches, a player with a passive Wisdom (Perception) score of 13 or higher notices Ezmerelda quietly slip away on her own. A player who follows Ezmerelda finds her nearby. Read:
+Se i giocatori convincono Arturi e Van Richten a compiere il rito del sangue, Arturi insiste a bassa voce perché lo facciano all'accampamento della sua famiglia, «dove tutto è cominciato». «I resti della carovana dei Radanavich non sono lontani da qui», aggiunge e dice a Van Richten: «Guardate le tombe della mia famiglia, e io lo farò con voi, sotto i loro occhi. Poi bruceremo i gusci che giacciono lì, e daremo pace ai loro vecchi fantasmi».
+### La rivelazione di Ezmerelda
+Se sente Van Richten confermare di aver ucciso i Radanavich, un giocatore con un punteggio passivo di Saggezza (Percezione) di 13 o più nota che Ezmerelda si allontana da sola, in silenzio. Un giocatore che la segue la trova poco lontano. Leggi:
 
 <div class="description">
-<p>Ezmerelda sits on the ground, her knees hugged to her chest. Her face is flushed, and tears bead at the corners of her eyes.</p>
+<p>Ezmerelda è seduta per terra, con le ginocchia strette al petto. Ha il viso arrossato, e agli angoli degli occhi le spuntano le lacrime.</p>
 </div>
 
-If approached, Ezmerelda can share or recount the following information:
+Se la si avvicina, Ezmerelda può raccontare quanto segue:
 
-* Years ago, when she was a young girl, she saw her parents, joined by members of the Radanavich clan, bring a struggling teenage boy to their camp. Not long after, the caravan visited a tall, foreboding castle, where her parents helped the same Radanaviches force the boy inside. Ezmerelda never saw the boy again. Ezmerelda’s parents split from the caravan soon afterward. 
-* Days later, Dr. Rudolph van Richten found Ezmerelda’s parents and trapped them in a snare. He demanded to know what they had done to his son, Erasmus, and Ezmerelda was horrified to overhear that her parents had helped the Radanaviches sell him to the vampire lord Baron Metus. Although Ezmerelda feared Van Richten would kill her parents in vengeance, he spared them and allowed them to go free upon seeing their daughter.
-* "That sign of mercy stayed with me," Ezmerelda says quietly. "My parents . . . well, they struggled to stay on the right path. But I held onto that spark of goodness he had showed me, and as soon as I was old enough, I left to go find him and see if he needed my help. When I found him, he told me that his son had been killed by the vampire lord—but offered to accept me as his student."
-* Ezmerelda’s hands curl into fists. "When I crept up to his camp that night, he put a blade to my throat and demanded to know if I had come to kill him. I thought he was paranoid of monsters, or perhaps fearful of the vampire's servants—but I suppose he thought I was an ally of the Radanaviches, come to avenge them." She clenches her jaw. "He *knew* what he had done. He *knew* that they were all dead—not just the ones who had harmed him, but innocents and children. And he never told me. He just let me go on believing that they were still alive, somewhere in the world — and I never bothered. I all but _worshipped_ him. And he—he never _told_ me what he had done?"
-* Her shoulders tremble, and angry tears streak down her cheeks. "All this time, the man I thought I knew was nothing more than a shadow—a *lie*. I thought that, by following him, I could be better than my parents—but even the man I *chose* to follow turned out to be a murderer." She laughs bitterly, shaking her head.
-* "How do I go forward like this?" Ezmerelda asks the player. "How can I even *look* at him after this, let alone forgive him? How can I claim any right to stand against Strahd, knowing my skills, my training—all of it came from a man who murdered the children of my people?"
+* Anni fa, quando era bambina, vide i suoi genitori, insieme ad alcuni membri del clan Radanavich, portare nel loro accampamento un ragazzo che si dibatteva. Poco dopo la carovana arrivò a un castello alto e minaccioso, dove i suoi genitori aiutarono i Radanavich a trascinare dentro il ragazzo. Ezmerelda non lo rivide mai più. Poco dopo i suoi genitori si separarono dalla carovana.
+* Qualche giorno più tardi il dottor Rudolph van Richten trovò i genitori di Ezmerelda e li fece cadere in una trappola. Pretese di sapere che cosa avessero fatto a suo figlio Erasmus, ed Ezmerelda sentì con orrore che i suoi genitori avevano aiutato i Radanavich a venderlo al signore dei vampiri, il barone Metus. Ezmerelda temeva che Van Richten avrebbe ucciso i suoi genitori per vendetta, ma quando vide la loro figlia lui li risparmiò e li lasciò andare.
+* «Quel gesto di pietà mi è rimasto dentro», dice Ezmerelda a bassa voce. «I miei genitori... be', facevano fatica a restare sulla retta via. Ma io mi sono aggrappata a quella scintilla di bontà che lui mi aveva mostrato, e appena sono stata abbastanza grande sono partita per cercarlo e vedere se aveva bisogno del mio aiuto. Quando l'ho trovato, mi ha detto che suo figlio era stato ucciso dal signore dei vampiri, ma si è offerto di prendermi come allieva».
+* Ezmerelda stringe le mani a pugno. «Quando quella notte mi sono avvicinata di soppiatto al suo accampamento, mi ha puntato una lama alla gola e ha preteso di sapere se ero venuta per ucciderlo. Pensavo che avesse paura dei mostri, o magari dei servitori del vampiro, ma credo che mi abbia presa per un'alleata dei Radanavich, venuta a vendicarli». Serra la mascella. «Lui *sapeva* che cosa aveva fatto. *Sapeva* che erano tutti morti, non solo quelli che gli avevano fatto del male, ma anche innocenti e bambini. E non me l'ha mai detto. Mi ha lasciato credere che fossero ancora vivi, da qualche parte nel mondo, e io non mi sono mai presa la briga di chiedere. Lo _veneravo_, praticamente. E lui... lui non mi ha mai _detto_ che cosa aveva fatto?»
+* Le spalle le tremano, e lacrime di rabbia le rigano le guance. «Per tutto questo tempo l'uomo che credevo di conoscere era solo un'ombra, una *menzogna*. Pensavo che seguendo lui sarei stata migliore dei miei genitori, e invece anche l'uomo che ho *scelto* di seguire si è rivelato un assassino». Ride con amarezza, scuotendo la testa.
+* «Come faccio ad andare avanti così?», chiede Ezmerelda al giocatore. «Come faccio anche solo a *guardarlo* dopo questo, figuriamoci a perdonarlo? Con quale diritto posso dire di oppormi a Strahd, sapendo che le mie capacità, il mio addestramento, tutto quanto, vengono da un uomo che ha ucciso i bambini del mio popolo?»
 
-Ezmerelda is grateful for any counsel the players might provide.
+Ezmerelda è grata di qualunque consiglio i giocatori possano darle.
 
-> [!abstract]+ **Van Richten’s Response**
-> If Ezmerelda departs from his presence, Van Richten approaches the players to ask their counsel after speaking with Arturi. “I’ve hurt her," he says, his eyes tired. “I never meant to lie to her, but a lie by omission is a lie all the same. I could not blame her if she never trusted me again; I do not need her forgiveness, nor do I deserve it. But please—you’ve come to know her as a friend. Is there anything I can do to make this right?"
+> [!abstract]+ **La reazione di Van Richten**
+> Se Ezmerelda si allontana, Van Richten, dopo aver parlato con Arturi, si avvicina ai giocatori per chiedere il loro consiglio. «Le ho fatto del male», dice con gli occhi stanchi. «Non ho mai voluto mentirle, ma tacere è comunque mentire. Non potrei biasimarla se non si fidasse mai più di me; non ho bisogno del suo perdono, e non lo merito. Ma vi prego, voi la conoscete come un'amica. C'è qualcosa che posso fare per rimediare?»
 >
-> Van Richten is grateful for any counsel the players might provide.
+> Van Richten è grato di qualunque consiglio i giocatori possano dargli.
 
-> [!abstract]+ **Van Richten’s Curse**
-> If the players ask Van Richten about his curse and family, he can share the following information:
+> [!abstract]+ **La maledizione di Van Richten**
+> Se i giocatori chiedono a Van Richten della sua maledizione e della sua famiglia, lui può raccontare quanto segue:
 > 
-> * When he was twenty-eight, he was a successful doctor and husband, married to his childhood sweetheart, Ingrid. Six years later, their son, Erasmus, was born. “Erasmus was a sweet and gentle boy," Van Richten recalls, his voice ragged with memories.
-> * When Erasmus was fourteen, the Radanavich caravan, led by Madam Irene Radanavich, brought Irene’s son, Radu, to Van Richten’s medical practice. Radu was badly wounded, and Van Richten was unable to save him. 
-> * When Radovan died, Madame Radanavich kidnapped Erasmus, then sold him to the vampire Baron Metus.
-> * Rudolph tracked down and interrogated Ezmerelda's parents before departing to find his son, but was too late, losing not only Erasmus, but his wife Ingrid as well. (See <span class="citation">Ezmerelda d'Avenir (p. 231)</span> and <span class="citation">Rictavio (p. 238)</span>.) Rudolph destroyed Metus in fury, and took up a life of hunting monsters—and vengeance against the Vistani. (See <span class="citation">Journal of Rudolph van Richten (p. 254)</span>.
-> * For three years, Rudolph traveled in search of the Vistani who had wronged him. Having learned the Radanaviches' location from the d'Avenirs, Rudolph sought in vain for a means to traverse the Mists to Barovia. After obtaining a *mist talisman*—a platinum ring that had reportedly once belonged to a powerful wizard—from a fortuneteller, however, Rudolph followed the ring's pull to a mountain cave deep in the wilderness.
-> * The cave proved to be a portal to Barovia, leading to an underground catacomb beneath Mount Baratok built by the long-dead wizard. There, Rudolph used the wizard’s platinum ring to rouse the undead army to aid him in his quest for vengeance. When Rudolph finally came upon the Radanavich clan, he released the undead swarm upon them, declaring, "Undead take you as you have taken my son!"
-> * The leader of the Radanavich clan, the Vistana seer Madam Irene Radanavich, cursed Rudolph as she died, as described in <span class="citation">Journal of Rudolph van Richten (p. 254)</span>. His vengeance complete, Rudolph contemplated taking his own life and following his family into death—until the Vistani seer Madam Eva gave him a new mist talisman capable of leading him out of the Mists once more.
+> * A ventotto anni era un medico affermato, sposato con la ragazza che amava fin da piccolo, Ingrid. Sei anni dopo nacque il loro figlio, Erasmus. «Erasmus era un ragazzo dolce e gentile», ricorda Van Richten, con la voce rotta dai ricordi.
+> * Quando Erasmus aveva quattordici anni, la carovana dei Radanavich, guidata da Madame Irene Radanavich, portò allo studio medico di Van Richten il figlio di Irene, Radu. Radu era ferito gravemente, e Van Richten non riuscì a salvarlo.
+> * Quando Radu morì, Madame Radanavich rapì Erasmus e lo vendette al vampiro barone Metus.
+> * Rudolph rintracciò e interrogò i genitori di Ezmerelda prima di partire per cercare il figlio, ma arrivò troppo tardi, e perse non solo Erasmus ma anche la moglie Ingrid. (Vedi <span class="citation">Ezmerelda d'Avenir (p. 231)</span> e <span class="citation">Rictavio (p. 238)</span>.) Accecato dalla furia, Rudolph distrusse Metus e si dedicò a una vita di caccia ai mostri, e di vendetta contro i Vistani. (Vedi <span class="citation">Il diario di Rudolph van Richten (p. 254)</span>.)
+> * Per tre anni Rudolph viaggiò in cerca dei Vistani che gli avevano fatto del male. Saputo dai d'Avenir dove si trovavano i Radanavich, Rudolph cercò invano un modo per attraversare le Nebbie fino a Barovia. Poi però ottenne da un'indovina un *talismano delle nebbie*, un anello di platino appartenuto, a quanto si diceva, a un potente mago, e seguì il richiamo dell'anello fino a una grotta di montagna nel cuore delle terre selvagge.
+> * La grotta si rivelò un portale per Barovia, che conduceva a una catacomba sotterranea costruita sotto il Monte Baratok dal mago, morto da tempo. Lì Rudolph usò l'anello di platino del mago per risvegliare l'esercito di non morti e farsi aiutare nella sua vendetta. Quando finalmente raggiunse il clan Radanavich, scatenò su di loro lo sciame di non morti, gridando: «Che i non morti vi prendano come voi avete preso mio figlio!».
+> * Il capo del clan Radanavich, la veggente vistana Madame Irene Radanavich, maledisse Rudolph mentre moriva, come descritto in <span class="citation">Il diario di Rudolph van Richten (p. 254)</span>. Compiuta la vendetta, Rudolph pensò di togliersi la vita e seguire la sua famiglia nella morte, finché la veggente vistana Madam Eva non gli diede un nuovo talismano delle nebbie, capace di riportarlo ancora una volta fuori dalle Nebbie.
 
-> [!abstract]+ **Mist Talismans**
-> If asked, Van Richten can share that a *mist talisman* is a special item from another world that, when carried, allows its carrier to traverse the Mists to the world where that item originated. (“Such an item is separate and apart from the power of the Vistani," Van Richten adds, clearing his throat, “who hold Strahd’s own blessing to come and go as they please.")
+> [!abstract]+ **I talismani delle nebbie**
+> Se glielo chiedono, Van Richten può spiegare che un *talismano delle nebbie* è un oggetto speciale proveniente da un altro mondo che, a chi lo porta con sé, permette di attraversare le Nebbie fino al mondo da cui l'oggetto proviene. («Un oggetto del genere non ha niente a che fare con il potere dei Vistani», aggiunge Van Richten schiarendosi la voce, «che hanno la benedizione di Strahd in persona per andare e venire come vogliono».)
 >
-> Van Richten can further share that, according to Madam Eva, *mist talismans* function only when Strahd is dormant. “Since awakening," Van Richten says, “he has closed the borders. None can escape now without his say."
-## T4c. The Radanavich Caravan
-Arturi and Van Richten can guide the players to the wreckage of the Radanavich caravan, which lies in a woodland clearing a mile southwest of the village of Krezk, along the banks of the Raven River. The journey from the Vistani encampment to the Radanavich caravan is seven miles long and takes two hours and twenty minutes.
+> Van Richten può aggiungere che, secondo Madam Eva, i *talismani delle nebbie* funzionano solo quando Strahd è dormiente. «Da quando si è risvegliato», dice Van Richten, «ha chiuso i confini. Ora nessuno può fuggire senza il suo permesso».
+## T4c. Il carrozzone dei Radanavich
+Arturi e Van Richten possono guidare i giocatori fino ai resti della carovana dei Radanavich, che si trovano in una radura del bosco a 1,5 km a sud-ovest del villaggio di Krezk, sulle rive del fiume Corvo. Il viaggio dall'accampamento vistani alla carovana dei Radanavich è lungo 10,5 km e dura due ore e venti minuti.
 
-When the players arrive, read:
-
-<div class="description">
-<p>The trees part to reveal a small, wooded hollow along the rush of the Raven River. The broken remains of an old Vistani caravan lie here: a half-dozen barrel-topped wagons listing over rotted axles, their rounded roofs fallen in long ago. Once-bright coats of red and yellow paint slough off the spongy wood below, and stained-glass windows lie in tiny shards upon the ground. Those few windows that remain cling hopelessly to weather-worn sills, their glass caked with filth. Nearby, the barest remnants of an old campfire lie sunken amidst the sandy soil, shrouded by a thick layer of mist that crawls across the earth.</p>
-</div>
-
-Upon arriving, Arturi and Van Richten gaze silently at the encampment: Arturi’s face solemn, and Van Richten’s shadowed. (A DC 13 Wisdom (Insight) check reveals that Van Richten’s expression is one of grief and regret.)
-
-Soon after arriving, Arturi softly shares that he “still remembers" the camp as it was on that night long ago. If the players express an interest in Arturi’s memories, read:
+Quando i giocatori arrivano, leggi:
 
 <div class="description">
-<p>Arturi closes his eyes, then takes a slow, deep breath.</p>
-<p>A wind whips through the air and, for a moment, the crawling mists seem to take forms amidst the wreckage—a merry fire flickering within the stones; a raven-haired girl gamboling to a spirited violin; a throng of Vistani clapping and singing, unmindful of their approaching doom—and then the wind blows again, and the fog recedes to crawl once more upon the ground.</p>
-<p>Arturi’s eyes open again. “It was home," he says, his voice ragged.</p>
+<p>Gli alberi si aprono su una piccola conca boscosa lungo il corso impetuoso del fiume Corvo. Qui giacciono i resti spezzati di una vecchia carovana vistani: una mezza dozzina di carrozzoni con il tetto a botte, inclinati su assi marci, con i tetti tondi crollati da tempo. Le mani di vernice rossa e gialla, un tempo brillanti, si staccano dal legno spugnoso, e le vetrate colorate giacciono a terra in minuscole schegge. Le poche finestre rimaste si aggrappano senza speranza a davanzali consumati dalle intemperie, con i vetri incrostati di sporcizia. Lì vicino, i resti di un vecchio fuoco da campo sono sprofondati nel terreno sabbioso, avvolti da uno spesso strato di nebbia che striscia sul terreno.</p>
 </div>
 
-> [!info]+ **Completing the Blood Rite**
-> The blood rite requires two willing individuals—a Vistani and a non-Vistani—to cut open their palms, clasp their hands, and wrap a strip of cloth around their hands. It succeeds if the participants’ wounds fully heal upon its completion.
+Appena arrivati, Arturi e Van Richten guardano l'accampamento in silenzio: il volto di Arturi è solenne, quello di Van Richten cupo. (Una prova di Saggezza (Intuizione) con CD 13 rivela che l'espressione di Van Richten è di dolore e di rimpianto.)
+
+Poco dopo l'arrivo, Arturi dice a bassa voce che «ricorda ancora» l'accampamento com'era quella notte di tanto tempo fa. Se i giocatori si mostrano interessati ai ricordi di Arturi, leggi:
+
+<div class="description">
+<p>Arturi chiude gli occhi, poi fa un respiro lento e profondo.</p>
+<p>Una folata di vento attraversa l'aria e, per un momento, la nebbia strisciante sembra prendere forma fra i rottami: un fuoco allegro che crepita fra le pietre; una ragazza dai capelli corvini che saltella al suono di un violino vivace; una folla di Vistani che batte le mani e canta, ignara della rovina che si avvicina. Poi il vento soffia di nuovo, e la nebbia si ritira a strisciare ancora sul terreno.</p>
+<p>Arturi riapre gli occhi. «Era casa», dice con la voce rotta.</p>
+</div>
+
+> [!info]+ **Compiere il rito del sangue**
+> Il rito del sangue richiede due persone consenzienti, un Vistani e uno che non lo è, che si tagliano il palmo della mano, si stringono le mani e se le avvolgono con una striscia di stoffa. Il rito riesce se, quando è finito, le ferite dei partecipanti sono guarite del tutto.
 >
-> To be “willing," a participant in the blood rite must be wholly willing—mind, heart, and soul—to undergo the rite. In particular, the Vistani participant must be wholly willing to adopt the recipient into their clan, while the non-Vistani participant must be wholly willing to adopt the clan’s name as their own. If a participant is unwilling, the blood rite fails. When this happens, the participants’ cut palms burn and cauterize when they come into contact, rather than heal. This process is painful, and produces black smoke.
+> Per essere «consenziente», chi partecipa al rito del sangue deve volerlo con tutto sé stesso: mente, cuore e anima. In particolare, il partecipante vistani deve volere con tutto sé stesso accogliere l'altro nel suo clan, e quello che non è Vistani deve volere con tutto sé stesso fare suo il nome del clan. Se un partecipante non è consenziente, il rito del sangue fallisce. In questo caso, quando i palmi tagliati dei partecipanti si toccano, invece di guarire bruciano e si cauterizzano. È un processo doloroso, che produce fumo nero.
 >
-> ***Arturi.*** Arturi is not a willing participant in the blood rite. Even though he wants to complete the blood rite in order to lift his curse, he has not yet forgiven Van Richten for his crimes against the Radanaviches. The players can convince Arturi to forgive Van Richten by succeeding on a DC 20 Charisma (Persuasion) check, succeeding automatically if they provide helpful words of guidance and comfort to help him do so.
+> ***Arturi.*** Arturi non è un partecipante consenziente. Vuole compiere il rito del sangue per spezzare la sua maledizione, ma non ha ancora perdonato a Van Richten i crimini contro i Radanavich. I giocatori possono convincere Arturi a perdonare Van Richten superando una prova di Carisma (Persuasione) con CD 20, che riesce automaticamente se gli offrono parole di guida e di conforto che lo aiutino a farlo.
 >
-> ***Van Richten.*** Van Richten is, similarly, an unwilling participant in the blood rite. Even though he wants to complete the blood rite in order to lift Arturi’s curse, he has not forgiven himself for his crimes against the Radanaviches, his failure to tell Ezmerelda of those crimes, or his failures to defend others from his curse. As such, he does not believe he deserves to join the Radanavich clan, or for his own curse to be lifted.
+> ***Van Richten.*** Anche Van Richten non è un partecipante consenziente. Vuole compiere il rito del sangue per spezzare la maledizione di Arturi, ma non si è perdonato i crimini contro i Radanavich, il fatto di averli taciuti a Ezmerelda e il fatto di non aver saputo difendere gli altri dalla sua maledizione. Per questo non crede di meritare di entrare nel clan Radanavich, né di essere liberato dalla sua maledizione.
 >
-> The players can convince Van Richten to forgive himself by succeeding on a DC 25 Charisma (Persuasion) check, made with advantage if they remind him that Erasmus’s spirit still loves him. The check succeeds automatically if the players help Ezmerelda reconcile with and forgive Van Richten, or if they otherwise provide helpful words of guidance and comfort to help Van Richten come to terms with his past.
+> I giocatori possono convincere Van Richten a perdonarsi superando una prova di Carisma (Persuasione) con CD 25, che effettuano con vantaggio se gli ricordano che lo spirito di Erasmus gli vuole ancora bene. La prova riesce automaticamente se i giocatori aiutano Ezmerelda a riconciliarsi con Van Richten e a perdonarlo, o se comunque gli offrono parole di guida e di conforto che lo aiutino a fare i conti con il suo passato.
 >
-> See below for an example of how this sequence might unfold.
-### The Blood Rite
-When the players are ready to begin, Arturi and Van Richten begin the blood rite. Read:
+> Più sotto trovi un esempio di come può svolgersi questa sequenza.
+### Il rito del sangue
+Quando i giocatori sono pronti, Arturi e Van Richten cominciano il rito del sangue. Leggi:
 
 <div class="description">
-<p>Arturi draws a knife from his boot, an obsidian-black blade glinting dully in the light. He seizes Van Richten’s left wrist and shakes his hand until the fingers open, cutting into the flesh of his palm with the blade—then exposes his own palm and opens it as well.</p>
-<p>With a sound clap, their hands clasp, Van Richten’s swinging to meet his. A heartbeat passes—and then both men pull away, hissing in pain as smoke billows from their hands.</p>
+<p>Arturi estrae un coltello dallo stivale, una lama nera come l'ossidiana che luccica opaca alla luce. Afferra il polso sinistro di Van Richten e gli scuote la mano finché le dita non si aprono, poi gli incide con la lama la carne del palmo; quindi scopre il proprio palmo e lo incide a sua volta.</p>
+<p>Con uno schiocco, le loro mani si stringono, quella di Van Richten tesa verso la sua. Passa un battito di cuore, poi entrambi gli uomini si staccano, sibilando di dolore, mentre dalle loro mani sale una nuvola di fumo.</p>
 </div>
 
-Players who inspect either man’s hand find that the cut has cauterized to an angry burn. Shortly after the blood rite fails, Van Richten turns and stomps away, hoping to sit down and find refuge behind a nearby tree. (If asked why he’s departing, Van Richten growls: “To think.")
-#### Arturi’s Hatred
-Arturi, who is in shocked disbelief at the blood rite’s violent failure, can share the following reasons for the blood rite’s failure:
+I giocatori che esaminano la mano di uno dei due scoprono che il taglio si è cauterizzato in una bruciatura arrossata. Poco dopo il fallimento del rito, Van Richten si volta e se ne va a passi pesanti, deciso a sedersi al riparo di un albero lì vicino. (Se gli si chiede perché se ne vada, Van Richten ringhia: «A pensare».)
+#### L'odio di Arturi
+Arturi, incredulo e sconvolto per il fallimento violento del rito, può spiegare così perché il rito del sangue è fallito:
 
-* The Vistani blood rite is more than merely symbolic; an individual adopted into a Vistani clan through the rite becomes Vistani, in a way.
-* For this reason, the blood rite cannot adopt an unwilling heart. The recipient must be wholly willing to adopt the clan’s name—mind, heart, and soul. If they are not, the blood rite rejects them, just as they have rejected it.
+* Il rito del sangue vistani è più di un gesto simbolico; chi entra in un clan vistani attraverso il rito diventa, in un certo senso, Vistani.
+* Per questo il rito del sangue non può accogliere un cuore che non lo vuole. Chi lo riceve deve volere con tutto sé stesso fare suo il nome del clan: mente, cuore e anima. Se non lo vuole, il rito del sangue lo respinge, così come lui lo ha respinto.
 
-A player with a passive Wisdom (Insight) score of 10 or greater notices that Arturi also appears to be holding something back. If pressed, Arturi reluctantly shares the following additional information:
+Un giocatore con un punteggio passivo di Saggezza (Intuizione) di 10 o più nota che Arturi sembra anche trattenere qualcosa. Se lo si incalza, Arturi aggiunge a malincuore quanto segue:
 
-* Just as the blood rite cannot adopt an unwilling heart, nor can it be given by one. The Vistani who performs the blood rite must be wholly willing to adopt the recipient into their clan—with all their heart.
-* Arturi had thought himself able to look past his old hatreds, but now questions whether he was right to do so. “I have spent half my life hating this man," he says somberly. “How can I forgive him now, when he took my family from me?"
+* Come il rito del sangue non può accogliere un cuore che non lo vuole, così non può essere dato da un cuore che non lo vuole. Il Vistani che compie il rito deve volere con tutto il cuore accogliere l'altro nel suo clan.
+* Arturi pensava di riuscire a superare i suoi vecchi odi, ma ora si chiede se avesse ragione. «Ho passato metà della mia vita a odiare quest'uomo», dice cupo. «Come posso perdonarlo adesso, quando mi ha portato via la mia famiglia?»
 
-The players can convince Arturi to forgive Van Richten by succeeding on a DC 20 Charisma (Persuasion) check, succeeding automatically if they provide helpful words of guidance and comfort to help him do so.
-#### Van Richten’s Guilt
-If a player subsequently attempts to speak with Van Richten, he can share the following information through gritted teeth:
+I giocatori possono convincere Arturi a perdonare Van Richten superando una prova di Carisma (Persuasione) con CD 20, che riesce automaticamente se gli offrono parole di guida e di conforto che lo aiutino a farlo.
+#### La colpa di Van Richten
+Se in seguito un giocatore prova a parlare con Van Richten, lui può dire a denti stretti quanto segue:
 
-* It is “easier said than done" for him to accept the name of those who kidnapped and sold his son. “Not only because the Radanaviches brought evil upon my family," he says. “When I first departed Barovia, I thought all Vistani to be evil. Ezmerelda lifted the veil from my eyes, and showed me the shame of the hatred I felt. I have not hated the Radanaviches in many years; in truth, there is little left to forgive."
-* He shakes his head. “No. It is not because of what the Radanaviches did, but because I . . . “ His voice trails off, uncertainly. If asked, Van Richten can confirm that it is difficult for him to accept the Radanavich name because he “brought evil upon them," and that he holds no ill will against Arturi, who Van Richten recognizes was “but a child at the time."
-* Van Richten’s students have often viewed him as a hero—but only he recognizes that he is no hero, but a failure. “I failed to control myself at the Radanavich caravan," he says, tiredly. “I failed to save my son, or my wife. I failed to recognize the curse upon myself before it had already taken several of those precious to me. I tried to save Ezmerelda, but I failed her as well." (Van Richten is referring to his decision to drive Ezmerelda away by manufacturing a rift between the two of them, so that she would be spared the consequences of his curse.)
-* Van Richten does not believe that he is worthy to complete the blood rite, because he is not worthy of forgiveness. “My soul is stained," he rasps, “black with hatred, and red with others’ blood. The Radanavich seer cursed me to walk always among monsters, but now I see how—for I am the one monster I can never escape."
+* Per lui accettare il nome di chi gli ha rapito e venduto il figlio è «più facile a dirsi che a farsi». «Non solo perché i Radanavich hanno portato il male nella mia famiglia», dice. «Quando lasciai Barovia la prima volta, credevo che tutti i Vistani fossero malvagi. Ezmerelda mi ha tolto la benda dagli occhi e mi ha mostrato la vergogna dell'odio che provavo. Non odio i Radanavich da molti anni; a dire il vero, c'è poco da perdonare».
+* Scuote la testa. «No. Non è per quello che hanno fatto i Radanavich, ma perché io...». La voce gli si spegne, incerta. Se glielo chiedono, Van Richten può confermare che fatica ad accettare il nome dei Radanavich perché «ha portato il male su di loro» e che non porta rancore ad Arturi, che, come riconosce, «allora era solo un ragazzo».
+* Gli allievi di Van Richten lo hanno spesso considerato un eroe, ma lui solo sa di non essere un eroe: è un fallito. «Non ho saputo controllarmi alla carovana dei Radanavich», dice stancamente. «Non ho saputo salvare mio figlio, né mia moglie. Non ho riconosciuto la maledizione che gravava su di me finché non si era già presa diverse persone che mi erano care. Ho cercato di salvare Ezmerelda, ma ho deluso anche lei». (Van Richten si riferisce alla decisione di allontanare Ezmerelda creando di proposito una frattura fra loro, così che lei fosse risparmiata dalle conseguenze della sua maledizione.)
+* Van Richten non si crede degno di compiere il rito del sangue, perché non si crede degno del perdono. «La mia anima è macchiata», dice con voce roca, «nera d'odio e rossa del sangue degli altri. La veggente dei Radanavich mi ha condannato a camminare sempre tra i mostri, e adesso capisco come: io sono l'unico mostro a cui non potrò mai sfuggire».
 
-The players can convince Van Richten to forgive himself by succeeding on a DC 25 Charisma (Persuasion) check, made with advantage if they remind him that Erasmus’s spirit still loves him. The check succeeds automatically if the players help Ezmerelda reconcile with and forgive Van Richten, or if they otherwise provide helpful words of guidance and comfort to help Van Richten come to terms with his past.
+I giocatori possono convincere Van Richten a perdonarsi superando una prova di Carisma (Persuasione) con CD 25, che effettuano con vantaggio se gli ricordano che lo spirito di Erasmus gli vuole ancora bene. La prova riesce automaticamente se i giocatori aiutano Ezmerelda a riconciliarsi con Van Richten e a perdonarlo, o se comunque gli offrono parole di guida e di conforto che lo aiutino a fare i conti con il suo passato.
 
-If the players successfully help Van Richten forgive himself for his past failures and crimes, he asks how he can complete the blood rite with Arturi, whose family he murdered. “Surely he cannot have forgiven me, either," he murmurs—"I, who brought such evil upon him and his family." 
-#### The Final Rite
-If the players convince Van Richten to forgive himself, and Arturi to forgive Van Richten, the two men are willing to attempt the blood rite again. If they do, read:
+Se i giocatori riescono ad aiutare Van Richten a perdonarsi i fallimenti e i crimini del passato, lui chiede come possa compiere il rito del sangue con Arturi, di cui ha sterminato la famiglia. «Di certo nemmeno lui può avermi perdonato», mormora, «me, che ho portato tanto male su di lui e sulla sua famiglia».
+#### Il rito finale
+Se i giocatori convincono Van Richten a perdonarsi e Arturi a perdonare Van Richten, i due uomini sono disposti a tentare di nuovo il rito del sangue. Se lo fanno, leggi:
 
 <div class="description">
-<p>Arturi and Van Richten face each other, their eyes meeting steadily.</p>
-<p>"Rudolph van Richten," Arturi says solemnly, his face holding both terror and apprehension, “do you forgive my people the wrongs they have done you?"</p>
-<p>"Master Radanavich," Van Richten says, bowing his head. “There is nothing to forgive—for I forgave those wrongs long ago." He releases a shuddering breath. “Can you forgive my crimes against the Radanavich family?"</p>
-<p>Arturi hesitates—then slowly nods. "We have allowed these ghosts to haunt us long enough," he says. “It is long past time we put them to rest."</p>
-<p>Van Richten nods, his face and voice determined. “Then let us try again."</p>
+<p>Arturi e Van Richten si mettono uno di fronte all'altro, guardandosi fermi negli occhi.</p>
+<p>«Rudolph van Richten», dice Arturi in tono solenne, con il terrore e l'inquietudine sul volto, «perdonate alla mia gente i torti che vi ha fatto?»</p>
+<p>«Mastro Radanavich», dice Van Richten chinando il capo. «Non c'è niente da perdonare, perché quei torti li ho perdonati molto tempo fa». Fa un respiro tremante. «Potete perdonare i miei crimini contro la famiglia Radanavich?»</p>
+<p>Arturi esita, poi annuisce lentamente. «Abbiamo lasciato che questi fantasmi ci perseguitassero abbastanza a lungo», dice. «È ora, da tempo, di dar loro pace».</p>
+<p>Van Richten annuisce, con il volto e la voce decisi. «Allora riproviamo».</p>
 </div>
 
-When the players are ready to begin, Arturi and Van Richten attempt to complete the blood rite a second time. Read:
+Quando i giocatori sono pronti, Arturi e Van Richten provano a compiere il rito del sangue una seconda volta. Leggi:
 
 <div class="description">
-<p>Once again, Arturi draws the obsidian-black blade and opens their palms—first Van Richten’s, then his own. Their hands clasp together—and although both men flinch, no smoke rises from their hands.</p>
-<p>Arturi sheaths the knife, pulls a clean, white scarf from his pocket, and turns to face you. “Will you do us the honor?" he asks, proffering the scarf. “Our flesh must be bound, if our blood is to mix."</p>
+<p>Ancora una volta Arturi estrae la lama nera come l'ossidiana e apre i loro palmi, prima quello di Van Richten, poi il suo. Le loro mani si stringono, e anche se entrambi trasalgono, dalle mani non sale nessun fumo.</p>
+<p>Arturi rinfodera il coltello, tira fuori di tasca una sciarpa bianca e pulita e si volta verso di voi. «Ci fate l'onore?», chiede, porgendovi la sciarpa. «La nostra carne dev'essere legata, se il nostro sangue deve mescolarsi».</p>
 </div>
 
-If a player does so, continue:
+Se un giocatore lo fa, continua:
 
 <div class="description">
-<p>Van Richten staggers, even as Arturi sways unsteadily—yet no drop of blood stains the scarf. Their eyes meet, and the sound of twin beating hearts, pounding in unison, seems to echo distantly through the hollow. Their eyes brim and spill over with tears, until smiles touch their faces, and they both nod together a single time.</p>
-<p>A single drop of blood, fused, falls between them, hissing as it strikes the dirt, like cold water upon a hot griddle. Dense mist billows up around it, the fog swirling around the hollow like a mob of voiceless ghosts; for a moment, as the fog blots out the surrounding landscape, time itself seems to hold its breath.</p>
-<p>And then—slowly, the mists begin to thin and blow away. Twin silhouettes flicker in the fog, and then resolve, as Arturi and Van Richten's forms return to view. Arturi slowly unwraps the scarf and releases Van Richten's hand.</p>
-<p>Van Richten holds his palm to the air, smeared and stained a deep red—but not a drop of blood falls from his flesh. "The cut has healed," he says gruffly. Tears spill from the corners of his eyes.</p>
-<p>"So it has," Arturi says in wonderment. "Then there remains one last thing to do." His gaze lands upon the old encampment, and he remains silent for a while.</p>
+<p>Van Richten barcolla, e Arturi ondeggia malfermo, eppure nemmeno una goccia di sangue macchia la sciarpa. I loro sguardi si incontrano, e il suono di due cuori che battono all'unisono sembra riecheggiare lontano nella conca. Gli occhi si riempiono di lacrime che traboccano, finché un sorriso tocca i loro volti e annuiscono insieme, una volta sola.</p>
+<p>Una sola goccia di sangue, fusa, cade fra loro e sfrigola toccando la terra, come acqua fredda su una piastra rovente. Intorno alla goccia si leva una nebbia densa che turbina nella conca come una folla di fantasmi senza voce; per un momento, mentre la nebbia cancella il paesaggio intorno, il tempo stesso sembra trattenere il respiro.</p>
+<p>Poi, lentamente, la nebbia comincia a diradarsi e a disperdersi. Due sagome tremolano nella foschia e poi si definiscono, mentre le figure di Arturi e di Van Richten tornano visibili. Arturi scioglie piano la sciarpa e lascia la mano di Van Richten.</p>
+<p>Van Richten alza il palmo, sporco e macchiato di rosso cupo, ma dalla sua carne non cade nemmeno una goccia di sangue. «Il taglio è guarito», dice con voce burbera. Gli escono lacrime dagli angoli degli occhi.</p>
+<p>«È così», dice Arturi meravigliato. «Allora resta un'ultima cosa da fare». Il suo sguardo si posa sul vecchio accampamento e resta in silenzio per un po'.</p>
 </div>
 
-As Arturi regards the wreckage, he shares that, as Madam Eva foretold, they must “burn it. Burn it to ashes."[^Sequence inspired by *Van Richten’s Guide to the Vistani* (TSR, Inc., 1995).]
+Mentre osserva i rottami, Arturi spiega che, come predetto da Madam Eva, devono «bruciarlo. Ridurlo in cenere».[^Sequenza ispirata a *Van Richten's Guide to the Vistani* (TSR, Inc., 1995).]
 
-The wagons readily ignite if lit aflame, and soon blaze fiercely, with inky plumes of soot streaking the sky above. When they do, read:
+I carrozzoni prendono fuoco facilmente e presto bruciano con violenza, sollevando nel cielo pennacchi di fuliggine nera come l'inchiostro. Quando succede, leggi:
 
 <div class="description">
-<p>Arturi’s gaze snaps toward the dark woods, his eyes widening.</p>
-<p>"The dead are coming," he says. "We must hold them off until we are done."</p>
+<p>Lo sguardo di Arturi scatta verso il bosco buio, e i suoi occhi si spalancano.</p>
+<p>«Arrivano i morti», dice. «Dobbiamo tenerli a bada finché non abbiamo finito».</p>
 </div>
 
-It takes one minute, or ten rounds, for the wagons to be fully consumed in flame. At the beginning of the third round, the first of the undead arrive. Read:
+I carrozzoni impiegano un minuto, cioè dieci round, a consumarsi del tutto nelle fiamme. All'inizio del terzo round arrivano i primi non morti. Leggi:
 
 <div class="description">
-<p>The woods rustle with approaching footsteps. Slowly, hunched, shambling shapes emerge from the darkness.</p>
+<p>Il bosco fruscia di passi che si avvicinano. Lentamente, dal buio emergono figure curve e barcollanti.</p>
 </div>
 
-From a distance of 60ft, a new wave of undead appears at the beginning of the third round of combat, and at the beginning of each round thereafter, as follows:
+A una distanza di 18 m compare una nuova ondata di non morti all'inizio del terzo round di combattimento e all'inizio di ogni round successivo, così:
 
-* **Round 3.** Thirteen **zombies**
-* **Round 4.** Six **ghouls**
-* **Round 5.** Eight **undead wolves** (use the statistics of a **wolf**, but with a **zombie**’s resistances and immunities)
-* **Round 6.** Four **ghasts**
-* **Round 7.** Six **wights**
-* **Round 8.** Thirteen **zombies**
-* **Round 9.** Thirteen **zombies**
-* **Round 10.** Thirteen **zombies**
+* **Round 3.** Tredici **zombi**
+* **Round 4.** Sei **ghoul**
+* **Round 5.** Otto **lupi non morti** (usa le statistiche di un **lupo**, ma con le resistenze e le immunità di uno **zombi**)
+* **Round 6.** Quattro **ghast**
+* **Round 7.** Sei **wight**
+* **Round 8.** Tredici **zombi**
+* **Round 9.** Tredici **zombi**
+* **Round 10.** Tredici **zombi**
 
-The undead focus their attacks on Arturi and Van Richten, attacking the players only if they have no other targets.
+I non morti concentrano gli attacchi su Arturi e Van Richten e attaccano i giocatori solo se non hanno altri bersagli.
 
 <div class="statblock">
-<h2>Rudolph Van Richten</h2>
-<em>Medium humanoid (human), lawful good</em>
+<h2>Rudolph van Richten</h2>
+<em>Umanoide Medio (umano), legale buono</em>
 <hr>
-<strong>Armor Class</strong> 13 (leather armor) (14 with <strong><em>Beacon of Protection</strong></em>))
+<strong>Classe Armatura</strong> 13 (armatura di cuoio) (14 con il <strong><em>Faro di protezione</em></strong>)
 <br>
-<strong>Hit Points</strong> 77 (14d8 + 14)
+<strong>Punti Ferita</strong> 77 (14d8 + 14)
 <br>
-<strong>Speed</strong> 30 ft.
+<strong>Velocità</strong> 9 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -1768,55 +1768,55 @@ The undead focus their attacks on Arturi and Van Richten, attacking the players 
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Con +4, Wis +7<br>
-<strong>Skills</strong> Arcana +10, Insight +7, Medicine +10, Perception +7, Religion +7, Sleight of Hand +5<br>
-<strong>Senses</strong> passive Perception 17<br>
-<strong>Languages</strong> Abyssal, Common, Elvish, Infernal<br>
-<strong>Challenge</strong> 5 (1,800 XP)<br>
-<strong>Proficiency Bonus</strong> +3
+<strong>Tiri salvezza</strong> Cos +4, Sag +7<br>
+<strong>Abilità</strong> Arcano +10, Intuizione +7, Medicina +10, Percezione +7, Religione +7, Rapidità di Mano +5<br>
+<strong>Sensi</strong> Percezione passiva 17<br>
+<strong>Linguaggi</strong> Abissale, Comune, Elfico, Infernale<br>
+<strong>Sfida</strong> 5 (1.800 PE)<br>
+<strong>Bonus di competenza</strong> +3
 <hr>
-<p><strong><em>Special Equipment.</em></strong> Van Richten carries a <em>hat of disguise</em> and <em>ring of mind shielding</em>.</p>
-<p><strong><em>Sneak Attack.</em></strong> Once per turn, Van Richten can deal an extra 17 (5d6) damage to one creature he hits with an attack if he has advantage on the attack roll. He doesn’t need advantage on the attack roll if the target is undead; or if at least one of his allies is within 5 feet of the target, the ally doesn’t have the incapacitated condition, and he doesn’t have disadvantage on the attack roll.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Van Richten makes two attacks with his silvered sword cane or silvered crossbow.</p>
-<p><strong><em>Silvered Sword Cane.</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.</p>
-<p><strong><em>Silvered Crossbow.</em></strong> Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d8 + 2) piercing damage.</p>
-<p><strong><em>Charm Bracelet.</em></strong> Van Richten uses his charm bracelet to cast one of the following spells, using Wisdom as his spellcasting ability (spell save DC 15):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>1/day each</strong> blindness/deafness, death ward, freedom of movement</p>
-<p><strong><em>Hat of Disguise.</em></strong> Van Richten uses his <em>hat of disguise</em> to cast <em>disguise self</em>.
-<p><strong><em>Lucid Lens.</em></strong> Van Richten uses his <em>lucid lens</em> to cast <em>detect magic</em> or <em>detect evil and good</em> (1/day each).
-<h3>Bonus Actions</h3>
-<p><strong><em>Cunning Action.</em></strong> Van Richten takes the Dash, Disengage, or Hide action.</p>
-<p><strong><em>Master of Tactics (Help).</em></strong> Van Richten uses the Help action to aid an ally’s attack against a creature within 30 feet of him that can see or hear him.</p>
-<p><strong><em>Insightful Fighting.</em></strong> Van Richten makes a Wisdom (Insight) check against a creature he can see that isn’t incapacitated, contested by the target’s Charisma (Deception). On a success, he has advantage to attack that creature and that creature has disadvantage to attack him for 1 minute. This benefit lasts for 1 minute or until he successfully uses this feature against a different target.</p>
-<h3>Reactions</h3>
-<p><strong><em>Charm Bracelet.</em></strong> <em>Trigger:</em> A hostile creature attacks Van Richten or ends its turn. <em>Effect</em>: Van Richten casts a spell using his <em>charm bracelet</em>.</p>
-<p><strong><em>Uncanny Dodge.</em></strong> <em>Trigger:</em> An attacker hits Van Richten with an attack roll. <Em>Effect:</em> Van Richten halves the attack’s damage against him (rounding down).</p>
+<p><strong><em>Equipaggiamento speciale.</em></strong> Van Richten porta un <em>cappello del camuffamento</em> e un <em>anello di schermo mentale</em>.</p>
+<p><strong><em>Attacco furtivo.</em></strong> Una volta per turno, Van Richten può infliggere 17 (5d6) danni extra a una creatura che colpisce con un attacco, se ha vantaggio al tiro per colpire. Non gli serve il vantaggio se il bersaglio è un non morto, oppure se almeno uno dei suoi alleati si trova entro 1,5 m dal bersaglio, quell'alleato non ha la condizione incapacitato e Van Richten non ha svantaggio al tiro per colpire.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Van Richten effettua due attacchi con il bastone animato argentato o con la balestra argentata.</p>
+<p><strong><em>Bastone animato argentato.</em></strong> Attacco con arma da mischia: +5 al tiro per colpire, portata 1,5 m, un bersaglio. Colpito: 5 (1d6 + 2) danni perforanti.</p>
+<p><strong><em>Balestra argentata.</em></strong> Attacco con arma a distanza: +5 al tiro per colpire, gittata 24/96 m, un bersaglio. Colpito: 6 (1d8 + 2) danni perforanti.</p>
+<p><strong><em>Braccialetto dei ciondoli.</em></strong> Van Richten usa il suo braccialetto dei ciondoli per lanciare uno dei seguenti incantesimi, usando Saggezza come caratteristica da incantatore (CD del tiro salvezza degli incantesimi 15):<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>1/giorno ciascuno</strong> cecità/sordità, interdizione alla morte, libertà di movimento</p>
+<p><strong><em>Cappello del camuffamento.</em></strong> Van Richten usa il suo <em>cappello del camuffamento</em> per lanciare <em>camuffare se stesso</em>.
+<p><strong><em>Lente lucida.</em></strong> Van Richten usa la sua <em>lente lucida</em> per lanciare <em>individuazione del magico</em> o <em>individuazione del bene e del male</em> (1/giorno ciascuno).
+<h3>Azioni bonus</h3>
+<p><strong><em>Azione scaltra.</em></strong> Van Richten effettua l'azione di Scatto, Disimpegno o Nascondersi.</p>
+<p><strong><em>Maestro di tattica (Aiuto).</em></strong> Van Richten usa l'azione di Aiuto per favorire l'attacco di un alleato contro una creatura entro 9 m da lui che può vederlo o sentirlo.</p>
+<p><strong><em>Combattimento intuitivo.</em></strong> Van Richten effettua una prova di Saggezza (Intuizione) contro una creatura che può vedere e che non è incapacitata, contrapposta alla prova di Carisma (Inganno) del bersaglio. Se la vince, per 1 minuto ha vantaggio ad attaccare quella creatura e quella creatura ha svantaggio ad attaccare lui. Il beneficio dura 1 minuto o finché Van Richten non usa con successo questo privilegio contro un altro bersaglio.</p>
+<h3>Reazioni</h3>
+<p><strong><em>Braccialetto dei ciondoli.</em></strong> <em>Innesco:</em> una creatura ostile attacca Van Richten o termina il suo turno. <em>Effetto</em>: Van Richten lancia un incantesimo usando il suo <em>braccialetto dei ciondoli</em>.</p>
+<p><strong><em>Schivata prodigiosa.</em></strong> <em>Innesco:</em> un attaccante colpisce Van Richten con un tiro per colpire. <em>Effetto:</em> Van Richten dimezza i danni dell'attacco (arrotondando per difetto).</p>
 </div>
 
-> [!item]+ **Lucid Lens**
-> *Wondrous item, uncommon*
-> While wearing this monocle, you can use your action to cast *detect magic* or *detect evil and good*. (The spell ends if the monocle is removed.) Once you cast a spell in this way, you can’t cast that spell again until the next dawn.
+> [!item]+ **Lente lucida**
+> *Oggetto meraviglioso, non comune*
+> Mentre indossi questo monocolo, puoi usare la tua azione per lanciare *individuazione del magico* o *individuazione del bene e del male*. (L'incantesimo termina se ti togli il monocolo.) Dopo aver lanciato un incantesimo in questo modo, non puoi lanciarlo di nuovo fino all'alba successiva.
 
 <div class="statblock">
 <h2>Arturi Radanavich</h2>
-<em>Medium humanoid, neutral good</em>
+<em>Umanoide Medio, neutrale buono</em>
 <hr>
-<strong>Armor Class</strong> 15 (studded leather) (16 with with <strong><em>Beacon of Protection</strong></em>)
+<strong>Classe Armatura</strong> 15 (cuoio borchiato) (16 con il <strong><em>Faro di protezione</em></strong>)
 <br>
-<strong>Hit Points</strong> 52 (8d8 + 16)
+<strong>Punti Ferita</strong> 52 (8d8 + 16)
 <br>
-<strong>Speed</strong> 30 ft.
+<strong>Velocità</strong> 9 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -1831,309 +1831,309 @@ The undead focus their attacks on Arturi and Van Richten, attacking the players 
   </tbody>
 </table>
 <hr>
-<strong>Gear</strong> five daggers<br>
-<strong>Skills</strong> Athletics +4<br>
-<strong>Senses</strong> passive Perception 12<br>
-<strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 2 (450 XP)<br>
-<strong>Proficiency Bonus</strong> +2
+<strong>Equipaggiamento</strong> cinque pugnali<br>
+<strong>Abilità</strong> Atletica +4<br>
+<strong>Sensi</strong> Percezione passiva 12<br>
+<strong>Linguaggi</strong> Comune<br>
+<strong>Sfida</strong> 2 (450 PE)<br>
+<strong>Bonus di competenza</strong> +2
 <hr>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Arturi makes two attacks with his dagger.</p>
-<p><strong><em>Dagger.</em></strong> <em>Melee or Ranged Attack</em>: +5, reach 5 ft. or range 20/60 ft. <em>Hit:</em> 5 (1d4 + 3) piercing damage.
-<h3>Reactions</h3>
-<p><strong><em>Parry.</em></strong> When Arturi is hit by a melee attack while wielding a weapon, he adds 2 to his AC against that attack, potentially causing it to miss.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Arturi effettua due attacchi con il pugnale.</p>
+<p><strong><em>Pugnale.</em></strong> <em>Attacco in mischia o a distanza</em>: +5, portata 1,5 m o gittata 6/18 m. <em>Colpito:</em> 5 (1d4 + 3) danni perforanti.
+<h3>Reazioni</h3>
+<p><strong><em>Parata.</em></strong> Quando Arturi viene colpito da un attacco in mischia mentre impugna un'arma, aggiunge 2 alla CA contro quell'attacco e può farlo mancare.</p>
 </div>
 
-### After the Storm
-At initiative count 0 of the tenth round of combat, read:
+### Dopo la tempesta
+Al conteggio di iniziativa 0 del decimo round di combattimento, leggi:
 
 <div class="description">
-<p>Consumed by fire, the final wagon of the caravan collapses, their burning debris sending smoke and embers into the air.</p>
-<p>“Go back!" Van Richten shouts at the dead, his voice hoarse. “There is nothing here for you anymore! <em>Go back!</em>"</p>
-<p>The forest seems to wait with bated breath—and then, the horde stills. One by one, the undead halt their advance, turn, and shuffle back to the cover of the deep forest beyond, where they vanish into the darkness and mist.</p>
+<p>Divorato dalle fiamme, l'ultimo carrozzone della carovana crolla, e i rottami in fiamme lanciano in aria fumo e scintille.</p>
+<p>«Tornate indietro!», grida Van Richten ai morti, con la voce roca. «Qui per voi non c'è più niente! <em>Tornate indietro!</em>»</p>
+<p>La foresta sembra trattenere il fiato, poi l'orda si ferma. Uno a uno, i non morti smettono di avanzare, si voltano e tornano trascinando i piedi al riparo della foresta profonda, dove spariscono nel buio e nella nebbia.</p>
 </div>
 
-Shortly after the fight ends, read:
+Poco dopo la fine dello scontro, leggi:
 
 <div class="description">
-<p>Somewhere nearby, a mourning dove coos heartily amidst the chill forest air—and Arturi and Van Richten begin to laugh, roaring like children until the woods fill with glee.</p>
+<p>Da qualche parte lì vicino una tortora tuba di gusto nell'aria fredda della foresta, e Arturi e Van Richten cominciano a ridere, a crepapelle come bambini, finché il bosco si riempie di allegria.</p>
 </div>
 
-When their mirth has quelled, Arturi and Van Richten thank the players for their kindness and aid. “We owe you a debt that can never be repaid," Van Richten says. A player with a passive Wisdom (Insight) score of 12 or higher notices that his eyes are smiling, as though a great weight has been lifted off of his shoulders.
+Quando l'allegria si è calmata, Arturi e Van Richten ringraziano i giocatori per la loro gentilezza e il loro aiuto. «Abbiamo con voi un debito che non potremo mai ripagare», dice Van Richten. Un giocatore con un punteggio passivo di Saggezza (Intuizione) di 12 o più nota che i suoi occhi sorridono, come se gli avessero tolto un grande peso dalle spalle.
 
-If asked about his next intentions, Van Richten considers the eastern mountains thoughtfully. “Ravenloft looms ever closer," he says at last. “I feel that your accomplishments are rapidly pushing Von Zarovich to act. Arabelle’s prophecy still rings in my ears, as do Madam Eva’s final words to me. If they're right, I will be needed in the village of Barovia imminently."
-### Erasmus’ Return
-With Van Richten’s curse lifted, Erasmus van Richten’s ghost is finally able to cross over into the Material Plane. Shortly after the undead horde retreats, read:
+Se gli si chiede che cosa intenda fare adesso, Van Richten osserva pensieroso le montagne a est. «Ravenloft incombe sempre più vicino», dice alla fine. «Sento che le vostre imprese stanno spingendo Von Zarovich ad agire, e in fretta. La profezia di Arabelle mi risuona ancora nelle orecchie, come le ultime parole che mi ha detto Madam Eva. Se hanno ragione, presto ci sarà bisogno di me nel villaggio di Barovia».
+### Il ritorno di Erasmus
+Ora che la maledizione di Van Richten è spezzata, il fantasma di Erasmus van Richten può finalmente passare nel Piano Materiale. Poco dopo la ritirata dell'orda di non morti, leggi:
 
 <div class="description">
-<p>A pale, silvery light fills the hollow. A wisp of pearlescent mist shimmers through the air—then slowly takes the form of a ghostly young man no older than fourteen years of age, his unkempt hair drifting lazily amidst the gloom. His eyes fall on Van Richten, and he swallows, his hands fidgeting with the translucent buttons on his ghostly coat.</p>
-<p>"Father?" he says, hesitantly.</p>
+<p>Una luce pallida e argentata riempie la conca. Un filo di nebbia perlacea scintilla nell'aria, poi prende lentamente la forma di un giovane spettrale che non ha più di quattordici anni, con i capelli arruffati che ondeggiano pigri nella penombra. Il suo sguardo cade su Van Richten, e lui deglutisce, tormentando con le dita i bottoni traslucidi della sua giacca spettrale.</p>
+<p>«Padre?», dice, esitante.</p>
 </div>
 
-Unless the players intervene, the conversation continues as follows:
+A meno che i giocatori non intervengano, la conversazione continua così:
 
-* Van Richten turns—then freezes, his eyes widening. As if spellbound, he takes a slow step toward the ghost—then another, and another, until they stand barely a foot away. 
-* “Is it you?" Van Richten whispers, reaching out a hesitant hand. “Can it really be you?"
-* Erasmus looks up at him, and nods shyly. Van Richten drops to his knees, sobbing as tears run down his cheeks.
-* "Erasmus," Van Richten chokes out. “My son, my *boy*. I am so sorry for what I let them do to you—for what *I* did. I failed you, and your mother. I beg your forgiveness."
-* Erasmus’s eyes swell with ghostly tears, his face flushing. “Father, please," he says. “There is nothing to forgive. Please, stand up."
-* Van Richten slowly stands, wiping his eyes—and Erasmus takes him in a ghostly embrace, Van Richten’s arms tenderly wrapping around his son’s ethereal form.
+* Van Richten si volta, poi si blocca con gli occhi spalancati. Come stregato, fa un passo lento verso il fantasma, poi un altro e un altro ancora, finché non sono ad appena trenta centimetri l'uno dall'altro.
+* «Sei tu?», sussurra Van Richten, tendendo una mano esitante. «Sei davvero tu?»
+* Erasmus alza lo sguardo su di lui e annuisce timido. Van Richten cade in ginocchio, singhiozzando, con le lacrime che gli rigano le guance.
+* «Erasmus», dice Van Richten con la voce strozzata. «Figlio mio, il mio *ragazzo*. Mi dispiace tanto per quello che ho lasciato che ti facessero, e per quello che ho fatto *io*. Ho deluso te e tua madre. Ti prego di perdonarmi».
+* Gli occhi di Erasmus si riempiono di lacrime spettrali, e il suo volto si arrossa. «Padre, ti prego», dice. «Non c'è niente da perdonare. Ti prego, alzati».
+* Van Richten si alza lentamente, asciugandosi gli occhi, ed Erasmus lo stringe in un abbraccio spettrale, mentre le braccia di Van Richten avvolgono con tenerezza la forma eterea del figlio.
 
-Van Richten is eternally grateful to the players for reuniting him and Erasmus, and thanks them profusely for doing so.
+Van Richten è eternamente grato ai giocatori per averlo riunito a Erasmus, e li ringrazia senza fine.
 
-> [!abstract]+ **Erasmus’s Unfinished Business**
-> If asked why his ghost persists, Erasmus shares that—beyond his entrapment in Barovia’s mists—he feels he cannot depart his father’s side until Van Richten has resolved his own unfinished business. “He has one more battle to fight," Erasmus says softly. “I need to be there by his side when he does."
-## T4d. The Forest Fane
-The Forest Fane is located at the grove of the Gulthias Tree at Yester Hill. This area is largely as described in <span class="citation">Y4. Gulthias Tree (p. 198)</span>. However, replace the last two sentences of the area description with the following text:
+> [!abstract]+ **La questione in sospeso di Erasmus**
+> Se gli si chiede perché il suo fantasma sia ancora qui, Erasmus spiega che, oltre a essere intrappolato nelle nebbie di Barovia, sente di non poter lasciare il padre finché Van Richten non avrà risolto la sua questione in sospeso. «Ha ancora una battaglia da combattere», dice Erasmus a bassa voce. «Quando la combatterà, devo essere al suo fianco».
+## T4d. Il Tempio della Foresta
+Il Tempio della Foresta si trova nel boschetto dell'Albero Gulthias, sulla Collina di Yester. Quest'area è più o meno come descritta in <span class="citation">Y4. Albero Gulthias (p. 198)</span>. Sostituisci però le ultime due frasi della descrizione con questo testo:
 
 <div class="description">
-<p>A circle of craggy, jagged megaliths stands hunkered down among the undergrowth, draped with rotted vines and overgrown by large brambles and dead shrubs. Each megalith bears a carving of a different animal. The air here is thick and unseasonably warm, and a sickly, putrid smell chokes the air.</p>
+<p>Un cerchio di megaliti scabri e frastagliati sta acquattato fra il sottobosco, coperto di rampicanti marci e invaso da grandi rovi e arbusti morti. Su ogni megalite è scolpito un animale diverso. L'aria qui è densa e insolitamente calda per la stagione, e un odore nauseante e putrido la rende soffocante.</p>
 </div>
 
-A character who inspects the eight carved megaliths finds the following animals’ images carved into their stone surfaces, moving clockwise from the north: bear, owl, goat, wolf, hawk, elk, panther, and raven.
+Un personaggio che esamina gli otto megaliti scolpiti trova incise sulla pietra le immagini di questi animali, in senso orario partendo da nord: orso, gufo, capra, lupo, falco, alce, pantera e corvo.
 
-If the players approach the Gulthias Tree, their presence draws the attention of four needle blights, which emerge from the undergrowth around the tree. The following round, the needle blights are joined by four additional needle blights, four vine blights, and four swarms of twig blights. If the players remain within the grove, all of the blights attack the following round.
+Se i giocatori si avvicinano all'Albero Gulthias, la loro presenza attira l'attenzione di quattro aghi infestanti, che escono dal sottobosco intorno all'albero. Il round successivo agli aghi infestanti si uniscono altri quattro aghi infestanti, quattro rampicanti infestanti e quattro sciami di ramoscelli infestanti. Se i giocatori restano nel boschetto, il round seguente tutti gli infestanti attaccano.
 
-> [!info]+ **Fear of Sunlight**
-> The blights that guard the Gulthias Tree fear sunlight, and won’t attack if they fall into the *Sunsword*’s light. The blights die if the Gulthias Tree dies.
+> [!info]+ **Paura della luce del sole**
+> Gli infestanti che sorvegliano l'Albero Gulthias temono la luce del sole e non attaccano se finiscono nella luce della *Spada del Sole*. Se l'Albero Gulthias muore, muoiono anche gli infestanti.
 
-If Van Richten and Ezmerelda bury the Huntress’s emerald gem within the circle after lifting Van Richten’s curse, read:
+Se Van Richten ed Ezmerelda, dopo che la maledizione di Van Richten è stata spezzata, seppelliscono la gemma verde smeraldo della Cacciatrice dentro il cerchio, leggi:
 
 <div class="description">
-<p>White mists rise from the edges of the circle, forming a thick cloud that rings the putrid grove. As the mist settles, eight ethereal beasts step forth from the clean, white fog. A sharp-eyed hawk perches atop a brawny cave bear’s back, joined by a majestic-looking elk, a watchful owl, a scruffy mountain goat, a dignified panther, a savage-looking wolf, and a dark-feathered raven with a glint in its eye. Each beast bears a striking resemblance to the stone carving it stands beside.</p>
-<p>One by one, each spirit lifts its head to the sky and lets out a cry of defiance: a mournful howl; a raging bellow; a piercing shriek. Though they speak no words, their meaning is unmistakable: <em>Long have we waited, our homes darkened and our children fearful, as the False Beast hunted from his den of stone.</em></p>
-<p>Inky black slime begins to well up from the earth, its mass twisting and bubbling with aberrant, misshapen forms—a twisted muzzle; a bleeding eye; a serpentine tongue. The slime seems to writhe with pain beneath the pure, echoing sound of the spirits’ cries.</p>
-<p><em>Today,</em> the spirits seem to say, <em>his hunt has ended—and through you, ours begins.</em></p>
-<p>Walls of emerald fire burst from the circle’s edges, incinerating the gnarled, twisted flora that stands there. The spirits’ forms meld into the twisting flames; as the inferno rises, you can see within it the flash of a wing, the snarl of a muzzle, and the twist of a shining claw.</p>
-<p>The black slime rears up against it, forming the shape of a terrible, monstrous beast of leathery wings, elongated spines, and blood-red eyes. It shrieks in rage, its twisted, humanlike sound a mockery of the beasts around it. Through its voice, you can hear a familiar and malevolent intent; through its scarlet eyes, you see a vampiric fury and never-ending hunger.</p>
-<p>The burning emerald tide rises to a peak—and then crashes down with the sound of booming thunder. The abomination screams as the purifying flames devour its form—then, at long last, falls mercifully silent.</p>
-<p>The flames wreathe the Gulthias Tree’s massive trunk, then flare even brighter until the tree’s bark is entirely concealed beneath tongues of emerald flame. When the pillar of flame recedes, the black tree has vanished, with nothing left but ash and smoke—and a small sapling rising from the soil.</p>
-<p>Slowly, the flames fall to the earth, the twisting inferno losing momentum until only dancing embers line the edges of the stone ring—and then, even those vanish into the soil.</p>
-<p>A woman’s voice, fierce and strong, echoes in your ear: <em>The False Beast’s pride is the hunter’s prize. Accept my boon, champions of the Forest Fane.</em>.</p>
-<p>Several spheres of glittering emerald light rise from the earth, then hang patiently in the air before you—as if waiting to be claimed.</p>
+<p>Dai margini del cerchio si leva una nebbia bianca, che forma una nube densa intorno al boschetto putrido. Quando la nebbia si posa, dalla foschia bianca e pulita escono otto bestie eteree. Un falco dallo sguardo acuto è appollaiato sul dorso di un possente orso delle caverne, e con loro ci sono un alce maestoso, un gufo vigile, una capra di montagna arruffata, una pantera solenne, un lupo dall'aspetto feroce e un corvo dalle piume scure con un lampo negli occhi. Ogni bestia somiglia in modo impressionante all'incisione di pietra accanto a cui si trova.</p>
+<p>Uno dopo l'altro, gli spiriti alzano la testa al cielo e lanciano un grido di sfida: un ululato lamentoso, un muggito furioso, uno strido acuto. Non dicono parole, ma il significato è inconfondibile: <em>A lungo abbiamo atteso, con le nostre tane oscurate e i nostri piccoli impauriti, mentre la Falsa Bestia cacciava dalla sua tana di pietra.</em></p>
+<p>Dalla terra comincia a sgorgare una melma nera come l'inchiostro, la cui massa si contorce e ribolle in forme aberranti e deformi: un muso storto, un occhio che sanguina, una lingua da serpente. La melma sembra torcersi di dolore sotto il suono puro e risonante delle grida degli spiriti.</p>
+<p><em>Oggi</em>, sembrano dire gli spiriti, <em>la sua caccia è finita, e attraverso di voi comincia la nostra.</em></p>
+<p>Dai margini del cerchio esplodono muraglie di fuoco verde smeraldo, che inceneriscono la vegetazione nodosa e contorta. Le forme degli spiriti si fondono con le fiamme che si avvitano; mentre l'incendio si alza, ci vedete dentro il lampo di un'ala, il ringhio di un muso, la curva di un artiglio lucente.</p>
+<p>La melma nera si erge contro il fuoco e prende la forma di una bestia mostruosa e terribile, con ali di cuoio, lunghe spine e occhi rosso sangue. Strilla di rabbia, e il suo verso distorto e quasi umano è una parodia delle bestie intorno. Nella sua voce sentite un intento familiare e malvagio; nei suoi occhi scarlatti vedete una furia vampirica e una fame senza fine.</p>
+<p>La marea di fuoco verde smeraldo sale fino al culmine, poi si abbatte con un fragore di tuono. L'abominio urla mentre le fiamme purificatrici divorano la sua forma, poi, finalmente, tace, come per pietà.</p>
+<p>Le fiamme avvolgono l'enorme tronco dell'Albero Gulthias, poi divampano ancora più intense, finché la corteccia sparisce del tutto sotto lingue di fuoco verde smeraldo. Quando la colonna di fuoco si ritira, l'albero nero è sparito, e non restano che cenere e fumo, e un piccolo alberello che spunta dal terreno.</p>
+<p>Lentamente le fiamme ricadono a terra, l'incendio perde forza finché lungo i bordi dell'anello di pietra non restano che braci danzanti, e poi spariscono anche quelle nel terreno.</p>
+<p>Una voce di donna, fiera e forte, vi risuona nell'orecchio: <em>L'orgoglio della Falsa Bestia è il trofeo del cacciatore. Accettate il mio dono, campioni del Tempio della Foresta.</em></p>
+<p>Diverse sfere di scintillante luce verde smeraldo si levano dalla terra e restano sospese pazienti nell'aria davanti a voi, come se aspettassero di essere prese.</p>
 </div>
 
-Each sphere of light is a *boon of the Huntress.* There are enough boons for each character that helped lift Van Richten’s curse, including the players and their companions.
+Ogni sfera di luce è un *dono della Cacciatrice*. Ce n'è uno per ogni personaggio che ha contribuito a spezzare la maledizione di Van Richten, compresi i giocatori e i loro compagni.
 
-A player can claim their *boon of the Huntress* by grasping or touching it. If they do, read:
+Un giocatore può prendere il suo *dono della Cacciatrice* afferrandolo o toccandolo. Se lo fa, leggi:
 
 <div class="description">
-<p>A small, black tattoo in the shape of a wolf's head appears in the palm of your hand.</p>
+<p>Sul palmo della tua mano compare un piccolo tatuaggio nero a forma di testa di lupo.</p>
 </div>
 
-> [!item]+ **Boon of the Huntress**
-> A character who claims the *boon of the Huntress* immediately regains all of their hit points and maximum hit points. In addition, while in Barovia, each time a character who possesses the *boon of the Huntress* deals damage to an undead creature, they can reroll the lowest die rolled.
+> [!item]+ **Dono della Cacciatrice**
+> Un personaggio che prende il *dono della Cacciatrice* recupera subito tutti i punti ferita e il massimo dei punti ferita. Inoltre, finché si trova a Barovia, ogni volta che un personaggio che possiede il *dono della Cacciatrice* infligge danni a una creatura non morta, può ripetere il tiro del dado più basso.
 
-> [!info]+ **The Sapling**
-> A player who succeeds on a DC 10 Intelligence (Nature) check identifies the sapling as an oak tree.
+> [!info]+ **L'alberello**
+> Un giocatore che supera una prova di Intelligenza (Natura) con CD 10 riconosce nell'alberello una quercia.
 
-> [!abstract]+ **The Spear of the Huntress**
-> If the players possess the *spear of the Huntress*, but failed to present it to her spirit in [[#T1c. The Cavern of Lights]], the Huntress’s power purifies the spear immediately after the Forest Fane is reconsecrated. Read:
+> [!abstract]+ **La lancia della Cacciatrice**
+> Se i giocatori hanno la *lancia della Cacciatrice* ma non l'hanno presentata al suo spirito nella [[#T1c. La Caverna delle Luci|Caverna delle Luci]], il potere della Cacciatrice purifica la lancia subito dopo la riconsacrazione del Tempio della Foresta. Leggi:
 >
 > ---
 >
-> Green flames burst across the spear’s shaft and blade, though the wood and stone remain untouched. The megaliths hum in warm recognition, and the air fills with a sense of fierce, triumphant joy. Slowly, the flames recede, then eventually vanish—but the spear remains warm to the touch.
+> Fiamme verdi divampano sull'asta e sulla punta della lancia, senza intaccare il legno né la pietra. I megaliti vibrano come se la riconoscessero, con calore, e l'aria si riempie di una gioia feroce e trionfante. Lentamente le fiamme si ritirano, fino a sparire, ma la lancia resta calda al tatto.
 >
 > ---
 >
-> The spear then loses the properties of a *blood spear* and becomes a +2 *spear of warning* with the following additional properties:
-> * If you throw this spear as a ranged attack, it flies back to your hand at the end of your turn. 
-> * You can use a bonus action to cause harmless emerald-green flames to wreathe the spear’s blade, or to extinguish those flames. While aflame, the spear sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
-> * When you ignite the spear’s blade, or as a bonus action while the spear’s blade is aflame, you can cast *hunter’s mark*. When cast in this way, the spell doesn’t require your concentration. You can cast this spell a number of times equal to your Wisdom modifier, and the spear regains all expended uses at dawn.
+> La lancia perde allora le proprietà di una *lancia del sangue* e diventa una *lancia di avvertimento* +2 con queste proprietà aggiuntive:
+> * Se scagli questa lancia con un attacco a distanza, alla fine del tuo turno torna in volo nella tua mano.
+> * Puoi usare un'azione bonus per avvolgere la punta della lancia in fiamme innocue color verde smeraldo, o per spegnerle. Mentre è in fiamme, la lancia emette luce intensa in un raggio di 6 m e luce fioca per altri 6 m.
+> * Quando accendi la punta della lancia, o con un'azione bonus mentre la punta è in fiamme, puoi lanciare *marchio del cacciatore*. Lanciato in questo modo, l'incantesimo non richiede concentrazione. Puoi lanciarlo un numero di volte pari al tuo modificatore di Saggezza, e la lancia recupera tutti gli utilizzi spesi all'alba.
 
-***Milestone.*** Reconsecrating the Forest Fane completes a story milestone. When the players claim the *boon of the Huntress*, award each player 5,500 XP.
-# T5. A Light in the Dark
-> [!info]+ **Where’s Lucian?**
-> After arresting Father Lucian at the command of Strahd’s emissary, Lady Wachter shackled and imprisoned him in <span class="citation">N4t. Cult Headquarters (p. 114)</span>, which is as described in [[Arc H - The Lost Soul#H8. Il rituale]]. (Although Strahd’s emissary would prefer to drink his blood, Lady Wachter has done her best to keep Lucian alive, insisting that she may need to show him in public to “pacify the faithful" and forestall thoughts of revolt.)
+***Traguardo.*** Riconsacrare il Tempio della Foresta completa un traguardo della storia. Quando i giocatori prendono il *dono della Cacciatrice*, assegna a ogni giocatore 5.500 PE.
+# T5. Una luce nel buio
+> [!info]+ **Dov'è Lucian?**
+> Dopo aver arrestato padre Lucian su ordine dell'emissario di Strahd, Lady Wachter lo ha incatenato e imprigionato nel <span class="citation">N4t. Quartier generale del culto (p. 114)</span>, che è come descritto in [[Arc H - The Lost Soul#H8. Il rituale|H8. Il rituale]]. (L'emissario di Strahd preferirebbe berne il sangue, ma Lady Wachter ha fatto di tutto per tenere in vita Lucian, sostenendo che potrebbe doverlo mostrare in pubblico per «calmare i fedeli» e prevenire ogni idea di rivolta.)
 
-> [!info]+ **The Bats**
-> Strahd sent six **swarms of bats** to Wachterhaus to help his emissary corral Lady Wachter and instill fear into Vallaki’s people. Those bats sleep on the ceiling of the warehouse of <span class="citation">N5. Arasek Stockyard (p. 115)</span> during the day, and fill the skies over Vallaki at night.
-## T5a. Lady Wachter’s Dilemma
-### Arrival at Wachterhaus
-If the players visit Wachterhaus after completing [[Arc S - A Sword of Sunlight]], they are answered at the door by Haliq, Lady Wachter’s manservant. Haliq is joined by a pair of white cats from <span class="citation">N4p. Library (p. 113)</span>, who he hurriedly attempts to block from escaping through the front door. (The cats respond to Haliq and the players as described in <span class="citation">N4p. Library (p. 113)</span>.)
+> [!info]+ **I pipistrelli**
+> Strahd ha mandato a Wachterhaus sei **sciami di pipistrelli** per aiutare il suo emissario a tenere in pugno Lady Wachter e a seminare la paura fra la gente di Vallaki. Di giorno i pipistrelli dormono appesi al soffitto del magazzino del <span class="citation">N5. Recinto di Arasek (p. 115)</span>, e di notte riempiono il cielo sopra Vallaki.
+## T5a. Il dilemma di Lady Wachter
+### L'arrivo a Wachterhaus
+Se i giocatori vanno a Wachterhaus dopo aver completato l'[[Arc S - A Sword of Sunlight|Arco S: Una spada di luce solare]], alla porta risponde Haliq, il domestico di Lady Wachter. Con lui ci sono due gatti bianchi della <span class="citation">N4p. Biblioteca (p. 113)</span>, che Haliq cerca in fretta di non far scappare dalla porta d'ingresso. (I gatti reagiscono a Haliq e ai giocatori come descritto in <span class="citation">N4p. Biblioteca (p. 113)</span>.)
 
-> [!info]+ **The Cats**
-> Strahd’s emissary has taken up residence in <span class="citation">N4p. Library (p. 113)</span>, forcing Lady Wachter to allow her eight cats free reign of Wachterhaus. As a result, much of Haliq’s time over the past few days has been dominated by preventing the cats from damaging furniture, escaping the house, or otherwise causing trouble, leaving him several scratches along his face and arms to show for it.
+> [!info]+ **I gatti**
+> L'emissario di Strahd si è stabilito nella <span class="citation">N4p. Biblioteca (p. 113)</span>, e Lady Wachter è stata costretta a lasciare i suoi otto gatti liberi di girare per Wachterhaus. Così negli ultimi giorni Haliq ha passato gran parte del tempo a impedire ai gatti di rovinare i mobili, di scappare di casa o di combinare altri guai, e ne porta i segni in vari graffi sul viso e sulle braccia.
 
-If he recognizes the players, Haliq is visibly uncomfortable at their presence and insists that Lady Wachter is unavailable. If asked the reason for his discomfort, Haliq merely claims that he has been “very busy" aiding Lady Wachter in her duties as Burgomaster, and that he has little time to entertain guests.
+Se riconosce i giocatori, Haliq è visibilmente a disagio per la loro presenza e insiste che Lady Wachter non può riceverli. Se gli si chiede il motivo del suo disagio, Haliq si limita a dire di essere stato «molto impegnato» ad aiutare Lady Wachter nei suoi doveri di borgomastra, e di avere poco tempo per intrattenere ospiti.
 
-The players can convince Haliq to allow them entry or share what he knows by succeeding on a DC 20 Charisma (Persuasion or Intimidation) check. On a failure, Haliq bids them “good day" and attempts to close the door on them. On a success, Haliq can share the following information in hushed, fearful tones if asked:
+I giocatori possono convincere Haliq a farli entrare o a dire quello che sa superando una prova di Carisma (Persuasione o Intimidire) con CD 20. In caso di fallimento, Haliq augura loro «buona giornata» e cerca di chiudergli la porta in faccia. In caso di successo, se glielo chiedono, Haliq può dire quanto segue a bassa voce e con paura:
 
-* Two days after the “silver beacon" lit in the west, “Count von Zarovich" sent an emissary from Castle Ravenloft to “advise" Lady Wachter in her duties. That emissary, a vampire spawn, has taken up residence in <span class="citation">N4p. Library (p. 113)</span>, with their coffin placed in <span class="citation">N4q. Storage Room (p. 114)</span>. (Haliq can share the emissary’s name if asked.)
-* Shortly after the emissary’s arrival, Lady Wachter began issuing strange, severe edicts—including a prohibition on the players’ entry into Vallaki or Wachterhaus. Haliq doesn’t know why she’s done so, and Lady Wachter won’t tell him.
-* The night of the emissary’s arrival, Karl, Nikolai, and Stella disappeared from Wachterhaus. Lady Wachter won’t tell him where they’ve gone. 
-* Haliq has served Lady Wachter for the past seventeen years. “In that time," Haliq says mournfully, “I have come to know my lady well. Right now, I know that she is greatly distressed—yet she will not even confide in me."
+* Due giorni dopo l'accensione del «faro d'argento» a ovest, il «conte von Zarovich» ha mandato un emissario dal Castello di Ravenloft per «consigliare» Lady Wachter nei suoi doveri. L'emissario, una progenie vampirica, si è stabilito nella <span class="citation">N4p. Biblioteca (p. 113)</span>, con la bara sistemata in <span class="citation">N4q. Ripostiglio (p. 114)</span>. (Se glielo chiedono, Haliq può dire il nome dell'emissario.)
+* Poco dopo l'arrivo dell'emissario, Lady Wachter ha cominciato a emanare editti strani e severi, fra cui il divieto per i giocatori di entrare a Vallaki o a Wachterhaus. Haliq non sa perché l'abbia fatto, e Lady Wachter non glielo dice.
+* La notte in cui è arrivato l'emissario, Karl, Nikolai e Stella sono spariti da Wachterhaus. Lady Wachter non gli dice dove siano andati.
+* Haliq serve Lady Wachter da diciassette anni. «In tutto questo tempo», dice Haliq con tristezza, «ho imparato a conoscere bene la mia signora. In questo momento so che è molto turbata, eppure non si confida nemmeno con me».
 
-Once persuaded or intimidated, Haliq can lead the players to Lady Wachter in <span class="citation">N4k. Den (p. 112)</span>.
-### Meeting Lady Wachter
-When the players first enter Wachterhaus after completing [[Arc S - A Sword of Sunlight]], Lady Wachter is in <span class="citation">N4k. Den (p. 112)</span> communing with the goddess Ezra. If the players enter this area while Lady Wachter is communing, revise the final sentence of this area’s description to read as follows:
-
-<div class="description">
-<p>Across from the hearth, curtains have been drawn across this room’s tall, slender windows, plunging it into a quiet, shadowed darkness. Thirteen candles flicker in a line across the base of the cold hearth, which is filled not by flames, but a thick cloud of mist. The mist flows outward from the hearth, forming a shallow carpet of low, drifting grey that covers the floor around it.</p>
-<p>Lady Fiona Wachter kneels on the floor before the hearth, her eyes closed, holding a silver medallion to her forehead. Her lips move in silent prayer.</p>
-</div>
-
-> [!info]+ **Lady Wachter’s Medallion**
-> Lady Wachter’s silver medallion is a holy symbol of the goddess Ezra, and is as described in <span class="citation">Ezra, God of the Mists (Van Richten's Guide to Ravenloft, p. 64)</span>.
-
-Lady Wachter is deep in prayer, and doesn’t notice the players’ entry unless they speak to her, approach her, or make significant amounts of noise. If the players don’t disturb her, and if any player has a passive Wisdom (Perception) score of 13 or greater, add:
+Una volta convinto o intimidito, Haliq può accompagnare i giocatori da Lady Wachter, nello <span class="citation">N4k. Studio (p. 112)</span>.
+### L'incontro con Lady Wachter
+Quando i giocatori entrano per la prima volta a Wachterhaus dopo aver completato l'[[Arc S - A Sword of Sunlight|Arco S: Una spada di luce solare]], Lady Wachter si trova nello <span class="citation">N4k. Studio (p. 112)</span> ed è in comunione con la dea Ezra. Se i giocatori entrano nell'area mentre Lady Wachter è in comunione, modifica così l'ultima frase della descrizione:
 
 <div class="description">
-<p>An assembly of shadows stirs across the mist within the hearth. The sound of a woman’s voice whispers faintly from the mist, though her voice lies over a cacophony of cold, hollow voices that echo every word.</p>
+<p>Di fronte al focolare, le tende sono tirate sulle finestre alte e strette della stanza, che è immersa in una penombra silenziosa. Tredici candele tremolano in fila alla base del focolare spento, che non è pieno di fiamme ma di una densa nuvola di nebbia. La nebbia esce dal focolare e forma un basso tappeto grigio che fluttua e copre il pavimento intorno.</p>
+<p>Lady Fiona Wachter è inginocchiata sul pavimento davanti al focolare, con gli occhi chiusi, e tiene un medaglione d'argento premuto sulla fronte. Le sue labbra si muovono in una preghiera silenziosa.</p>
 </div>
 
-The players can approach Lady Wachter without disturbing her by succeeding on a DC 9 Dexterity (Stealth) check. A player who does so, or who succeeds on a DC 15 Wisdom (Perception) check, can make out a few words and phrases from the woman’s whispers:
+> [!info]+ **Il medaglione di Lady Wachter**
+> Il medaglione d'argento di Lady Wachter è un simbolo sacro della dea Ezra, come descritto in <span class="citation">Ezra, dea delle Nebbie (Guida di Van Richten a Ravenloft, p. 64)</span>.
 
-* “They are lost to you for now. Struggle cannot bring them home."
-* “Your fear and anger shall destroy them. Only your faith may save their lives."
-* “The oak breaks, but the willow bends, and so survives."
-
-If Lady Wachter becomes aware of the players’ presence, she pales and coldly commands them to “depart her home at once." A player who succeeds on a DC 13 Wisdom (Insight) check discerns that Lady Wachter is terrified, and that her gaze frequently darts up to the second floor in evident anxiety.
-
-The players can calm Lady Wachter by succeeding on a DC 20 Charisma (Persuasion) check, made with advantage if they invoke their friendship with her, and succeeding automatically if they ignite the *Sunsword* or make any other reasonable argument. If calmed, or if the players confront her or ask where her children are, Lady Wachter can share or confirm the following information, respectively:
-
-* She was communing with Ezra, the Goddess of the Mists.
-* Two days after the “silver beacon" lit in the west, “Count von Zarovich" sent an emissary from Castle Ravenloft to “advise" Lady Wachter in her duties. That emissary, a vampire spawn, has taken up residence in <span class="citation">N4p. Library (p. 113)</span>, with their coffin placed in <span class="citation">N4q. Storage Room (p. 114)</span>. (Lady Wachter can share the emissary’s name if asked.)
-* That night, Lady Wachter’s children vanished from Wachterhaus. When Lady Wachter confronted the emissary the following morning, the emissary informed her that her children were “in a safe place"—and would remain so during her “good behavior." 
-* Lady Wachter doesn’t know where her children have gone. Although she sent Ernst Larnak to investigate their disappearance as soon as Strahd’s emissary retired to her coffin, the emissary returned Ernst’s corpse to her the following morning—accompanied by Nikolai’s severed ear—and warned her against “meddling in Ravenloft’s affairs." 
-* Lady Wachter knows that her children are now hostages. Accordingly, each time the emissary has provided her a new edict to issue, Lady Wachter has done so obediently, fearful that disobedience will lead to her children’s deaths—or worse. (“He has my sons," Lady Wachter says, her voice cracking as she puts her head in her hands. “He has my *daughter*.")
-
-Lady Wachter believes that no person can defeat Strahd’s forces, and believes that any attempt to defy the emissary will lead to her children’s deaths. As such, if the players suggest that she or they defy or attack the emissary, she pleads with them not to do so—threatening to obstruct them by force if need be. (“I would do *anything* for my children," she says, swallowing. “Do you think I would fear death if mine prevented theirs?")
-
-The players can convince Lady Wachter to defy Strahd and his emissary—such as by driving the emissary from Wachterhaus or burying the Seeker’s sage-green gem at the Mountain Fane—by succeeding on a DC 25 Charisma (Persuasion) check, succeeding automatically if they ignite the *Sunsword*. 
-
-The first time Lady Wachter sees the *Sunsword*, read:
+Lady Wachter è immersa nella preghiera e non si accorge dell'ingresso dei giocatori a meno che non le parlino, non le si avvicinino o non facciano parecchio rumore. Se i giocatori non la disturbano, e se almeno un giocatore ha un punteggio passivo di Saggezza (Percezione) di 13 o più, aggiungi:
 
 <div class="description">
-<p>Lady Wachter’s eyes well with tears, her lower lip wobbling. She reaches a slow, hesitant hand toward it, as if scared it might burn her.</p>
-<p>"Is it . . . real?" she whispers. “It’s . . . beautiful."</p>
+<p>Un'adunanza di ombre si agita nella nebbia dentro il focolare. Dalla nebbia arriva il sussurro debole di una voce di donna, sovrapposto a un frastuono di voci fredde e vuote che ne ripetono ogni parola come un'eco.</p>
 </div>
 
-> [!abstract]+ **The *Sunsword* and the Mists**
-> The first time the players ignite the *Sunsword* while the mists remain in Lady Wachter’s hearth, read:
+I giocatori possono avvicinarsi a Lady Wachter senza disturbarla superando una prova di Destrezza (Furtività) con CD 9. Un giocatore che ci riesce, o che supera una prova di Saggezza (Percezione) con CD 15, riesce a distinguere qualche parola e qualche frase nei sussurri della donna:
+
+* «Per ora li hai perduti. La lotta non può riportarli a casa».
+* «La tua paura e la tua rabbia li distruggeranno. Solo la tua fede può salvare le loro vite».
+* «La quercia si spezza, ma il salice si piega, e così sopravvive».
+
+Se Lady Wachter si accorge della presenza dei giocatori, impallidisce e ordina con freddezza di «lasciare subito la sua casa». Un giocatore che supera una prova di Saggezza (Intuizione) con CD 13 capisce che Lady Wachter è terrorizzata, e che il suo sguardo corre spesso al piano di sopra, con evidente ansia.
+
+I giocatori possono calmare Lady Wachter superando una prova di Carisma (Persuasione) con CD 20, che effettuano con vantaggio se fanno appello alla loro amicizia e che riesce automaticamente se accendono la *Spada del Sole* o portano un qualunque altro argomento ragionevole. Se viene calmata, o se i giocatori la affrontano o le chiedono dove siano i suoi figli, Lady Wachter può raccontare o confermare quanto segue:
+
+* Era in comunione con Ezra, la dea delle Nebbie.
+* Due giorni dopo l'accensione del «faro d'argento» a ovest, il «conte von Zarovich» ha mandato un emissario dal Castello di Ravenloft per «consigliarla» nei suoi doveri. L'emissario, una progenie vampirica, si è stabilito nella <span class="citation">N4p. Biblioteca (p. 113)</span>, con la bara sistemata in <span class="citation">N4q. Ripostiglio (p. 114)</span>. (Se glielo chiedono, Lady Wachter può dire il nome dell'emissario.)
+* Quella notte i figli di Lady Wachter sono spariti da Wachterhaus. Quando la mattina dopo Lady Wachter ha affrontato l'emissario, si è sentita dire che i suoi figli erano «in un posto sicuro», e che ci sarebbero rimasti finché lei «si fosse comportata bene».
+* Lady Wachter non sa dove siano i suoi figli. Appena l'emissario di Strahd si è ritirato nella sua bara, ha mandato Ernst Larnak a indagare sulla loro scomparsa, ma la mattina dopo l'emissario le ha restituito il cadavere di Ernst, insieme all'orecchio mozzato di Nikolai, e l'ha avvertita di non «immischiarsi negli affari di Ravenloft».
+* Lady Wachter sa che i suoi figli ora sono ostaggi. Per questo, ogni volta che l'emissario le ha dato un nuovo editto da emanare, Lady Wachter ha obbedito, per paura che disobbedire porti alla morte dei suoi figli, o a peggio. («Ha i miei figli», dice Lady Wachter con la voce che si spezza, prendendosi la testa fra le mani. «Ha mia *figlia*».)
+
+Lady Wachter crede che nessuno possa sconfiggere le forze di Strahd, e che qualunque tentativo di sfidare l'emissario porterà alla morte dei suoi figli. Per questo, se i giocatori le propongono di sfidare o attaccare l'emissario, lei o loro, li supplica di non farlo, e minaccia di fermarli con la forza se necessario. («Farei *qualunque cosa* per i miei figli», dice deglutendo. «Credete che avrei paura di morire, se la mia morte impedisse la loro?»)
+
+I giocatori possono convincere Lady Wachter a sfidare Strahd e il suo emissario (per esempio cacciando l'emissario da Wachterhaus o seppellendo la gemma verde salvia del Cercatore al Tempio della Montagna) superando una prova di Carisma (Persuasione) con CD 25, che riesce automaticamente se accendono la *Spada del Sole*.
+
+La prima volta che Lady Wachter vede la *Spada del Sole*, leggi:
+
+<div class="description">
+<p>Gli occhi di Lady Wachter si riempiono di lacrime, e il labbro inferiore le trema. Tende verso la spada una mano lenta ed esitante, come se temesse di bruciarsi.</p>
+<p>«È... vera?», sussurra. «È... bellissima».</p>
+</div>
+
+> [!abstract]+ **La *Spada del Sole* e le nebbie**
+> La prima volta che i giocatori accendono la *Spada del Sole* mentre nel focolare di Lady Wachter c'è ancora la nebbia, leggi:
 >
 > ---
 >
-> The mists writhe beneath the radiant light—then, with barely a whisper, burn and dissipate away.
+> La nebbia si contorce sotto la luce radiosa, poi, con appena un sussurro, brucia e si dissolve.
 
-> [!abstract]+ **Lady Wachter’s Faith**
-> The players can convince Lady Wachter that “Ezra" is the Dark Powers or some other malevolent entity by succeeding on a DC 20 Charisma (Persuasion) check, made with advantage if they share a tale of Varushka, the Abbot, Sergei, or Burgomaster Lazlo Ulrich, and succeeding automatically if they share tales of three or more. 
+> [!abstract]+ **La fede di Lady Wachter**
+> I giocatori possono convincere Lady Wachter che «Ezra» sono i Poteri Oscuri o un'altra entità malvagia superando una prova di Carisma (Persuasione) con CD 20, che effettuano con vantaggio se le raccontano la storia di Varushka, dell'Abate, di Sergei o del borgomastro Lazlo Ulrich, e che riesce automaticamente se gliene raccontano tre o più.
 >
-> If she loses her faith in Ezra, Lady Wachter laughs bitterly and asks “what god she can place her faith in, if not the only one she has ever known." If the players encourage her to follow the Morninglord, Lady Wachter seeks Father Lucian’s counsel after freeing him and seeking his forgiveness, and adopts the faith of the Morninglord thereafter. If the players encourage her to follow the Ladies Three, or if they make no suggestion, Lady Wachter retrieves the *stone crest* of the Ladies Three described in [[Arc P - Ravenloft Heist#P2a. L'avvicinamento al crocevia]], seeking faith in the “old gods" that the Vistana Stanimir spoke of.
+> Se perde la fede in Ezra, Lady Wachter ride con amarezza e chiede «in quale dio dovrebbe credere, se non nell'unico che abbia mai conosciuto». Se i giocatori la incoraggiano a seguire il Signore del Mattino, Lady Wachter, dopo aver liberato padre Lucian e avergli chiesto perdono, si fa consigliare da lui e da quel momento abbraccia la fede del Signore del Mattino. Se i giocatori la incoraggiano a seguire le Tre Dame, o se non le suggeriscono niente, Lady Wachter va a prendere lo *stemma di pietra* delle Tre Dame descritto in [[Arc P - Ravenloft Heist#P2a. L'avvicinamento al crocevia|P2a. L'avvicinamento al crocevia]], e cerca la fede nei «vecchi dei» di cui parlava la vistana Stanimir.
 >
-> Lady Wachter’s *spirit guardians* spell subsequently takes the following forms, depending on which faith she adopts:
+> Da quel momento l'incantesimo *guardiani spirituali* di Lady Wachter assume queste forme, a seconda della fede che abbraccia:
 >
-> * **The Morninglord.** Rays of sunlight, reminiscent of the dawn.
-> * **The Ladies Three.** A dire wolf, a giant spider, and a giant raven.
-## T5b. Lady Wachter’s Vizier
-During daylight hours, Castle Ravenloft’s emissary sleeps in a coffin in <span class="citation">N4q. Storage Room (p. 114)</span>. During nighttime hours, the emissary murmurs directions and listens to reports from the six **swarms of bats** that haunt Vallaki’s nighttime skies.
+> * **Il Signore del Mattino.** Raggi di luce solare che ricordano l'alba.
+> * **Le Tre Dame.** Un lupo crudele, un ragno gigante e un corvo gigante.
+## T5b. Il visir di Lady Wachter
+Di giorno l'emissario del Castello di Ravenloft dorme in una bara nel <span class="citation">N4q. Ripostiglio (p. 114)</span>. Di notte mormora istruzioni e ascolta i rapporti dei sei **sciami di pipistrelli** che infestano il cielo notturno di Vallaki.
 
-If confronted, Strahd’s emissary hisses that Lady Wachter and the players have made a “grave mistake," and attacks. If bloodied, or if caught in the light of the *Sunsword*, the emissary instead attempts to flee Wachterhaus for [[#T5c. Arasek Stockyard]].
+Se viene affrontata, l'emissaria di Strahd sibila che Lady Wachter e i giocatori hanno commesso un «grave errore», e attacca. Se è sanguinante, o se viene colpita dalla luce della *Spada del Sole*, cerca invece di fuggire da Wachterhaus verso il [[#T5c. Il Recinto di Arasek|Recinto di Arasek]].
 
-If the players capture the emissary, they can convince her to share the hostages’ location by burning her with the *Sunsword* and succeeding on a DC 15 Charisma (Intimidation) check. On a success, she can share the following information if asked:
+Se i giocatori catturano l'emissaria, possono convincerla a rivelare dove sono gli ostaggi bruciandola con la *Spada del Sole* e superando una prova di Carisma (Intimidire) con CD 15. In caso di successo, se glielo chiedono, può dire quanto segue:
 
-* Suspecting Lady Wachter’s sympathies might lie with the players, Strahd ordered the emissary to take command in Vallaki and “sow discord and fear" throughout the populace.
-* The emissary did so by taking Lady Wachter’s children hostage, whom she lured out of Wachterhaus using a potion brewed by the witch coven of Castle Ravenloft, which she fed to them while they slept.
-* Lady Wachter’s children are being kept in the back office of the warehouse at <span class="citation">N5. Arasek Stockyard (p. 115)</span>, guarded by two **vampire spawn** and Strahd’s six **swarms of bats**. (A player who succeeds on a DC 12 Wisdom (Insight) check discerns that this is a half-truth. If pressed, the emissary confesses that the warehouse is guarded by three **vampire spawn** and two sleepless **wights**.)
-* The spawn have orders to kill Lady Wachter’s children if necessary to secure her compliance.
+* Sospettando che Lady Wachter simpatizzasse per i giocatori, Strahd le ha ordinato di prendere il comando a Vallaki e di «seminare discordia e paura» fra la popolazione.
+* Per farlo ha preso in ostaggio i figli di Lady Wachter: li ha attirati fuori da Wachterhaus con una pozione preparata dalla congrega di streghe del Castello di Ravenloft, che ha fatto loro bere mentre dormivano.
+* I figli di Lady Wachter sono tenuti nell'ufficio sul retro del magazzino del <span class="citation">N5. Recinto di Arasek (p. 115)</span>, sorvegliati da due **progenie vampiriche** e dai sei **sciami di pipistrelli** di Strahd. (Un giocatore che supera una prova di Saggezza (Intuizione) con CD 12 capisce che è una mezza verità. Se la si incalza, l'emissaria confessa che il magazzino è sorvegliato da tre **progenie vampiriche** e da due **wight** che non dormono mai.)
+* Le progenie hanno l'ordine di uccidere i figli di Lady Wachter, se necessario, per assicurarsi la sua obbedienza.
 
-If asked, the emissary denies trapping the warehouse. However, a player who succeeds on a DC 12 Wisdom (Insight) check discerns that this is a lie. If pressed, the emissary angrily confesses that the two doors into the warehouse have been trapped with bells, alerting the vampire spawn and wights when opened.
+Se glielo chiedono, l'emissaria nega di aver piazzato trappole nel magazzino. Però un giocatore che supera una prova di Saggezza (Intuizione) con CD 12 capisce che mente. Se la si incalza, l'emissaria confessa con rabbia che alle due porte del magazzino sono state collegate delle campanelle, che avvertono le progenie vampiriche e i wight quando le porte si aprono.
 
-A player who succeeds on a DC 12 Wisdom (Insight) check discerns that the emissary hasn’t revealed all she knows. If further pressed, the emissary spitefully (but reluctantly) shares the following additional information:
+Un giocatore che supera una prova di Saggezza (Intuizione) con CD 12 capisce che l'emissaria non ha rivelato tutto quello che sa. Se la si incalza ancora, l'emissaria aggiunge, piena di astio (e controvoglia), quanto segue:
 
-* The vampire spawn and wights have dug pit traps just past both doors leading into the warehouse.
-* The warehouse office’s door is trapped with tripwires; if triggered, the tripwires activate snare traps tied to the warehouse’s central pulley mechanism.
-## T5c. Arasek Stockyard
-This area is largely as described in <span class="citation">N5. Arasek Stockyard (p. 115)</span>. The stockyard’s warehouse, which is forty feet long, sixty feet wide, and twenty feet tall, stands directly to the left of <span class="citation">N6. Coffin Maker’s Shop (p. 116)</span>. It has the following features:
+* Le progenie vampiriche e i wight hanno scavato delle fosse trappola subito oltre le due porte che danno nel magazzino.
+* La porta dell'ufficio del magazzino è protetta da fili d'inciampo; se scattano, i fili azionano delle trappole a laccio legate al paranco centrale del magazzino.
+## T5c. Il Recinto di Arasek
+Quest'area è più o meno come descritta in <span class="citation">N5. Recinto di Arasek (p. 115)</span>. Il magazzino del recinto, lungo 12 metri, largo 18 e alto 6, sorge subito a sinistra della <span class="citation">N6. Bottega del fabbricante di bare (p. 116)</span>. Ha queste caratteristiche:
 
-* **Front Doors.** A set of tall double wooden doors at the front. An iron chain (AC 19, 10 hit points, and immunity to poison, psychic, and piercing damage) is tied and padlocked around the doors from the inside. In addition, wires tied to either door are connected to bells on the left and right side of the doors, which ring if the doors are opened. (A successful DC 10 Intelligence (Investigation) check reveals the bells, which can be disabled with a successful DC 12 Dexterity (Thieves’ Tools) check.)
-* **Back Door.** A single wooden door at the back. The door is locked, requiring a successful DC 15 Dexterity (Thieves’ Tools) check to open. In addition, a wire tied to the door is connected to a bell just above the doors, which rings if the door is opened. (A successful DC 10 Intelligence (Investigation) check reveals the bell, which can be disabled with a successful DC 12 Dexterity (Thieves’ Tools) check.)
-* **Boarded Windows.** Two boarded exterior windows looking into the warehouse’s back-right corner. The windows once looked into the warehouse’s back office.
-* **Pit Traps.** Just past the front and back doors, the vampire spawn have dug two ten-foot-wide <span class="citation">Pit Traps (Xanathar’s Guide to Everything, p. 114)</span> 10-foot-deep pits beneath the floor, covered with weak, half-rotted floorboards that collapse beneath 100 pounds of weight or more. Each pit contains two <span class="citation">hunting traps (Player’s Handbook, p. 152)</span>.
-* **Crates.** The warehouse is lined with rows of crates and barrels stacked five to fifteen feet high. The exsanguinated corpse of Gunther Arasek lies between the two westernmost rows.
-* **Pulley Crane.** A pulley system at the center of the warehouse, currently holding a heavy crate as a counterweight.
-* **Snare Traps.** Two tripwires running from a wooden pillar to either side of the back office’s wooden door. Each trip wire is three inches off the ground, and can be spotted with a successful DC 10 Wisdom (Perception) check, made with disadvantage in dim light and automatically failing in darkness. Each trip wire can be disabled with a successful DC 15 Dexterity (Thieves’ Tools) check, triggering the trap on a failure. Otherwise, if a creature triggers a trip wire, each creature within five feet of the trip wires must succeed on a DC 15 Dexterity saving throw or be hoisted into the air by a thick rope (AC 11, 5 hit points, immunity to poison and psychic damage), leaving it hanging upside down 10 feet above the floor. A creature is restrained while hoisted in this way.
-* **Back Office Door.** A single wooden door. The door has been boarded up from the inside. A creature can break through the door by succeeding on a DC 25 Strength check, or by destroying the door (AC 15, 15 hit points, immunity to poison, psychic, and piercing damage).
-* **Back Office.** A small, fifteen-by-ten-foot office in the warehouse’s back corner containing a wooden desk and chair, three coffins, and a filing cabinet containing an assortment of parchment scrolls. The exsanguinated corpse of Yelena Arasek lies slumped against the right-side wall.
-* **Crawl Holes.** Three five-foot-wide holes cut into the left and front walls of the back office, as well as the rear exterior wall of the warehouse, placed fifteen feet above the ground. (The vampire spawn use the holes to exit the back office into the main warehouse, and to exit the main warehouse onto the roof.)
+* **Porte d'ingresso.** Sul davanti c'è un alto portone di legno a due battenti. Una catena di ferro (CA 19, 10 punti ferita e immunità ai danni da veleno, psichici e perforanti) avvolge i battenti dall'interno ed è chiusa con un lucchetto. Inoltre dei fili legati ai due battenti sono collegati a campanelle ai lati della porta, che suonano se la porta si apre. (Una prova di Intelligenza (Indagare) con CD 10 rivela le campanelle, che si possono disattivare con una prova di Destrezza (arnesi da scasso) con CD 12.)
+* **Porta sul retro.** Sul retro c'è una porta di legno a un battente. La porta è chiusa a chiave, e per aprirla serve una prova di Destrezza (arnesi da scasso) con CD 15. Inoltre un filo legato alla porta è collegato a una campanella appena sopra lo stipite, che suona se la porta si apre. (Una prova di Intelligenza (Indagare) con CD 10 rivela la campanella, che si può disattivare con una prova di Destrezza (arnesi da scasso) con CD 12.)
+* **Finestre sbarrate.** Due finestre esterne sbarrate con assi danno sull'angolo posteriore destro del magazzino. Un tempo davano sull'ufficio sul retro.
+* **Fosse trappola.** Subito oltre la porta d'ingresso e la porta sul retro, le progenie vampiriche hanno scavato sotto il pavimento due <span class="citation">fosse trappola (Guida omnicomprensiva di Xanathar, p. 114)</span> larghe 3 metri e profonde 3 metri, coperte da assi fragili e mezze marce che cedono sotto un peso di 50 kg o più. In ogni fossa ci sono due <span class="citation">tagliole (Manuale del Giocatore, p. 152)</span>.
+* **Casse.** Il magazzino è pieno di file di casse e barili impilati fino a un'altezza fra 1,5 e 4,5 metri. Fra le due file più a ovest giace il cadavere dissanguato di Gunther Arasek.
+* **Gru a carrucola.** Al centro del magazzino c'è un sistema di carrucole che ora regge una cassa pesante come contrappeso.
+* **Trappole a laccio.** Due fili d'inciampo vanno da un pilastro di legno ai due lati della porta di legno dell'ufficio sul retro. Ogni filo è teso a 7,5 cm da terra e si può individuare con una prova di Saggezza (Percezione) con CD 10, che si effettua con svantaggio in luce fioca e fallisce automaticamente al buio. Ogni filo si può disattivare con una prova di Destrezza (arnesi da scasso) con CD 15; in caso di fallimento la trappola scatta. Altrimenti, se una creatura fa scattare un filo, ogni creatura entro 1,5 m dai fili deve superare un tiro salvezza su Destrezza con CD 15, altrimenti viene sollevata in aria da una grossa corda (CA 11, 5 punti ferita, immunità ai danni da veleno e psichici) e resta appesa a testa in giù a 3 metri dal pavimento. Una creatura sollevata in questo modo è trattenuta.
+* **Porta dell'ufficio sul retro.** Una porta di legno a un battente, sbarrata con assi dall'interno. Una creatura può sfondarla superando una prova di Forza con CD 25, oppure distruggendola (CA 15, 15 punti ferita, immunità ai danni da veleno, psichici e perforanti).
+* **Ufficio sul retro.** Un piccolo ufficio di 4,5 metri per 3 nell'angolo in fondo al magazzino, con una scrivania di legno e una sedia, tre bare e uno schedario pieno di pergamene di vario genere. Contro la parete destra è accasciato il cadavere dissanguato di Yelena Arasek.
+* **Cunicoli.** Tre buchi larghi 1,5 m, a 4,5 metri da terra, aperti nella parete sinistra e in quella anteriore dell'ufficio sul retro e nella parete esterna posteriore del magazzino. (Le progenie vampiriche li usano per passare dall'ufficio al magazzino e dal magazzino al tetto.)
 
-When the players arrive at the warehouse, two **wights** are patrolling the warehouse interior, while Karl, Nikolai, and Stella Wachter are gagged, blindfolded, and restrained by rope in the center of the back office. If the players arrive during the day, six **swarms of bats** slumber on the ceiling and three **vampire spawn** sleep in the coffins in the back office. If the players arrive at night, no swarms of bats remain within the warehouse, two of the vampire spawn patrol the ceilings of the main warehouse, and the third vampire spawn guards the Wachter children in the back office.
+Quando i giocatori arrivano al magazzino, due **wight** pattugliano l'interno, mentre Karl, Nikolai e Stella Wachter sono imbavagliati, bendati e legati con delle corde al centro dell'ufficio sul retro. Se i giocatori arrivano di giorno, sei **sciami di pipistrelli** dormono appesi al soffitto e tre **progenie vampiriche** dormono nelle bare dell'ufficio sul retro. Se i giocatori arrivano di notte, nel magazzino non ci sono sciami di pipistrelli, due progenie vampiriche pattugliano il soffitto del magazzino e la terza sorveglia i ragazzi Wachter nell'ufficio sul retro.
 
-> [!abstract]+ **The Emissary’s Warning**
-> If Strahd’s emissary successfully escapes Wachterhaus, she returns to the warehouse and awakens the bats and vampire spawn to guard the warehouse as described above.
+> [!abstract]+ **L'avvertimento dell'emissaria**
+> Se l'emissaria di Strahd riesce a fuggire da Wachterhaus, torna al magazzino e sveglia i pipistrelli e le progenie vampiriche perché lo sorveglino come descritto sopra.
 
-The bats and vampires awaken if the bell traps ring, if combat erupts, or if the players otherwise fail to conceal their presence. If combat breaks out, two vampire spawn engage the players in the main warehouse while the third guards the Wachter children. If the players successfully breach the back office, the third vampire spawn takes Stella Wachter hostage and readies an action to use its ***claws*** multiattack against her if the players attack. (The vampire intends to use Stella’s life to bargain for its own, hoping to escape through the crawl holes with Stella to safety, bringing her to the Svalich Woods before draining her blood and fleeing on foot.)
+I pipistrelli e i vampiri si svegliano se le campanelle suonano, se scoppia un combattimento o se comunque i giocatori non riescono a nascondere la loro presenza. Se scoppia un combattimento, due progenie vampiriche affrontano i giocatori nel magazzino mentre la terza sorveglia i ragazzi Wachter. Se i giocatori riescono a entrare nell'ufficio sul retro, la terza progenie vampirica prende in ostaggio Stella Wachter e prepara un'azione per usare contro di lei il multiattacco con gli ***artigli*** se i giocatori attaccano. (Il vampiro intende barattare la vita di Stella con la propria, sperando di fuggire con lei attraverso i cunicoli e di portarla nei Boschi di Svalich, per poi dissanguarla e scappare a piedi.)
 
-> [!abstract]+ **Lady Wachter’s Stand**
-> If the vampire spawn recognize Lady Wachter with the players, they command her to “stand down, unless she wants her children’s corpses to be laid at her feet." If confident in the players’ capabilities, Lady Wachter retorts that, “since she became head of House Wachter, she has lived in one, long night, and never the future." “For most of my life," she adds, her voice steely with quiet determination, “I felt the best I could do was survive until dawn, and then do it all again. But now I have *seen* the dawn, and I know for certain—your master’s night will last no longer."
+> [!abstract]+ **La presa di posizione di Lady Wachter**
+> Se le progenie vampiriche riconoscono Lady Wachter insieme ai giocatori, le ordinano di «farsi da parte, a meno che non voglia trovarsi ai piedi i cadaveri dei figli». Se ha fiducia nelle capacità dei giocatori, Lady Wachter ribatte che, «da quando è diventata capo della casa Wachter, ha vissuto in un'unica, lunga notte, e mai nel futuro». «Per gran parte della mia vita», aggiunge, con la voce d'acciaio di una determinazione silenziosa, «ho pensato che il meglio che potessi fare fosse sopravvivere fino all'alba, e poi ricominciare da capo. Ma adesso ho *visto* l'alba, e so per certo che la notte del vostro padrone non durerà più».
 
-If reunited with her children, Lady Wachter is deeply grateful to the players, and vows to repeal every edict Strahd’s emissary made her sign. “Vallaki is forever in your debt," she says, bowing deeply before them.
-## T5d. The Mountain Fane
-As the players approach <span class="citation">The Megaliths (p. 128)</span>, read:
+Se ritrova i suoi figli, Lady Wachter è profondamente grata ai giocatori e giura di revocare tutti gli editti che l'emissario di Strahd le ha fatto firmare. «Vallaki vi sarà per sempre debitrice», dice, inchinandosi profondamente davanti a loro.
+## T5d. Il Tempio della Montagna
+Mentre i giocatori si avvicinano a <span class="citation">I megaliti (p. 128)</span>, leggi:
 
 <div class="description">
-<p>A circle of tall, slender megaliths stands shrouded amidst thick clouds of fog at the forest's edge below, with only the stones’ jagged tops visible as they poke through the mist.</p>
+<p>Ai margini della foresta, più in basso, si erge un cerchio di megaliti alti e sottili avvolti da spesse nubi di nebbia, da cui spuntano solo le cime frastagliate delle pietre.</p>
 </div>
 
-The area within the cloud of fog is has limited visibility, with players only being able to see 10ft from them. If the players enter the fog, their presence draws the attention of four **vampiric mists** (<span class="citation">Mordenkainen Presents: Monsters of the Multiverse, p. 250</span>). The mists swirl about the players lazily for three rounds, after which one mist attempts to use a single life drain attack on the nearest player, like a shark inquisitively nipping its prey. If the players remain within the fog, all of the vampiric mists attack the following round.
+Dentro la nube di nebbia la visibilità è limitata, e i giocatori vedono solo fino a 3 m da sé. Se i giocatori entrano nella nebbia, la loro presenza attira l'attenzione di quattro **nebbie vampiriche** (<span class="citation">Mordenkainen presenta: Mostri del Multiverso, p. 250</span>). Le nebbie girano pigre intorno ai giocatori per tre round, poi una di loro prova a usare un solo attacco di risucchio vitale sul giocatore più vicino, come uno squalo che morde la preda per curiosità. Se i giocatori restano nella nebbia, il round seguente tutte le nebbie vampiriche attaccano.
 
-> [!info]+ **Fear of Sunlight**
-> The **vampiric mists** that haunt the Mountain Fane fear sunlight, and flee permanently into the Ethereal Plane if they fall into the *Sunsword*’s light.
-### Rahadin’s Vengeance
-When the players enter the center of the circle, if Rahadin is still alive, read:
+> [!info]+ **Paura della luce del sole**
+> Le **nebbie vampiriche** che infestano il Tempio della Montagna temono la luce del sole e fuggono per sempre nel Piano Etereo se finiscono nella luce della *Spada del Sole*.
+### La vendetta di Rahadin
+Quando i giocatori entrano al centro del cerchio, se Rahadin è ancora vivo, leggi:
 
 <div class="description">
-<p>A cloaked man sits cross-legged at the circle’s center—but his body is twisted and warped, his ashen skin seeming more shadow than flesh. A line of jagged black spikes grows along his spine, and two skeletal wings of pale, white bone sprout from his shoulder blades. As his eyes slowly open, they glow a bright, sickly yellow that illuminates the fog around him. Above them, three shards of amber stone sit embedded in the flesh of his forehead, glinting eerily in the dim light.</p>
+<p>Al centro del cerchio siede a gambe incrociate un uomo con un mantello, ma il suo corpo è contorto e deforme, e la pelle cinerea sembra più ombra che carne. Lungo la spina dorsale gli cresce una fila di aculei neri e frastagliati, e dalle scapole spuntano due ali scheletriche di osso bianco e pallido. Quando apre lentamente gli occhi, questi brillano di un giallo vivo e malato che illumina la nebbia intorno. Sopra, nella carne della fronte, sono incastonate tre schegge d'ambra che luccicano sinistre nella penombra.</p>
 </div>
 
-After a moment, the players recognize the man as Rahadin, Strahd’s chamberlain.
+Dopo un momento, i giocatori riconoscono l'uomo: è Rahadin, il ciambellano di Strahd.
 
-If the players approach him or otherwise make themselves known, Rahadin stands and greets them coldly, noting that he “expected them to come here, sooner or later." He can share the following information if asked:
+Se i giocatori gli si avvicinano o comunque si fanno notare, Rahadin si alza e li saluta con freddezza, osservando che «si aspettava che prima o poi venissero qui». Se glielo chiedono, può dire quanto segue:
 
-* Following his “disgrace" in [[Arc P - Ravenloft Heist]] (i.e., his failure to capture or defeat the players), his “master" was “gracious enough" to permit him a second chance to prove himself.
-* Rahadin realized that, unlike his “lord," Strahd, his flesh was weak—even as an elf, he had _aged_ across the past four centuries, growing old and feeble. He resolved to address his “weakness"—and did so by visiting the Amber Temple, where he claimed the vestiges’ gifts for his own.
+* Dopo la sua «disgrazia» nell'[[Arc P - Ravenloft Heist|Arco P: Il colpo a Ravenloft]] (cioè il fallimento nel catturare o sconfiggere i giocatori), il suo «padrone» è stato «tanto magnanimo» da concedergli una seconda occasione per dimostrare il suo valore.
+* Rahadin ha capito che, a differenza del suo «signore» Strahd, la sua carne era debole: pur essendo un elfo, negli ultimi quattro secoli era _invecchiato_, diventando vecchio e fragile. Ha deciso di porre rimedio alla sua «debolezza», e l'ha fatto andando al Tempio d'Ambra, dove ha preso per sé i doni delle vestigia.
 
-Rahadin has little interest in conversation, and attacks the players in self-defense, if the players reveal the sage-green gem of the Seeker, or at another time of his choosing. If he recognizes Lady Wachter, he promises to make her watch the players’ “slow and painful deaths" before executing her as a traitor himself.
+Rahadin ha poca voglia di conversare, e attacca i giocatori per difendersi, se mostrano la gemma verde salvia del Cercatore, o in un altro momento a sua scelta. Se riconosce Lady Wachter, promette di costringerla a guardare la «morte lenta e dolorosa» dei giocatori prima di giustiziarla con le sue mani come traditrice.
 
 ![[Corrupted_Rahadin_transparent.png]]
-* Amended various typos, broken links, and errors in formatting
+* Corretti vari refusi, link interrotti ed errori di formattazione
 
 
-> [!combat]- **Combat - Rahadin's Vengeance**  
-> **Combat Level**: Bloody (phase one), Bloody (phase two)
-> **Expected Character Level**: 9
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
-> **Expected HP Consumption:** 51% (phase one), 51% (phase two), for a total of 102%
+> [!combat]- **Combattimento: la vendetta di Rahadin**  
+> **Livello di combattimento**: sanguinoso (prima fase), sanguinoso (seconda fase)
+> **Livello previsto dei personaggi**: 9
+> **Alleati:** Ireena Kolyana (GS 2), Ezmerelda d'Avenir (GS 4)
+> **Consumo previsto di pf:** 51% (prima fase), 51% (seconda fase), 102% in tutto
 > 
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
+> ### **Bilanciamento:**
+> Se hai meno o più di 5 giocatori, modifica lo scontro così:
 >
-> | Number of Players | Modification |
+> | Numero di giocatori | Modifica |
 > |-|-|
-> | 3 | Reduce **Rahadin's** hit points in his first phase to 136 and in his second phase to 170. Reduce his ***multiattack*** in his first phase to two attacks. In his second phase, reduce his ***multiattack*** to only have one ***claw*** attack, and reduce his number of reactions to 3. |
-> | 4 | Reduce **Rahadin's** hit points in his first phase to 158 and in his second phase to 198. Reduce his ***multiattack*** in his first phase to two attacks. In his second phase, reduce his ***multiattack*** to have no ***tail*** attack. |
-> | 6 | Increase **Rahadin's** hit points in his first phase to 202 and in his second phase to 264. Increase his ***deathly choir*** in his first phase to 6d6 damage. In his second phase, increase his ***multiattack*** to have two ***tail*** attacks. |
+> | 3 | Riduci i punti ferita di **Rahadin** a 136 nella prima fase e a 170 nella seconda. Riduci il suo ***multiattacco*** nella prima fase a due attacchi. Nella seconda fase riduci il suo ***multiattacco*** a un solo attacco con gli ***artigli***, e riduci il numero delle sue reazioni a 3. |
+> | 4 | Riduci i punti ferita di **Rahadin** a 158 nella prima fase e a 198 nella seconda. Riduci il suo ***multiattacco*** nella prima fase a due attacchi. Nella seconda fase togli dal suo ***multiattacco*** l'attacco con la ***coda***. |
+> | 6 | Aumenta i punti ferita di **Rahadin** a 202 nella prima fase e a 264 nella seconda. Aumenta i danni del suo ***coro di morte*** nella prima fase a 6d6. Nella seconda fase aumenta il suo ***multiattacco*** a due attacchi con la ***coda***. |
 
 <div class="statblock">
-<h2>Rahadin, Amber-Touched</h2>
-<em>Medium humanoid (elf), lawful evil</em>
+<h2>Rahadin, toccato dall'ambra</h2>
+<em>Umanoide Medio (elfo), legale malvagio</em>
 <hr>
-<strong>Armor Class</strong> 18 (studded leather)
+<strong>Classe Armatura</strong> 18 (cuoio borchiato)
 <br>
-<strong>Hit Points</strong> 180 (24d8 + 72)
+<strong>Punti Ferita</strong> 180 (24d8 + 72)
 <br>
-<strong>Speed</strong> 35 ft., fly 35 ft.
+<strong>Velocità</strong> 10,5 m, volare 10,5 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -2148,52 +2148,52 @@ Rahadin has little interest in conversation, and attacks the players in self-def
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +12, Wis +9<br>
-<strong>Skills</strong> Acrobatics +12, Deception +10, Insight +9, Intimidation +16, Perception +15, Stealth +18<br>
-<strong>Resistances</strong> bludgeoning, piercing, and slashing damage
-<strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
-<strong>Languages</strong> Common, Elvish<br>
-<strong>Challenge</strong> 19<br>
-<strong>Proficiency Bonus</strong> +6<br>
+<strong>Tiri salvezza</strong> Des +12, Sag +9<br>
+<strong>Abilità</strong> Acrobazia +12, Inganno +10, Intuizione +9, Intimidire +16, Percezione +15, Furtività +18<br>
+<strong>Resistenze ai danni</strong> contundenti, perforanti e taglienti<br>
+<strong>Sensi</strong> scurovisione 18 m, Percezione passiva 23<br>
+<strong>Linguaggi</strong> Comune, Elfico<br>
+<strong>Sfida</strong> 19<br>
+<strong>Bonus di competenza</strong> +6<br>
 <hr>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 20 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
-<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
-<p><strong><em>Amber Corruption.</em></strong> When Rahadin is reduced to 0 hit points, his spine sprouts a long, bony tail tipped with a stinger; his fingers grow long, bony claws; his wings double in size; his mouth becomes a fanged maw; and his flesh becomes translucent and clouded with shadow. His statistics are then instantly replaced by those of his second form. His initiative count doesn’t change, excess damage doesn’t carry over, and he retains none of the conditions he had in his previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
-<p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage plus 7 (2d6) necrotic damage, and Rahadin can force the target to make a DC 20 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 20 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)
-<p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage plus 7 (2d6) necrotic damage, and Rahadin can force the target to make a DC 20 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
-<p><strong><em>Haunt.</em></strong> Rahadin forces a creature he can see within 30 feet to succeed on a DC 18 Wisdom saving throw or take 14 (4d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Deathly Choir.</em></strong> Each creature within 20 feet of Rahadin that isn't protected by a <em>mind blank</em> spell must succeed on a DC 18 Wisdom saving throw, taking 18 (4d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of Rahadin's next turn.</p>
-<p><strong><em>Swift Step.</em></strong> Rahadin takes the Dash or Disengage action.</p>
-<h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Parry.</em></strong> <strong>Trigger:</strong> Rahadin is hit by a melee or ranged attack, fails a Dexterity saving throw, or takes damage from <em>magic missile</em>. <strong>Effect:</strong> Rahadin adds +6 to his Armor Class against that attack or to the result of his saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
-<p><strong><em>Riposte.</em></strong> <strong>Trigger:</strong> An enemy misses Rahadin with a melee attack. <strong>Effect:</strong> Rahadin moves up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong> attack against that enemy with advantage.</p>
+<p><strong><em>Urla dei morti.</em></strong> Ogni creatura entro 6 m da Rahadin che non è protetta da un incantesimo <em>vuoto mentale</em> sente nella mente le urla delle migliaia di persone che Rahadin ha ucciso.</p>
+<p><strong><em>Ascendenza fatata.</em></strong> Rahadin ha vantaggio ai tiri salvezza per non essere affascinato e la magia non può addormentarlo.</p>
+<p><strong><em>Maschera della natura selvaggia.</em></strong> Rahadin può cercare di nascondersi anche quando è solo leggermente oscurato da fogliame, pioggia battente, neve che cade, nebbia e altri fenomeni naturali.</p>
+<p><strong><em>La corruzione dell'ambra.</em></strong> Quando Rahadin scende a 0 punti ferita, dalla spina dorsale gli spunta una lunga coda ossuta che termina con un pungiglione, le dita si allungano in artigli d'osso, le ali raddoppiano di dimensioni, la bocca diventa una fauce irta di zanne e la carne si fa traslucida, velata d'ombra. Le sue statistiche vengono subito sostituite da quelle della seconda forma. Il suo punteggio di iniziativa non cambia, i danni in eccesso non si trasferiscono e non conserva nessuna delle condizioni che aveva nella forma precedente.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Rahadin effettua tre attacchi con le scimitarre <strong><em>Spina</em></strong> e/o <strong><em>Catena</em></strong>. Può sostituire un attacco con il tratto <strong><em>tormento</em></strong>.
+<p><strong><em>Spina.</em></strong> <em>Attacco con arma da mischia:</em> +12 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 9 (1d6 + 6) danni taglienti più 7 (2d6) danni necrotici, e Rahadin può costringere il bersaglio a fare un tiro salvezza su Costituzione con CD 20, altrimenti sanguina per 1 minuto. (Un bersaglio che sanguina deve superare un tiro salvezza su Costituzione con CD 20 all'inizio di ogni suo turno, altrimenti subisce 1d6 danni taglienti aggiuntivi. Se supera il tiro o riceve cure magiche, il bersaglio smette di sanguinare.)
+<p><strong><em>Catena.</em></strong> <em>Attacco con arma da mischia:</em> +12 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 9 (1d6 + 6) danni taglienti più 7 (2d6) danni necrotici, e Rahadin può costringere il bersaglio a fare un tiro salvezza su Costituzione con CD 20, altrimenti la sua velocità scende a 0 fino alla fine del suo turno successivo. Se il bersaglio fallisce di 5 o più, cade anche prono.
+<p><strong><em>Tormento.</em></strong> Rahadin costringe una creatura che può vedere entro 9 m a superare un tiro salvezza su Saggezza con CD 18, altrimenti subisce 14 (4d6) danni psichici ed è spaventata e assordata dalle anime urlanti fino all'inizio del turno successivo di Rahadin.</p>
+<h3>Azioni bonus</h3>
+<p><strong><em>Coro di morte.</em></strong> Ogni creatura entro 6 m da Rahadin che non è protetta da un incantesimo <em>vuoto mentale</em> deve superare un tiro salvezza su Saggezza con CD 18: se lo fallisce subisce 18 (4d8) danni psichici, se lo supera la metà. Se una creatura fallisce il tiro salvezza di 5 o più, è anche spaventata fino all'inizio del turno successivo di Rahadin.</p>
+<p><strong><em>Passo rapido.</em></strong> Rahadin effettua l'azione di Scatto o di Disimpegno.</p>
+<h3>Reazioni</h3>
+<p>Rahadin può effettuare fino a tre reazioni per round, ma non più di una per turno. Se un effetto o una condizione gli impedisse di effettuare reazioni, ne perde invece una sola.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Innesco:</strong> una creatura ostile termina il suo turno. <strong>Effetto:</strong> Rahadin può ripetere il tiro salvezza contro un effetto o una condizione che lo colpisce in quel momento. (La reazione non ha effetto se l'effetto o la condizione non richiedevano in origine il fallimento di un tiro salvezza.)</p>
+<p><strong><em>Parata.</em></strong> <strong>Innesco:</strong> Rahadin viene colpito da un attacco in mischia o a distanza, fallisce un tiro salvezza su Destrezza o subisce danni da <em>dardo incantato</em>. <strong>Effetto:</strong> Rahadin aggiunge +6 alla Classe Armatura contro quell'attacco o al risultato del tiro salvezza, oppure non subisce danni da <em>dardo incantato</em> in questo turno. Se in questo modo fa mancare un attacco in mischia, subito dopo può usare un'altra reazione, se ne ha una disponibile, per eseguire la Risposta contro l'attaccante.</p>
+<p><strong><em>Risposta.</em></strong> <strong>Innesco:</strong> un nemico manca Rahadin con un attacco in mischia. <strong>Effetto:</strong> Rahadin si muove fino alla sua velocità verso uno spazio libero entro 1,5 m da quel nemico, senza provocare attacchi di opportunità. Subito dopo può effettuare contro quel nemico un attacco con <strong><em>Spina</em></strong> o <strong><em>Catena</em></strong>, con vantaggio.</p>
 </div>
 
 <div class="statblock">
-<h2>Rahadin, the Corrupted</h2>
-<em>Medium humanoid (elf), lawful evil</em>
+<h2>Rahadin, il corrotto</h2>
+<em>Umanoide Medio (elfo), legale malvagio</em>
 <hr>
-<strong>Armor Class</strong> 18 (studded leather)
+<strong>Classe Armatura</strong> 18 (cuoio borchiato)
 <br>
-<strong>Hit Points</strong> 225 (30d8 + 90)
+<strong>Punti Ferita</strong> 225 (30d8 + 90)
 <br>
-<strong>Speed</strong> 35 ft., fly 60 ft.
+<strong>Velocità</strong> 10,5 m, volare 18 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -2208,60 +2208,61 @@ Rahadin has little interest in conversation, and attacks the players in self-def
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +12, Wis +9<br>
-<strong>Skills</strong> Acrobatics +12, Deception +10, Insight +9, Intimidation +16, Perception +15, Stealth +18<br>
-<strong>Resistances</strong> bludgeoning, cold, fire, lightning, piercing, and slashing damage
-<strong>Immunities</strong> poison, charmed, frightened, poisoned
-<strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
-<strong>Languages</strong> Common, Elvish<br>
-<strong>Challenge</strong> 19<br>
-<strong>Proficiency Bonus</strong> +6<br>
+<strong>Tiri salvezza</strong> Des +12, Sag +9<br>
+<strong>Abilità</strong> Acrobazia +12, Furtività +18, Inganno +10, Intimidire +16, Intuizione +9, Percezione +15<br>
+<strong>Resistenze</strong> danni contundenti, da freddo, da fuoco, da fulmine, perforanti e taglienti
+<strong>Immunità</strong> veleno, affascinato, avvelenato, spaventato
+<strong>Sensi</strong> scurovisione 18 m, Percezione passiva 23<br>
+<strong>Linguaggi</strong> Comune, Elfico<br>
+<strong>Sfida</strong> 19<br>
+<strong>Bonus di competenza</strong> +6<br>
 <hr>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 20 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
-<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Magic Resistance.</em></strong> Rahadin has advantage on saving throws against spells and other magical effects.</p>
-<p><strong><em>Devil’s Sight.</em></strong> Magical darkness doesn’t impede Rahadin’s darkvision.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Rahadin makes one attack with his tail stinger, one attack with his necrotic slam, and two attacks with his claws.</p>
-<p><strong><em>Tail Stinger.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 15 (2d8 + 6) piercing damage plus 4 (1d8) poison damage, and the target must succeed on a DC 18 Constitution saving throw or become poisoned until the start of Rahadin’s next turn. While poisoned, the target can’t regain hit points.</p>
-<p><strong><em>Necrotic Slam.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 13 (2d8 + 4) bludgeoning damage plus 9 (2d8) necrotic damage. If the target is a creature, its hit point maximum decreases by an amount equal to the necrotic damage taken. The reduction lasts until the target finishes a long rest.</p>
-<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 13 (2d8 + 4) slashing damage.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Shrieking Resonance.</em></strong> Rahadin’s screams of the dead release a shriek that resonates with all <em>amber shards</em> in a sixty-foot radius. Each creature in that area carrying an <em>amber shard</em> must succeed on a DC 18 Constitution saving throw or be dazed until the start of Rahadin’s next turn. (A dazed creature can move or take one action on its turn, not both. It also can't take a bonus action or a reaction.) If a creature’s saving throw fails by 10 or more, it’s stunned until the start of Rahadin’s next turn instead.</p>
-<p><strong><em>Corrupted Command.</em></strong> Each creature Rahadin has damaged this turn must succeed on a DC 18 Charisma saving throw or suffer the effects of a <em>crown of madness</em> spell until the start of Rahadin’s next turn. While a creature is charmed in this way, Rahadin can cause it to move up to half its speed before attacking.</p>
-<p><strong><em>Finger of Death (1/day)</em></strong> Rahadin casts <em>finger of death</em>.
-<h3>Reactions</h3>
-<p>Rahadin can take up to five reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Claws.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn within 5 feet of Rahadin. <strong>Effect:</strong> Rahadin attacks that creature with his claws.</p>
-<p><strong><em>Rampage.</em></strong> <strong>Trigger:</strong> Rahadin reduces a creature to 0 hit points with a melee attack. <strong>Effect:</strong> Rahadin can move up to half his speed and make one attack.</p></strong>
-
-### Reconsecrating the Fane
-If Lady Wachter buries the Seeker’s sage-green gem within the circle after defying Strahd’s emissary, read:
-
-<div class="description">
-<p>A pale green light glimmers within the fog, then deepens. The earth itself seems to thrum beneath your feet, even as a sliver of green light stretches across the circle from one side to the other.</p>
-<p>Slowly, trembling, the sliver begins to widen along its narrowest axis, spiralling patterns filling the space between its ends. It’s an eye—a Titan’s eye, widening and searing with unbridled power.</p>
-<p>The mists dance and swirl as the eye reaches its widest point. From its edges bursts a pillar of viridian luminescence, shimmering with light and stretching into the heavens.</p>
-<p>Beneath its light, you can see the roots of the mountains—of Mount Ghakis to the South and Mount Baratok to the north—entwining leagues beneath the soil, choked with darkness and ichor. You can feel the dark, hateful thing constricting them: an ash-grey root forged of corruption and baleful pride, now writhing beneath the light of the eye and bleeding black, poisonous ichor as it dies.</p>
-<p>The root runs through the earth for miles and miles—until it reaches a mighty fortress of black stone, of tower spires that pierce the stormy sky, and a pair of familiar burning crimson eyes that bore into your soul. And then—the eye blinks, and the root is severed from the mountains. A distant cry of rage and fury echoes in your ears, and the roots of the mountain breathe like a living thing, the miasma within their veins burning away beneath the eye’s unblinking gaze.</p>
-<p>Overhead, the sky crackles with thunder, and a clean, cool rain begins to fall upon the hilltop. As the fog melts away, small, colorful stems and petals push from the ash-grey muck: wildflowers, colored purple and yellow and blue and red, taking their first breaths from between the cracks of the ancient stone circle. For a moment, in the sky far above, the clouds pull back like a veil, the rain pausing as a sky of purest blue gazes down at the hilltop below.</p>
-<p>With a thunderclap, the rain stops, and the grey sky returns. But the air is cool and clean, and a gentle breeze whispers across the hilltop. The standing stones glint with an ethereal, mineral shine, and a sense of warmth and peace pervades the circle. At its center, a small sapling grows, its thin branches swaying in the wind.</p>
-<p>You hear the sound of a distant cackle—an old woman’s voice, gleeful and joyous—and several spheres of glittering pale-green light rise from the earth, then hang patiently in the air before you—as if waiting to be claimed.</p>
+<p><strong><em>Urla dei morti.</em></strong> Ogni creatura entro 6 m da Rahadin che non è protetta da un incantesimo <em>vuoto mentale</em> sente nella mente le urla delle migliaia di persone che Rahadin ha ucciso.</p>
+<p><strong><em>Ascendenza fatata.</em></strong> Rahadin ha vantaggio ai tiri salvezza per non essere affascinato, e la magia non può farlo addormentare.</p>
+<p><strong><em>Resistenza alla magia.</em></strong> Rahadin ha vantaggio ai tiri salvezza contro incantesimi e altri effetti magici.</p>
+<p><strong><em>Vista del diavolo.</em></strong> L'oscurità magica non ostacola la scurovisione di Rahadin.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Rahadin effettua un attacco con il pungiglione della coda, un attacco con lo schianto necrotico e due attacchi con gli artigli.</p>
+<p><strong><em>Pungiglione della coda.</em></strong> <em>Attacco con arma da mischia:</em> +12 al tiro per colpire, portata 1,5 m, una creatura. <em>Colpito:</em> 15 (2d8 + 6) danni perforanti più 4 (1d8) danni da veleno, e il bersaglio deve superare un tiro salvezza su Costituzione con CD 18 o essere avvelenato fino all'inizio del turno successivo di Rahadin. Mentre è avvelenato, il bersaglio non può recuperare punti ferita.</p>
+<p><strong><em>Schianto necrotico.</em></strong> <em>Attacco con arma da mischia:</em> +12 al tiro per colpire, portata 1,5 m, una creatura. <em>Colpito:</em> 13 (2d8 + 4) danni contundenti più 9 (2d8) danni necrotici. Se il bersaglio è una creatura, il suo massimo dei punti ferita diminuisce di un ammontare pari ai danni necrotici subiti. La riduzione dura finché il bersaglio non completa un riposo lungo.</p>
+<p><strong><em>Artigli.</em></strong> <em>Attacco con arma da mischia:</em> +12 al tiro per colpire, portata 1,5 m, una creatura. <em>Colpito:</em> 13 (2d8 + 4) danni taglienti.</p>
+<h3>Azioni bonus</h3>
+<p><strong><em>Risonanza stridente.</em></strong> Le urla dei morti di Rahadin emettono uno strido che risuona con tutti i <em>frammenti d'ambra</em> in un raggio di 18 m. Ogni creatura nell'area che porta con sé un <em>frammento d'ambra</em> deve superare un tiro salvezza su Costituzione con CD 18 o essere frastornata fino all'inizio del turno successivo di Rahadin. (Una creatura frastornata può muoversi o effettuare un'azione nel suo turno, non entrambe le cose. Inoltre non può effettuare azioni bonus né reazioni.) Se una creatura fallisce il tiro salvezza di 10 o più, è invece stordita fino all'inizio del turno successivo di Rahadin.</p>
+<p><strong><em>Comando corrotto.</em></strong> Ogni creatura a cui Rahadin ha inflitto danni in questo turno deve superare un tiro salvezza su Carisma con CD 18 o subire gli effetti di un incantesimo <em>corona di follia</em> fino all'inizio del turno successivo di Rahadin. Mentre una creatura è affascinata in questo modo, Rahadin può farla muovere fino a metà della sua velocità prima che attacchi.</p>
+<p><strong><em>Dito della morte (1/giorno).</em></strong> Rahadin lancia <em>dito della morte</em>.
+<h3>Reazioni</h3>
+<p>Rahadin può effettuare fino a cinque reazioni per round, ma non più di una per turno. Se un effetto o una condizione gli impedirebbe di effettuare reazioni, perde invece una reazione.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Innesco:</strong> una creatura ostile termina il suo turno. <strong>Effetto:</strong> Rahadin può ripetere il tiro salvezza contro un effetto o una condizione che lo colpisce in quel momento. (La reazione non ha effetto se l'effetto o la condizione in origine non richiedeva di fallire un tiro salvezza.)</p>
+<p><strong><em>Artigli.</em></strong> <strong>Innesco:</strong> una creatura ostile termina il suo turno entro 1,5 m da Rahadin. <strong>Effetto:</strong> Rahadin attacca quella creatura con gli artigli.</p>
+<p><strong><em>Furia.</em></strong> <strong>Innesco:</strong> Rahadin riduce una creatura a 0 punti ferita con un attacco in mischia. <strong>Effetto:</strong> Rahadin può muoversi fino a metà della sua velocità ed effettuare un attacco.</p>
 </div>
 
-Each sphere of light is a *boon of the Seeker.* There are enough boons for each character that helped defeat Rahadin, including the players and their companions.
-
-A player can claim their *boon of the Seeker* by grasping or touching it. If they do, read:
+### Riconsacrare il tempio
+Se Lady Wachter, dopo aver sfidato l'emissario di Strahd, seppellisce la gemma verde salvia del Cercatore dentro il cerchio, leggi:
 
 <div class="description">
-<p>A small, black tattoo in the shape of a raven’s eye appears in the palm of your hand.</p>
+<p>Nella nebbia brilla una pallida luce verde, che poi si fa più intensa. La terra stessa sembra vibrare sotto i vostri piedi, mentre una sottile striscia di luce verde attraversa il cerchio da una parte all'altra.</p>
+<p>Lentamente, tremando, la striscia comincia ad allargarsi lungo l'asse più stretto, e lo spazio fra le sue estremità si riempie di motivi a spirale. È un occhio, l'occhio di un titano, che si spalanca e brucia di un potere sfrenato.</p>
+<p>La nebbia danza e turbina mentre l'occhio si apre del tutto. Dai suoi bordi esplode una colonna di luminescenza verde viridiano, scintillante, che si allunga fino al cielo.</p>
+<p>Sotto la sua luce vedete le radici delle montagne, del Monte Ghakis a sud e del Monte Baratok a nord, che si intrecciano a leghe di profondità sotto il suolo, soffocate da tenebre e icore. Sentite la cosa oscura e piena d'odio che le stringe: una radice grigio cenere forgiata di corruzione e di orgoglio funesto, che ora si contorce sotto la luce dell'occhio e sanguina icore nero e velenoso mentre muore.</p>
+<p>La radice corre sotto terra per chilometri e chilometri, fino a raggiungere una possente fortezza di pietra nera, con guglie di torri che trafiggono il cielo in tempesta, e un paio di occhi cremisi e ardenti che conoscete bene e che vi trapassano l'anima. Poi l'occhio sbatte la palpebra, e la radice viene recisa dalle montagne. Un lontano grido di rabbia e di furia vi risuona nelle orecchie, e le radici della montagna respirano come una cosa viva, mentre il miasma nelle loro vene brucia sotto lo sguardo fisso dell'occhio.</p>
+<p>In alto il cielo crepita di tuoni, e sulla cima della collina comincia a cadere una pioggia pulita e fresca. Mentre la nebbia si scioglie, dalla fanghiglia grigio cenere spuntano piccoli steli e petali colorati: fiori selvatici viola, gialli, blu e rossi, che prendono il primo respiro fra le crepe dell'antico cerchio di pietra. Per un momento, molto in alto nel cielo, le nubi si aprono come un velo, la pioggia si ferma e un cielo dell'azzurro più puro guarda giù verso la collina.</p>
+<p>Con un tuono la pioggia cessa, e torna il cielo grigio. Ma l'aria è fresca e pulita, e una brezza leggera sussurra sulla cima della collina. I menhir luccicano di un riflesso minerale ed etereo, e il cerchio è pervaso da un senso di calore e di pace. Al centro cresce un piccolo alberello, con i rami sottili che ondeggiano al vento.</p>
+<p>Sentite il suono di una risata lontana, la voce di una vecchia, allegra e piena di gioia, e diverse sfere di scintillante luce verde pallido si levano dalla terra e restano sospese pazienti nell'aria davanti a voi, come se aspettassero di essere prese.</p>
 </div>
 
-> [!item]+ **Boon of the Seeker**
-> A character who claims the *boon of the Seeker* immediately regains all of their hit points and maximum hit points. In addition, while in Barovia, a character who possesses the *boon of the Seeker* can use their reaction to reroll an attack roll, saving throw, or skill check. Once a character has used this boon three times, it vanishes.
+Ogni sfera di luce è un *dono del Cercatore*. Ce n'è uno per ogni personaggio che ha contribuito a sconfiggere Rahadin, compresi i giocatori e i loro compagni.
 
-> [!info]+ **The Sapling**
-> A player who succeeds on a DC 10 Intelligence (Nature) check identifies the sapling as an ash tree.
+Un giocatore può prendere il suo *dono del Cercatore* afferrandolo o toccandolo. Se lo fa, leggi:
 
-***Milestone.*** Reconsecrating the Mountain Fane completes a story milestone. When the players claim the *boon of the Seeker*, award each player 5,500 XP.
+<div class="description">
+<p>Sul palmo della tua mano compare un piccolo tatuaggio nero a forma di occhio di corvo.</p>
+</div>
+
+> [!item]+ **Dono del Cercatore**
+> Un personaggio che prende il *dono del Cercatore* recupera subito tutti i punti ferita e il massimo dei punti ferita. Inoltre, finché si trova a Barovia, un personaggio che possiede il *dono del Cercatore* può usare la reazione per ripetere un tiro per colpire, un tiro salvezza o una prova di abilità. Dopo che un personaggio ha usato questo dono tre volte, il dono svanisce.
+
+> [!info]+ **L'alberello**
+> Un giocatore che supera una prova di Intelligenza (Natura) con CD 10 riconosce nell'alberello un frassino.
+
+***Traguardo.*** Riconsacrare il Tempio della Montagna completa un traguardo della storia. Quando i giocatori prendono il *dono del Cercatore*, assegna a ogni giocatore 5.500 PE.

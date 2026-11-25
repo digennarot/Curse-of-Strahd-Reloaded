@@ -940,3 +940,39 @@ Aree del libro, Capitolo 13: X1 Facciata del tempio; X1a Fenditura stretta; X2 I
 | *shield of faith* / *protection from evil and good* / *burning hands* / *prestidigitation* | *scudo della fede* / *protezione dal bene e dal male* / *mani brucianti* / *prestidigitazione* | |
 
 Citazioni: *Icewind Dale: Rime of the Frostmaiden*, *Tomb of Annihilation*, *Van Richten's Guide to Fiends*, *The Eye of the World*, *A Wizard Abroad* lasciati in inglese.
+
+### Arco T
+
+Titolo: Arc T: The Three Fanes → Arco T: I tre templi. Aree: T1 Ritorno a Soldav (T1a La strada stretta, T1b Il Santuario delle Rozana, T1c La Caverna delle Luci, T1d Il nido del roc); T2 La discesa dal monte (T2a Il Mago dei Vini; T2b La cittadina di Vallaki: Le porte della città, La Chiesa di Sant'Andral, La Locanda dell'Acqua Azzurra, Villa Vallakovich, La piazza della città, Wachterhaus; T2c L'ultima prova del Tiranno); T3 La strega di Berez (T3a La periferia di Berez, T3b Le casupole nord, T3c Le casupole sud, T3d Il prato del paese, T3e Il sagrato, T3f Il monumento di Marina: La sorpresa di Sergei, Parlare con Sergei, Chiedere l'aiuto di Sergei; T3g La cantina del maniero: Scendere le scale; T3h Il recinto delle capre, T3i Il giardino, T3j Il maniero degli Ulrich, T3k La capanna di Baba Lysaga, T3l I corvi in lite, T3m Il Tempio della Palude); T4 Il cacciatore di mostri (T4a Il crocevia del fiume Luna; T4b L'accampamento vistani: Le indagini di Escher, L'ospite di Luvash, Il cacciatore e la preda, La rivelazione di Ezmerelda; T4c Il carrozzone dei Radanavich: Il rito del sangue, L'odio di Arturi, La colpa di Van Richten, Il rito finale, Dopo la tempesta, Il ritorno di Erasmus; T4d Il Tempio della Foresta); T5 Una luce nel buio (T5a Il dilemma di Lady Wachter: L'arrivo a Wachterhaus, L'incontro con Lady Wachter; T5b Il visir di Lady Wachter; T5c Il Recinto di Arasek; T5d Il Tempio della Montagna: La vendetta di Rahadin, Riconsacrare il tempio).
+
+Aree del libro: N1 Chiesa di Sant'Andral; N2j Grande balconata; N2n Camera privata per gli ospiti; N2o Camera dei ragazzi; N2p Camera padronale; N2q Soffitta segreta; N3t Laboratorio di Victor; N3l Biblioteca; N4k Studio; N4p Biblioteca; N8 Piazza della città; N9c Tenda dei Vistani; N9i Carrozzone del tesoro dei Vistani; K32 Una cameriera all'inferno ⚠; K78 Stanza del braciere; W19 Dormitorio; Town Gates → Porte della città; Approaching the Ruins → Avvicinarsi alle rovine; U1 Casupole abbandonate; U2 Villa Ulrich; U3 Capanna di Baba Lysaga; U4 Sagrato; U5 Monumento di Marina; U6 Menhir; Y4 Albero Gulthias; The Megaliths → I megaliti; Fortunes of Ravenloft → Le fortune di Ravenloft ⚠; Journal of Rudolph van Richten → Il diario di Rudolph van Richten; Webs → Ragnatele; Pit Traps → fosse trappola; hunting trap → tagliola.
+
+| Inglese | Italiano | Note |
+|---|---|---|
+| Burgomistress | la borgomastra | Lady Wachter |
+| Cavern of Lights | Caverna delle Luci | |
+| viridian / emerald / sage (ash-green) gem | gemma verde viridiano / verde smeraldo / verde salvia | ⚠ le tre gemme incantate |
+| THE HUNTER / THE HUNTED / THE OLD RAVEN / THE WATER'S KEEPER / THE WIDOW | IL CACCIATORE / LA PREDA / IL VECCHIO CORVO / IL CUSTODE DELL'ACQUA / LA VEDOVA | messaggi delle Dame |
+| *blood spear* / *spear of warning* / *hunter's mark* | *lancia del sangue* / *lancia di avvertimento* / *marchio del cacciatore* | ⚠ *lancia di avvertimento* |
+| Raven's Gale | Raffica del corvo | roc |
+| *potion of waking slumber* | *pozione del sonno vigile* | ⚠ |
+| *beacon of private sanctum* | *faro del santuario privato* | ⚠ |
+| hedge maze | labirinto di siepi | Berez |
+| walking corpse | cadavere ambulante | |
+| carrionette / silver needle / soul swap | carrionette / ago d'argento / scambio d'anima | ⚠ carrionette invariato |
+| giant hyena / rhinoceros (gore) / giant poisonous snake | iena gigante / rinoceronte (incornata) / serpente velenoso gigante | |
+| ghost / flying sword / swarm of insects | fantasma / spada volante / sciame di insetti | |
+| *essence of ether* | *essenza d'etere* | veleno |
+| *silverthorn chain* | *catena di spine d'argento* | vedi *collare di spine d'argento* |
+| *boon of the Weaver / Huntress / Seeker* | *dono della Tessitrice / della Cacciatrice / del Cercatore* | |
+| the False Beast | la Falsa Bestia | Strahd per gli spiriti del Tempio della Foresta |
+| Brother Grigor / Lazlo Ulrich | frate Grigor / Lazlo Ulrich | |
+| Moste High Priest / High Priest | Sommo Sacerdote / Alto Sacerdote | |
+| blood rite | rito del sangue | |
+| *mortu* / *giorgio* / *giogoto* / *vardo* | invariati, in corsivo | parole vistani |
+| *lucid lens* | *lente lucida* | |
+| emissary (di Strahd) | l'emissario; l'emissaria dove l'originale usa *she* | |
+| vizier | visir | |
+| Rahadin, the Corrupted | Rahadin, il corrotto | |
+| Shrieking Resonance / Corrupted Command / Tail Stinger / Necrotic Slam / Rampage | Risonanza stridente / Comando corrotto / Pungiglione della coda / Schianto necrotico / Furia | Rahadin |
+| deathly choir | coro di morte | vedi Arco O |

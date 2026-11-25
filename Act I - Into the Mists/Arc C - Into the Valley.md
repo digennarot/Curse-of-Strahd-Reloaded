@@ -24,7 +24,7 @@ Arrivati a Vallaki, i giocatori possono trovare alloggio alla Locanda dell'Acqua
 > Questa guida riprende il materiale del modulo originale *La Maledizione di Strahd* solo per rimando. Perciò, quando i giocatori viaggiano, ignora la sezione <span class="citation">Incontri casuali (p. 28)</span>, tranne quando un incontro specifico viene richiamato e integrato direttamente.
 
 > [!warning]+ **Modifiche in arrivo**
-> L'arco che segue è pienamente compatibile con le versioni attuali degli archi precedenti. Tuttavia l'[[Arc C - Into the Valley|Arco C: Nella valle]], l'[[Arc E - The Missing Vistana|Arco E: La vistana scomparsa]], l'[[Arc K - The Fallen Abbey|Arco K: L'abbazia caduta]], l'[[Arc L - The Den of Wolves|Arco L: La tana dei lupi]] e il capitolo [[Arc T - The Three Fanes#T4. The Monster Hunter|Il cacciatore di mostri]] dell'[[Arc T - The Three Fanes|Arco T: I tre templi]] saranno rivisti in modo significativo **dopo** il completamento della guida principale, con queste modifiche:
+> L'arco che segue è pienamente compatibile con le versioni attuali degli archi precedenti. Tuttavia l'[[Arc C - Into the Valley|Arco C: Nella valle]], l'[[Arc E - The Missing Vistana|Arco E: La vistana scomparsa]], l'[[Arc K - The Fallen Abbey|Arco K: L'abbazia caduta]], l'[[Arc L - The Den of Wolves|Arco L: La tana dei lupi]] e il capitolo [[Arc T - The Three Fanes#T4. Il cacciatore di mostri|Il cacciatore di mostri]] dell'[[Arc T - The Three Fanes|Arco T: I tre templi]] saranno rivisti in modo significativo **dopo** il completamento della guida principale, con queste modifiche:
 >
 > * Arturi Radanavich sarà tolto dalla campagna.
 > * Ezmerelda d'Avenir è nata Ezmerelda Radanavich e ha cambiato nome dopo il massacro del clan Radanavich.
