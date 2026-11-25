@@ -142,7 +142,7 @@
 
 ***Motivazioni.*** Padre Donavich vuole strappare il figlio dalle grinfie di Strahd a qualsiasi costo.
 
-***Ispirazioni.*** Nell'interpretare padre Donavich, ispirati a Eddard Stark (*Il Trono di Spade*), Walter White (*Breaking Bad*) e Boromir (*Il Signore degli Anelli*).
+***Ispirazioni.*** Nell'interpretare padre Donavich, ispirati a Eddard Stark (*Il Trono di Spade*), Walter White (*Breaking Bad*) e Denethor (*Il Signore degli Anelli*).
 
 ***Voce e presenza al tavolo.*** Tono rauco, spezzato, sfibrato da notti insonni trascorse a salmeggiare nel vuoto. Le dita stringono convulsamente un simbolo solare di peltro macchiato dal tempo. Ha lo sguardo allucinato e febbrilmente fisso verso le assi del pavimento della chiesa; alterna preghiere mormorate a fior di labbra a scatti d'ira colpevole contro chiunque osi interrompere la sua veglia.
 
@@ -1446,7 +1446,7 @@
 
 ***Motivazioni.*** Vuole crescere bene i figli, gestire la locanda con impeccabile ospitalità e guidare la resistenza dei Custodi della Piuma per liberare Barovia dalla tirannia di Strahd.
 
-***Ispirazioni.*** Nell'interpretare Urwin, ispirati a Vander (*Arcane*), Greg Universe (*Steven Universe*) e Bob Belcher (*Bob's Burgers*).
+***Ispirazioni.*** Nell'interpretare Urwin, ispirati a Vander (*Arcane*), Greg Universe (*Steven Universe*) e Linda Belcher (*Bob's Burgers*).
 
 ***Voce e presenza al tavolo.*** Voce calda, accogliente e rassicurante da navigato locandiere. Pulisce costantemente il bancone con uno straccio, strizzando l'occhio agli avventori e servendo boccali di vino con generosità. Nei momenti privati parla a bassa voce, inclinando la testa di lato con la tipica postura guardinga dei corvi; le sue risate sonore mascherano un'attenzione vigile verso ogni porta e finestra.
 
@@ -1520,7 +1520,7 @@
 
 ***Motivazioni.*** Vuole proteggere la famiglia, far prosperare la locanda e fare in modo che i propri figli possano un giorno vedere un vero raggio di sole su Barovia.
 
-***Ispirazioni.*** Nell'interpretare Danika, ispirati a Tenzin (*La leggenda di Korra*), Linda Belcher (*Bob's Burgers*) e Garnet (*Steven Universe*).
+***Ispirazioni.*** Nell'interpretare Danika, ispirati a Tenzin (*La leggenda di Korra*), Bob Belcher (*Bob's Burgers*) e Garnet (*Steven Universe*).
 
 ***Voce e presenza al tavolo.*** Voce ferma, pragmatica ma venata di sincero calore. Si muove con passo rapido ed efficiente tra la cucina e i tavoli, portando piatti e controllando che tutto fili liscio. Quando Urwin fa una battuta banale, alza gli occhi al cielo con un sorriso complice. Con i figli è dolcissima ma non transige sulla sicurezza: quando fiuta il pericolo, i suoi occhi scuri diventano duri come l'ossidiana.
 
@@ -1947,7 +1947,7 @@ Il libro degli incantesimi di Victor contiene gli incantesimi *inviare* e *paura
 
 ***Motivazioni.*** Vuole perfezionare il proprio cerchio di teletrasporto per fuggire per sempre da Barovia e rimediare all'anima frammentata di Stella Wachter.
 
-***Ispirazioni.*** Nell'interpretare Victor, ispirati a Jonathan Byers (*Stranger Things*), al principe Zuko (*Avatar: La leggenda di Aang*), Corvo (*Teen Titans*) e Perrin Aybara (*La Ruota del Tempo*).
+***Ispirazioni.*** Nell'interpretare Victor, ispirati a Jonathan Byers (*Stranger Things*), al principe Zuko (*Avatar: La leggenda di Aang*), Corvina (*Teen Titans*) e Perrin Aybara (*La Ruota del Tempo*).
 
 ***Voce e presenza al tavolo.*** Voce nasale, annoiata e sprezzante, che scivola in toni febbrili ed esagitati quando parla di magia o quando si sente accusato. È pallido, vestito con abiti trasandati macchiati d'inchiostro e reagenti. Evita il contatto visivo, tenendo le braccia conserte e le dita nervosamente all'opera su componenti arcane. Ha fatto resuscitare il suo gatto d'infanzia Murka come scheletro famiglio.
 

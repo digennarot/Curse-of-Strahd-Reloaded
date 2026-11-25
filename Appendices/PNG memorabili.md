@@ -14,7 +14,7 @@ Materiale aggiuntivo per il DM, che non fa parte di *Curse of Strahd: Reloaded*.
 - Parla dei genitori al passato remoto, come in una favola («la mamma diede una festa»), e si corregge se Thorn la sente.
 - Si mette sempre fra Thorn e la porta più vicina, anche quando non c'è nessun pericolo.
 
-***Segreto o legame con la trama.*** *(Suggerimento.)* Rose conosce la ninna nanna che la bambinaia cantava a Walter: la sentiva attraverso il muro della sua stanza. Se un giocatore la impara da lei e la canta durante lo scontro con Walter, il Nato dalla Tomba, puoi dargli vantaggio a una prova per calmarlo o fargli perdere la reazione per un round. Rose non ha mai detto a Thorn che Walter era loro fratello.
+***Segreto o legame con la trama.*** *(Suggerimento.)* Attraverso il muro della sua stanza Rose sentiva la signorina Klara canticchiare al piccolo Walter una melodia: è il *Valzer per Klara* della sala della musica ([[Arc A - Escape From Death House|Arco A]]). Se un giocatore la impara da lei, può usare la ninna nanna della madre contro Walter, il Nato dalla Tomba, anche senza aver trovato lo spartito. Rose non sa perché in casa di quel bambino non si parlasse, né che fosse il suo fratellastro.
 
 ***Oggetto simbolico.*** Un nastro azzurro sfilacciato, che lega al polso di Thorn quando lui ha paura e che scioglie quando lui si addormenta.
 
@@ -37,13 +37,13 @@ Materiale aggiuntivo per il DM, che non fa parte di *Curse of Strahd: Reloaded*.
 - Fa domande precise e strane («Quanti siete? Avete tutti le scarpe?») e ricorda le risposte.
 - Quando ride si copre la bocca con le mani, come se fosse vietato.
 
-***Segreto o legame con la trama.*** *(Suggerimento.)* Thorn ha visto il padre aprire la scala segreta dietro la biblioteca e sa come si fa, ma ha giurato di non dirlo. Se un giocatore gli restituisce il soldatino, o gliene regala uno, Thorn glielo rivela sottovoce, facendogli promettere di non dirlo a papà.
+***Segreto o legame con la trama.*** *(Suggerimento.)* Thorn ha visto il padre suonare il clavicembalo e, subito dopo, la libreria della biblioteca strisciare sul pavimento. Ha visto anche la mamma nascondere «un sasso che brilla» nel portagioie. Non sa che cosa significhi, ma ha giurato di non dirlo. Se un giocatore gli restituisce il soldatino, o gliene regala uno, Thorn glielo rivela sottovoce, facendogli promettere di non dirlo a papà: sono gli indizi del *Valzer per Klara* e del frammento d'ambra, l'unica chiave della porta segreta.
 
 ***Oggetto simbolico.*** Un soldatino di piombo con la vernice rossa scrostata e una gamba piegata.
 
 ***Esempi di battute.***
 - «Il soldatino lo chiamo Capitano. È stato ferito in battaglia. Anche voi?»
-- «Papà scende dove la parete fa toc toc invece di tum tum».
+- «Quando papà suonava, la libreria camminava. Lo giuro. Camminava».
 - «Rose, posso dirglielo? Solo a lui. Solo un pezzetto».
 
 ***Voce e presenza al tavolo.*** Voce alta e sottile, frasi brevissime. Al tavolo abbassa lo sguardo sul piano, non sui giocatori, e rivolgiti sempre prima al giocatore che gli sembra più gentile. Lascia una pausa lunga prima di ogni risposta: Thorn sta guardando Rose.
@@ -80,7 +80,7 @@ Materiale aggiuntivo per il DM, che non fa parte di *Curse of Strahd: Reloaded*.
 ***Biografia e motivazioni.*** Ireena è arrivata a casa Kolyanovich da bambina, senza ricordi di prima. Kolyan l'ha cresciuta come una figlia, Ismark come una sorella, e il villaggio come una nobildonna. Lei ha preso tutto quello che le davano, l'etichetta, la scherma, i libri dei viaggiatori, e ne ha fatto un piano: un giorno uscirà dalla valle. Poi sono arrivate le visite notturne di Strahd, i morsi, la morte del padre. Ireena vuole ancora vedere il mondo, ma adesso vuole soprattutto che nessuno muoia più al posto suo.
 
 ***Tratti distintivi.***
-- Canticchia senza accorgersene un valzer che nessuno le ha mai insegnato e si interrompe di colpo quando se ne rende conto.
+- Canticchia senza accorgersene una ninna nanna che nessuno le ha mai insegnato e si interrompe di colpo quando se ne rende conto (vedi il segreto di Izek Strazni).
 - Fa ai giocatori domande sui loro paesi d'origine e ne prende nota a memoria («Avete detto che il mare è salato. Quanto?»).
 - Si copre il collo con il bavero quando entra in una stanza nuova.
 
@@ -123,25 +123,25 @@ Materiale aggiuntivo per il DM, che non fa parte di *Curse of Strahd: Reloaded*.
 ### Padre Donavich
 [[Non-Player Characters#Padre Donavich|Profilo]]
 
-***Biografia e motivazioni.*** Donavich è stato il sacerdote del villaggio per trent'anni, l'uomo che battezzava, sposava e seppelliva. Quando il figlio Doru partì con Escher e con il vecchio travestito per marciare sul Castello di Ravenloft, Donavich non lo fermò. Doru tornò come progenie vampirica, e Donavich lo chiuse nella cripta sotto la chiesa. Da allora prega giorno e notte, ma il Signore del Mattino non gli risponde più. Vuole salvare il figlio a qualunque costo, anche a costo di non salvare sé stesso.
+***Biografia e motivazioni.*** Donavich è stato il sacerdote del villaggio per trent'anni, l'uomo che battezzava, sposava e seppelliva. Quando il figlio Doru decise di marciare sul Castello di Ravenloft, Donavich non approvava, ma gli diede la sua benedizione e il suo simbolo sacro. Doru tornò come progenie vampirica, mandato da Strahd a terrorizzare la chiesa con quel simbolo ancora al collo, e Donavich lo chiuse nella cripta. Da allora prega giorno e notte, ma non riesce più a lanciare incantesimi e il Signore del Mattino non gli risponde. Si è convinto che suo figlio sia morto e che nella cripta ci sia una bestia che ne indossa la pelle. Vuole liberare il figlio da Strahd a qualunque costo, anche a costo di distruggere quello che ne resta.
 
 ***Tratti distintivi.***
 - Recita le preghiere a voce sempre più alta quando sente un rumore dalla cripta, per coprirlo.
 - Offre ai visitatori pane e acqua santa con le mani che tremano e si scusa per la chiesa in disordine.
-- Non pronuncia mai la parola «vampiro»: dice «il male che ha preso il mio ragazzo».
+- Non chiama mai Doru per nome: dice «la cosa nella cripta», e si tocca il petto dove un tempo portava il simbolo sacro.
 
-***Segreto o legame con la trama.*** *(Suggerimento.)* Donavich ha in tasca una lettera che Doru aveva scritto per Gertruda prima di partire. Non gliel'ha mai consegnata, per non doverle dire che cosa era diventato il ragazzo. Per questo Gertruda non sa nulla e si è fissata con Vallaki ([[Arc B - Welcome to Barovia|Arco B]]). Se i giocatori ottengono la lettera e la portano a Gertruda, la scena con Doru cambia di tono.
+***Segreto o legame con la trama.*** Donavich crede che Doru sia morto, ma è la sua perdita di fede a impedirgli di pregare, non la presenza del figlio ([[Arc B - Welcome to Barovia|Arco B]]). *(Suggerimento.)* Ha in tasca una lettera che Doru aveva scritto per Gertruda prima di partire e non gliel'ha mai consegnata, per non doverle dire che cosa era diventato il ragazzo. Gertruda è partita per Vallaki senza saperlo. Se i giocatori ottengono la lettera e la portano a Gertruda, al Castello di Ravenloft ([[Arc P - Ravenloft Heist|Arco P]]), la scena cambia di tono.
 
-***Oggetto simbolico.*** Un simbolo solare di peltro annerito dal tempo, con i raggi consumati dalle dita.
+***Oggetto simbolico.*** Il sole raggiante di bronzo che ha dato a Doru prima della marcia, e che ora pende al collo del figlio nella cripta: per Donavich è un'assenza che si sente sul petto.
 
 ***Esempi di battute.***
 - «Il Signore del Mattino ascolta. Deve ascoltare. Ditemi che ascolta».
-- «Non chiamatelo così. Ha un nome. L'ho scelto io, il giorno in cui è nato».
+- «Mio figlio è morto. Quella cosa là sotto ha solo la sua faccia».
 - «Ho benedetto le nozze di mezzo villaggio. Le sue non le benedirò mai».
 
 ***Voce e presenza al tavolo.*** Voce rauca e a scatti, con preghiere sussurrate fra una frase e l'altra. Al tavolo stringi qualcosa in un pugno e non aprirlo mai durante la scena. Guarda il pavimento quando parli di Doru: la cripta è lì sotto.
 
-***Ispirazioni.*** Oltre a Eddard Stark, Walter White e Boromir già indicati nel profilo: padre Karras (*L'esorcista*) per la fede in crisi, e Re Lear per il padre che perde tutto per amore.
+***Ispirazioni.*** Oltre a Eddard Stark, Walter White e Denethor già indicati nel profilo: padre Karras (*L'esorcista*) per la fede in crisi, e Re Lear per il padre che perde tutto per amore.
 
 ### Doru
 [[Non-Player Characters#Doru|Profilo]]
@@ -150,10 +150,10 @@ Materiale aggiuntivo per il DM, che non fa parte di *Curse of Strahd: Reloaded*.
 
 ***Tratti distintivi.***
 - Si copre la bocca con il braccio quando qualcuno ha una ferita aperta, come davanti a un cattivo odore.
-- Parla di Escher al presente, come se fosse ancora vivo e ancora suo amico.
+- Parla di Escher come dell'amico di sempre, anche se sa che Strahd ha trasformato anche lui.
 - Canticchia a denti stretti gli inni che cantava a messa, per non sentire la fame.
 
-***Segreto o legame con la trama.*** Doru nega con forza che Escher li abbia traditi, e sotto interrogatorio Strahd gli ha strappato il nome di Van Richten. *(Suggerimento.)* Al dito porta ancora l'anello che voleva dare a Gertruda. Se i giocatori glielo chiedono, lo affida a loro perché lo consegnino, e quella promessa può diventare un aggancio fino a Vallaki. Se i giocatori incontrano Escher al Castello di Ravenloft ([[Arc O - Dinner with the Devil|Arco O]]), il nome di Doru è una delle poche cose che lo fanno esitare.
+***Segreto o legame con la trama.*** Doru nega con forza che Escher li abbia traditi, e sotto interrogatorio Strahd gli ha strappato il nome di Van Richten. *(Suggerimento.)* Al dito porta ancora l'anello che voleva dare a Gertruda. Se i giocatori glielo chiedono, lo affida a loro perché lo consegnino, e quella promessa può diventare un aggancio fino a Vallaki e poi al Castello di Ravenloft, dove Gertruda si trova davvero. Se i giocatori incontrano Escher al Castello di Ravenloft ([[Arc O - Dinner with the Devil|Arco O]]), il nome di Doru è una delle poche cose che lo fanno esitare.
 
 ***Oggetto simbolico.*** Un anello di fidanzamento di rame, troppo largo per il dito dimagrito, che gira continuamente con il pollice.
 
@@ -219,7 +219,7 @@ Materiale aggiuntivo per il DM, che non fa parte di *Curse of Strahd: Reloaded*.
 ### Urwin Martikov
 [[Non-Player Characters#Urwin Martikov|Profilo]]
 
-***Biografia e motivazioni.*** Urwin è cresciuto all'azienda del Mago dei Vini, primogenito di Davian, e ne è uscito sbattendo la porta. Ha preso la Locanda dell'Acqua Azzurra, ha sposato Danika, ha cresciuto Brom e Bray, e intanto ha costruito a Vallaki la rete di spie dei Custodi della Piuma. Ride molto perché ha deciso così: un oste che ride non sembra uno che conta le guardie alla porta. Vuole crescere i figli in una valle dove un giorno ci sia il sole.
+***Biografia e motivazioni.*** Urwin è cresciuto all'azienda del Mago dei Vini, figlio di Davian e fratello maggiore di Elvir, Elric e Stefania. Dieci anni fa una gemma incantata sparì mentre era lui di guardia, e Davian lo accusò di essersi distratto a corteggiare Danika. Dopo una lite furibonda, Urwin se ne andò sbattendo la porta. Ha preso la Locanda dell'Acqua Azzurra, ha sposato Danika, ha cresciuto Brom e Bray, e intanto ha costruito a Vallaki la rete di spie dei Custodi della Piuma. Ride molto perché ha deciso così: un oste che ride non sembra uno che conta le guardie alla porta. Vuole crescere i figli in una valle dove un giorno ci sia il sole.
 
 ***Tratti distintivi.***
 - Pulisce sempre lo stesso punto del bancone mentre ascolta e si ferma quando sente qualcosa che gli interessa.
@@ -237,7 +237,7 @@ Materiale aggiuntivo per il DM, che non fa parte di *Curse of Strahd: Reloaded*.
 
 ***Voce e presenza al tavolo.*** Voce calda, ritmo da oste che ha sempre tre cose da fare. Al tavolo muovi le mani come se versassi da bere e abbassa di colpo la voce per le informazioni vere. Quando qualcuno nomina Davian, smetti di sorridere per un attimo, poi riprendi.
 
-***Ispirazioni.*** Oltre a Vander, Greg Universe e Bob Belcher già indicati nel profilo: Rick Blaine (*Casablanca*) per il locale che nasconde la resistenza.
+***Ispirazioni.*** Oltre a Vander, Greg Universe e Linda Belcher già indicati nel profilo: Rick Blaine (*Casablanca*) per il locale che nasconde la resistenza.
 
 ### Danika Dorakova
 [[Non-Player Characters#Danika Dorakova|Profilo]]
@@ -249,7 +249,7 @@ Materiale aggiuntivo per il DM, che non fa parte di *Curse of Strahd: Reloaded*.
 - Alza gli occhi al cielo quando Urwin fa una battuta, ma è lei a ridere per ultima.
 - Controlla dove sono i figli ogni volta che si apre la porta della locanda.
 
-***Segreto o legame con la trama.*** Danika è al vertice della rete informativa dei Custodi della Piuma. *(Suggerimento.)* Sotto un'asse del pavimento della cucina tiene uno zaino pronto per Brom e Bray, con cibo, monete e una lettera per i nonni all'azienda: se Vallaki cade, i ragazzi partono senza di lei. Nell'[[Arc U - Dreams of Dawn#U3k. Le conseguenze|Arco U]] è lei a portare le notizie ai giocatori se Urwin è morto.
+***Segreto o legame con la trama.*** Danika è un membro di alto rango dei Custodi della Piuma. *(Suggerimento.)* Sotto un'asse del pavimento della cucina tiene uno zaino pronto per Brom e Bray, con cibo, monete e una lettera per il nonno Davian all'azienda: se Vallaki cade, i ragazzi partono senza di lei. Nell'[[Arc U - Dreams of Dawn#U3k. Le conseguenze|Arco U]] è lei a portare le notizie ai giocatori se Urwin è morto.
 
 ***Oggetto simbolico.*** Un mestolo di ferro con il manico consumato, che usa per indicare, per minacciare e qualche volta per cucinare.
 
@@ -260,7 +260,7 @@ Materiale aggiuntivo per il DM, che non fa parte di *Curse of Strahd: Reloaded*.
 
 ***Voce e presenza al tavolo.*** Voce asciutta e veloce, frasi corte. Al tavolo non sederti: parla in piedi, come se dovessi tornare in cucina da un momento all'altro. Quando la scena si fa pericolosa, rallenta e guarda dritto il giocatore che ha parlato.
 
-***Ispirazioni.*** Oltre a Tenzin, Linda Belcher e Garnet già indicati nel profilo: Molly Weasley (*Harry Potter*) per la madre che non si piega, e Peggy Carter (*Agent Carter*) per l'efficienza da agente.
+***Ispirazioni.*** Oltre a Tenzin, Bob Belcher e Garnet già indicati nel profilo: Molly Weasley (*Harry Potter*) per la madre che non si piega, e Peggy Carter (*Agent Carter*) per l'efficienza da agente.
 
 ### Rudolph van Richten (Rictavio)
 [[Non-Player Characters#Travestito (come Rictavio)|Profilo da Rictavio]] · [[Non-Player Characters#Senza travestimento (come sé stesso)|profilo senza travestimento]]
@@ -421,7 +421,7 @@ Materiale aggiuntivo per il DM, che non fa parte di *Curse of Strahd: Reloaded*.
 
 ***Voce e presenza al tavolo.*** Voce piatta e annoiata, che si accende di colpo quando si parla di magia. Al tavolo evita di guardare i giocatori in faccia e guarda le loro mani, i loro oggetti, i loro simboli. Quando si appassiona, parla più veloce e dimentica di essere scontroso.
 
-***Ispirazioni.*** Oltre a Jonathan Byers, Zuko, Corvo e Perrin Aybara già indicati nel profilo: Victor Frankenstein (*Frankenstein*) per il genio solitario.
+***Ispirazioni.*** Oltre a Jonathan Byers, Zuko, Corvina e Perrin Aybara già indicati nel profilo: Victor Frankenstein (*Frankenstein*) per il genio solitario.
 
 ### Gadof Blinsky
 [[Non-Player Characters#Gadof Blinsky|Profilo]]
@@ -433,7 +433,7 @@ Materiale aggiuntivo per il DM, che non fa parte di *Curse of Strahd: Reloaded*.
 - Trema quando entra Izek e poi si scusa con la scimmietta Piccolo per aver tremato.
 - Presenta ogni giocattolo con un nome e una storia, anche quelli rotti.
 
-***Segreto o legame con la trama.*** Blinsky fabbrica per Izek bambole con il volto di Ireena, e ha avuto Piccolo da Rictavio ([[Arc E - The Missing Vistana|Arco E]]). Nel futuro del sogno ([[Arc U - Dreams of Dawn#U2b. La piazza di Vallaki|Arco U]]) vende a Stella una ruota delle fasi lunari costruita dopo la Grande Congiunzione. *(Suggerimento.)* Quella ruota può già esistere nel presente, come prototipo: se i giocatori la comprano, nel sogno la riconosceranno.
+***Segreto o legame con la trama.*** Blinsky fabbrica per Izek bambole con il volto di Ireena, e ha avuto la scimmietta Piccolo da «Alanik Ray», uno dei travestimenti di Van Richten ([[Arc E - The Missing Vistana|Arco E]]). Nel futuro del sogno ([[Arc U - Dreams of Dawn#U2b. La piazza di Vallaki|Arco U]]) vende a Stella una ruota delle fasi lunari costruita dopo la Grande Congiunzione. *(Suggerimento.)* Quella ruota può già esistere nel presente, come prototipo: se i giocatori la comprano, nel sogno la riconosceranno.
 
 ***Oggetto simbolico.*** Una ruota di legno dipinta che, girando, mostra le fasi della luna.
 
@@ -496,14 +496,14 @@ Materiale aggiuntivo per il DM, che non fa parte di *Curse of Strahd: Reloaded*.
 ### Kasimir Velikov
 [[Non-Player Characters#Kasimir Velikov|Profilo]]
 
-***Biografia e motivazioni.*** Kasimir guida gli ultimi elfi del crepuscolo, accampati accanto ai Vistani. Secoli fa sua sorella Patrina scelse Strahd e morì per questo; Rahadin, il cugino, mutilò le orecchie di Kasimir per punizione. Da allora Kasimir porta la colpa di quella morte e la speranza di rimediare. Ha scoperto che nel Tempio d'Ambra c'è un potere capace di riportare Patrina in vita e crede di poterla liberare dall'influenza di Strahd. Vuole proteggere la sua gente e riavere la sorella.
+***Biografia e motivazioni.*** Kasimir guida gli ultimi elfi del crepuscolo, accampati accanto ai Vistani. Quattro secoli fa sua sorella Patrina divenne consorte di Strahd e sua maestra di magia. Quando Kasimir scoprì il suo laboratorio segreto, con i cadaveri di sette vallakiani usati per la pozione che l'avrebbe resa una lich, la affrontò e la uccise. Alla sua gente raccontò una mezza verità, cioè che l'aveva uccisa per impedirle di diventare una vampira. Strahd rispose mandando Rahadin a massacrare tutte le donne e i bambini dell'accampamento. Da allora Kasimir porta la colpa di quelle morti e la speranza di rimediare. Ha scoperto che nel Tempio d'Ambra c'è un potere capace di riportare Patrina in vita e crede di poterla liberare dall'influenza di Strahd. Vuole proteggere la sua gente e riavere la sorella.
 
 ***Tratti distintivi.***
-- Tiene il cappuccio calato anche al chiuso, per coprire le orecchie.
+- Tiene il cappuccio calato anche al chiuso, come chi non vuole essere guardato troppo a lungo.
 - Parla dei morti al presente, come se fossero solo partiti.
 - Si interrompe a metà di una frase per correggere un dettaglio storico.
 
-***Segreto o legame con la trama.*** Kasimir vuole raggiungere il Tempio d'Ambra per resuscitare Patrina e si unisce ai giocatori in [[Arc R - Trials of the Mountain#R1. Reclutare Kasimir|R1. Reclutare Kasimir]]. Quello che trova nel tempio ([[Arc S - A Sword of Sunlight|Arco S]]) è molto diverso da quello che spera. *(Suggerimento.)* Kasimir sa che il suo piano è un patto oscuro e lo ammette solo se un giocatore gli chiede che cosa è disposto a perdere.
+***Segreto o legame con la trama.*** Kasimir vuole raggiungere il Tempio d'Ambra per resuscitare Patrina e si unisce ai giocatori in [[Arc R - Trials of the Mountain#R1. Reclutare Kasimir|R1. Reclutare Kasimir]]. Quello che trova nel tempio è molto diverso da quello che spera: nella cripta d'ambra Patrina lo tenta e gli chiede di schierarsi con lei contro i giocatori ([[Arc S - A Sword of Sunlight#La vendetta di Patrina|La vendetta di Patrina]]). *(Suggerimento.)* Kasimir sa che il suo piano è un patto oscuro e lo ammette solo se un giocatore gli chiede che cosa è disposto a perdere. Non ha mai detto a nessuno di aver ucciso la sorella con le sue mani: se lo confessa ai giocatori prima del tempio, resistere alla tentazione di Patrina gli sarà più facile.
 
 ***Oggetto simbolico.*** Un nastro di seta grigia che apparteneva a Patrina, avvolto intorno al polso sinistro.
 
@@ -543,25 +543,25 @@ Materiale aggiuntivo per il DM, che non fa parte di *Curse of Strahd: Reloaded*.
 ### Oratore della forca
 [[Non-Player Characters#Oratore della forca|Profilo]]
 
-***Biografia e motivazioni.*** L'oratore della forca nasce dagli spiriti di chi è morto impiccato, tenuti insieme dalla corda e dal rancore: un coro di voci che parlano una sopra l'altra, ognuna con la sua condanna da raccontare. Vuole che qualcuno paghi e non distingue più chi.
+***Biografia e motivazioni.*** L'oratore della forca nacque la notte in cui Strahd divenne un vampiro. Leo Dilisnya aveva mandato le guardie del castello contro di lui, e Lovina Wachter, sua sorella, aveva difeso Strahd con gli armigeri della famiglia. Strahd massacrò le guardie, innocenti e traditori senza distinzione, e i loro spiriti si fusero in un unico coro. Secoli dopo Leo, imprigionato come progenie vampirica sotto Wachterhaus, morì quando la giovane Fiona ruppe per caso l'amuleto di Lovina, e il suo spirito andò a ingrossare l'oratore. È la voce di Leo a guidarlo: odia i Wachter e cerca Stella, l'erede della sua antica nemica.
 
 ***Tratti distintivi.***
-- Ogni frase la pronunciano voci diverse, a volte in contraddizione.
-- Ripete i nomi dei giudici che hanno condannato i suoi morti.
-- Si ferma quando qualcuno pronuncia il nome di uno di loro.
+- Ogni frase la pronunciano voci diverse, a volte in contraddizione: guardie che giurano di aver solo eseguito gli ordini, e una voce più fredda che le zittisce.
+- Chiama Stella «Lovina» e i Wachter «traditori».
+- Compare riflesso negli specchi e nei vetri prima di farsi vedere davvero.
 
-***Segreto o legame con la trama.*** L'oratore della forca si affronta durante il rituale di restituzione dell'[[Arc H - The Lost Soul#H8b. Il rituale di restituzione|Arco H]]. *(Suggerimento.)* Fra le voci del coro ce n'è una più gentile, che implora i giocatori di liberarla: se un giocatore le parla direttamente, l'oratore esita per un round.
+***Segreto o legame con la trama.*** Lo spirito di Leo Dilisnya, attirato dall'incantesimo di Victor, ha reciso l'anima di Stella dal corpo ([[Arc H - The Lost Soul|Arco H: L'anima perduta]]), e l'oratore si affronta durante il [[Arc H - The Lost Soul#H8b. Il rituale di restituzione|rituale di restituzione]]. Né Victor né Stella sanno chi sia. *(Suggerimento.)* Fra le voci del coro ce n'è una più gentile, quella di una guardia rimasta fedele a Strahd e uccisa con i traditori, che implora i giocatori di liberarla: se un giocatore le parla direttamente, l'oratore esita per un round.
 
-***Oggetto simbolico.*** Una corda da impiccato tagliata, con un nodo per ogni voce.
+***Oggetto simbolico.*** L'amuleto di rubino in frantumi che Strahd forgiò per Lovina Wachter, quello che uccise Leo quando Fiona lo ruppe.
 
 ***Esempi di battute.***
-- «Colpevole! No, innocente! Colpevole! Che importa, ormai».
-- «Dite il mio nome. Nessuno l'ha detto quando sono salito sul palco».
+- «Colpevole! No, innocente! Colpevole! Lui non ha fatto differenza, perché dovremmo farla noi?»
+- «Lovina. Ti ho trovata. Sei piccola, adesso, ma ti ho trovata».
 - «Siamo tanti. Ci siamo stretti insieme per non cadere».
 
-***Voce e presenza al tavolo.*** Al tavolo puoi farlo parlare a frasi spezzate, alzando e abbassando la voce a ogni parola, come se cambiasse chi parla. Se un giocatore è disposto, chiedigli di leggere una delle voci mentre tu leggi l'altra.
+***Voce e presenza al tavolo.*** Al tavolo puoi farlo parlare a frasi spezzate, alzando e abbassando la voce a ogni parola, come se cambiasse chi parla. Quando parla Leo, la voce diventa lenta, nobile e velenosa. Se un giocatore è disposto, chiedigli di leggere una delle voci mentre tu leggi l'altra.
 
-***Ispirazioni.*** Il coro della tragedia greca e gli spiriti di *La sposa cadavere*.
+***Ispirazioni.*** Il coro della tragedia greca, gli spiriti di *La sposa cadavere* e, per Leo, Iago (*Otello*) per il traditore che non smette di tramare.
 
 ## Villaggio di Krezk
 ### Barone Dmitri Krezkov
@@ -615,19 +615,19 @@ Materiale aggiuntivo per il DM, che non fa parte di *Curse of Strahd: Reloaded*.
 ### Ezmerelda d'Avenir
 [[Non-Player Characters#Ezmerelda d'Avenir|Profilo]]
 
-***Biografia e motivazioni.*** Ezmerelda è cresciuta fra i carri dei d'Avenir, la famiglia vistana che anni fa rapì il piccolo Erasmus van Richten e lo vendette a un vampiro. Ha passato la vita a rimediare a una colpa che non era sua: ha cercato Van Richten, gli ha chiesto di insegnarle, ha perso la gamba destra e ha continuato lo stesso. Ora è venuta a Barovia per trovare il maestro e per dimostrargli che vale qualcosa. Vuole difendere gli innocenti e sentirsi, una volta, all'altezza.
+***Biografia e motivazioni.*** Ezmerelda è nata Radanavich, nella famiglia vistana che anni fa rapì il piccolo Erasmus van Richten e lo vendette a un vampiro. Era lontana quando il clan fu sterminato, e fu l'unica a salvarsi: la crebbero i Vistani dell'accampamento di Vallaki, come una sorella minore di Luvash e Arrigal, e lei cambiò nome. Crede che la sua famiglia l'abbia uccisa Strahd. A quindici anni lasciò Barovia e chiese a Van Richten di insegnarle; dopo due anni lui la cacciò dicendole che non sarebbe mai valsa niente. Qualche tempo dopo, il Terrore Nero le strappò la gamba destra sotto il ginocchio, e furono Dmitri e Anna Krezkov a salvarla. Ora è tornata per trovare il maestro e per dimostrargli che vale qualcosa. Vuole difendere gli innocenti e sentirsi, una volta, all'altezza.
 
 ***Tratti distintivi.***
 - Lancia in aria un dardo d'argento e lo riprende mentre parla, senza guardarlo.
 - Fa battute nei momenti peggiori, e le fa meglio quando ha paura.
 - Picchietta sulla protesi della gamba prima di un combattimento, come per salutarla.
 
-***Segreto o legame con la trama.*** Ezmerelda porta il peso del crimine dei genitori. Van Richten la tratta con durezza per via della maledizione, e lei crede che la consideri inadeguata: la verità si scopre in [[Arc T - The Three Fanes#T4. Il cacciatore di mostri|T4. Il cacciatore di mostri]]. *(Suggerimento.)* Non ha mai detto a Van Richten di essere una d'Avenir; ha paura che, saputolo, la manderebbe via.
+***Segreto o legame con la trama.*** Ezmerelda porta il peso del crimine dei genitori. Van Richten la tratta con durezza per via della maledizione, e lei crede che la consideri inadeguata: la verità si scopre in [[Arc T - The Three Fanes#T4. Il cacciatore di mostri|T4. Il cacciatore di mostri]], ed è più dura di quanto creda: a sterminare i Radanavich fu Van Richten. La gamba la deve a Kiril Stoyanovich, il Terrore Nero, e se ne ricorda quando lo rivede ([[Arc L - The Den of Wolves|Arco L]]).
 
-***Oggetto simbolico.*** La protesi della gamba destra, di legno e d'acciaio, con un piccolo scomparto segreto per un paletto d'argento.
+***Oggetto simbolico.*** La protesi color rame della gamba destra, costruita da Gadof Blinsky, che sotto lo stivale sembra uno stivale come un altro. *(Suggerimento.)* Ha uno scomparto segreto per un paletto d'argento.
 
 ***Esempi di battute.***
-- «Ho una gamba di legno e un pessimo carattere. La gamba, almeno, non si lamenta».
+- «Ho una gamba di metallo e un pessimo carattere. La gamba, almeno, non si lamenta».
 - «Il mio maestro? Brontolone, paranoico, insopportabile. Il migliore che esista».
 - «Se state per chiedermi se ho un piano, la risposta è sì. Più o meno. Ci sto lavorando».
 
@@ -638,7 +638,7 @@ Materiale aggiuntivo per il DM, che non fa parte di *Curse of Strahd: Reloaded*.
 ### L'Abate
 [[Non-Player Characters#Prima della redenzione|Profilo prima della redenzione]] · [[Non-Player Characters#Dopo la redenzione|profilo dopo la redenzione]]
 
-***Biografia e motivazioni.*** L'Abate è Ithuriel, un deva del Signore del Mattino mandato secoli fa a custodire la memoria di Santa Markovia. La solitudine e la disperazione di Barovia lo hanno corrotto piano piano, fino a fargli credere che la misericordia potesse passare per il bisturi. Ha cucito Vasilka da pezzi di donne morte per darla in sposa a Strahd e spezzare così la maledizione; tiene i Belview rinchiusi e al suo servizio; ha riportato in vita Kala Krezkova in cambio del cuore di Anna. Prima della redenzione vuole consegnare la sposa perfetta. Dopo, vuole riparare quello che ha fatto.
+***Biografia e motivazioni.*** L'Abate è Ithuriel, un deva del Signore del Mattino. Secoli fa fu lui a scegliere Markovia come profetessa, e venne all'Abbazia per onorarne e restaurarne l'eredità. I Poteri Oscuri lo hanno corrotto anello dopo anello: il primo lo forgiarono i Belview, e Strahd lo aiutò a cadere del tutto. Ora è convinto che la misericordia possa passare per il bisturi. Ha cucito Vasilka da pezzi di donne morte per darla in sposa a Strahd e spezzare così la maledizione; tiene i Belview rinchiusi e al suo servizio; ha riportato in vita Kala Krezkova in cambio del cuore di Anna. Prima della redenzione vuole consegnare la sposa perfetta. Dopo, vuole riparare quello che ha fatto.
 
 ***Tratti distintivi.***
 - Non sbatte mai le palpebre e sorride con la stessa dolcezza mentre benedice e mentre taglia.
@@ -800,21 +800,21 @@ Materiale aggiuntivo per il DM, che non fa parte di *Curse of Strahd: Reloaded*.
 ### Rahadin
 [[Non-Player Characters#Rahadin|Profilo]]
 
-***Biografia e motivazioni.*** Rahadin è un elfo del crepuscolo, cugino di Kasimir, adottato dai Von Zarovich e cresciuto accanto a Strahd come un fratello. Da secoli è il ciambellano del castello e l'esecutore della volontà del conte. Ha ucciso tanto che le urla dei morti lo seguono ovunque, un coro che chi gli sta vicino sente in testa. Vuole servire Strahd e non si è mai chiesto se volesse altro.
+***Biografia e motivazioni.*** Rahadin è un elfo del crepuscolo, figlio del principe Erevan Löwenhart e cugino di Kasimir, adottato dai Von Zarovich e cresciuto accanto a Strahd come un fratello. Fu lui, per ordine di Strahd, a massacrare le donne e i bambini dell'accampamento degli elfi del crepuscolo. Da secoli è il ciambellano del castello e l'esecutore della volontà del conte. Ha ucciso tanto che le urla dei morti lo seguono ovunque, un coro che chi gli sta vicino sente in testa. Vuole servire Strahd e non si è mai chiesto se volesse altro.
 
 ***Tratti distintivi.***
 - Non alza mai la voce: le urla dei morti fanno abbastanza rumore per lui.
 - Porta le scimitarre gemelle Spina e Catena anche a cena e le appoggia sul tavolo.
 - Chiama Strahd «mio signore» in pubblico e «fratello» solo quando crede di essere solo.
 
-***Segreto o legame con la trama.*** Rahadin mutilò le orecchie di Kasimir e porta il peso di secoli di omicidi ([[Arc O - Dinner with the Devil|Arco O]]). Nell'[[Arc T - The Three Fanes#T5d. Il Tempio della Montagna|Arco T]] diventa Rahadin il corrotto, toccato dall'ambra. *(Suggerimento.)* Ogni tanto, nel coro di urla, si sente una voce che Rahadin conosce: quella di Patrina. È l'unica che lo fa trasalire.
+***Segreto o legame con la trama.*** Rahadin porta il peso di secoli di omicidi, compreso il massacro della gente di Kasimir ([[Arc O - Dinner with the Devil|Arco O]]). Negli ultimi secoli, a differenza di Strahd, è invecchiato: per porre rimedio a quella «debolezza» è andato al Tempio d'Ambra a prendersi i doni delle vestigia, e nell'[[Arc T - The Three Fanes#T5d. Il Tempio della Montagna|Arco T]] i giocatori lo trovano trasformato. *(Suggerimento.)* Nel coro di urla c'è la voce di una bambina elfa del crepuscolo che canta una filastrocca. È l'unica che lo fa trasalire.
 
 ***Oggetto simbolico.*** Le scimitarre gemelle Spina e Catena, che non pulisce mai del tutto.
 
 ***Esempi di battute.***
 - «Il conte vi riceverà. Io no. Io vi osserverò».
 - «Sentite le voci? Sono quelli che hanno dubitato di lui. Fateci l'abitudine».
-- «Mio cugino vi ha mandato? Ditegli che le sue orecchie non sono ricresciute per un motivo».
+- «Mio cugino vi ha mandato? Ditegli che il suo accampamento è ancora troppo silenzioso. Lui capirà».
 
 ***Voce e presenza al tavolo.*** Voce calma, piatta, cortese. Al tavolo resta perfettamente immobile e parla pochissimo. Se vuoi rendere il coro dei morti, abbassa le luci o fai partire un sottofondo di sussurri quando Rahadin entra in scena.
 
@@ -846,14 +846,14 @@ Materiale aggiuntivo per il DM, che non fa parte di *Curse of Strahd: Reloaded*.
 ### Gertruda
 [[Non-Player Characters#Gertruda|Profilo]]
 
-***Biografia e motivazioni.*** Gertruda è la figlia di Mad Mary del villaggio di Barovia e la promessa sposa di Doru. Cresciuta in casa, protetta fino al soffocamento, ha letto troppe storie per credere che le cose possano andare male per sempre. Quando Doru non è tornato, è partita da sola. Vuole sapere che Doru sta bene, vuole tornare dalla madre a dirle che è viva e vuole, un giorno, vivere una favola.
+***Biografia e motivazioni.*** Gertruda è la figlia di Mary la Pazza del villaggio di Barovia e la promessa sposa di Doru. Cresciuta in casa, protetta fino al soffocamento, ha letto troppe storie per credere che le cose possano andare male per sempre. Quando Doru non è tornato, è partita da sola per chiedere aiuto a Vallaki, ma sulla strada l'ha fermata la carrozza nera di Strahd, e ora è sua «ospite d'onore» al castello. Vuole sapere che Doru sta bene, vuole tornare dalla madre a dirle che è viva e vuole, un giorno, vivere una favola.
 
 ***Tratti distintivi.***
 - Vede il lato buono di tutto, anche dove non c'è, e lo dice ad alta voce.
 - Racconta favole a chiunque abbia paura, compresi i giocatori.
 - Si mette a cantare quando è nervosa, stonando.
 
-***Segreto o legame con la trama.*** Gertruda è un'amica d'infanzia di Ireena e ha un'alleata segreta in Sasha. Doru e Donavich la cercano fino a Vallaki ([[Arc O - Dinner with the Devil#O1. L'invito|Arco O]]). *(Suggerimento.)* Gertruda porta con sé un libro di favole con una dedica di Doru: se lo mostra a Doru, o a Escher, la scena cambia.
+***Segreto o legame con la trama.*** Gertruda è un'amica d'infanzia di Ireena e ha un'amica sincera in Sasha. Doru e Donavich la cercano fino a Vallaki ([[Arc O - Dinner with the Devil#O1. L'invito|Arco O]]). Senza saperlo, Gertruda è sotto l'ammaliamento di Strahd dal giorno in cui è arrivata al castello: è stato lui a dirle di chiedere aiuto a Sasha per fuggire, perché la sua liberazione è l'esca per attirare i giocatori al castello e misurarli contro le spose. *(Suggerimento.)* Gertruda porta con sé un libro di favole con una dedica di Doru: se lo mostra a Doru, o a Escher, la scena cambia.
 
 ***Oggetto simbolico.*** Un libro di favole consumato, con una dedica a matita sulla prima pagina.
 
@@ -893,7 +893,7 @@ Materiale aggiuntivo per il DM, che non fa parte di *Curse of Strahd: Reloaded*.
 ### Davian Martikov
 [[Non-Player Characters#Davian Martikov|Profilo]]
 
-***Biografia e motivazioni.*** Davian è il patriarca dei Martikov e il capo anziano dei Custodi della Piuma, vedovo di Mirabel. Ha costruito l'azienda vinicola, ha cresciuto quattro figli e ne ha perso un quinto, Elric. Con Urwin ha litigato e non ha mai fatto pace. Burbero, testardo e orgoglioso, ama la famiglia con una ferocia che non sa dire. Vuole riprendersi l'azienda, proteggere le gemme rimaste e continuare a fare il vino, che per la valle è l'unico conforto.
+***Biografia e motivazioni.*** Davian è il patriarca dei Martikov e il capo anziano dei Custodi della Piuma, vedovo di Angelika Oraonova. Ha costruito l'azienda vinicola, ha cresciuto quattro figli e ne ha perso un quinto: Elric, che aveva cacciato dall'azienda per aver disobbedito e seguito Doru, e che morì poco dopo al Castello di Ravenloft. In pubblico dice che Elric era uno sciocco. Con Urwin ha litigato dieci anni fa, per la gemma rubata, e non ha mai fatto pace. Burbero, testardo e orgoglioso, ama la famiglia con una ferocia che non sa dire. Vuole riprendersi l'azienda, proteggere le gemme rimaste e continuare a fare il vino, che per la valle è l'unico conforto.
 
 ***Tratti distintivi.***
 - Assaggia il vino di chiunque e lo giudica ad alta voce, sempre male.
@@ -907,7 +907,7 @@ Materiale aggiuntivo per il DM, che non fa parte di *Curse of Strahd: Reloaded*.
 ***Esempi di battute.***
 - «Questo lo chiamate vino? A Vallaki lo usano per pulire le stalle».
 - «Quello di Vallaki ha fatto le sue scelte. Io ho fatto le mie. Ora versate».
-- «Mirabel diceva che il vino migliora con il tempo. Io no».
+- «Angelika diceva che il vino migliora con il tempo. Io no».
 
 ***Voce e presenza al tavolo.*** Voce brontolante, frasi secche. Al tavolo incrocia le braccia e guarda i giocatori dal basso in alto. Quando la scena tocca Urwin, sciogli le braccia per un attimo, poi rincrociale.
 
@@ -947,7 +947,7 @@ Materiale aggiuntivo per il DM, che non fa parte di *Curse of Strahd: Reloaded*.
 - Chiama i più deboli «bocconcino» o «topolino».
 - Ride piano quando qualcuno lo sfida, come se avesse aspettato solo quello.
 
-***Segreto o legame con la trama.*** Kiril è il Terrore Nero dei racconti dei baroviani ([[Arc L - The Den of Wolves|Arco L]]), e la sua sfida finale ai giocatori arriva in [[Arc Q - A Shining Beacon#Q5b. La sfida di Kiril|Q5b. La sfida di Kiril]]. *(Suggerimento.)* Kiril teme una sola cosa: fare la fine di Emil, il capobranco che ha deposto e che ora marcisce nelle segrete del Castello di Ravenloft.
+***Segreto o legame con la trama.*** Kiril è il Terrore Nero, il lupo mannaro dal pelo color carbone che ha strappato la gamba a Ezmerelda ([[Arc L - The Den of Wolves|Arco L]]), e la sua sfida finale ai giocatori arriva in [[Arc Q - A Shining Beacon#Q5b. La sfida di Kiril|Q5b. La sfida di Kiril]]. *(Suggerimento.)* Kiril teme una sola cosa: fare la fine di Emil, il capobranco che ha deposto e che ora marcisce nelle segrete del Castello di Ravenloft.
 
 ***Oggetto simbolico.*** Una collana di denti umani e di lupo, uno per ogni sfida vinta.
 
@@ -971,7 +971,7 @@ Materiale aggiuntivo per il DM, che non fa parte di *Curse of Strahd: Reloaded*.
 - Manda ai giocatori emozioni improvvise: curiosità, solletico, malinconia.
 - Gioca a far sparire piccoli oggetti e li restituisce solo a chi le piace.
 
-***Segreto o legame con la trama.*** Zorya può dare ai giocatori le fiamme d'argento che servono ad accendere il faro e a invocare lo spirito di Argynvost ([[Arc M - The Dragon's Manor|Arco M]]). *(Suggerimento.)* Zorya conserva un ricordo di Argynvost che mostra solo a chi le ha restituito un oggetto: il drago che ride, una volta, in forma umana.
+***Segreto o legame con la trama.*** Zorya può dare ai giocatori le fiamme d'argento che servono ad accendere il braciere del gargoyle e a invocare lo spirito di Argynvost ([[Arc M - The Dragon's Manor|Arco M]]). *(Suggerimento.)* Zorya conserva un ricordo di Argynvost che mostra solo a chi le ha restituito un oggetto: il drago che ride, una volta, in forma umana.
 
 ***Oggetto simbolico.*** Una fiammella d'argento che le danza sopra la testa quando è contenta.
 
@@ -994,7 +994,7 @@ Materiale aggiuntivo per il DM, che non fa parte di *Curse of Strahd: Reloaded*.
 - Dice «tanto è inutile» prima di aiutare comunque.
 - Tiene il conto dei giorni passati dalla caduta e corregge chi sbaglia.
 
-***Segreto o legame con la trama.*** Marek era amico intimo di Vladimir e di Godfrey ([[Arc M - The Dragon's Manor#M6c. La galleria del piano di sopra|M6c]]); se i giocatori riescono a convincerlo, diventa una guida per la dimora. *(Suggerimento.)* Marek ricorda le nozze di Vladimir e Godfrey, che ha celebrato lui stesso: può essere la chiave per far ricordare a Vladimir chi era.
+***Segreto o legame con la trama.*** Marek era amico intimo di Vladimir e di Godfrey ([[Arc M - The Dragon's Manor#M6c. La galleria del piano di sopra|M6c]]); se i giocatori riescono a convincerlo, diventa una guida per la dimora. *(Suggerimento.)* Marek ricorda le nozze di Vladimir e Godfrey, che ha celebrato lui stesso, anche se i due sposi le hanno dimenticate. Se i giocatori gli mostrano le due fedi trovate nella botte, Marek le riconosce e racconta la cerimonia: può essere la chiave per far ricordare a Vladimir chi era.
 
 ***Oggetto simbolico.*** Un libro di preghiere con metà delle pagine strappate, quelle «inutili».
 
@@ -1010,21 +1010,21 @@ Materiale aggiuntivo per il DM, che non fa parte di *Curse of Strahd: Reloaded*.
 ### Sir Godfrey Gwilym
 [[Non-Player Characters#Sir Godfrey Gwilym|Profilo]]
 
-***Biografia e motivazioni.*** Godfrey era un paladino dell'Ordine del Drago d'Argento e il marito di Vladimir Horngaard. Morì con l'Ordine e tornò come revenant, ma il giuramento di vendetta di Vladimir non ha spento il suo amore. Vladimir invece non ricorda più il loro legame, cancellato dalla furia. Godfrey vuole trovare persone capaci di ascoltare lo spirito di Argynvost, accendere il faro e liberare Vladimir dalla spirale d'odio.
+***Biografia e motivazioni.*** Godfrey era un paladino dell'Ordine del Drago d'Argento e il marito di Vladimir Horngaard. La notte prima dell'ultima battaglia i due nascosero le fedi nuziali, perché non finissero nel bottino di Strahd, e giurarono di tornare a prenderle. Morirono entrambi e tornarono come revenant, e la non morte ha cancellato a tutti e due il ricordo degli anelli e dell'amore che li univa. A Godfrey resta una lealtà verso il comandante che non sa spiegare. Vuole trovare persone capaci di ascoltare lo spirito di Argynvost e liberare l'Ordine dalla spirale d'odio.
 
 ***Tratti distintivi.***
 - Si inginocchia per salutare, come un tempo davanti ad Argynvost.
-- Parla di Vladimir sempre al presente, come di un uomo che tornerà.
-- Si porta la mano all'anello quando qualcuno nomina il comandante.
+- Difende Vladimir anche quando gli dà torto, e non sa dire perché.
+- Si tocca l'anulare sinistro, nudo, quando qualcuno nomina il comandante.
 
-***Segreto o legame con la trama.*** Godfrey guida i giocatori verso la richiesta di Argynvostholt ([[Arc M - The Dragon's Manor#M3c. La Cappella del Mattino|M3c]]). L'anello che porta ha inciso il motto dell'Ordine, «Da ora fino alla fine dei giorni», lo stesso del giuramento. Nelle visioni della battaglia finale ([[Arc U - Dreams of Dawn#Visioni di vita|Arco U]]) combatte accanto a Vladimir: se i giocatori li hanno riavvicinati, è una riunione.
+***Segreto o legame con la trama.*** Godfrey guida i giocatori verso la richiesta di Argynvostholt ([[Arc M - The Dragon's Manor#M3c. La Cappella del Mattino|M3c]]). Le due fedi d'argento sono ancora nella botte dove le nascosero, con incise le parole «Da ora fino alla fine dei giorni», le stesse del giuramento dell'Ordine ([[Arc M - The Dragon's Manor|Arco M]]). Nelle visioni della battaglia finale ([[Arc U - Dreams of Dawn#Visioni di vita|Arco U]]) combatte accanto a Vladimir: se i giocatori hanno restituito loro gli anelli, è una riunione.
 
-***Oggetto simbolico.*** Un anello d'argento con il motto «Da ora fino alla fine dei giorni».
+***Oggetto simbolico.*** La fede d'argento con il motto «Da ora fino alla fine dei giorni», chiusa in una botte e dimenticata.
 
 ***Esempi di battute.***
 - «Il comandante non è malvagio. È solo rimasto troppo a lungo al buio».
-- «Accendete il faro, vi prego. Lui lo vedrà. Deve vederlo».
-- «Da ora fino alla fine dei giorni. L'ho giurato due volte. Lo giurerei ancora».
+- «Accendete il braciere, vi prego. Se Argynvost parla, forse anche lui ascolterà».
+- «Da ora fino alla fine dei giorni. Le ho dette tante volte, queste parole. Perché mi sembra che una volta contassero di più?»
 
 ***Voce e presenza al tavolo.*** Voce grave e gentile, ritmo solenne. Al tavolo stai dritto e parla con lentezza. Quando nomina Vladimir, abbassa la voce come in chiesa.
 
@@ -1040,9 +1040,9 @@ Materiale aggiuntivo per il DM, che non fa parte di *Curse of Strahd: Reloaded*.
 - Risponde a ogni domanda con la stessa domanda: «Servite la vendetta o la ostacolate?»
 - Guarda verso il castello, a est, mentre parla con chiunque.
 
-***Segreto o legame con la trama.*** Vladimir veglia sul faro di Argynvostholt ([[Arc M - The Dragon's Manor#M7b. Il faro|M7b. Il faro]]) e preferisce che Strahd non muoia mai. Nel ritorno ad Argynvostholt ([[Arc Q - A Shining Beacon#Q6. Ritorno ad Argynvostholt|Arco Q]]) la sua vendetta si scontra con la speranza dei giocatori. *(Suggerimento.)* Al dito porta lo stesso anello di Godfrey, e non ricorda perché. Se un giocatore gli chiede che cosa c'è scritto, Vladimir legge il motto e si ferma.
+***Segreto o legame con la trama.*** Vladimir veglia sul faro di Argynvostholt ([[Arc M - The Dragon's Manor#M7b. Il faro|M7b. Il faro]]) e preferisce che Strahd non muoia mai. Nel ritorno ad Argynvostholt ([[Arc Q - A Shining Beacon#Q6. Ritorno ad Argynvostholt|Arco Q]]) la sua vendetta si scontra con la speranza dei giocatori. Ha dimenticato Godfrey e le fedi che nascosero insieme ([[Arc M - The Dragon's Manor|Arco M]]). *(Suggerimento.)* Se un giocatore gli mette in mano la sua fede, Vladimir legge le parole incise e si ferma.
 
-***Oggetto simbolico.*** Lo stesso anello d'argento di Godfrey, con il motto «Da ora fino alla fine dei giorni», che non ricorda di aver ricevuto.
+***Oggetto simbolico.*** La fede d'argento con il motto «Da ora fino alla fine dei giorni», gemella di quella di Godfrey, che non ricorda di aver portato.
 
 ***Esempi di battute.***
 - «Strahd non morirà. Morire sarebbe una misericordia».
@@ -1065,7 +1065,7 @@ Materiale aggiuntivo per il DM, che non fa parte di *Curse of Strahd: Reloaded*.
 - Accarezza un rospo invisibile sulla spalla (è Jakarion) e gli parla sottovoce.
 - Sobbalza a ogni rumore e accusa chi gli sta accanto di averlo fatto apposta.
 
-***Segreto o legame con la trama.*** Vilnius ha avvelenato Exethanter e finché Jakarion vive non può morire davvero ([[Arc S - A Sword of Sunlight|Arco S]]). *(Suggerimento.)* Vilnius ha paura che Exethanter, ora un lich smemorato, si ricordi di lui: se i giocatori minacciano di dirglielo, Vilnius è disposto a quasi tutto.
+***Segreto o legame con la trama.*** Vilnius ha avvelenato Exethanter e finché Jakarion vive non può morire davvero ([[Arc S - A Sword of Sunlight|Arco S]]). *(Suggerimento.)* Vilnius ha paura che lo spirito di Exethanter, che Patrina ha sigillato nell'ambra secoli fa, venga liberato e si ricordi di lui: se i giocatori minacciano di farlo, Vilnius è disposto a quasi tutto.
 
 ***Oggetto simbolico.*** Una brocca d'argento incrinata, che tiene con sé e non riempie mai.
 
@@ -1081,21 +1081,21 @@ Materiale aggiuntivo per il DM, che non fa parte di *Curse of Strahd: Reloaded*.
 ### Patrina
 [[Non-Player Characters#Patrina|Profilo]]
 
-***Biografia e motivazioni.*** Patrina Velikovna era un'arcimaga elfa del crepuscolo, sorella di Kasimir. Dopo che Strahd schiacciò la ribellione degli elfi, scoprì il Tempio d'Ambra e il sapere che custodiva e cercò di diventare un lich usando l'elsa della *Spada del Sole* come filatterio. Fallì. Ora è uno spettro vendicativo, nascosto in un semipiano dentro la prigione del Vampyr, avido di potere e di vendetta. Vuole completare quello che aveva cominciato e vuole che il mondo che l'ha condannata se ne accorga.
+***Biografia e motivazioni.*** Patrina Velikovna era un'arcimaga elfa del crepuscolo, sorella maggiore di Kasimir. Dopo che Strahd schiacciò la ribellione degli elfi, trovò il Tempio d'Ambra, si fece allieva del fantasma di Exethanter e poi lo sigillò nell'ambra. Attirò Strahd al tempio con promesse di immortalità, divenne sua consorte e sua maestra di magia e intanto preparava in segreto la propria trasformazione in lich, con l'elsa della *Lama Lucente* come filatterio. Le mancava solo la pozione, preparata con le vite di sette vallakiani, quando Kasimir la scoprì e la uccise. La sua anima è rimasta intrappolata nel filatterio, in un semipiano dentro il sarcofago del Vampyr. Vuole completare quello che aveva cominciato, prendersi il potere di Strahd e diventare la regina di un popolo elfico rimesso in cima al mondo.
 
 ***Tratti distintivi.***
-- Parla di sé al plurale maiestatico, come la regina che pensava di diventare.
+- Sbuffa e alza gli occhi al cielo quando parla di chiunque non sia lei, Strahd compreso.
 - Si interrompe per correggere chi sbaglia un nome antico o una formula.
 - Chiama Kasimir «il mio fratellino», con un affetto che non si capisce se sia vero.
 
-***Segreto o legame con la trama.*** Patrina ha nascosto l'elsa della *Spada del Sole*, che voleva fare suo filatterio, e la sua vendetta si scatena in [[Arc S - A Sword of Sunlight#S6c. La cripta d'ambra|S6c. La cripta d'ambra]]. Kasimir vuole riportarla in vita. *(Suggerimento.)* Patrina non odia Kasimir: lo disprezza per non averla seguita. Se lui è presente, Patrina gli offre di unirsi a lei, ed è l'unico momento in cui esita a combattere.
+***Segreto o legame con la trama.*** Patrina ha nascosto l'elsa della *Spada del Sole* sotto «le radici del potere di Strahd», e la sua vendetta si scatena in [[Arc S - A Sword of Sunlight#S6c. La cripta d'ambra|S6c. La cripta d'ambra]]. Kasimir vuole riportarla in vita, ma è stato lui a ucciderla. Se Kasimir è presente, Patrina gli rinfaccia il fratricidio e cerca di portarlo dalla sua parte contro i giocatori ([[Arc S - A Sword of Sunlight#La vendetta di Patrina|La vendetta di Patrina]]). *(Suggerimento.)* Se Kasimir la respinge, è l'unico momento in cui la sua maschera di ironia cede per un istante, prima della rabbia.
 
 ***Oggetto simbolico.*** L'elsa spezzata della *Spada del Sole*, che lei considera sua.
 
 ***Esempi di battute.***
-- «Noi abbiamo studiato per secoli. Voi siete entrati da una porta. Che offesa».
+- «Io ho studiato per secoli. Voi siete entrati da una porta. Che offesa».
 - «Il mio fratellino vi ha mandato? Che dolce. Che inutile».
-- «Strahd ci ha promesso il mondo. Noi abbiamo deciso di prenderlo da sole».
+- «Io a Strahd ho promesso l'immortalità. Lui l'ha presa da un'altra parte. Gli uomini sono così impazienti».
 
 ***Voce e presenza al tavolo.*** Voce alta, regale, con un'eco gelida. Al tavolo siedi ben dritto e guarda i giocatori dall'alto in basso. Quando parla di Kasimir, abbassa il tono per un istante, poi riprendi quello regale.
 
@@ -1105,7 +1105,7 @@ Materiale aggiuntivo per il DM, che non fa parte di *Curse of Strahd: Reloaded*.
 ### Baba Lysaga
 [[Non-Player Characters#Baba Lysaga|Profilo]]
 
-***Biografia e motivazioni.*** Baba Lysaga ha cresciuto Strahd quando era bambino e da allora si considera sua madre. Ha vissuto più a lungo di quanto dovrebbe grazie alla magia di Madre Notte e regna sulle rovine di Berez dalla sua capanna strisciante. I druidi la chiamano Madre delle Tenebre e i corvi Flagello dei Corvi. Vuole proteggere il suo «figlio» da chiunque, anche da sé stesso, e punire chi lo minaccia.
+***Biografia e motivazioni.*** Baba Lysaga ha cresciuto Strahd quando era bambino e da allora si considera sua madre. Ha vissuto più a lungo di quanto dovrebbe grazie alla magia di Madre Notte e regna sulle rovine di Berez dalla sua capanna strisciante. I druidi del Popolo della Foresta la chiamano Madre delle Tenebre e Flagello dei Corvi. Vuole proteggere il suo «figlio» da chiunque, anche da sé stesso, e punire chi lo minaccia.
 
 ***Tratti distintivi.***
 - Parla di Strahd come di un bambino: «il mio piccolo», «il mio bel principe».
