@@ -3015,18 +3015,18 @@ Nell'interpretare i membri della famiglia Martikov, tieni presenti le seguenti i
 
 ## Vilnius
 **Interpretazione**
-***Risonanza.*** Vilnius deve suscitare diffidenza per la sua natura viscida e ambigua, pietà per il terrore viscerale che prova verso il suo maestro Jakarion e gli orrori del Tempio, e costante inquietudine per la facilità con cui ricorre a illusioni e inganni per salvarsi la pelle.
+***Risonanza.*** Vilnius deve suscitare diffidenza per la sua natura viscida e ambigua, pietà per il terrore viscerale che prova verso gli orrori del Tempio e verso il ricordo del maestro che ha tradito, Exethanter, e costante inquietudine per la facilità con cui ricorre a illusioni e inganni per salvarsi la pelle.
 
 ***Emozioni.*** Terrorizzato, paranoico, servile, opportunista, disperato e guardingo.
 
-***Motivazioni.*** Fuggire vivo dal Tempio d'Ambra, sottrarsi alla tirannia del suo maestro Jakarion e impadronirsi di abbastanza segreti arcani da assicurarsi la sopravvivenza.
+***Motivazioni.*** Fuggire vivo dal Tempio d'Ambra, sottrarsi ai Poteri Oscuri, di cui è il primo prigioniero, e impadronirsi di abbastanza segreti arcani da assicurarsi la sopravvivenza.
 
 ***Ispirazioni.*** Nell'interpretare Vilnius, ispirati a Peter Minus (*Harry Potter*), a Gríma Vermilinguo (*Il Signore degli Anelli*) e a Gollum (*Il Signore degli Anelli*).
 
 ***Voce e presenza al tavolo.*** Voce stridula, sussurrata e spezzata da singhiozzi d'ansia. Si muove rasentando le pareti d'ambra, coperto da una tunica accademica bruciacchiata e logora; le sue mani tremano convulsamente mentre giocherella con un pugnale rituale o accarezza la testa del suo topo famiglio. Guarda continuamente alle proprie spalle, sobbalzando a ogni scricchiolio del tempio.
 
 ***Esempi di battute.***
-- «Per favore... non colpite! Sono soltanto un apprendista, uno studioso intrappolato in questo sepolcro gelato. Il mio maestro Jakarion... è impazzito, la fiamma lo ha divorato!»
+- «Per favore... non colpite! Sono soltanto un apprendista, uno studioso intrappolato in questo sepolcro gelato. Il mio maestro Exethanter... è impazzito, la fiamma lo ha divorato!»
 - «I sarcofagi sussurrano... sussurrano promesse di potere e immortalità a chiunque si avvicini. Non toccateli! Chi ascolta quelle voci non torna mai più indietro.»
 - «Se mi aiutate a uscire da questo inferno, vi mostrerò dove sono custoditi i tomi segreti. Ma dobbiamo fare in fretta: sento i passi dei guardiani nell'ombra!»
 
@@ -3035,7 +3035,7 @@ Nell'interpretare i membri della famiglia Martikov, tieni presenti le seguenti i
 
 ***Morale.*** Evita lo scontro diretto: lancia illusioni per confondere e disorientare i nemici, teletrasportandosi lontano o fingendosi innocuo per colpire alle spalle o fuggire.
 
-***Relazioni.*** Apprendista del defunto mago Jakarion, intrappolato insieme a lui nelle profondità del Tempio d'Ambra.
+***Relazioni.*** Ex apprendista di Exethanter, che ha avvelenato; legato nell'anima al suo famiglio, il quasit Jakarion; primo prigioniero dei Poteri Oscuri nel Tempio d'Ambra.
 
 <div class="statblock">
 <h2>Vilnius, primo prigioniero</h2>
