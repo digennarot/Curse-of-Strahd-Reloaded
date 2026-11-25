@@ -39,7 +39,7 @@ Le missioni dell'Atto III diventano disponibili e si concludono come indicato ne
 | K: L'abbazia caduta          | –   | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
 | L: La tana dei lupi          | –   | –   | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
 | M: Il maniero del drago      | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| N: Racconti di Vallaki       | –   | –   | –   | –   | –   | –   | –   | –   |
+| N: Racconti di Vallaki       | –   | –   | –   | 🟢  | 🟢  | 🟢  | –   | –   |
 | O: Cena con il diavolo       | –   | –   | –   | –   | –   | 🔶  | ❌   | ❌   |
 | P: Il colpo a Ravenloft      | –   | –   | –   | –   | –   | –   | 🔶  | ❌   |
 | Q: Un faro splendente        | –   | –   | –   | –   | –   | –   | –   | 🔶  |
@@ -50,7 +50,7 @@ Il percorso più comune attraverso l'Atto III è questo:
 * **Neyavr 10.** I giocatori raggiungono l'azienda vinicola del Mago dei Vini e sconfiggono i druidi del Popolo della Foresta che la occupano, nell'[[Arc J - The Stolen Gem|Arco J: La gemma rubata]].
 * **Neyavr 11.** All'alba i giocatori raggiungono la Collina di Yester e fermano il rituale per evocare l'**albero infestante** Wintersplinter nell'[[Arc J - The Stolen Gem|Arco J: La gemma rubata]]. Poi incontrano Ezmerelda d'Avenir nel villaggio di Krezk e tengono una seduta spiritica all'Abbazia di Santa Markovia nell'[[Arc K - The Fallen Abbey|Arco K: L'abbazia caduta]], e al calar della notte sorvegliano la tana dei lupi mannari nell'[[Arc L - The Den of Wolves|Arco L: La tana dei lupi]].
 * **Neyavr 12.** I giocatori indagano ad Argynvostholt nell'[[Arc M - The Dragon's Manor|Arco M: Il maniero del drago]].
-* **Neyavr 13.** I giocatori si prendono una giornata di pausa.
+* **Neyavr 13.** I giocatori si prendono una giornata di pausa a Vallaki, nell'[[Arc N - Tales of Vallaki|Arco N: Racconti di Vallaki]].
 * **Neyavr 14.** Al tramonto i giocatori cenano con Strahd nell'[[Arc O - Dinner with the Devil|Arco O: Cena con il diavolo]] (🔶).
 * **Neyavr 15 (luna nuova).** Al tramonto i giocatori si infiltrano nel Castello di Ravenloft, poi fuggono attraverso il braciere di teletrasporto nell'[[Arc P - Ravenloft Heist|Arco P: Il colpo a Ravenloft]] (🔶).
 * **Neyavr 16.** I giocatori accendono il faro di Argynvostholt e sconfiggono il lupo mannaro Kiril Stoyanovich nell'[[Arc Q - A Shining Beacon|Arco Q: Un faro splendente]] (🔶).
@@ -60,8 +60,8 @@ In alternativa, i giocatori particolarmente rapidi potrebbero seguire questo per
 * **Neyavr 9.** I giocatori ricevono la richiesta di Urwin Martikov che apre l'[[Arc J - The Stolen Gem|Arco J: La gemma rubata]] (🔶), poi indagano ad Argynvostholt nell'[[Arc M - The Dragon's Manor|Arco M: Il maniero del drago]].
 * **Neyavr 10.** I giocatori raggiungono l'azienda vinicola del Mago dei Vini e sconfiggono i druidi del Popolo della Foresta che la occupano, nell'[[Arc J - The Stolen Gem|Arco J: La gemma rubata]].
 * **Neyavr 11.** All'alba i giocatori raggiungono la Collina di Yester e fermano il rituale per evocare l'**albero infestante** Wintersplinter nell'[[Arc J - The Stolen Gem|Arco J: La gemma rubata]]. Poi incontrano Ezmerelda d'Avenir e tengono una seduta spiritica nell'[[Arc K - The Fallen Abbey|Arco K: L'abbazia caduta]], e sorvegliano la tana dei lupi mannari nell'[[Arc L - The Den of Wolves|Arco L: La tana dei lupi]].
-* **Neyavr 12.** I giocatori si prendono una giornata di pausa.
-* **Neyavr 13.** I giocatori si prendono una giornata di pausa.
+* **Neyavr 12.** I giocatori si prendono una giornata di pausa a Vallaki, nell'[[Arc N - Tales of Vallaki|Arco N: Racconti di Vallaki]].
+* **Neyavr 13.** I giocatori si prendono una giornata di pausa a Vallaki, nell'[[Arc N - Tales of Vallaki|Arco N: Racconti di Vallaki]].
 * **Neyavr 14.** I giocatori si prendono una giornata di pausa, poi al tramonto cenano con Strahd nell'[[Arc O - Dinner with the Devil|Arco O: Cena con il diavolo]] (🔶).
 * **Neyavr 15 (luna nuova).** Al tramonto i giocatori si infiltrano nel Castello di Ravenloft, poi fuggono attraverso il braciere di teletrasporto nell'[[Arc P - Ravenloft Heist|Arco P: Il colpo a Ravenloft]] (🔶).
 * **Neyavr 16.** I giocatori accendono il faro di Argynvostholt e sconfiggono il lupo mannaro Kiril Stoyanovich nell'[[Arc Q - A Shining Beacon|Arco Q: Un faro splendente]] (🔶).

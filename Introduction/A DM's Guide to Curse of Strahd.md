@@ -112,7 +112,7 @@ Puoi [[Using This Guide|cliccare qui]] per sapere come usare e leggere questa gu
 [[Arc K - The Fallen Abbey|Arco K: L'abbazia caduta]]. I giocatori trovano un nuovo alleato e risanano la divinità corrotta dell'Abate.
 [[Arc L - The Den of Wolves|Arco L: La tana dei lupi]]. I giocatori sorvegliano una tana di lupi mannari e vi si infiltrano.
 [[Arc M - The Dragon's Manor|Arco M: Il maniero del drago]]. I giocatori indagano in un maniero infestato e portano alla luce il messaggio del drago d'argento Argynvost.
-[[Arc N - Tales of Vallaki|Arco N: Racconti di Vallaki]]. In arrivo.
+[[Arc N - Tales of Vallaki|Arco N: Racconti di Vallaki]]. Arco facoltativo, non ufficiale: nei giorni di pausa a Vallaki i giocatori ritrovano gli alleati dell'Atto II prima della cena con Strahd.
 [[Arc O - Dinner with the Devil|Arco O: Cena con il diavolo]]. I giocatori cenano con Strahd e la sua corte al Castello di Ravenloft.
 [[Arc P - Ravenloft Heist|Arco P: Il colpo a Ravenloft]]. I giocatori fanno irruzione nel Castello di Ravenloft mentre Strahd è via.
 [[Arc Q - A Shining Beacon|Arco Q: Un faro splendente]]. I giocatori redimono l'Abate, sconfiggono il lupo mannaro Kiril Stoyanovich e accendono il faro di Argynvostholt.
