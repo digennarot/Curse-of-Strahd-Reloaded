@@ -1,0 +1,12 @@
+# Fine riga: LF sia nel repository sia nella copia di lavoro, come li scrive
+# Obsidian. Prevale su core.autocrlf, così i file non risultano modificati
+# solo perché un editor ha cambiato CRLF in LF o viceversa.
+* text=auto eol=lf
+
+# File binari: nessuna conversione
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.pdf binary
