@@ -109,7 +109,7 @@ Il giovane è Milivoj, descritto in <span class="citation">N1. Chiesa di Sant'An
 ![[Father Lucian Petrovich.png]]
 <span class="credit">«Father Lucian Petrovich» di Caleb Cleveland. Sostienilo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-La prima volta che incontra i giocatori, [[Non-Player Characters#Father Lucian Petrovich|padre Lucian]] li accoglie con calore: capisce che sono appena arrivati a Vallaki, dà loro il benvenuto nella Chiesa di Sant'Andral e chiede se cercano compagnia o se sono venuti a pregare il Signore del Mattino.
+La prima volta che incontra i giocatori, [[Non-Player Characters#padre Lucian Petrovich|padre Lucian]] li accoglie con calore: capisce che sono appena arrivati a Vallaki, dà loro il benvenuto nella Chiesa di Sant'Andral e chiede se cercano compagnia o se sono venuti a pregare il Signore del Mattino.
 
 Finiti i convenevoli, Milivoj scende dalla scala e la restituisce a padre Lucian. Poi si svolge questo scambio, che lascia ai giocatori tutto il tempo e lo spazio per intervenire e rispondere:
 
@@ -144,7 +144,7 @@ Quando accompagna il gruppo, padre Lucian combatte al suo fianco, ma lascia ai g
 > [!warning]+ **L'aiuto di padre Lucian**
 > Senza l'aiuto di padre Lucian, e in particolare senza i danni, anche radiosi, del suo incantesimo *guardiani spirituali* e del suo privilegio ***eminenza divina***, lo scontro nella bottega del fabbricante di bare in [[#D4c. La trappola di Volenta]] è quasi impossibile. Per evitare un TPK, fai in modo che padre Lucian accompagni i giocatori quando lasciano la chiesa.
 ## D1c. La scena del furto
-Se glielo chiedono, [[Non-Player Characters#Father Lucian Petrovich|padre Lucian]] porta volentieri i giocatori alla cripta. Leggi:
+Se glielo chiedono, [[Non-Player Characters#padre Lucian Petrovich|padre Lucian]] porta volentieri i giocatori alla cripta. Leggi:
 
 <div class="description">
 <p>Contro l'altare è appoggiata una piccola pila di assi nuove, con sopra un sacchettino di chiodi. Poco lontano le vecchie assi di legno del pavimento dietro la cripta sono state divelte e spezzate, e i bordi scheggiati sporgono storti. In mezzo si apre un piccolo varco buio che scende in uno spazio scuro e polveroso.</p>
@@ -173,7 +173,7 @@ Le zolle di terra sono cadute dagli stivali di Milivoj quando è atterrato sul p
 
 I capelli sono di Milivoj.
 ## D1d. Parlare con Yeska
-Se i giocatori decidono di parlare con Yeska, [[Non-Player Characters#Father Lucian Petrovich|padre Lucian]] chiede loro di non insistere troppo con le domande. Il bambino è ancora fragile per la morte dei genitori, tre mesi fa, e padre Lucian non vuole turbarlo per un semplice sospetto. (Yeska non sa che le ossa sono state rubate: padre Lucian ha fatto attenzione a tenerlo lontano dal buco dietro l'altare.)
+Se i giocatori decidono di parlare con Yeska, [[Non-Player Characters#padre Lucian Petrovich|padre Lucian]] chiede loro di non insistere troppo con le domande. Il bambino è ancora fragile per la morte dei genitori, tre mesi fa, e padre Lucian non vuole turbarlo per un semplice sospetto. (Yeska non sa che le ossa sono state rubate: padre Lucian ha fatto attenzione a tenerlo lontano dal buco dietro l'altare.)
 
 Se uno dei giocatori chiede a Yeska se abbia parlato delle ossa con qualcuno, lui risponde sinceramente di no. Se però i giocatori chiedono se qualcuno possa aver sentito la sua conversazione con padre Lucian, Yeska racconta che in quel momento in chiesa c'era anche Milivoj. (Yeska si allarma per la piega che prende la conversazione, ma lo si può convincere a raccontare anche che a spingerlo a chiedere a padre Lucian della protezione della chiesa sono stati proprio i discorsi di Milivoj su un possibile attacco di Strahd.)
 
@@ -240,7 +240,7 @@ Se gli dicono che le ossa potrebbero essere state rubate per permettere un attac
 >
 > Se più tardi viene a sapere che dietro Henrik c'era una delle progenie vampiriche di Strahd, e che il furto delle ossa poteva permettere un massacro in chiesa, [[Non-Player Characters#Milivoj|Milivoj]] è sopraffatto dall'ansia, dall'orrore e dal senso di colpa. Si prostra davanti a padre Lucian e gli implora perdono, offrendosi di andare in esilio nei Boschi di Svalich se questo può riparare il male che ha causato. (Padre Lucian, naturalmente, rifiuta: lo abbraccia in lacrime e lo perdona.)
 ## D2b. Lasciare la casa
-Quando Milivoj ha confessato il furto, [[Non-Player Characters#Father Lucian Petrovich|padre Lucian]] può accompagnare i giocatori alla bottega del fabbricante di bare. (Conosce bene il proprietario, Henrik, e spera di farlo ragionare.) Se i giocatori sembrano dubbiosi, padre Lucian, che ha le statistiche di un **sacerdote**, mostra di portare il simbolo sacro di Tasha Petrovna, sua antenata e potente seguace di Santa Markovia, e assicura che sa difendersi benissimo.
+Quando Milivoj ha confessato il furto, [[Non-Player Characters#padre Lucian Petrovich|padre Lucian]] può accompagnare i giocatori alla bottega del fabbricante di bare. (Conosce bene il proprietario, Henrik, e spera di farlo ragionare.) Se i giocatori sembrano dubbiosi, padre Lucian, che ha le statistiche di un **sacerdote**, mostra di portare il simbolo sacro di Tasha Petrovna, sua antenata e potente seguace di Santa Markovia, e assicura che sa difendersi benissimo.
 
 Se i giocatori propongono di denunciare il furto al borgomastro, padre Lucian è restio, perché teme di scatenare il panico. Con una prova di Carisma (Persuasione) con CD 15 superata, però, i giocatori possono convincerlo ad andare con loro a denunciare il furto al barone Vallakovich, che reagisce come descritto in **N6. Bottega del fabbricante di bare**. (Se i giocatori non hanno con sé padre Lucian, il borgomastro si rifiuta di credere che le ossa siano la fonte della protezione divina della chiesa e non li aiuta a recuperarle.)
 
@@ -255,7 +255,7 @@ Se i giocatori propongono di denunciare il furto al borgomastro, padre Lucian è
 
 Il Recinto di Arasek è più o meno come descritto in <span class="citation">N5. Recinto di Arasek (p. 115)</span>. Il carrozzone di Rictavio però è quasi tutto coperto di vernice vecchia e sbiadita, mentre l'insegna del Carnevale delle Meraviglie sul fianco è nuova di zecca e dipinta di fresco.
 
-Se uno dei giocatori mostra l'intenzione di forzare il carrozzone, [[Non-Player Characters#Father Lucian Petrovich|padre Lucian]], se è presente, cerca di dissuaderlo.
+Se uno dei giocatori mostra l'intenzione di forzare il carrozzone, [[Non-Player Characters#padre Lucian Petrovich|padre Lucian]], se è presente, cerca di dissuaderlo.
 
 Se un giocatore prova lo stesso ad aprire o a forzare la porta del carrozzone, all'improvviso tutto il carrozzone ondeggia violentemente da una parte all'altra. I giocatori sentono anche il rumore di qualcosa con artigli grandi e pesanti che graffia l'interno. (A far ondeggiare il carrozzone e a graffiare è il fantasma di Erasmus van Richten, un **poltergeist** che cerca di proteggere Arabelle spaventando chi si avvicina.)
 
@@ -489,7 +489,7 @@ Se la sua prima forma scende a 0 punti ferita, Volenta fugge dal combattimento, 
 
 Volenta fugge sfondando una finestra vicina e galoppa sui tetti come una bestia a quattro zampe. Mentre scappa, ringhia: «Credete che la vostra preziosa chiesetta possa proteggervi? Lui brucerà il resto di Vallaki per arrivare a voi, e ammazzerà il resto di questa feccia puzzolente per stanarvi!» Poi sogghigna ai giocatori, promette che si rivedranno presto e sparisce dietro un comignolo.
 ### 2. Padre Lucian
-[[Non-Player Characters#Father Lucian Petrovich|Padre Lucian]] mantiene le statistiche di un **sacerdote**. Il suo privilegio ***eminenza divina***, però, ora funziona così:
+[[Non-Player Characters#padre Lucian Petrovich|Padre Lucian]] mantiene le statistiche di un **sacerdote**. Il suo privilegio ***eminenza divina***, però, ora funziona così:
 
 * ***Eminenza divina.*** Come reazione, quando vede un'altra creatura entro 9 m colpire con un attacco con un'arma, padre Lucian può spendere uno slot incantesimo perché quell'attacco infligga magicamente al bersaglio colpito 10 (3d6) danni radiosi aggiuntivi. Se padre Lucian spende uno slot di 2º livello o superiore, i danni aggiuntivi aumentano di 1d6 per ogni livello superiore al 1º.
 

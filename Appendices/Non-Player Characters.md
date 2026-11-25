@@ -3,36 +3,36 @@
 # Casa della Morte
 ### Rosavalda «Rose» Durst
 **Interpretazione**
-***Risonanza.*** Rose deve suscitare compassione per le sue insicurezze e paure, tenerezza per la devozione verso Spina e gratitudine per l'impegno sincero con cui cerca di aiutare i giocatori.
+***Risonanza.*** Rose deve suscitare compassione per le sue insicurezze e paure, tenerezza per la devozione verso Thorn e gratitudine per l'impegno sincero con cui cerca di aiutare i giocatori.
 
 ***Emozioni.*** Rose si mostra soprattutto apprensiva, curiosa, ribelle o audace.
 
-***Motivazioni.*** Rose vuole proteggere e confortare Spina e permettere ai loro spiriti di trovare finalmente la pace.
+***Motivazioni.*** Rose vuole proteggere e confortare Thorn e permettere ai loro spiriti di trovare finalmente la pace.
 
 ***Ispirazioni.*** Nell'interpretare Rose, ispirati a Undici (*Stranger Things*), Matilda (*Matilda*) e Lucy Pevensie (*Le cronache di Narnia*).
 
-***Voce e presenza al tavolo.*** Parla con voce sottile ma controllata, sforzandosi di ostentare una maturità precoce per fare scudo al fratellino. Tiene quasi sempre una mano sulla spalla di Spina o gli stringe le dita per rassicurarlo. Guarda gli avventurieri dritta negli occhi con un misto di speranza disperata e diffidenza vigile.
+***Voce e presenza al tavolo.*** Parla con voce sottile ma controllata, sforzandosi di ostentare una maturità precoce per fare scudo al fratellino. Tiene quasi sempre una mano sulla spalla di Thorn o gli stringe le dita per rassicurarlo. Guarda gli avventurieri dritta negli occhi con un misto di speranza disperata e diffidenza vigile.
 
 ***Esempi di battute.***
 - «Non abbiate paura di noi, vi prego. C'è qualcosa di mostruoso chiuso giù nella cantina, e i nostri genitori non sono mai più tornati a prenderci.»
-- «Spina, non piangere, ci sono qui io. Questi signori hanno le armature e le armi vere; ci aiuteranno a mandare via le ombre.»
+- «Thorn, non piangere, ci sono qui io. Questi signori hanno le armature e le armi vere; ci aiuteranno a mandare via le ombre.»
 - «Se promettete di portarci via da questa casa, vi mostrerò ogni passaggio segreto che conosco.»
 
 **Informazioni sul personaggio**
-***Personalità.*** Agli occhi del mondo, Rose è la protettrice più fiera di Spina. Verso chi conquista la sua fiducia, si rivela invece una ragazzina smarrita, timorosa e traumatizzata.
+***Personalità.*** Agli occhi del mondo, Rose è la protettrice più fiera di Thorn. Verso chi conquista la sua fiducia, si rivela invece una ragazzina smarrita, timorosa e traumatizzata.
 
-***Morale.*** In combattimento, Rose implora la pace, ma fugge insieme a Spina se ogni accordo si rivela impossibile.
+***Morale.*** In combattimento, Rose implora la pace, ma fugge insieme a Thorn se ogni accordo si rivela impossibile.
 
-***Relazioni.*** Rose è la sorella maggiore di Spina Durst, sorellastra di Walter Durst e primogenita di Elisabeth e Gustav Durst.
-### Thornboldt «Spina» Durst
+***Relazioni.*** Rose è la sorella maggiore di Thorn Durst, sorellastra di Walter Durst e primogenita di Elisabeth e Gustav Durst.
+### Thornboldt «Thorn» Durst
 **Interpretazione**
-***Risonanza.*** Spina deve suscitare compassione per la sua timidezza e la sua paura, tenerezza per la sua gioia infantile.
+***Risonanza.*** Thorn deve suscitare compassione per la sua timidezza e la sua paura, tenerezza per la sua gioia infantile.
 
-***Emozioni.*** Spina si mostra soprattutto a disagio, gioioso, ansioso o terrorizzato.
+***Emozioni.*** Thorn si mostra soprattutto a disagio, gioioso, ansioso o terrorizzato.
 
-***Motivazioni.*** Spina vuole restare vicino a Rose e trovare giocattoli con cui divertirsi.
+***Motivazioni.*** Thorn vuole restare vicino a Rose e trovare giocattoli con cui divertirsi.
 
-***Ispirazioni.*** Nell'interpretare Spina, ispirati a Neville Paciock (*Harry Potter*) e Pimpi (*Winnie the Pooh*).
+***Ispirazioni.*** Nell'interpretare Thorn, ispirati a Neville Paciock (*Harry Potter*) e Pimpi (*Winnie the Pooh*).
 
 ***Voce e presenza al tavolo.*** Parla a fior di labbra, con voce tremula e spezzata, mangiandosi le sillabe quando è spaventato. Si nasconde parzialmente dietro la sorella, tirandosi la manica della camicia o stringendo al petto un giocattolo invisibile. Cerca continuamente con gli occhi l'approvazione di Rose prima di rispondere a chiunque.
 
@@ -42,11 +42,11 @@
 - «Voglio solo andare a dormire nella mia cameretta, ma papà ha sbarrato la porta dal corridoio.»
 
 **Informazioni sul personaggio**
-***Personalità.*** Agli occhi del mondo, Spina è un bambino spaventato che si aggrappa alla sorella. Con chi merita la sua fiducia, si rivela un ragazzino silenzioso, attento e perspicace.
+***Personalità.*** Agli occhi del mondo, Thorn è un bambino spaventato che si aggrappa alla sorella. Con chi merita la sua fiducia, si rivela un ragazzino silenzioso, attento e perspicace.
 
-***Morale.*** In combattimento, Spina si rannicchia e piange, implorando l'aiuto di Rose.
+***Morale.*** In combattimento, Thorn si rannicchia e piange, implorando l'aiuto di Rose.
 
-***Relazioni.*** Spina è il fratello minore di Rose Durst, fratellastro di Walter Durst e figlio più piccolo di Elisabeth e Gustav Durst.
+***Relazioni.*** Thorn è il fratello minore di Rose Durst, fratellastro di Walter Durst e figlio più piccolo di Elisabeth e Gustav Durst.
 # Villaggio di Barovia
 ### Ismark Kolyanovich
 **Interpretazione**
@@ -70,7 +70,7 @@
 
 ***Morale.*** In combattimento, Ismark cerca innanzitutto di fare da mediatore tra le parti, ma sguaina la spada senza esitare, pronto a battersi fino alla morte se convinto di difendere qualcuno o qualcosa per cui valga la pena lottare.
 
-***Relazioni.*** Ismark è il fratello adottivo di Ireena Kolyana e il pronipote di Ismark il Grande.
+***Relazioni.*** Ismark è il fratello adottivo di Ireena Kolyana e il bisnipote di Ismark il Grande.
 ### Ireena Kolyana
 **Interpretazione**
 ***Risonanza.*** Ireena deve lusingare i giocatori con il suo genuino interesse per i loro scopi e le loro aspirazioni, suscitare compassione per il suo senso di colpa e il terrore di Strahd, tenerezza per la determinazione a non arrendersi e gratitudine per l'impegno costante con cui cerca di aiutarli ad avere successo.
@@ -1437,7 +1437,7 @@
 
 
 # Cittadina di Vallaki
-## Locanda dell'Acqua Blu
+## Locanda dell'Acqua Azzurra
 #### Urwin Martikov
 **Interpretazione**
 ***Risonanza.*** Urwin deve divertire i giocatori con freddure e giochi di parole da oste navigato, suscitare gratitudine per i suoi consigli paterni e l'aiuto disinteressato, e infondere sicurezza con la sua calda empatia.
@@ -1451,7 +1451,7 @@
 ***Voce e presenza al tavolo.*** Voce calda, accogliente e rassicurante da navigato locandiere. Pulisce costantemente il bancone con uno straccio, strizzando l'occhio agli avventori e servendo boccali di vino con generosità. Nei momenti privati parla a bassa voce, inclinando la testa di lato con la tipica postura guardinga dei corvi; le sue risate sonore mascherano un'attenzione vigile verso ogni porta e finestra.
 
 ***Esempi di battute.***
-- «Entrate, mettetevi vicino al camino e toglietevi il fango dagli stivali! Finché c'è vino nelle botti dell'Acqua Blu, a questo tavolo nessuno deve temere la notte.»
+- «Entrate, mettetevi vicino al camino e toglietevi il fango dagli stivali! Finché c'è vino nelle botti dell'Acqua Azzurra, a questo tavolo nessuno deve temere la notte.»
 - «Non chiedetemi che tempo farà domani: a Barovia piove nebbia e tirannia da quattrocento anni. Ma questo stufato è caldo, e il vino non fa domande sul vostro passato.»
 - «Tenete la voce bassa, amici miei. Anche le travi di questa locanda hanno orecchie ben tese, e i servi del castello pagano bene per ogni parola sussurrata incautamente.»
 
@@ -1774,7 +1774,7 @@
 ***Relazioni.*** Lavora per padre Lucian Petrovich, ha rubato le ossa per conto del fabbricante di bare Henrik van der Voort, ed è il maggiore di nove figli di Oleg e Jarzinka, dipendenti dai dolci dei sogni.
 
 ## Maniero dei Vallakovich
-### Baron Vargas Vallakovich
+### Barone Vargas Vallakovich
 **Interpretazione**
 ***Risonanza.*** Vargas deve suscitare un'irritazione crescente per la sua ostinazione miope, disgusto per la sua arroganza autoritaria e una comica incredulità per le sue ridicole illusioni di infallibilità.
 
@@ -2062,7 +2062,7 @@ Il libro degli incantesimi di Victor contiene gli incantesimi *inviare* e *paura
 ***Relazioni.*** Capo del campo degli elfi del crepuscolo, fratello minore della defunta Patrina Velikovna (oggi una **banshee** nelle catacombe di Ravenloft) e cugino di Rahadin.
 
 ## Wachterhaus
-### Dama Fiona Wachter
+### Lady Fiona Wachter
 Lady Fiona ha le statistiche di un **sacerdote**, ma prepara la seguente lista di incantesimi:
 
 * Trucchetti (a volontà): *luce*, *rintocco dei morti*, *taumaturgia*
@@ -2093,9 +2093,9 @@ Lady Fiona ha le statistiche di un **sacerdote**, ma prepara la seguente lista d
 
 ***Relazioni.*** Vedova del defunto Nikolai Wachter I, madre di Nikolai II, Karl e Stella Wachter; mandante della spia Ernst Larnak e principale oppositrice politica del barone Vargas.
 
-### Oratore del patibolo
+### Oratore della forca
 **Interpretazione**
-***Risonanza.*** L'oratore del patibolo deve suscitare un brivido di orrore per la cacofonia di voci sovrapposte e lamenti che scaturiscono dalle sue labbra putrefatte, incarnando la disperazione collettiva di coloro che sono stati giustiziati alla forca di Vallaki.
+***Risonanza.*** L'oratore della forca deve suscitare un brivido di orrore per la cacofonia di voci sovrapposte e lamenti che scaturiscono dalle sue labbra putrefatte, incarnando la disperazione collettiva di coloro che sono stati giustiziati alla forca di Vallaki.
 
 ***Voce e presenza al tavolo.*** Parla con molteplici voci spettrali che si sovrappongono in un coro dissonante, oscillando tra sussurri imploranti e grida di odio viscerale. La sua figura è avvolta in una corda da impiccato spezzata, con il collo spezzato reclinato da un lato e occhi che brillano di una fosforescenza verdastra.
 
@@ -2817,15 +2817,15 @@ Nell'interpretare i membri della famiglia Martikov, tieni presenti le seguenti i
 <p><strong><em>Passo velato.</em></strong> Quando un attacco colpisce o manca Zorya o una creatura entro 1,5 m da lei, Zorya lancia <em>passo velato</em> e porta con sé fino a una creatura consenziente entro 1,5 m. Una creatura teletrasportata così subisce la metà dei danni dall'attacco che ha scatenato la reazione.</p>
 </div>
 
-## Fratello Marek
+## Frate Marek
 **Interpretazione**
-***Risonanza.*** Fratello Marek deve suscitare compassione per la sua rassegnata disperazione, una punta di stizza per il suo cinismo sarcastico e disincantato, e ammirazione per la scintilla di pietà che ancora resiste nel suo animo spettrale.
+***Risonanza.*** Frate Marek deve suscitare compassione per la sua rassegnata disperazione, una punta di stizza per il suo cinismo sarcastico e disincantato, e ammirazione per la scintilla di pietà che ancora resiste nel suo animo spettrale.
 
 ***Emozioni.*** Rassegnato, sarcastico, malinconico, disilluso, scettico e pietoso.
 
 ***Motivazioni.*** Convincere i viandanti ad andarsene prima che i revenant li massacrino, e risparmiare a chiunque l'illusione che Argynvostholt possa mai tornare ai suoi antichi splendori.
 
-***Ispirazioni.*** Nell'interpretare Fratello Marek, ispirati a Ebenezer Scrooge prima della redenzione (*Canto di Natale*), a Bronn (*Il Trono di Spade*) e a Marvin l'androide paranoico (*Guida galattica per gli autostoppisti*).
+***Ispirazioni.*** Nell'interpretare frate Marek, ispirati a Ebenezer Scrooge prima della redenzione (*Canto di Natale*), a Bronn (*Il Trono di Spade*) e a Marvin l'androide paranoico (*Guida galattica per gli autostoppisti*).
 
 ***Voce e presenza al tavolo.*** Voce secca, polverosa e priva di enfasi, come foglie secche calpestate nella cripta. Si manifesta come una sagoma spettrale seduta su una sedia sgangherata o intenta a sfogliare volumi ammuffiti senza toccarli davvero; scuote la testa con un sorriso amaro e compassionevole ogni volta che sente pronunciare parole nobili come speranza, onore o liberazione.
 

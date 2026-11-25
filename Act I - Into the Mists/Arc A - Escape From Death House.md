@@ -678,7 +678,7 @@ Se i personaggi entrano in una delle due cripte, leggi:
 <p>Questa piccola camera contiene una bara di pietra posata su un catafalco di pietra. L'aria della cripta è greve di dolore.</p>
 </div>
 
-Mettere i resti di Rose e di Thorn nelle loro bare non aiuta i loro fantasmi a trovare pace. Né [[Non-Player Characters#Rosavalda "Rose" Durst|Rose]] né [[Non-Player Characters#Thornboldt "Thorn" Durst|Thorn]] trovano conforto in queste cripte: tutti e due preferiscono andarsene il prima possibile.
+Mettere i resti di Rose e di Thorn nelle loro bare non aiuta i loro fantasmi a trovare pace. Né [[Non-Player Characters#Rosavalda «Rose» Durst|Rose]] né [[Non-Player Characters#Thornboldt «Thorn» Durst|Thorn]] trovano conforto in queste cripte: tutti e due preferiscono andarsene il prima possibile.
 ### Alloggi degli iniziati del culto
 <span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 24.</em></span>
 
@@ -1204,7 +1204,7 @@ Con loro grande sorpresa, i giocatori non sono più nelle strade di Daggerford m
 
 Poi la casa sprofonda nella terra e lascia dietro di sé una voragine buia e senza fondo. Se i giocatori ce l'hanno ancora, il frammento d'ambra di Elisabeth Durst si sbriciola in polvere. La voragine svanisce la prima volta che i giocatori lasciano la radura.
 
-Se stanno ancora possedendo i giocatori, gli spiriti di [[Non-Player Characters#Rosavalda "Rose" Durst|Rose]] e di [[Non-Player Characters#Thornboldt "Thorn" Durst|Thorn]] mettono fine alla possessione. I bambini osservano che il bosco somiglia ai Boschi di Svalich che un tempo circondavano la loro casa, a Barovia. Aggiungono però che questa parte del bosco non la conoscono e che sembra lontana dal villaggio della loro famiglia.
+Se stanno ancora possedendo i giocatori, gli spiriti di [[Non-Player Characters#Rosavalda «Rose» Durst|Rose]] e di [[Non-Player Characters#Thornboldt «Thorn» Durst|Thorn]] mettono fine alla possessione. I bambini osservano che il bosco somiglia ai Boschi di Svalich che un tempo circondavano la loro casa, a Barovia. Aggiungono però che questa parte del bosco non la conoscono e che sembra lontana dal villaggio della loro famiglia.
 
 Mentre esplorano i dintorni, i giocatori vedono presto la cima di una vecchia torre di pietra in rovina che spunta sopra gli alberi. L'architettura della torre è quella descritta in <span class="citation">Fuoco fatuo (p. 33)</span>, ma l'interno non è terreno sconsacrato, a terra non c'è nessun baule di legno e dentro o intorno alla torre non ci sono **zombi** né **fuochi fatui**.
 

@@ -829,7 +829,7 @@ Come indicato in **Febbre ghignante** (*Guida del Dungeon Master*, p. 257), la f
 
 I giocatori possono riconoscere questi rimedi, e i sintomi della febbre ghignante, superando una prova di Saggezza (Medicina) con CD 15 o chiedendo una diagnosi a Lady Wachter.
 
-A Vallaki i giocatori non trovano una magia di guarigione in grado di curare la febbre ghignante, ma [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]], [[Non-Player Characters#Urwin Martikov|Urwin Martikov]], [[Non-Player Characters#Danika Dorakova|Danika Dorakova]] e [[Non-Player Characters#Father Lucian Petrovich|padre Lucian Petrovich]] possono tutti dire loro che l'Abate dell'Abbazia di Santa Markovia, a Krezk, ha fama di guaritore straordinario, forse persino capace di curare la loro malattia con la magia.
+A Vallaki i giocatori non trovano una magia di guarigione in grado di curare la febbre ghignante, ma [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]], [[Non-Player Characters#Urwin Martikov|Urwin Martikov]], [[Non-Player Characters#Danika Dorakova|Danika Dorakova]] e [[Non-Player Characters#padre Lucian Petrovich|padre Lucian Petrovich]] possono tutti dire loro che l'Abate dell'Abbazia di Santa Markovia, a Krezk, ha fama di guaritore straordinario, forse persino capace di curare la loro malattia con la magia.
 
 Se i giocatori decidono di andare a Krezk, dovranno prima farsi aprire le porte del villaggio. Per il viaggio dei giocatori a Krezk e per il modo di entrare nel villaggio vedi l'[[Arc I - The Walls of Krezk|Arco I: Le mura di Krezk]].
 # H8. Il rituale

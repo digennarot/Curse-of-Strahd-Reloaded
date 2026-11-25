@@ -261,13 +261,13 @@ La villa del borgomastro è più o meno come descritta in <span class="citation"
 
 Se i giocatori vanno alla villa del borgomastro alla luce del sole, li accoglie Clavdia, la cameriera del barone, che li accompagna nello studio come descritto in <span class="citation">N3. Villa del borgomastro (p. 103)</span> e <span class="citation">N3e. Studio (p. 106)</span>. Qualche minuto dopo arriva a parlare con loro il barone, accompagnato dai suoi due **mastini**, Zanna e Artiglio, come descritto in **N3l. Biblioteca (p. 107)**.
 ## E3a. Entrare nella villa
-Se Ireena Kolyana è già stata alla villa da sola e ha ottenuto un'udienza con il barone sui profughi baroviani, [[Non-Player Characters#Baron Vargas Vallakovich|il barone]] concede volentieri a lei e ai suoi compagni l'accesso alla biblioteca. Altrimenti i giocatori possono cercare di convincere il barone a farli entrare, o, se tutto il resto fallisce, provare a entrare con l'inganno.
+Se Ireena Kolyana è già stata alla villa da sola e ha ottenuto un'udienza con il barone sui profughi baroviani, [[Non-Player Characters#Barone Vargas Vallakovich|il barone]] concede volentieri a lei e ai suoi compagni l'accesso alla biblioteca. Altrimenti i giocatori possono cercare di convincere il barone a farli entrare, o, se tutto il resto fallisce, provare a entrare con l'inganno.
 
 Se i giocatori vanno in biblioteca, passa a [[#E3b. Le ricerche in biblioteca]] più avanti.
 ### 1. Convincere il barone
 Appena saluta i giocatori, il barone chiede se sono emozionati per la prossima Festa del Sole Ardente. Indica i fasci di rametti ammucchiati nel grande atrio della villa e si vanta del suo piano di bruciare offerte al Signore del Mattino dentro un gigantesco sole di vimini: carni stagionate, incenso, gioielli e così via. «I cieli vedranno la nostra gioia e la nostra ricchezza e ci guarderanno con favore», proclama gonfio d'orgoglio. «Con il nostro buon umore ci avvicineremo sempre di più alla libertà da questa tenebra funesta.»
 
-Se poi i giocatori chiedono al [[Non-Player Characters#Baron Vargas Vallakovich|barone Vallakovich]] l'accesso alla biblioteca senza l'aiuto di Ireena, lui pretende di sapere chi sono, che cosa fanno a Vallaki e che cosa vogliono farsene della sua biblioteca.
+Se poi i giocatori chiedono al [[Non-Player Characters#Barone Vargas Vallakovich|barone Vallakovich]] l'accesso alla biblioteca senza l'aiuto di Ireena, lui pretende di sapere chi sono, che cosa fanno a Vallaki e che cosa vogliono farsene della sua biblioteca.
 
 Di solito non è incline ad accontentarli, ma se i giocatori fanno capire di essere avventurieri, maghi, chierici, studiosi o comunque all'altezza del compito, Vargas è disposto a farli entrare in biblioteca se accettano di risolvere un problema che affligge la sua casa. Può dare loro queste informazioni:
 
@@ -298,7 +298,7 @@ I giocatori possono decidere di introdursi nella villa invece di chiedere il per
 
 I PNG nella villa si comportano così:
 
-* Di giorno il [[Non-Player Characters#Baron Vargas Vallakovich|barone Vallakovich]] si trova di solito in <span class="citation">N3l. Biblioteca (p. 107)</span>, di notte in <span class="citation">N3o. Camera padronale (p. 108)</span>. È sempre accompagnato dai suoi due **mastini**, Zanna e Artiglio. Se sorprende i giocatori in casa, aizza contro di loro Zanna e Artiglio, e se i cani vengono sconfitti dà l'allarme.
+* Di giorno il [[Non-Player Characters#Barone Vargas Vallakovich|barone Vallakovich]] si trova di solito in <span class="citation">N3l. Biblioteca (p. 107)</span>, di notte in <span class="citation">N3o. Camera padronale (p. 108)</span>. È sempre accompagnato dai suoi due **mastini**, Zanna e Artiglio. Se sorprende i giocatori in casa, aizza contro di loro Zanna e Artiglio, e se i cani vengono sconfitti dà l'allarme.
 * Di giorno la baronessa Lydia Petrovna si trova di solito in <span class="citation">N3c. Sala da pranzo (p. 106)</span>, di notte in <span class="citation">N3o. Camera padronale (p. 108)</span>. Se sorprende i giocatori di giorno, pensa che siano ospiti del marito, Vargas, e li saluta come tali; altrimenti urla e poi sviene.
 * Victor Vallakovich si trova di solito in <span class="citation">N3t. Laboratorio di Victor (p. 109)</span>, di giorno come di notte. Se sorprende i giocatori, li saluta guardingo e pretende di sapere chi sono e che cosa vogliono. (Se la sua curiosità viene soddisfatta, non dà l'allarme.)
 * Di giorno Tereska, la cuoca, si trova di solito in <span class="citation">N3g. Cucina (p. 106)</span>, di notte in <span class="citation">N3f. Alloggi della servitù (p. 106)</span>. Se sorprende i giocatori, dà loro la possibilità di andarsene, ma se rifiutano dà l'allarme.
@@ -846,7 +846,7 @@ Se i giocatori vanno prima alla Locanda dell'Acqua Azzurra, [[Non-Player Charact
 
 Se i giocatori fanno capire di voler seguire Rictavio al recinto, Danika li avverte scherzando di stare attenti alle bestie feroci: in città si dice che il direttore di circo tenga nel carrozzone qualcosa di grosso e letale.
 
-Se i giocatori aspettano che Rictavio torni per affrontarlo, [[Non-Player Characters#Disguised (as Rictavio)|Rictavio]] li saluta con calore e finge di non sapere niente delle loro accuse e delle loro affermazioni. Li invita però nel suo appartamento per gli ospiti, per parlarne in privato, se i giocatori insistono di voler aiutare Arabelle, gli mostrano la pagina di diario bruciata o minacciano in altro modo di smascherarlo.
+Se i giocatori aspettano che Rictavio torni per affrontarlo, [[Non-Player Characters#Travestito (come Rictavio)|Rictavio]] li saluta con calore e finge di non sapere niente delle loro accuse e delle loro affermazioni. Li invita però nel suo appartamento per gli ospiti, per parlarne in privato, se i giocatori insistono di voler aiutare Arabelle, gli mostrano la pagina di diario bruciata o minacciano in altro modo di smascherarlo.
 
 Quando è solo con i giocatori nel suo appartamento, Rictavio sfodera il suo bastone animato e pretende una prova che i giocatori non siano servitori di Strahd von Zarovich. Se i giocatori portano prove sufficienti o superano una prova di Carisma (Persuasione) con CD 15, Rictavio rinfodera la lama a malincuore, controlla la finestra e il corridoio in cerca di spie di Strahd e chiude bene le imposte. Poi si toglie il *cappello del camuffamento* e confessa di essere il dottor Rudolph van Richten.
 
@@ -935,7 +935,7 @@ Se i giocatori lo pretendono, Van Richten accetta di portarli al suo carrozzone 
 ## E8b. Seguire Rictavio
 <span class="citation"><em>Questa scena si svolge nel Capitolo 5: Area N5.</em></span>
 
-Se i giocatori seguono [[Non-Player Characters#Disguised (as Rictavio)|Rictavio]] al Recinto di Arasek invece di aspettarlo alla Locanda dell'Acqua Azzurra, lo trovano inginocchiato accanto al carrozzone, intento a sistemare i raggi della ruota di legno posteriore sinistra. Un giocatore con un punteggio passivo di Saggezza (Percezione) di 16 o più nota che Rictavio continua a sistemare e risistemare lo stesso raggio, e che muove le labbra come se parlasse con qualcuno. Se i giocatori lo osservano, Rictavio continua per cinque minuti buoni, molto più di quanto richiederebbe di solito un lavoro del genere, poi si alza e fa per andarsene.
+Se i giocatori seguono [[Non-Player Characters#Travestito (come Rictavio)|Rictavio]] al Recinto di Arasek invece di aspettarlo alla Locanda dell'Acqua Azzurra, lo trovano inginocchiato accanto al carrozzone, intento a sistemare i raggi della ruota di legno posteriore sinistra. Un giocatore con un punteggio passivo di Saggezza (Percezione) di 16 o più nota che Rictavio continua a sistemare e risistemare lo stesso raggio, e che muove le labbra come se parlasse con qualcuno. Se i giocatori lo osservano, Rictavio continua per cinque minuti buoni, molto più di quanto richiederebbe di solito un lavoro del genere, poi si alza e fa per andarsene.
 
 Se i giocatori lo affrontano, Rictavio li saluta con calore, ma finge di non sapere niente delle loro accuse e delle loro affermazioni. Se i giocatori insistono di voler aiutare Arabelle, gli mostrano la pagina di diario bruciata o minacciano in altro modo di smascherarlo, lo sguardo di Rictavio si indurisce, la mano si stringe sul bastone e la voce si abbassa fino a un sussurro. Pretende di sapere se sono spie di Strahd, e minaccia con calma di «sbarazzarsi» di loro se servono il volere del Diavolo.
 
@@ -943,7 +943,7 @@ Se i giocatori portano prove sufficienti della loro buona fede o superano una pr
 ## E8c. Il carrozzone di Rictavio
 <span class="citation"><em>Questa scena si svolge nel Capitolo 5: Area N5</em></span>
 
-Quando i giocatori o Arabelle lo hanno convinto, [[Non-Player Characters#Disguised (as Rictavio)|Rictavio]] tira fuori una chiave dalla manica e apre la porta. I giocatori vedono allora che dentro al carrozzone ci sono un morbido letto di paglia, una comoda coperta di lana, qualche libro e una bambina vistana, Arabelle, che stringe al petto una tigre dai denti a sciabola di peluche e porta una collana di perline con un amuleto di rame intagliato.
+Quando i giocatori o Arabelle lo hanno convinto, [[Non-Player Characters#Travestito (come Rictavio)|Rictavio]] tira fuori una chiave dalla manica e apre la porta. I giocatori vedono allora che dentro al carrozzone ci sono un morbido letto di paglia, una comoda coperta di lana, qualche libro e una bambina vistana, Arabelle, che stringe al petto una tigre dai denti a sciabola di peluche e porta una collana di perline con un amuleto di rame intagliato.
 
 ![[Arabelle.png]]
 <span class="credit">«Arabelle» di Caleb Cleveland. Sostienilo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
