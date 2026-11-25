@@ -376,7 +376,7 @@ Che riesca o no a rubare il simbolo, Ludmilla si ritira poi su per il <span clas
 <p><strong><em>Oscurità (1/giorno).</em></strong> Ludmilla lancia <em>oscurità</em> con un raggio di 12 m.</p>
 <h3>Reazioni</h3>
 <p>Ludmilla può effettuare fino a tre reazioni per round, ma solo una per turno. Se dovesse perdere le reazioni, ne perde invece una sola.</p>
-<p><strong><em>Passo velato.</em></strong> Quando subisce danni o lancia *oscurità*, Ludmilla lancia <em>passo velato</em>. Poi può effettuare subito l'azione di Nascondersi. Se sta volando, ha vantaggio alla prova per nascondersi.</p>
+<p><strong><em>Passo velato.</em></strong> Quando subisce danni o lancia <em>oscurità</em>, Ludmilla lancia <em>passo velato</em>. Poi può effettuare subito l'azione di Nascondersi. Se sta volando, ha vantaggio alla prova per nascondersi.</p>
 <p><strong><em>Interrompere incantesimo (3/giorno).</em></strong> Incantesimo di 3º livello, gittata 18 m, componenti S, istantaneo. <em>Effetto:</em> Ludmilla cerca di interrompere una creatura che sta lanciando un incantesimo. Se la creatura sta lanciando un incantesimo di 3º livello o inferiore, deve fare un <span class="highlight">tiro salvezza con CD 15</span> usando la sua caratteristica da incantatore. Se lo fallisce, l'incantesimo fallisce e non ha effetto.</p>
 <p><strong><em>Rappresaglia del mago.</em></strong> Quando un attacco con incantesimo la manca o quando supera un tiro salvezza contro un incantesimo, Ludmilla può costringere subito l'incantatore a superare un tiro salvezza su Costituzione con CD 15 o subire 7 (2d6) danni da forza.</p>
 </div>

@@ -8,6 +8,7 @@
 
 # Atto I: Nelle Nebbie
 <div class="subtitle"><em>Per personaggi dal 2º al 3º livello.</em></div>
+
 In questo atto i giocatori vengono attirati nella Casa della Morte infestata, che li trasporta per magia nella terra di Barovia. Mentre cercano di orientarsi, raggiungono il villaggio di Barovia, dove incontrano il borgomastro Ismark Kolyanovich e sua sorella, Ireena Kolyana, e scoprono il misterioso Strahd von Zarovich, un vampiro che si è risvegliato da poco per tormentare la valle di Barovia.
 
 Ai giocatori viene chiesto di scortare Ireena nella vicina città di Vallaki per metterla al sicuro; se accettano, Ireena chiede loro anche di aiutarla a seppellire il padre defunto, il borgomastro Kolyan Indirovich. Nella chiesa del villaggio i giocatori incontrano Doru, una **progenie vampirica** in guerra con la propria sete di sangue, e hanno l'occasione di riconciliarlo con il padre, il sacerdote Donavich.
@@ -31,6 +32,7 @@ Arrivati a Vallaki, i giocatori possono trovare riparo alla Locanda dell'Acqua A
 
 # Atto II: La città delle ombre
 <div class="subtitle"><em>Per personaggi dal 4º livello in su.</em></div>
+
 In questo atto i giocatori sono liberi di esplorare la città delle ombre, Vallaki: un insediamento baroviano caduto preda di tensioni e conflitti dopo il risveglio di Strahd.
 
 Mentre cercano di portare a termine gli impegni rimasti in sospeso (scortare Ireena alla Chiesa di Sant'Andral, comprare e consegnare un giocattolo per la bambina vistana Arabelle, trovare il *Tomo di Strahd*), incontrano nuovi alleati e nuovi nemici: padre Lucian, il sacerdote della Chiesa di Sant'Andral; Izek Strazni, il brutale braccio armato del barone Vallakovich; e Lady Fiona Wachter, la rivale del barone, fedele a Strahd.
@@ -108,6 +110,7 @@ Quando hanno recuperato l'elsa spezzata della *Spada del Sole*, i giocatori scop
 I giocatori devono usare le tre gemme incantate dell'azienda del Mago dei Vini e tre antichi artefatti recuperati dall'Albero Gulthias della Collina di Yester per consacrare di nuovo i tre Templi, mentre Strahd raduna le sue forze per sconfiggerli. L'Atto IV finisce quando i giocatori hanno consacrato di nuovo tutti e tre i Templi.
 # Atto V: La maledizione di Strahd
 <div class="subtitle"><em>Per personaggi dal 9º livello in su.</em></div>
+
 In questo atto, poco dopo che l'ultimo Tempio è stato risanato, scatta il colpo da maestro di Strahd. Liberando l'energia accumulata nel Cuore della Tristezza, Strahd fa sprofondare Barovia in una notte eterna e trasforma la valle stessa in terreno profanato. Intanto il Muro dei Sussurri, che vibra delle energie del Cuore della Tristezza, si sposta sulla superficie del Lago Zarovich, dove i suoi tentacoli letali minacciano di spegnere ogni vita a Vallaki, nell'[[Arc U - Dreams of Dawn|Arco U: Sogni dell'alba]].
 
 Anche dopo che il Muro dei Sussurri è stato placato, però, nell'[[Arc U - Dreams of Dawn|Arco U: Sogni dell'alba]] si leva un pericolo più grande. Mentre un'apocalisse di non morti minaccia di travolgere il popolo di Barovia, i giocatori devono raggiungere il Castello di Ravenloft per affrontare Strahd nel Cuore della Tristezza. Durante la battaglia finale, il Cuore della Tristezza mostra visioni dell'assedio dei non morti di Strahd in tutta Barovia, e della resistenza eroica degli alleati e degli amici che i giocatori si sono fatti lungo il viaggio:
