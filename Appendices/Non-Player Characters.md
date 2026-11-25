@@ -3082,19 +3082,19 @@ Nell'interpretare i membri della famiglia Martikov, tieni presenti le seguenti i
 <hr>
 <p><strong><em>Amorfo.</em></strong> Vilnius può muoversi attraverso uno spazio stretto fino a 2,5 cm senza spendere movimento extra.</p>
 <p><strong><em>Prodigio delle illusioni.</em></strong> Vilnius può mantenere la concentrazione su un massimo di cinque incantesimi contemporaneamente, a condizione che appartengano tutti alla scuola di illusione. Se perde la concentrazione su uno di essi, la perde su tutti.</p>
-<p><strong><em>Rigenerazione d'ombra.</em></strong> Se viene distrutto, Vilnius si riforma dopo 24 ore se Jakarion è ancora in vita, tornando con tutti i suoi punti ferita. Il suo nuovo corpo compare in uno spazio non occupato all'interno dell'Aula Magna.</p>
+<p><strong><em>Rigenerazione d'ombra.</em></strong> Se viene distrutto, Vilnius si riforma dopo 24 ore se Jakarion è ancora in vita, tornando con tutti i suoi punti ferita. Il suo nuovo corpo compare in uno spazio non occupato all'interno dell'aula.</p>
 <p><strong><em>Trova famiglio.</em></strong> Vilnius può lanciare <em>trova famiglio</em> come rituale senza componenti materiali.</p>
 <h3>Azioni</h3>
-<p><strong><em>Multiattacco.</em></strong> Vilnius effettua due attacchi con il pugnale e lancia <em>immagine maggiore</em> o <em>forza spettrale</em> due volte.</p>
+<p><strong><em>Multiattacco.</em></strong> Vilnius effettua due attacchi con il pugnale e lancia <em>immagine maggiore</em> o <em>forza fantasmatica</em> due volte.</p>
 <p><strong><em>Pugnale.</em></strong> <em>Attacco con arma da mischia o a distanza:</em> +8 al tiro per colpire, portata 1,5 m o gittata 6/18 m, un bersaglio. <em>Colpito:</em> 6 (1d4 + 4) danni perforanti più 21 (6d6) danni necrotici, e il bersaglio deve superare un tiro salvezza su Costituzione con CD 16 o essere avvelenato fino alla fine del suo turno successivo.</p>
-<p><strong><em>Forza spettrale.</em></strong> Vilnius lancia <em>forza spettrale</em>. Una creatura che fallisce il tiro salvezza contro l'incantesimo può ripeterlo alla fine di ciascuno dei propri turni.</p>
+<p><strong><em>Forza fantasmatica.</em></strong> Vilnius lancia <em>forza fantasmatica</em>. Una creatura che fallisce il tiro salvezza contro l'incantesimo può ripeterlo alla fine di ciascuno dei propri turni.</p>
 <p><strong><em>Immagine maggiore.</em></strong> Vilnius lancia <em>immagine maggiore</em>.</p>
 <h3>Azioni bonus</h3>
 <p><strong><em>Sfocatura.</em></strong> Vilnius lancia <em>sfocatura</em>.</p>
 <p><strong><em>Immagine speculare.</em></strong> Vilnius lancia <em>immagine speculare</em>. L'incantesimo dura 1 minuto o finché Vilnius non perde la concentrazione.</p>
 <h3>Reazioni</h3>
 <p><strong><em>Trucco dell'illusionista.</em></strong> <strong>Innesco:</strong> una creatura attacca o bersaglia con un incantesimo Vilnius, uno dei suoi alleati o un'illusione che gli somigli. <strong>Effetto:</strong> se il bersaglio è un'illusione identica a uno degli alleati di Vilnius, o un alleato identico a una delle sue illusioni, i due si scambiano di posto come se si fossero teletrasportati con l'incantesimo <em>passo velato</em>.</p>
-<p><strong><em>Aspetto orripilante (1/giorno).</em></strong> <strong>Innesco:</strong> Vilnius subisce danni da una creatura che può vedere. <strong>Effetto:</strong> ogni creatura non morta a scelta di Vilnius entro 9 m deve superare un tiro salvezza su Saggezza con CD 16 o essere spaventata per 1 minuto. Una creatura spaventata può ripetere il tiro salvezza alla fine di ciascuno dei propri turni, terminando l'effetto su di sé in caso di successo.</p>
+<p><strong><em>Aspetto orripilante (1/giorno).</em></strong> <strong>Innesco:</strong> Vilnius subisce danni da una creatura che può vedere. <strong>Effetto:</strong> ogni creatura che non sia un non morto, a scelta di Vilnius, entro 9 m deve superare un tiro salvezza su Saggezza con CD 16 o essere spaventata per 1 minuto. Una creatura spaventata può ripetere il tiro salvezza alla fine di ciascuno dei propri turni, terminando l'effetto su di sé in caso di successo.</p>
 </div>
 
 ## Patrina
