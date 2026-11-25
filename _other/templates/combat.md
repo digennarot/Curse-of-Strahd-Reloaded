@@ -1,21 +1,21 @@
-> [!combat]- **Combat - Combat_Title**
-> **Combat Level**: Mild / Bruising / etc.
-> **Expected Character Level**: X
-> **Expected HP Consumption:** X%
-> **Expected Allies:**
+> [!combat]- **Combattimento: titolo_combattimento**
+> **Livello di combattimento**: lieve / impegnativo / ecc.
+> **Livello previsto dei personaggi**: X
+> **Consumo previsto di pf:** X%
+> **Alleati previsti:**
 > 
-> - Ally 1 (CR X)
+> - Alleato 1 (GS X)
 > 
-> ### **Enemies:**
+> ### **Nemici:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 giocatori | 4 giocatori | 5 giocatori | 6 giocatori |
 > |-|-|-|-|-|
-> | Monster 1 | 3 | 4 | 5 | 6 |
+> | Mostro 1 | 3 | 4 | 5 | 6 |
 > 
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
+> ### **Bilanciamento:**
+> Se hai meno o più di 5 giocatori, modifica lo scontro così:
 > 
-> | Number of Players | Modification |
+> | Numero di giocatori | Modifica |
 > |-|-|
 > | 3 | <ul></ul> |
 > | 4 | <ul></ul> |
