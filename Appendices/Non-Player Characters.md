@@ -1298,7 +1298,7 @@
 
 ***Morale.*** In combattimento, Morgantha tenta di parlamentare o ingannare i nemici; se la situazione volge al peggio, usa il tratto *forma eterea* per svanire nel Piano Etereo e colpire le vittime nel sonno.
 
-***Relazioni.*** È la madre delle megere notturne Bella e Offalia, e la fornitrice di dolci dei sogni per Franz e altri disperati di Barovia.
+***Relazioni.*** È la madre delle megere notturne Bella e Offalia, e la fornitrice di dolci dei sogni per [[Arc H - The Lost Soul#H3b. La tenda di Franz|Franz]] e altri disperati di Barovia.
 
 <div class="statblock">
 <h2>La Congrega del Tritaossa</h2>

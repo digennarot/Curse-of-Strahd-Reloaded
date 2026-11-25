@@ -415,8 +415,8 @@
 **Modifiche generali**
 * Aggiunto [[Arc O - Dinner with the Devil|Arco O: Cena con il diavolo]]
 * Corretti refusi e incongruenze varie 
-* Tolto [[Arc D - The Tome of Strahd|Arco D: Il Tomo di Strahd]] e spostato il file superato nelle appendici
-* Tolti i riferimenti a [[Arc D - The Tome of Strahd|Arco D: Il Tomo di Strahd]]
+* Tolto Arco D: Il Tomo di Strahd e spostato il file superato nelle appendici
+* Tolti i riferimenti a Arco D: Il Tomo di Strahd
 * Aggiunti nel testo i crediti dell'artista e i link Patreon dell'illustratore delle tavole a piena pagina, [Caleb Cleveland](https://www.patreon.com/calebisdrawing).
 
 [[A DM's Guide to Curse of Strahd|Introduzione]]
@@ -457,7 +457,7 @@
 * Chiarita la destinazione del cavaliere scheletrico
 
 [[Arc D - St. Andral's Feast|Arco D: La festa di Sant'Andral]]
-* Cambiata la lettera dell'arco per compensare la rimozione di [[Arc D - The Tome of Strahd|Arco D: Il Tomo di Strahd]]
+* Cambiata la lettera dell'arco per compensare la rimozione di Arco D: Il Tomo di Strahd
 * Aggiunto il segno lasciato sul pavimento della bottega di bare dal braciere di teletrasporto
 * Resa più rapida la fuga di Volenta
 * Dato a Volenta un modo per liberarsi dalla lotta
@@ -465,7 +465,7 @@
 * Chiarita l'età di Milivoj
 
 [[Arc E - The Missing Vistana|Arco E: La vistana scomparsa]]
-* Cambiata la lettera dell'arco per compensare la rimozione di [[Arc D - The Tome of Strahd|Arco D: Il Tomo di Strahd]]
+* Cambiata la lettera dell'arco per compensare la rimozione di Arco D: Il Tomo di Strahd
 * Chiarite le identità dei vistani nella tenda
 * Messo l'equipaggiamento più prezioso di Ezmerelda in un doppiofondo del suo baule
 * Aggiunte informazioni sulla gallina di Ezmerelda
@@ -476,15 +476,15 @@
 * Chiariti il morale e i rapporti di Victor nel suo profilo PNG
 
 [[Arc F - Lady Wachter's Wish|Arco F: Il desiderio di Lady Wachter]]
-* Cambiata la lettera dell'arco per compensare la rimozione di [[Arc D - The Tome of Strahd|Arco D: Il Tomo di Strahd]]
+* Cambiata la lettera dell'arco per compensare la rimozione di Arco D: Il Tomo di Strahd
 * Aggiunte informazioni sul caso in cui Izek sorprenda i giocatori
 
 [[Arc G - The Strazni Siblings|Arco G: I fratelli Strazni]]
-* Cambiata la lettera dell'arco per compensare la rimozione di [[Arc D - The Tome of Strahd|Arco D: Il Tomo di Strahd]]
+* Cambiata la lettera dell'arco per compensare la rimozione di Arco D: Il Tomo di Strahd
 * Chiariti i PE dei giocatori se Ireena viene rapita e poi salvata
 
 [[Arc H - The Lost Soul|Arco H: L'anima perduta]]
-* Cambiata la lettera dell'arco per compensare la rimozione di [[Arc D - The Tome of Strahd|Arco D: Il Tomo di Strahd]]
+* Cambiata la lettera dell'arco per compensare la rimozione di Arco D: Il Tomo di Strahd
 * Aggiunto il profilo PNG di Stella
 * Aggiunte informazioni sul trasferimento dei profughi dopo che Lady Wachter diventa borgomastro
 * Tolte le resistenze ai danni dell'**oratore della forca**, con un aumento dei punti ferita per compensare
@@ -494,12 +494,12 @@
 * Aggiunto al profilo delle megere l'attacco ***artiglio***
 
 [[Arc I - The Walls of Krezk|Arco I: Le mura di Krezk]]
-* Cambiata la lettera dell'arco per compensare la rimozione di [[Arc D - The Tome of Strahd|Arco D: Il Tomo di Strahd]]
+* Cambiata la lettera dell'arco per compensare la rimozione di Arco D: Il Tomo di Strahd
 * Aggiunto il profilo PNG del barone Dmitri Krezkov
 * Aggiunti i tempi di viaggio
 
 [[Arc J - The Stolen Gem|Arco J: La gemma rubata]]
-* Cambiata la lettera dell'arco per compensare la rimozione di [[Arc D - The Tome of Strahd|Arco D: Il Tomo di Strahd]]
+* Cambiata la lettera dell'arco per compensare la rimozione di Arco D: Il Tomo di Strahd
 * Chiarito che l'incantesimo *contingenza* di Ludmilla non si può contrastare
 * Cambiato il luogo dell'appuntamento: Strahd chiede ai giocatori di incontrarlo all'ingresso del cerchio di pietre
 * Tolta la *statuetta del potere meraviglioso (corvo)*
@@ -521,7 +521,7 @@
 * Anticipato di un giorno l'arrivo di Muriel
 
 [[Arc K - The Fallen Abbey|Arco K: L'abbazia caduta]]
-* Cambiata la lettera dell'arco per compensare la rimozione di [[Arc D - The Tome of Strahd|Arco D: Il Tomo di Strahd]]
+* Cambiata la lettera dell'arco per compensare la rimozione di Arco D: Il Tomo di Strahd
 * Chiariti i limiti di ciò che sa Markovia durante la seduta spiritica 
 * Modificato il significato della carta delle Nebbie nella seduta spiritica
 * Rese automatiche le visioni dopo la seduta spiritica
@@ -531,14 +531,14 @@
 * Aggiunta una ricompensa per la missione **Il tesoro di Clovin**
 
 [[Arc L - The Den of Wolves|Arco L: La tana dei lupi]]
-* Cambiata la lettera dell'arco per compensare la rimozione di [[Arc D - The Tome of Strahd|Arco D: Il Tomo di Strahd]]
+* Cambiata la lettera dell'arco per compensare la rimozione di Arco D: Il Tomo di Strahd
 * Aggiunte rassicurazioni per i giocatori che lasciano indietro Ilya in attesa di completare [[Arc P - Ravenloft Heist|Arco P: Il colpo a Ravenloft]]
 * Aggiunti altri avvertimenti per i gruppi che provano a tendere un agguato a Kiril prima di aver salvato Emil
 * Cambiato il dono di Zuleika: ora consegna ai giocatori il *Simbolo Sacro di Ravenkind* legato a una maledizione a scoppio ritardato
 * Tolti i riferimenti all'incantesimo *chiaroveggenza* di Ezmerelda
 
 [[Arc M - The Dragon's Manor|Arco M: Il maniero del drago]]
-* Cambiata la lettera dell'arco per compensare la rimozione di [[Arc D - The Tome of Strahd|Arco D: Il Tomo di Strahd]]
+* Cambiata la lettera dell'arco per compensare la rimozione di Arco D: Il Tomo di Strahd
 * Aggiunta una chiave degli alloggi dei cavalieri nella Tana del drago
 * Rielaborate le resistenze ai danni del **guerriero fantasma**
 * Aggiunti i **ragni fase** alla sala da ballo dei ragni
@@ -576,7 +576,7 @@
 * Aggiunto in [[Act I - Into the Mists/Arc C - Into the Valley|Arco C: Nella valle]] il profilo PNG di Morgantha
 * Aggiunta in [[Act I - Into the Mists/Arc C - Into the Valley|Arco C: Nella valle]] una ragione per la presenza di padre Petrovich vicino alla Locanda dell'Acqua Azzurra
 * Chiarita in [[Arc D - St. Andral's Feast|Arco D: La festa di Sant'Andral]] l'assenza di vera luce del sole a Barovia durante lo scontro con Volenta
-* Spostate le informazioni sul *Tomo di Strahd* dall'arco superato [[Arc D - The Tome of Strahd|Arco D: Il Tomo di Strahd]] a [[Arc H - The Lost Soul|Arco H: L'anima perduta]]
+* Spostate le informazioni sul *Tomo di Strahd* dall'arco superato Arco D: Il Tomo di Strahd a [[Arc H - The Lost Soul|Arco H: L'anima perduta]]
 * Modificato in [[Arc D - St. Andral's Feast|Arco D: La festa di Sant'Andral]] il processo a Rahadin per scoraggiare i giocatori dall'attaccarlo
 * Tolta in [[Arc E - The Missing Vistana|Arco E: La vistana scomparsa]] la malattia debilitante di Arabelle
 * Rivista in [[Arc F - Lady Wachter's Wish|Arco F: Il desiderio di Lady Wachter]] la descrizione esterna di Wachterhaus
@@ -589,7 +589,7 @@
 * Posticipato in [[Arc K - The Fallen Abbey|Arco K: L'abbazia caduta]] l'invito del barone Krezkov a stare a casa della sua famiglia, finché i giocatori non hanno completato [[Arc J - The Stolen Gem|Arco J: La gemma rubata]]
 * Aggiunto in [[Arc K - The Fallen Abbey|Arco K: L'abbazia caduta]] un profilo PNG di Ezmerelda d'Avenir
 * Cambiato in [[Arc K - The Fallen Abbey|Arco K: L'abbazia caduta]] il nome dell'antenata di Anna Krezkova
-* Aggiunto [[Glossary
+* Aggiunto il [[Glossary|Glossario]]
 # Hotfix 2.0.5.5 (18 gennaio 2024)
 • Corretti refusi e incongruenze varie  
 • Chiarito in [[Running the Adventure|Condurre l'avventura]] dove si trovano la Spada del Sole e il Tomo di Strahd  
@@ -674,7 +674,7 @@
 * Aggiunta un'altra scena con Rictavio la prima mattina alla Locanda dell'Acqua Azzurra  
 * Aumentati i PE da traguardo per la sepoltura del borgomastro e per l'arrivo a Vallaki  
 
-**[[Arc D - The Tome of Strahd|Arco D: Il Tomo di Strahd]]**
+**Arco D: Il Tomo di Strahd**
 * Spostato il Tomo di Strahd nelle mani dell'**oratore della forca** Leo Dilisnya, nel Piano Etereo  
 * Aggiunto un paragrafo alla fine del *Tomo di Strahd*  
 
@@ -722,7 +722,7 @@
 **[[Arc I - The Walls of Krezk|Arco I: Le mura di Krezk]]**
 * Aggiunta una scena in cui l'Abate cura la licantropia dei giocatori presso la vasca benedetta di Krezk
 # Versione 2.0.4 (23 agosto 2023)
-* Aggiunti [[Arc D - The Tome of Strahd|Arco D: Il Tomo di Strahd]], [[Arc D - St. Andral's Feast|Arco D: La festa di Sant'Andral]], [[Arc E - The Missing Vistana|Arco E: La vistana scomparsa]], [[Arc F - Lady Wachter's Wish|Arco F: Il desiderio di Lady Wachter]], [[Arc G - The Strazni Siblings|Arco G: I fratelli Strazni]], [[Arc H - The Lost Soul|Arco H: L'anima perduta]], [[Arc I - The Walls of Krezk|Arco I: Le mura di Krezk]] e l'appendice [[Amber Shards|Frammenti d'ambra]]
+* Aggiunti Arco D: Il Tomo di Strahd, [[Arc D - St. Andral's Feast|Arco D: La festa di Sant'Andral]], [[Arc E - The Missing Vistana|Arco E: La vistana scomparsa]], [[Arc F - Lady Wachter's Wish|Arco F: Il desiderio di Lady Wachter]], [[Arc G - The Strazni Siblings|Arco G: I fratelli Strazni]], [[Arc H - The Lost Soul|Arco H: L'anima perduta]], [[Arc I - The Walls of Krezk|Arco I: Le mura di Krezk]] e l'appendice [[Amber Shards|Frammenti d'ambra]]
 * aggiunte tavole a piena pagina tutte nuove dell'artista Caleb Cleveland
 * cambiato il nome di Yaedrag in Soldav; cambiati i nomi dell'anziano Ormir e di sua moglie Alathea in anziano Burebis e Deceba cambiata l'elsa della Spada del Sole, che in origine apparteneva a una lama lunare del principe degli elfi del crepuscolo Erevan Lowenhart, il cui spirito Baba Lysaga ha sigillato dentro * l'elsa per potenziare la nuova lama di cristallo
 * cambiato Rahadin, che ora è cugino acquisito di Kasimir e figlio del principe Erevan Lowenhart

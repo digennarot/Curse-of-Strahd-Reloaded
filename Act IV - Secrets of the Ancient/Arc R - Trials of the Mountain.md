@@ -784,8 +784,6 @@ In combattimento i druidi e i berserker agiscono così:
     <p><strong><em>Dono del Gulthias.</em></strong> Quando viene attaccato da una creatura che può vedere, il druido lancia <em>pelle di corteccia</em>, purché abbia uno slot incantesimo di 2º livello disponibile. (Lanciato in questo modo, l'incantesimo non richiede concentrazione.)</p>
 </div>
 
-### Druido naturalista
-
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 
