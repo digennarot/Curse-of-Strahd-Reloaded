@@ -976,3 +976,37 @@ Aree del libro: N1 Chiesa di Sant'Andral; N2j Grande balconata; N2n Camera priva
 | Rahadin, the Corrupted | Rahadin, il corrotto | |
 | Shrieking Resonance / Corrupted Command / Tail Stinger / Necrotic Slam / Rampage | Risonanza stridente / Comando corrotto / Pungiglione della coda / Schianto necrotico / Furia | Rahadin |
 | deathly choir | coro di morte | vedi Arco O |
+
+### Arco U
+
+Titolo: Arc U: Dreams of Dawn → Arco U: Sogni dell'alba. Aree: U1 Il consiglio di guerra (U1a L'invito, U1b Wachterhaus); U2 Il sogno (U2a Il sogno comincia; U2b La piazza di Vallaki: Entrare nel sogno, Parlare con gli abitanti, La Festa della Pace, La richiesta dei borgomastri; U2c Il Lago Zarovich); U3 Il Muro dei Sussurri (U3a La lunga notte: Nel buio, Il dilemma di Vallaki; U3b Le strade di Vallaki; U3c Il muro; U3d Gli incubi; U3e La discesa delle Nebbie; U3f La caduta del Divoratore; U3g L'attacco al Tempio della Palude; U3h La fanciulla solitaria; U3i Il Lago Zarovich: Persuadere il cuore della Sognatrice, Combattere il cuore della Sognatrice; U3j La Porta del Mattino: L'arrivo alla porta, Organizzare la difesa, La Porta Zarovich, Le mura meridionali, La Porta del Mattino; U3k Le conseguenze); U4 La Vecchia Strada di Svalich (U4a Il Vecchio Tritaossa, U4b I Boschi di Svalich, U4c La carrozza nera); U5 Il Castello di Ravenloft (U5a I cancelli del castello, U5b La salita al torrione, U5c Il Cuore della Tristezza: Avvicinarsi al Cuore, La discesa di Strahd, Strahd attacca; U5d La battaglia finale: La battaglia comincia, Visioni di morte, Visioni di vita; U5e Il castello che crolla); U6 Il sole sorge.
+
+Aree del libro: N4i Salotto; N4e Vestibolo sul retro; N2b Scala esterna; Approaching the Town → Avvicinarsi alla città; K33 Scala degli appartamenti del re; K46 Parapetti; K57 Tetto della torre; K58 Ponte; K53 Tetto; heavy precipitation (DMG) → precipitazioni intense.
+
+| Inglese | Italiano | Note |
+|---|---|---|
+| war council | consiglio di guerra | |
+| Festival of Peace | Festa della Pace | |
+| Ulmist Inquisition / "the Ulmist project" | Inquisizione Ulmist / «progetto Ulmist» | |
+| Priests of Osybus / Age of Blood | Sacerdoti di Osybus / Era del Sangue | |
+| soul jar | giara dell'anima | ⚠ |
+| the Long Night | la Lunga Notte | piano di riserva di Strahd |
+| Lady Winter | la Dama dell'Inverno | la Sognatrice |
+| Sign of the Rozana | Segno delle Rozana | |
+| *boon of the Dreamer* | *dono della Sognatrice* | |
+| Dreamer's heart | cuore della Sognatrice | aboleth 2024 modificato |
+| aboleth: amphibious / mucus cloud / eldritch restoration / consume memories | anfibio / nube di muco / ripristino sovrannaturale / consumare ricordi | ⚠ nomi del Manuale dei Mostri 2024 non verificati |
+| legendary action / legendary reaction | azione leggendaria / reazione leggendaria | |
+| Sylvan / Deep Speech | Silvano / Linguaggio delle Profondità | |
+| winged harbinger | araldo alato | |
+| zombie hulk / zombie leaper / zombie clot | zombi colosso / zombi saltatore / grumo di zombi | ⚠ |
+| ogre zombie / choker | zombi ogre / choker | ⚠ *choker* invariato |
+| chain shirt | giaco di maglia | |
+| "the Shadow's Reckoning" / Storm Mother / Lightseekers | la Resa dei conti dell'Ombra / la Madre Tempesta / Cercatori di Luce | parole dei corvi ⚠ |
+| "Great Work" | «Grande Opera» | di Strahd |
+| Heart of Sorrow: Sanguine Bond / Evil's Heart | Legame sanguigno / Cuore del male | |
+| Baneful Curse / Baleful Command / Arterial Binding / Tower's Fury | Maledizione funesta / Comando malevolo / Vincolo arterioso / Furia della torre | azioni di tana |
+| *wall of force* / *private sanctum* | *muro di forza* / *santuario privato* | |
+| Flicker (visioni) | Un lampo | |
+| "Each cloud has its silver lining" | «non tutto il male vien per nuocere» | proverbio adattato |
+| Milestone (finale) | 25.000 PE | |

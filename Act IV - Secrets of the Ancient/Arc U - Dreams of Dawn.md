@@ -1,1034 +1,1034 @@
-*An adventure for five 10th-level characters.*
+*Un'avventura per cinque personaggi di 10° livello.*
 
-In this arc, after reconsecrating the Fanes, the players are invited to a Vallakian war council with a simple goal: overthrow Strahd, and return freedom to Barovia. That night, however, as the players sleep, the Dark Powers spirit them away into a dream of Barovia’s future and offer them a terrible choice: sacrifice Ireena’s soul, and secure peace for the valley once more.
+In quest'arco, dopo aver riconsacrato i Templi, i giocatori vengono invitati a un consiglio di guerra vallakiano con un obiettivo semplice: rovesciare Strahd e restituire la libertà a Barovia. Quella notte, però, mentre i giocatori dormono, i Poteri Oscuri li trascinano in un sogno sul futuro di Barovia e li mettono davanti a una scelta terribile: sacrificare l'anima di Ireena e assicurare di nuovo la pace alla valle.
 
-If the players reject the Dark Powers’ choice, they awaken to find that Strahd has used the power of the Heart of Sorrow to plunge Barovia into eternal night—and Vallaki is under siege. The Whispering Wall has devoured Vallaki’s western half, while a horde of undead fast approaches from the east. To defend the town—and themselves—the players must halt the Whispering Wall’s inexorable advance and defend Vallaki’s walls from the oncoming dead.
+Se i giocatori rifiutano la scelta dei Poteri Oscuri, al risveglio scoprono che Strahd ha usato il potere del Cuore della Tristezza per far sprofondare Barovia in una notte eterna e che Vallaki è sotto assedio. Il Muro dei Sussurri ha divorato la metà occidentale di Vallaki, mentre da est si avvicina in fretta un'orda di non morti. Per difendere la città, e sé stessi, i giocatori devono fermare l'avanzata inesorabile del Muro dei Sussurri e difendere le mura di Vallaki dai morti in arrivo.
 
-With Vallaki saved, however, the players soon learn a grimmer truth: hordes of the dead have risen all across the valley, and an army of thousands more undead is headed toward Vallaki. To stop them, the players must journey to Castle Ravenloft and defeat Strahd—once and for all.
-# U1. The War Council
-## U1a. The Invitation
-Shortly after the players reconsecrate the final Fane in [[Arc T - The Three Fanes]], they receive an urgent invitation from Lady Wachter asking them to meet with her at Wachterhaus:
+Salvata Vallaki, però, i giocatori scoprono presto una verità ancora più cupa: orde di morti si sono levate in tutta la valle, e un esercito di altre migliaia di non morti marcia verso Vallaki. Per fermarlo i giocatori devono raggiungere il Castello di Ravenloft e sconfiggere Strahd, una volta per tutte.
+# U1. Il consiglio di guerra
+## U1a. L'invito
+Poco dopo aver riconsacrato l'ultimo Tempio nell'[[Arc T - The Three Fanes|Arco T: I tre templi]], i giocatori ricevono un invito urgente di Lady Wachter, che chiede di incontrarli a Wachterhaus:
 
-* If the players are in Vallaki, they receive a personal invitation from Stella Wachter, who informs them that her mother has summoned them to Wachterhaus for an urgent meeting. (Stella doesn’t know what the meeting is about.)
-* If the players are in Krezk, they receive a parchment scroll sent via raven, which reads: “I must speak with you tonight. I await you at Wachterhaus. —Burgomistress Fiona Wachter."
+* Se i giocatori sono a Vallaki, ricevono l'invito di persona da Stella Wachter, che li informa che sua madre li ha convocati a Wachterhaus per una riunione urgente. (Stella non sa di che cosa si tratti.)
+* Se i giocatori sono a Krezk, ricevono una pergamena portata da un corvo, che dice: «Devo parlarvi stanotte. Vi attendo a Wachterhaus. Fiona Wachter, borgomastra».
 ## U1b. Wachterhaus
-When the players arrive at Wachterhaus, they are shown to <span class="citation">N4j. Dining Room (p. 106)</span> and <span class="citation">N4i Parlor (p. 106)</span>. There, they are met by Lady Fiona Wachter, Father Lucian Petrovich, Victor Vallakovich, and Urwin Martikov.
+Quando i giocatori arrivano a Wachterhaus, vengono accompagnati in <span class="citation">N4j. Sala da pranzo (p. 106)</span> e <span class="citation">N4i Salotto (p. 106)</span>. Lì li accolgono Lady Fiona Wachter, padre Lucian Petrovich, Victor Vallakovich e Urwin Martikov.
 
-Lady Wachter welcomes the players to Wachterhaus and thanks them for arriving on short notice. She then informs them of the purpose of the meeting: to determine whether and when Vallaki shall march on Castle Ravenloft and defeat Strahd von Zarovich—once and for all.
+Lady Wachter dà il benvenuto ai giocatori a Wachterhaus e li ringrazia di essere venuti con così poco preavviso. Poi spiega lo scopo della riunione: decidere se e quando Vallaki marcerà sul Castello di Ravenloft per sconfiggere Strahd von Zarovich, una volta per tutte.
 
-Lady Wachter can share the following information:
+Lady Wachter può dire quanto segue:
 
-* After aiding the players in defying Strahd’s will (and killing his servants) in [[Arc T - The Three Fanes]], she is now a traitor to Castle Ravenloft. 
-* She is unsure what consequences the Fanes’ reconsecration will bring—and how and when Strahd will strike back. “However," she says grimly, “I don’t intend to wait to find out."
+* Dopo aver aiutato i giocatori a sfidare la volontà di Strahd (e a ucciderne i servitori) nell'[[Arc T - The Three Fanes|Arco T: I tre templi]], ora è una traditrice agli occhi del Castello di Ravenloft. 
+* Non sa quali conseguenze porterà la riconsacrazione dei Templi, né come e quando Strahd colpirà. «Però», dice cupa, «non ho intenzione di aspettare per scoprirlo».
 
-The meeting’s attendees have thus far taken the following positions regarding Lady Wachter’s proposal:
+Finora i partecipanti alla riunione hanno preso queste posizioni sulla proposta di Lady Wachter:
 
-* **Lady Wachter.** Lady Wachter believes that Strahd’s counterattack will come swiftly, and that all of Vallaki is likely to suffer for her defiance. She believes that her people are ready to rise up against Castle Ravenloft, and that they must strike first, before Strahd rains destruction upon them.
-* **Father Lucian.** Father Lucian is disturbed by the prospect of Strahd’s wrath, but believes that Vallaki must not move hastily, lest they fall into one of Strahd’s traps. Although he fears the blood and death that may occur from a march on Castle Ravenloft, he reluctantly believes that a confrontation is now inevitable. As such, he believes that a march on Castle Ravenloft may be necessary, but that Vallaki must be given a week to prepare before doing so.
-* **Victor Vallakovich.** Victor believes that Strahd won’t attack Vallaki, and believes that—even if he does—he may be content to simply take Lady Wachter and be done with it. Should Vallaki strike first, he believes, they will seal their own fate and ensure a punishment that rivals the village of Barovia’s. (Though he hasn’t mentioned it, Victor is still angry at Lady Wachter for failing to protect Stella from Strahd’s emissary in [[Arc T - The Three Fanes]].)
-* **Urwin Martikov.** Urwin isn’t certain that Strahd might attack, but believes it to be a viable possibility. Accordingly, he’s thus far advocated a preparation of Vallaki to defend itself—and to march to Castle Ravenloft, if necessary—but making no overt moves unless Urwin’s spies reveal evidence that Strahd is planning to strike back against them. (“The Keepers of the Feather—too terrified of moving into the open—failed to warn the village of Barovia of what they faced," he says, his voice colored with guilt. “We will not make that mistake again.")
+* **Lady Wachter.** Lady Wachter crede che il contrattacco di Strahd arriverà presto e che tutta Vallaki rischia di pagare per la sua sfida. È convinta che la sua gente sia pronta a sollevarsi contro il Castello di Ravenloft e che debba colpire per prima, prima che Strahd faccia piovere distruzione su di loro.
+* **Padre Lucian.** Padre Lucian è turbato dalla prospettiva dell'ira di Strahd, ma crede che Vallaki non debba muoversi in fretta, per non cadere in una delle sue trappole. Teme il sangue e la morte che una marcia sul Castello di Ravenloft potrebbe portare, eppure a malincuore crede che ormai lo scontro sia inevitabile. Per questo pensa che la marcia possa essere necessaria, ma che prima si debba concedere a Vallaki una settimana per prepararsi.
+* **Victor Vallakovich.** Victor crede che Strahd non attaccherà Vallaki e che, anche se lo facesse, potrebbe accontentarsi di prendere Lady Wachter e chiudere lì la faccenda. Se Vallaki colpisse per prima, secondo lui, segnerebbe il proprio destino e si attirerebbe una punizione pari a quella del villaggio di Barovia. (Non lo ha detto, ma Victor è ancora arrabbiato con Lady Wachter perché non ha saputo proteggere Stella dall'emissario di Strahd nell'[[Arc T - The Three Fanes|Arco T: I tre templi]].)
+* **Urwin Martikov.** Urwin non è sicuro che Strahd attaccherà, ma la considera una possibilità concreta. Per questo finora ha sostenuto che Vallaki debba prepararsi a difendersi, e a marciare sul Castello di Ravenloft se necessario, senza però fare mosse scoperte a meno che le sue spie non trovino prove che Strahd stia preparando un contrattacco. («I Custodi della Piuma, troppo terrorizzati per uscire allo scoperto, non hanno avvertito il villaggio di Barovia di quello che lo aspettava», dice, con la voce venata di colpa. «Non ripeteremo quell'errore».)
 
-Although any individual attendee may require convincing or argument, the attendees of the war council welcome any insight, guidance, and leadership the players are able to provide.
-# U2. The Dream
-## U2a. The Dream Begins
-The first time the players take a long rest in Vallaki after [[#U1. The War Council]], if Ireena Kolyana and Ezmerelda d’Avenir are still alive and traveling with them, the players—along with Ireena and Ezmerelda—are drawn into a dream created by the Dark Powers. Read:
+Qualcuno dei partecipanti andrà convinto con buoni argomenti, ma tutti accolgono volentieri le idee, i consigli e la guida che i giocatori sanno offrire.
+# U2. Il sogno
+## U2a. Il sogno comincia
+La prima volta che i giocatori fanno un riposo lungo a Vallaki dopo [[#U1. Il consiglio di guerra|il consiglio di guerra]], se Ireena Kolyana ed Ezmerelda d'Avenir sono ancora vive e viaggiano con loro, i giocatori, insieme a Ireena ed Ezmerelda, vengono trascinati in un sogno creato dai Poteri Oscuri. Leggi:
 
 <div class="description">
-<p>You feel yourselves sinking into a warm, soft darkness as sleep draws its arms around you. There’s a sensation of falling, of the tide of unconsciousness washing over you. You don’t notice the moment you fall asleep, but you notice when, a heartbeat later, your eyes snap open again—only to find yourselves somewhere else.</p>
+<p>Vi sentite sprofondare in un'oscurità calda e morbida mentre il sonno vi stringe fra le braccia. C'è una sensazione di caduta, come se la marea dell'incoscienza vi passasse sopra. Non vi accorgete del momento in cui vi addormentate, ma vi accorgete di quando, un battito di cuore dopo, riaprite di scatto gli occhi e vi ritrovate da un'altra parte.</p>
 </div>
 
-> [!abstract]+ **Elven Trances**
-> If any player is an elf or otherwise incapable of sleep, read the following as they begin their watch or long rest:
+> [!abstract]+ **Trance elfiche**
+> Se un giocatore è un elfo o comunque non può dormire, leggi quanto segue quando comincia il suo turno di guardia o il riposo lungo:
 > 
 > ---
 >
-> *The air suddenly grows frigid. You can faintly hear the sound of nearby whispers, though you can’t make out the words.*
+> *L'aria si fa all'improvviso gelida. Sentite appena dei sussurri qui vicino, anche se non riuscite a distinguere le parole.*
 >
 > ---
 >
-> If the players opens their eyes or otherwise investigates the sleeping characters, read or paraphrase:
+> Se il giocatore apre gli occhi o comunque controlla i personaggi addormentati, leggi o riassumi:
 >
 > ---
 >
-> *A thick fog bank crawls across the ground, its depths swirling lazily in the chill air. Long, elegant tendrils of mist reach from its depths, their ends touching your friends’ foreheads as they sleep peacefully. The whispers seem to emanate from the mist.*
+> *Un fitto banco di nebbia striscia sul terreno e nel suo fondo la foschia vortica pigra nell'aria fredda. Dalle sue profondità si allungano viticci di nebbia lunghi ed eleganti, che con le punte sfiorano la fronte dei vostri amici, immersi in un sonno tranquillo. I sussurri sembrano venire dalla nebbia.*
 >
 > ---
 >
-> A player who approaches the sleeping characters and succeeds on a DC 15 Wisdom (Perception) check can make out a few words and phrases from the cacophony of whispers:
+> Un giocatore che si avvicina ai personaggi addormentati e supera una prova di Saggezza (Percezione) con CD 15 riesce a distinguere qualche parola e qualche frase nella cacofonia dei sussurri:
 >
-> * “It doesn’t have to end this way."
-> * “Your friends need you."
-> * “Peace is within your grasp."
+> * «Non deve finire così».
+> * «I tuoi amici hanno bisogno di te».
+> * «La pace è a portata di mano».
 >
-> Any attempts to rouse the sleeping players fail. A player who touches the sleeping characters is instantly transported into the dream alongside them. 
-## U2b. Vallaki Town Square
-### Entering the Dream
-When the players first enter the dream, read the following, adjusting the text to remove any deceased characters:
+> Ogni tentativo di svegliare i giocatori addormentati fallisce. Un giocatore che tocca i personaggi addormentati viene trasportato all'istante nel sogno insieme a loro. 
+## U2b. La piazza di Vallaki
+### Entrare nel sogno
+Quando i giocatori entrano nel sogno, leggi quanto segue, togliendo dal testo i personaggi morti:
 
 <div class="description">
-<p>Shops and homes enclose a familiar town square, decorated with muted, tasteful garlands and painted wooden boxes filled with small flowers. At the north end of the square stands an empty wooden platform, bearing a simple wreath of periwinkle-blue flowers resting on a stand.</p>
-<p>The town square is filled with people. You can make out several familiar faces within it: an older, silver-bearded man and a tall, dark-haired young man wearing priests’ robes; a raven-haired man well into middle age, standing beside a matronly-looking woman with silver streaks and black feathers running through her hair; a portly man wearing a jester’s cap; and a golden-haired youth with white wings tucked against his back.</p>
+<p>Botteghe e case circondano una piazza che conoscete, decorata con ghirlande sobrie e di buon gusto e cassette di legno dipinto piene di fiorellini. All'estremità nord della piazza si alza una pedana di legno vuota, con una semplice corona di fiori azzurro pervinca appoggiata su un sostegno.</p>
+<p>La piazza è piena di gente. Fra la folla distinguete diversi volti familiari: un uomo anziano dalla barba argentata e un giovane alto dai capelli scuri, entrambi in abito da sacerdote; un uomo dai capelli corvini ben oltre la mezza età, accanto a una donna dall'aria materna, con ciocche argentate e piume nere fra i capelli; un uomo corpulento con un berretto da giullare; e un ragazzo dai capelli d'oro con due ali bianche raccolte sulla schiena.</p>
 </div>
 
-If any player has a passive (Wisdom) Perception score of 15 or greater, add:
+Se un giocatore ha un punteggio di Saggezza (Percezione) passiva pari o superiore a 15, aggiungi:
 
 <div class="description">
-<p>In an alley between two storefronts, a familiar-looking man with dark, greasy hair and a black robe watches silently from the shadows.</p>
+<p>In un vicolo fra due botteghe, un uomo dall'aria familiare, con i capelli scuri e unti e una veste nera, osserva in silenzio dall'ombra.</p>
 </div>
 
-Continue:
+Continua:
 
 <div class="description">
-<p>Most people speak quietly amongst themselves, but some gaze instead toward a stone fountain at the center of the square. Standing tall at the center of the fountain is a gray statue of a familiar-looking woman facing west.</p>
-<p>You stand side-by-side along the eastern edge of the square, away from the crowd. You find that your clothes have changed, resembling a familiar uniform above a simple chain shirt. Each of you carries a spear in one hand and a shield in the other, with spears’ ends planted firmly upon the ground.</p>
+<p>Quasi tutti parlano sottovoce fra loro, ma alcuni guardano invece una fontana di pietra al centro della piazza. In mezzo alla fontana si erge la statua grigia di una donna dall'aria familiare, rivolta a ovest.</p>
+<p>Siete in piedi l'uno accanto all'altro lungo il lato est della piazza, lontano dalla folla. Vi accorgete che i vostri abiti sono cambiati: ora somigliano a un'uniforme che conoscete, indossata sopra un semplice giaco di maglia. Ognuno di voi stringe una lancia in una mano e uno scudo nell'altra, con il fondo della lancia ben piantato a terra.</p>
 </div>
 
-The players immediately recognize the square as <span class="citation">N8. Town Square (p. 119)</span>. In addition, players who approach the figures on the platform or the statue on the fountain, who successfully guess their identifies, or who succeed on a DC 12 Wisdom (Perception) check can confirm the following:
+I giocatori riconoscono subito la piazza: è <span class="citation">N8. Piazza della città (p. 119)</span>. Inoltre i giocatori che si avvicinano alle figure sulla pedana o alla statua della fontana, che indovinano chi sono o che superano una prova di Saggezza (Percezione) con CD 12 possono accertare quanto segue:
 
-* The men wearing priests’ robes are an older Father Lucian Petrovich and Yeska
-* The older man and matronly woman are an older Urwin Martikov and Danika Dorakova.
-* The portly man with the jester’s cap is an older Gadof Blinsky.
-* The golden-haired youth is Ithuriel.
-* The greasy-haired man is an older Victor Vallakovich.
-* The woman’s statue resembles Ireena Kolyana.
+* Gli uomini in abito da sacerdote sono padre Lucian Petrovich, più vecchio, e Yeska
+* L'uomo anziano e la donna dall'aria materna sono Urwin Martikov e Danika Dorakova, più vecchi.
+* L'uomo corpulento con il berretto da giullare è Gadof Blinsky, più vecchio.
+* Il ragazzo dai capelli d'oro è Ithuriel.
+* L'uomo dai capelli unti è Victor Vallakovich, più vecchio.
+* La statua della donna somiglia a Ireena Kolyana.
 
-Shortly after the players first arrive, a nondescript Vallakian hand-delivers them a note that they received from a “hooded figure." (The Vallakian doesn’t know who the figure is, or remember any other details about them, and is confused as to why the figure asked them to deliver the message, instead of doing so themselves.) The note, which bears a silver-gray seal shaped like a sprig of belladonna upon a silver shield, reads: “The masks we wear open many doors. To find mine, follow yours."
+Poco dopo l'arrivo dei giocatori, un vallakiano qualunque consegna loro a mano un biglietto che ha ricevuto da una «figura incappucciata». (Il vallakiano non sa chi fosse la figura né ricorda altri particolari e non capisce perché gli abbia chiesto di consegnare il messaggio invece di farlo di persona.) Il biglietto porta un sigillo grigio argento a forma di rametto di belladonna su uno scudo d'argento e dice: «Le maschere che indossiamo aprono molte porte. Per trovare la mia, seguite le vostre».
 
-> [!lore]+ **The Message**
-> The message was sent by Ezra, the goddess of the Mists and the mask of the Dark Powers. She awaits the players at [[#U2c. Lake Zarovich]].
+> [!lore]+ **Il messaggio**
+> Il messaggio l'ha mandato Ezra, la dea delle Nebbie e la maschera dei Poteri Oscuri. Aspetta i giocatori al [[#U2c. Il Lago Zarovich|Lago Zarovich]].
 
-> [!lore]+ **The Future World**
-> The Dark Powers have crafted this dream from a vision of Barovia’s future—ten years in the future—which unfolded as follows.
+> [!lore]+ **Il mondo futuro**
+> I Poteri Oscuri hanno costruito questo sogno a partire da una visione del futuro di Barovia, dieci anni più avanti, andato così.
 >
-> Within the dream, Ireena sacrificed her soul to the Dark Powers, ensuring her cycle of reincarnation would continue and protecting Strahd from claiming her this life. Her death caused Strahd’s soul jar, which he had crafted with Ireena’s blood to catch her soul upon death, to shatter. Strahd immediately departed Castle Ravenloft and confronted the players to learn of her fate, but was grievously wounded by the *Sunsword* and fled to Castle Ravenloft. Soon thereafter, Strahd sent the players a message: he would cease tormenting their friends and permit the players to depart Barovia freely if they did so together—and took the *Sunsword* with them. 
+> Nel sogno Ireena ha sacrificato la sua anima ai Poteri Oscuri, perché il suo ciclo di reincarnazioni continuasse e Strahd non potesse prenderla in questa vita. La sua morte ha mandato in frantumi la giara dell'anima che Strahd aveva fabbricato con il sangue di Ireena per catturarne l'anima al momento della morte. Strahd ha lasciato subito il Castello di Ravenloft e ha affrontato i giocatori per sapere che fine avesse fatto, ma è stato ferito gravemente dalla *Spada del Sole* ed è fuggito al castello. Poco dopo ha mandato ai giocatori un messaggio: avrebbe smesso di tormentare i loro amici e li avrebbe lasciati partire da Barovia liberamente, a patto che partissero tutti insieme e portassero via la *Spada del Sole*. 
 >
-> Strahd further shared that, with Ireena’s disappearance, he no longer intended to use the Grand Conjunction to escape this cycle, preferring to linger within the Mists until he could find a way to recapture her soul from the Dark Powers. Strahd made good on his promises, and the players departed Barovia—but not before sharing the tale of Ireena’s sacrifice, and the peace her life had bought for the valley. Lady Wachter declared the day of Ireena’s death to be a Vallakian holiday: a day of mourning and celebration, in Ireena’s memory.
+> Strahd ha aggiunto che, scomparsa Ireena, non intendeva più usare la Grande Congiunzione per sfuggire a questo ciclo: preferiva restare fra le Nebbie finché non avesse trovato il modo di strappare di nuovo la sua anima ai Poteri Oscuri. Strahd ha mantenuto le promesse e i giocatori hanno lasciato Barovia, non prima però di aver raccontato il sacrificio di Ireena e la pace che la sua vita aveva comprato per la valle. Lady Wachter ha dichiarato il giorno della morte di Ireena festa vallakiana: un giorno di lutto e di festa in sua memoria.
 >
-> With the players departed, Strahd reconquered the power of the Fanes, desecrating them once more. Within a year, however, Strahd’s machinations and research reached a dead end. Frustrated, he returned to hibernation within his tomb, awaiting the day when Tatyana’s soul would be born anew. As Strahd slumbered, his wolves, bats, and undead retreated from civilization, kept at bay by the power of the *Holy Symbol of Ravenkind*.
+> Partiti i giocatori, Strahd ha riconquistato il potere dei Templi e li ha profanati di nuovo. Nel giro di un anno, però, le sue macchinazioni e le sue ricerche sono finite in un vicolo cieco. Frustrato, è tornato a ibernarsi nella sua tomba, in attesa del giorno in cui l'anima di Tatyana sarebbe rinata. Mentre Strahd dormiva, i suoi lupi, i suoi pipistrelli e i suoi non morti si sono ritirati lontano dai luoghi abitati, tenuti a distanza dal potere del *Simbolo Sacro di Ravenkind*.
 >
-> As the years passed, Lady Wachter abdicated her position as Burgomistress in favor of her son, Nikolai, finding comfort in retirement as old age sapped her strength. Yeska became a deacon at St. Andral’s Church. Victor Vallakovich, feeling betrayed by the players’ departure, had a bitter argument with Stella Wachter, who ended their friendship and married Ilya Krezkov several years later. Dmitri Krezkov died when his *wolfsbane potion* unexpectedly failed, forcing his wife, Anna, to strike him down to protect the townsfolk. Haunted by the experience, Anna passed the role of Burgomaster to their son, Ilya, who did his best to grow into his father’s shoes.
+> Con il passare degli anni Lady Wachter, che la vecchiaia privava delle forze, ha rinunciato alla carica di borgomastra in favore del figlio Nikolai, trovando conforto nel ritiro. Yeska è diventato diacono della Chiesa di Sant'Andral. Victor Vallakovich, sentendosi tradito dalla partenza dei giocatori, ha avuto un litigio amaro con Stella Wachter, che ha chiuso la loro amicizia e qualche anno dopo ha sposato Ilya Krezkov. Dmitri Krezkov è morto quando la sua *pozione di aconito* ha smesso all'improvviso di fare effetto, e la moglie Anna ha dovuto abbatterlo per proteggere gli abitanti. Perseguitata da quell'esperienza, Anna ha passato la carica di borgomastro al figlio Ilya, che ha fatto del suo meglio per dimostrarsi all'altezza del padre.
 >
-> Although peace has returned to the valley, some whisper of the Priests of Osybus, a secretive cult that, according to urban legend, intends to raise Strahd from his slumber and bring about an Age of Blood. To root out the cult, the three burgomasters have agreed to found the Ulmist Inquisition: a joint task force inspired by the original Ulmist Inquisition centuries prior, which once fought to destroy fiend-worshipping cults across distant lands. Still, most believe the Priests to be a myth; if they exist, most believe that their numbers are few, and their strength weak.
+> Anche se nella valle è tornata la pace, qualcuno sussurra dei Sacerdoti di Osybus, un culto segreto che, secondo le voci, vuole risvegliare Strahd dal suo sonno e dare inizio a un'Era del Sangue. Per stanare il culto, i tre borgomastri hanno deciso di fondare l'Inquisizione Ulmist: una forza congiunta che prende a modello l'Inquisizione Ulmist originale, quella che secoli fa combatteva per distruggere i culti degli immondi in terre lontane. Comunque, quasi tutti credono che i Sacerdoti siano una leggenda; e se esistono, quasi tutti pensano che siano pochi e deboli.
 
-> [!info]+ **The Players’ Role**
-> To all characters except themselves, the players and Ireena appear as ordinary Vallakian guards and are expected to behave as such. Lady Wachter, Nikolai Wachter, Stella Wachter, and Urwin Martikov may know one or more of them by any of the following names: Velimir, Blazh, Rostislav, Borislav, Chedomir, Dobroslav, Nikola, Zoria, Zaria, Miroslava, Yelena, Darya, Rada, Boleslava, or Slavitsa.
-### Interacting with the Townsfolk
-The people in the town square are waiting for Burgomaster Nikolai Wachter, Burgomaster Ismark Kolyanovich, and Burgomaster Ilya Krezkov to begin the Festival of Peace—an annual celebration honoring the sacrifice of Ireena Kolyana and commemorating Strahd’s withdrawal following the Grand Conjunction. 
+> [!info]+ **Il ruolo dei giocatori**
+> Per tutti i personaggi tranne loro stessi, i giocatori e Ireena hanno l'aspetto di normali guardie vallakiane, e ci si aspetta che si comportino come tali. Lady Wachter, Nikolai Wachter, Stella Wachter e Urwin Martikov possono conoscere uno o più di loro con uno di questi nomi: Velimir, Blazh, Rostislav, Borislav, Chedomir, Dobroslav, Nikola, Zoria, Zaria, Miroslava, Yelena, Darya, Rada, Boleslava o Slavitsa.
+### Parlare con gli abitanti
+La gente in piazza aspetta il borgomastro Nikolai Wachter, il borgomastro Ismark Kolyanovich e il borgomastro Ilya Krezkov per dare inizio alla Festa della Pace, una ricorrenza annuale che onora il sacrificio di Ireena Kolyana e ricorda il ritiro di Strahd dopo la Grande Congiunzione. 
 
-Although the players might recognize them, the characters in the dream don’t recognize them, and instead see them as ordinary Vallakian guards. Accordingly, dream characters might rebuff or rebuke players who act overly familiar with them, and express surprise if an “ordinary guard" (whom they may or may not recognize) acts with such familiarity. Dream characters may also be confused by, amused by, suspicious of, and/or uncomfortable with players who show or profess ignorance of Barovia’s “future history."
+I giocatori possono riconoscere i personaggi del sogno, ma i personaggi del sogno non riconoscono loro: vedono soltanto normali guardie vallakiane. Per questo possono respingere o rimproverare i giocatori che si prendono troppa confidenza e stupirsi se una «guardia qualunque» (che magari riconoscono, magari no) si comporta con tanta familiarità. I personaggi del sogno possono anche restare confusi, divertiti, sospettosi o a disagio davanti a giocatori che mostrano o dichiarano di non conoscere la «storia futura» di Barovia.
 
-> [!profile]+ **The People in the Square**
-> In general, the characters in the square act as follows if spoken with before or after the Festival of Peace begins:
+> [!profile]+ **La gente della piazza**
+> In generale i personaggi della piazza si comportano così se qualcuno parla con loro prima o dopo l'inizio della Festa della Pace:
 > 
-> ***Father Lucian Petrovich & Deacon Yeska Petrovich.*** The eighteen-year-old Yeska, now formally adopted as Lucian’s son, has trained studiously to become the new priest of St. Andral’s Church. A zealous follower of the Morninglord, it was Yeska who first suggested that the Burgomasters re-found the Ulmist Inquisition in order to root out the rumored Priests of Osybus that lurked in the Barovia’s midst. Lucian is proud of Yeska’s growth and wisdom, but occasionally fears that the young man’s zeal and pride will one day be his downfall.
+> ***Padre Lucian Petrovich e il diacono Yeska Petrovich.*** Yeska ha diciotto anni ed è stato adottato ufficialmente da Lucian come figlio; ha studiato con impegno per diventare il nuovo sacerdote della Chiesa di Sant'Andral. Seguace zelante del Signore del Mattino, è stato lui il primo a suggerire ai borgomastri di rifondare l'Inquisizione Ulmist per stanare i presunti Sacerdoti di Osybus nascosti a Barovia. Lucian è orgoglioso della crescita e della saggezza di Yeska, ma a volte teme che lo zelo e l'orgoglio del ragazzo un giorno lo rovineranno.
 > 
-> ***Urwin Martikov & Danika Dorakova.*** When the players departed Barovia, Urwin moved quickly to reclaim and protect the enchanted gems from the Fanes. Although Urwin hid them from Strahd, Strahd’s spies uncovered his connection to the Fanes, and Strahd took Urwin as a prisoner of Castle Ravenloft for several months. Eventually, though Urwin never broke beneath Strahd’s questioning, Strahd found the gems without Urwin’s help. He then released Urwin back to Vallaki alive and unharmed, keeping his promise to the players that no friend of theirs would come to harm by his hand.
+> ***Urwin Martikov e Danika Dorakova.*** Quando i giocatori hanno lasciato Barovia, Urwin si è mosso in fretta per recuperare e proteggere le gemme incantate dei Templi. Le ha nascoste a Strahd, ma le spie di Strahd hanno scoperto il suo legame con i Templi, e Strahd lo ha tenuto prigioniero al Castello di Ravenloft per diversi mesi. Alla fine, anche se Urwin non ha mai ceduto agli interrogatori, Strahd ha trovato le gemme senza il suo aiuto. Poi lo ha rimandato a Vallaki vivo e illeso, mantenendo la promessa fatta ai giocatori: nessuno dei loro amici avrebbe subito del male per mano sua.
 > 
-> Shaken by the experience, Urwin was grateful to reunite with his family. Nevertheless, something broke within him when he accepted that the players would not—indeed, could not—rescue him from the depths of Castle Ravenloft. He left his position as the Keepers’ spymaster shortly after his return, allowing Muriel Vinshaw to assume the role instead, and refocused his attentions on raising his sons and maintaining the Blue Water Inn. Urwin no longer dreams of a future of sunlight for his children, and no longer dares hope that Strahd’s reign may eventually come to an end—though he hopes bitterly that Strahd will one day suffer for his crimes.
+> Scosso dall'esperienza, Urwin è stato felice di riabbracciare la famiglia. Eppure qualcosa si è spezzato in lui quando ha accettato che i giocatori non lo avrebbero salvato dalle profondità del Castello di Ravenloft, anzi, che non avrebbero potuto. Poco dopo il ritorno ha lasciato il suo posto di capo delle spie dei Custodi, cedendo il ruolo a Muriel Vinshaw, e si è dedicato a crescere i figli e a mandare avanti la Locanda dell'Acqua Azzurra. Urwin non sogna più un futuro di luce per i suoi figli e non osa più sperare che il regno di Strahd prima o poi finisca, anche se spera, con amarezza, che un giorno Strahd paghi per i suoi crimini.
 > 
-> ***Gadof Blinsky.*** If he befriended the players, Blinsky has never fully accepted or understood the reasons why they departed Barovia. Nevertheless, he continues to craft small toys in their likeness from time to time, and is currently working to develop a scale model diorama of the entirety of Barovia, including notable characters and monsters.
+> ***Gadof Blinsky.*** Se è diventato amico dei giocatori, Blinsky non ha mai accettato né capito fino in fondo perché abbiano lasciato Barovia. Ciononostante ogni tanto continua a fabbricare piccoli giocattoli a loro immagine e al momento sta lavorando a un diorama in scala di tutta Barovia, con i personaggi e i mostri più noti.
 > 
-> ***Ithuriel.*** Ithuriel has been cautious to avoid rousing Strahd’s anger, well-aware of the fact that, in his current youthful state, he is far weaker than Strahd—and will likely remain so for the next several centuries or millennia. Nevertheless, Ithuriel has done his best to care for the Belviews, and to offer healing to the people of Krezk, who have cautiously accepted him as their neighbor. Ithuriel regrets the players’ decision to leave Barovia with the *Sunsword*, but does not condemn them for it. He has faith that, one day, the Morninglord will help set Barovia free—but he knows not when or how that day will come.
+> ***Ithuriel.*** Ithuriel ha fatto attenzione a non suscitare l'ira di Strahd, ben sapendo che, nel suo stato attuale di giovinezza, è molto più debole di lui e probabilmente lo resterà per i prossimi secoli, se non millenni. Ciononostante ha fatto del suo meglio per prendersi cura dei Belview e per offrire cure agli abitanti di Krezk, che con qualche cautela lo hanno accettato come vicino. Ithuriel rimpiange la decisione dei giocatori di lasciare Barovia con la *Spada del Sole*, ma non li condanna. Ha fede che un giorno il Signore del Mattino aiuterà Barovia a liberarsi, ma non sa quando né come arriverà quel giorno.
 >
-> ***Victor Vallakovich.*** After he and Stella ended their friendship—and burgeoning relationship—Victor briefly lost himself to isolation and drink. Eventually, after a magical accident that nearly killed him, he forswore alcohol and returned to sobriety. However, Victor hasn’t returned to Vallakian society since, too wounded from Stella and the players’ “abandonment" of him to consider departing his family’s mansion once more. He has come to the Festival of Peace to pay his respects to Ireena, but has no intention of speaking with (or being noticed by) any member of the Wachter family today.
+> ***Victor Vallakovich.*** Dopo la fine dell'amicizia con Stella, e della relazione che stava nascendo fra loro, Victor si è perso per un po' nella solitudine e nell'alcol. Alla fine, dopo un incidente magico che per poco non lo ha ucciso, ha giurato di non bere più ed è tornato sobrio. Da allora però non è più tornato nella società vallakiana: è troppo ferito dall'«abbandono» di Stella e dei giocatori per pensare di uscire di nuovo dalla villa di famiglia. È venuto alla Festa della Pace per rendere omaggio a Ireena, ma oggi non ha intenzione di parlare con nessun membro della famiglia Wachter, né di farsi notare da loro.
 > 
-> ***Millivoj.*** Milivoj has intentionally skipped the Festival of Peace. Embittered by the players’ “betrayal" of Barovia, he has largely withdrawn from Vallakian society, preferring instead to dedicate all of his waking hours toward caring and providing for his siblings and his own young children.
-### The Festival of Peace
-Shortly after the players arrive in the dream—preferably after they have had an opportunity to interact with their friends, realize that their friends don’t recognize them, and gain basic information about this “future"—the three Burgomasters ascend the wooden platform and begin the festival’s remembrance ceremony. Read the following, pausing occasionally to allow the players an opportunity to interject or speak amongst themselves:
+> ***Milivoj.*** Milivoj ha saltato di proposito la Festa della Pace. Amareggiato dal «tradimento» di Barovia da parte dei giocatori, si è in gran parte ritirato dalla società vallakiana e preferisce dedicare ogni ora di veglia a curare e mantenere i fratelli e i suoi figli piccoli.
+### La Festa della Pace
+Poco dopo l'arrivo dei giocatori nel sogno, meglio se dopo che hanno avuto modo di parlare con i loro amici, di accorgersi che gli amici non li riconoscono e di raccogliere qualche informazione di base su questo «futuro», i tre borgomastri salgono sulla pedana di legno e danno inizio alla cerimonia del ricordo. Leggi quanto segue, fermandoti ogni tanto per dare ai giocatori la possibilità di intervenire o di parlare fra loro:
 
 <div class="description">
-<p>The crowd’s attention turns to the wooden platform that overlooks the square. Four figures climb its wooden steps: a bearded man wearing a silver medallion around his neck, an elderly woman wearing a gray dress, a golden-haired man approaching middle age, and a dark-skinned young man in his early twenties with an axe strapped across his back. All seem familiar to you.</p>
+<p>L'attenzione della folla si sposta sulla pedana di legno che domina la piazza. Quattro figure ne salgono i gradini: un uomo barbuto con un medaglione d'argento al collo, una donna anziana in abito grigio, un uomo dai capelli d'oro vicino alla mezza età e un giovane dalla pelle scura di poco più di vent'anni, con un'ascia legata sulla schiena. Vi sembrano tutti familiari.</p>
 </div>
 
-Players who approach the figures on the platform, who successfully guess their identifies, or who succeed on a DC 12 Wisdom (Perception) check can confirm the following:
+I giocatori che si avvicinano alle figure sulla pedana, che indovinano chi sono o che superano una prova di Saggezza (Percezione) con CD 12 possono accertare quanto segue:
 
-* The bearded man is an older Nikolai Wachter, Jr. 
-* The elderly woman is an older Fiona Wachter. 
-* The golden-haired man is an older Ismark Kolyanovich. 
-* The young man with the axe is an older Ilya Krezkov. 
+* L'uomo barbuto è Nikolai Wachter Jr., più vecchio. 
+* La donna anziana è Fiona Wachter, più vecchia. 
+* L'uomo dai capelli d'oro è Ismark Kolyanovich, più vecchio. 
+* Il giovane con l'ascia è Ilya Krezkov, più vecchio. 
 
-Continue, pausing occasionally to allow the players an opportunity to interject or speak amongst themselves:
+Continua, fermandoti ogni tanto per dare ai giocatori la possibilità di intervenire o di parlare fra loro:
 
 <div class="description">
-<p>"Welcome," the bearded man says, his arms spread wide, “to the Festival of Peace. I am honored to welcome our dignified guests from our neighbors: Burgomaster Ismark Kolyanovich and Burgomaster Ilya Krezkov." The golden-haired man steps bows stiffly, while the younger man raises a hand in greeting.</p>
-<p>"This year, we celebrate ten years of peace," the bearded man continues. “Ten years since the shadow of Castle Ravenloft retreated from our homes, allowing us to continue our lives with those we cherish and love—our neighbors, our friends, and our families."</p>
-<p>"But this peace came at a cost," he continues. “Accordingly, in this ceremony of remembrance, we honor the memory of the one who gave up her life, so that ours might be saved." He takes the wreath of flowers from its stand. “With this wreath, we honor the Lady Ireena Kolyana, daughter of Burgomaster Kolyan Indirovich and Korina Targolova. With it, we honor her sacrifice, and the peace her selflessness brought us."
-<p>He turns and offers it to Ismark, who accepts the wreath, his face solemn. With a nod, Ismark steps down from the platform. The crowd parts around him as he moves toward the fountain, the wreath clutched reverently in his hands.</p>
-<p>Ismark kneels before the fountain, placing the wreath upon a small, smooth slab that stands at the fountain’s northern end. “May you find rest in the rest you have brought us," he says—gently, but loud enough to be heard.</p>
-<p>"And may you find peace in the peace you have won," the crowd intones in a murmured reply.</p>
-<p>Ismark stands, then returns to the platform. The bearded man clasps him on the shoulder, then turns to the crowd.</p>
-<p>"Let us never forget where we came from," he says. “But as we honor her sacrifice through memory, so too do we honor her by living the lives she won for us—with joy, camaraderie, and good humor. So that we may celebrate those lives, I am glad to declare this tenth annual Festival of Peace begun!"</p>
-<p>A chorus of cheers echoes from the crowd, who begin to mill about and speak with themselves once more.</p>
+<p>«Benvenuti», dice l'uomo barbuto allargando le braccia, «alla Festa della Pace. Ho l'onore di accogliere i nostri illustri ospiti venuti dalle terre vicine: il borgomastro Ismark Kolyanovich e il borgomastro Ilya Krezkov». L'uomo dai capelli d'oro si inchina rigido, mentre il più giovane alza una mano in segno di saluto.</p>
+<p>«Quest'anno festeggiamo dieci anni di pace», prosegue l'uomo barbuto. «Dieci anni da quando l'ombra del Castello di Ravenloft si è ritirata dalle nostre case e ci ha permesso di continuare a vivere con le persone che amiamo e che ci sono care: i nostri vicini, i nostri amici, le nostre famiglie».</p>
+<p>«Ma questa pace ha avuto un prezzo», continua. «Per questo, in questa cerimonia del ricordo, onoriamo la memoria di colei che ha dato la sua vita perché le nostre fossero salve». Prende la corona di fiori dal sostegno. «Con questa corona onoriamo Lady Ireena Kolyana, figlia del borgomastro Kolyan Indirovich e di Korina Targolova. Con essa onoriamo il suo sacrificio e la pace che la sua generosità ci ha portato».
+<p>Si volta e la porge a Ismark, che accetta la corona con il viso solenne. Con un cenno del capo, Ismark scende dalla pedana. La folla si apre al suo passaggio mentre si dirige verso la fontana, stringendo la corona con reverenza.</p>
+<p>Ismark si inginocchia davanti alla fontana e posa la corona su una piccola lastra liscia all'estremità nord della fontana. «Possiate trovare riposo nel riposo che ci avete donato», dice con dolcezza, ma abbastanza forte da farsi sentire.</p>
+<p>«E possiate trovare pace nella pace che avete conquistato», risponde la folla in un mormorio.</p>
+<p>Ismark si rialza e torna sulla pedana. L'uomo barbuto gli stringe la spalla, poi si volta verso la folla.</p>
+<p>«Non dimentichiamo mai da dove veniamo», dice. «Ma come onoriamo il suo sacrificio con il ricordo, così la onoriamo vivendo le vite che ha conquistato per noi: con gioia, amicizia e buonumore. E perché possiamo festeggiare queste vite, sono lieto di dichiarare aperta questa decima Festa della Pace!»</p>
+<p>Dalla folla si leva un coro di applausi, e la gente riprende a girare per la piazza e a chiacchierare.</p>
 </div>
 
-### The Burgomasters’ Request
-Shortly after the ceremony concludes—preferably after the players have had an opportunity to react to and discuss it—they are approached by Burgomaster Nikolai Wachter, Burgomaster Ismark Kolyanovich, and Burgomaster Ilya Krezkov, flanked by six **guards**—two Vallakian guards bearing chain shirts and spears, two Barovian guards wearing leather armor and longswords, and two Krezkian guards wearing leather armor, shortbows, and shortswords.
+### La richiesta dei borgomastri
+Poco dopo la fine della cerimonia, meglio se dopo che i giocatori hanno avuto modo di reagire e di discuterne, si avvicinano a loro il borgomastro Nikolai Wachter, il borgomastro Ismark Kolyanovich e il borgomastro Ilya Krezkov, scortati da sei **guardie**: due guardie vallakiane con giaco di maglia e lancia, due guardie baroviane con armatura di cuoio e spada lunga e due guardie krezkiane con armatura di cuoio, arco corto e spada corta.
 
-Nikolai greets the players with a salute, and informs them that Burgomaster Krezkov has been unable to find his wife, Lady Stella Wachter, whom they missed at the ceremony. He notes, in a low voice, that he and the other Burgomasters must return to Wachterhaus to discuss “the Ulmist project," but asks the players to find Stella and bring her to Wachterhaus. (Nikolai is referring to the Ulmist Inquisition, which Vallaki’s guards have been briefed on, but which has not yet been formally announced. Nikolai is reluctant to announce the Inquisition before its framework has been agreed upon, both to avoid alerting the Priests of Osybus and to avoid frightening the townsfolk.)
+Nikolai saluta i giocatori militarmente e li informa che il borgomastro Krezkov non riesce a trovare sua moglie, Lady Stella Wachter, che non si è vista alla cerimonia. Aggiunge, a bassa voce, che lui e gli altri borgomastri devono tornare a Wachterhaus per discutere del «progetto Ulmist», ma chiede ai giocatori di trovare Stella e di portarla a Wachterhaus. (Nikolai si riferisce all'Inquisizione Ulmist: le guardie di Vallaki ne sono state informate, ma non è ancora stata annunciata ufficialmente. Nikolai non vuole annunciarla prima che se ne sia concordata la struttura, sia per non mettere in allarme i Sacerdoti di Osybus sia per non spaventare la popolazione.)
 
-Neither Ilya nor Nikolai is certain where Stella has gone, but Nikolai suggests the players ask around the town square to find her. “It’s rare that my sister has an opportunity to catch up with old friends," he says. “Doubtlessly, she merely lost track of time while socializing or visiting old haunts."
+Né Ilya né Nikolai sanno dove sia andata Stella, ma Nikolai suggerisce ai giocatori di chiedere in giro per la piazza. «Capita di rado che mia sorella abbia l'occasione di rivedere i vecchi amici», dice. «Di sicuro ha solo perso la nozione del tempo a chiacchierare o a girare per i posti che frequentava una volta».
 
-If the players accept their mission, the burgomasters and their guards depart from the town square.
+Se i giocatori accettano l'incarico, i borgomastri e le loro guardie lasciano la piazza.
 
-> [!profile]+ **The Burgomasters**
-> ***Burgomaster Nikolai Wachter.*** Nikolai assumed the responsibilities—then, within months, the role—of Vallaki’s Burgomaster two years ago, shortly after Lady Wachter—overworked, aging, and fighting off a minor illness—fell down the stairs of Wachterhaus and broke her wrist. Now thirty years old, he’s done his best to fill his mother’s shoes. However, Nikolai’s newfound maturity and responsibilities have set him at odds with his younger brother, Karl, who Nikolai and Stella routinely scold for his immature escapades. Nikolai has largely settled into his position, but occasionally questions his fitness for the role compared to his mother, who continues to manage the family’s day-to-day affairs.
+> [!profile]+ **I borgomastri**
+> ***Il borgomastro Nikolai Wachter.*** Due anni fa Nikolai si è fatto carico delle responsabilità di borgomastro di Vallaki, e nel giro di pochi mesi anche della carica, poco dopo che Lady Wachter, stremata dal lavoro, invecchiata e alle prese con una malattia lieve, è caduta dalle scale di Wachterhaus rompendosi il polso. Oggi ha trent'anni e ha fatto del suo meglio per dimostrarsi all'altezza della madre. La sua nuova maturità e le nuove responsabilità, però, lo hanno messo in contrasto con il fratello minore Karl, che Nikolai e Stella rimproverano di continuo per le sue bravate infantili. Nikolai si è in gran parte abituato al ruolo, ma ogni tanto si chiede se ne sia all'altezza quanto la madre, che continua a occuparsi degli affari quotidiani della famiglia.
 > 
-> ***Lady Fiona Wachter.*** The sixty-year-old Lady Wachter once regretted the necessity of abdicating her position as Burgomistress, but retirement has brought a sense of comfort that she welcomes in her senior years. She is proud of Nikolai’s performance in her stead, and for Stella’s work in bringing Krezk and Vallaki closer together via her marriage to Ilya Krezkov. Nevertheless, Lady Wachter, who had grown fond of Victor following his assistance in [[Arc H - The Lost Soul]], is occasionally wistful for the union that he may have shared with Stella. 
+> ***Lady Fiona Wachter.*** Lady Wachter ha sessant'anni. Un tempo le pesava aver dovuto rinunciare alla carica di borgomastra, ma il ritiro le ha portato un senso di serenità che negli anni della vecchiaia accoglie volentieri. È orgogliosa di come Nikolai la sostituisce e del lavoro di Stella, che con il matrimonio con Ilya Krezkov ha avvicinato Krezk e Vallaki. Eppure Lady Wachter, che si era affezionata a Victor dopo il suo aiuto nell'[[Arc H - The Lost Soul|Arco H: L'anima perduta]], ripensa ogni tanto con malinconia all'unione che lui avrebbe potuto avere con Stella. 
 > 
-> Lady Wachter also harbors a quiet regret that, although the Sun briefly returned to Barovia in the form of the *Sunsword*, she was never able to see it again after the players departed through the Mists. Although she does not begrudge the players their decision, she wonders whether victory over Strahd—and true freedom from his reign—may have been within their grasp.
+> Lady Wachter porta anche un rimpianto silenzioso: il Sole è tornato per poco a Barovia sotto forma della *Spada del Sole*, ma lei non ha mai più potuto vederlo dopo che i giocatori se ne sono andati attraverso le Nebbie. Non porta rancore ai giocatori per la loro decisione, ma si chiede se la vittoria su Strahd, e la vera libertà dal suo regno, non fosse a portata di mano.
 > 
-> ***Burgomaster Ismark Kolyanovich.*** The thirty-five-year-old Ismark has never finished mourning Ireena’s loss, but he has made his peace with it, grown past it, and set his sights on the future, rather than the past. While his efforts to rebuild the village of Barovia following [[Arc B - Welcome to Barovia]] and the Grand Conjunction have won him the loyalty and respect of his people, he often wonders whether he is suited for his role—and whether Ireena would approve of his leadership if she still lived. 
+> ***Il borgomastro Ismark Kolyanovich.*** Ismark ha trentacinque anni. Non ha mai finito di piangere la perdita di Ireena, ma ci ha fatto pace, l'ha superata e ha rivolto lo sguardo al futuro anziché al passato. Il suo impegno per ricostruire il villaggio di Barovia dopo l'[[Arc B - Welcome to Barovia|Arco B: Benvenuti a Barovia]] e la Grande Congiunzione gli ha fatto guadagnare la lealtà e il rispetto della sua gente, ma spesso si chiede se sia adatto al ruolo, e se Ireena approverebbe il suo modo di governare se fosse ancora viva. 
 > 
-> ***Burgomaster Ilya Krezkov.*** The twenty-three-year-old Ilya ascended to his position just six months ago, after his mother, Anna, killed his father, Dmitri, when Dmitri’s wolfsbane potion failed and he broke free of his restraints. Although he puts on a brave face in public, Ilya has struggled to overcome his grief, and to embrace his new responsibilities as Burgomaster. Ilya has come to rely deeply on his wife, the twenty-six-year-old Stella Wachter, who he fell in love with two years ago during a diplomatic visit to Vallaki, and whom he married last year.
+> ***Il borgomastro Ilya Krezkov.*** Ilya ha ventitré anni ed è salito alla carica appena sei mesi fa, dopo che sua madre Anna ha ucciso suo padre Dmitri: la pozione di aconito di Dmitri aveva smesso di fare effetto e lui si era liberato dalle catene. In pubblico mostra coraggio, ma Ilya fatica a superare il dolore e ad accettare le nuove responsabilità di borgomastro. Si appoggia molto alla moglie, Stella Wachter, che ha ventisei anni: se n'è innamorato due anni fa durante una visita diplomatica a Vallaki e l'ha sposata l'anno scorso.
 
-The players can uncover the following information by asking around the town square:
+Chiedendo in giro per la piazza, i giocatori possono scoprire quanto segue:
 
-* **Father Lucian Petrovich & Brother Yeska Petrovich.** Stella visited St. Andral’s Church earlier that morning, and mentioned that she might stop by Blinsky Toys immediately afterward.
-* **Gadof Blinsky.** Stella stopped by Blinsky Toys late that morning and purchased one of his toys, then mentioned she intended to catch up with “an old friend" before departing. (If asked, Blinsky recalls that Stella purchased an old toy, one which—curiously, he notes, chuckling awkwardly—he had made shortly after the Grand Conjunction ten years ago: a spinning wheel depicting the phases of the moon.)
-* **Urwin Martikov & Danika Dorakova.** Danika saw Stella speaking with Victor Vallakovich shortly before the ceremony, at the west end of the square.
-* **Ithuriel.** Ithuriel hasn’t seen Stella, but observed an unfamiliar cloaked man standing in an alley on the west side of the square during the ceremony; unlike the rest of the crowd, he didn’t seem to be paying attention to the ceremony. (Ithuriel can point the players toward Victor’s alley.)
-* **Victor Vallakovich.** Although initially irate and reluctant to speak with “Lord Wachter’s" guards, Victor can be easily convinced to share that, in their brief conversation shortly before the ceremony, Stella suggested that she intended to visit Lake Zarovich while the festival unfolded. 
+* **Padre Lucian Petrovich e frate Yeska Petrovich.** Stella è passata dalla Chiesa di Sant'Andral quella mattina e ha detto che subito dopo forse sarebbe passata da Giocattoli Blinsky.
+* **Gadof Blinsky.** Stella è passata da Giocattoli Blinsky in tarda mattinata e ha comprato uno dei suoi giocattoli, poi ha detto che prima di andarsene voleva rivedere «un vecchio amico». (Se glielo chiedono, Blinsky ricorda che Stella ha comprato un giocattolo vecchio, uno che, cosa curiosa, osserva con una risatina imbarazzata, aveva fabbricato poco dopo la Grande Congiunzione, dieci anni fa: una ruota che gira e mostra le fasi della luna.)
+* **Urwin Martikov e Danika Dorakova.** Danika ha visto Stella parlare con Victor Vallakovich poco prima della cerimonia, sul lato ovest della piazza.
+* **Ithuriel.** Ithuriel non ha visto Stella, ma durante la cerimonia ha notato uno sconosciuto con un mantello fermo in un vicolo sul lato ovest della piazza; a differenza del resto della folla, non sembrava fare caso alla cerimonia. (Ithuriel può indicare ai giocatori il vicolo di Victor.)
+* **Victor Vallakovich.** All'inizio è irritato e restio a parlare con le guardie di «lord Wachter», ma è facile convincerlo a raccontare che, nella breve conversazione poco prima della cerimonia, Stella gli ha fatto capire che voleva andare al Lago Zarovich mentre la festa era in corso. 
 
-> [!abstract]+ **Words Unsaid**
-> A player with a passive Wisdom (Insight) check of 13 or greater notices that Victor struggles to meet the players’ eyes as he mentions their conversation, and that his speech grows stilted as he mentions her destination. 
+> [!abstract]+ **Parole non dette**
+> Un giocatore con un punteggio di Saggezza (Intuizione) passiva pari o superiore a 13 nota che Victor fatica a guardare i giocatori negli occhi quando accenna alla loro conversazione e che il suo modo di parlare si fa impacciato quando nomina la destinazione di Stella. 
 >
-> If a player assures Victor that his words won’t be shared further and succeeds on a DC 15 Charisma (Persuasion) check, Victor reluctantly—and bitterly—shares that Stella invited him to join her on Lake Zarovich’s shore, as they had once often done together. “That was a long time ago," he says, quietly, “but she said that she would wait for me there." Victor refuses to elaborate further, and declines to accompany the players, preferring to return to his manor as swiftly as possible.
-## U2c. Lake Zarovich
-Lake Zarovich is largely as described in <span class="citation">L. Lake Zarovich (p. 38)</span>. However, revise the second paragraph of this area’s description as follows:
+> Se un giocatore assicura a Victor che le sue parole non andranno oltre e supera una prova di Carisma (Persuasione) con CD 15, Victor racconta, con riluttanza e con amarezza, che Stella lo ha invitato a raggiungerla sulla riva del Lago Zarovich, come facevano spesso un tempo. «È stato tanto tempo fa», dice piano, «ma ha detto che mi avrebbe aspettato lì». Victor si rifiuta di aggiungere altro e non vuole accompagnare i giocatori: preferisce tornare alla sua villa il prima possibile.
+## U2c. Il Lago Zarovich
+Il Lago Zarovich è più o meno come descritto in <span class="citation">L. Lago Zarovich (p. 38)</span>. Sostituisci però il secondo paragrafo della descrizione dell'area con questo:
 
 <div class="description">
-<p>Pulled up along the south shore are four small rowboats. A gray-cloaked woman sits beside them, her long, brown tresses falling across her shoulders.</p>
+<p>Tirate in secco lungo la riva sud ci sono quattro piccole barche a remi. Accanto a esse siede una donna con un mantello grigio, i lunghi capelli castani che le ricadono sulle spalle.</p>
 </div>
 
-The woman resembles Stella from behind. If the players approach or interact with her, however, read:
+Da dietro, la donna somiglia a Stella. Se però i giocatori le si avvicinano o le rivolgono la parola, leggi:
 
 <div class="description">
-<p>The woman’s head turns; although her body resembles Stella Wachter’s in form, the woman’s face is older—almost ageless—and strange and unfamiliar to you.</p>
-<p>She has thin eyebrows and high cheekbones, and an expression that at once looks stern, solemn, and comforting. Her eyes are a pale, light gray, and she wears a brooch upon her neck shaped like a sprig of belladonna upon a silver shield.</p>
-<p>"At long last," she says, smiling warmly. “I’ve truly looked forward to meeting you."</p>
+<p>La donna volta la testa. Nel corpo somiglia a Stella Wachter, ma il viso è più vecchio, quasi senza età, strano e sconosciuto.</p>
+<p>Ha sopracciglia sottili e zigomi alti e un'espressione che sembra insieme severa, solenne e rassicurante. Gli occhi sono di un grigio chiaro e pallido, e al collo porta una spilla a forma di rametto di belladonna su uno scudo d'argento.</p>
+<p>«Finalmente», dice con un sorriso caloroso. «Non vedevo davvero l'ora di conoscervi».</p>
 </div>
 
-The woman is Ezra, the goddess of the Mists, and the mask of the Dark Powers. After the players have had an opportunity to react, she asks whether the players know who she is; if they fail to guess either identity, she taps her brooch and asks, with a knowing smile, whether they’ve seen “dear Fiona" wearing anything like it. (Players who have previously seen Lady Wachter’s holy symbol, either in [[Arc T - The Three Fanes]] or otherwise, immediately recognize it as bearing the same iconography.)
+La donna è Ezra, la dea delle Nebbie e la maschera dei Poteri Oscuri. Dopo aver dato ai giocatori il tempo di reagire, chiede se sanno chi è; se non indovinano nessuna delle sue due identità, picchietta sulla spilla e chiede, con un sorriso complice, se hanno mai visto «la cara Fiona» portare qualcosa di simile. (I giocatori che hanno già visto il simbolo sacro di Lady Wachter, nell'[[Arc T - The Three Fanes|Arco T: I tre templi]] o in altre occasioni, riconoscono subito la stessa iconografia.)
 
-Ezra notes that she is “sure the players have so many questions," and that she is glad to answer them. Before she does, however, she asks only that they “listen to a story"—a tale of how this time came to be. If the players agree, Ezra shares the following information:
+Ezra dice di essere «certa che i giocatori abbiano tante domande» e di essere felice di rispondere. Prima però chiede soltanto che «ascoltino una storia»: il racconto di come si è arrivati a questo tempo. Se i giocatori accettano, Ezra racconta quanto segue:
 
-* Ten years ago, a great darkness fell upon the land. At Strahd’s command, the dead rose from their graves, and night extinguished day. All seemed lost—until a lone Barovian sacrificed her life to stop Strahd’s madness.
-* When she did, Strahd’s “greatest desire" again slipped through his fingers. Upon learning this, he departed Castle Ravenloft and confronted the players to learn what had occurred. When he did, Strahd gave them an offer: he would bring no harm to their friends, and allow them to depart Barovia freely, if they did so together.
-* Strahd did this because, with this loss, he no longer intended to use the Grand Conjunction to escape this cycle, preferring to linger within the Mists until he could find a way to recapture the object of his desire. 
-* The players accepted Strahd’s armistice, and departed the valley—though not before sharing the tale of their friend’s heroic sacrifice, and the peace her life had bought for the valley. Lady Wachter declared that day a Vallakian holiday, an occasion for remembrance and celebration.
-* Strahd made good on his promises, and brought no harm to the people of the valley, even in the players’ absence. He soon returned to hibernation within his crypt, awaiting the day when his desire would again return to his grasp. As he slumbered, his creatures—wolves, bats, and undead—retreated from civilization once more.
-* The Barovians rejoiced in their peace; for the past ten years, the valley has once again flourished, free of Strahd’s tyranny and the darkness he once brought upon them.
+* Dieci anni fa una grande oscurità calò sulla terra. Al comando di Strahd i morti si alzarono dalle tombe e la notte spense il giorno. Tutto sembrava perduto, finché una baroviana sacrificò da sola la sua vita per fermare la follia di Strahd.
+* Con quel sacrificio il «desiderio più grande» di Strahd gli sfuggì di nuovo fra le dita. Quando lo seppe, Strahd lasciò il Castello di Ravenloft e affrontò i giocatori per sapere che cosa fosse successo. Fu allora che fece loro un'offerta: non avrebbe fatto del male ai loro amici e li avrebbe lasciati partire da Barovia liberamente, a patto che partissero tutti insieme.
+* Strahd lo fece perché, dopo quella perdita, non intendeva più usare la Grande Congiunzione per sfuggire a questo ciclo: preferiva restare fra le Nebbie finché non avesse trovato il modo di riprendersi l'oggetto del suo desiderio. 
+* I giocatori accettarono la tregua di Strahd e lasciarono la valle, non prima però di aver raccontato l'eroico sacrificio della loro amica e la pace che la sua vita aveva comprato per la valle. Lady Wachter dichiarò quel giorno festa vallakiana, un'occasione di ricordo e di festa.
+* Strahd mantenne le promesse e non fece del male alla gente della valle, nemmeno quando i giocatori se ne furono andati. Poco dopo tornò a ibernarsi nella sua cripta, in attesa del giorno in cui il suo desiderio sarebbe tornato alla sua portata. Mentre dormiva, le sue creature (lupi, pipistrelli e non morti) si ritirarono di nuovo lontano dai luoghi abitati.
+* I baroviani gioirono della pace; negli ultimi dieci anni la valle è tornata a fiorire, libera dalla tirannia di Strahd e dall'oscurità che un tempo aveva portato su di loro.
 
-Ezra asks the players whether they know what “desire" escaped Strahd’s clutches, on that night ten years ago. If the players suggest that this desire was Ireena, Ezra knowingly smiles. If the players ask to know what this “desire" is, Ezra glances furtively toward Ireena and notes, smiling, “Surely you have not forgotten the one who first spurred his fall."
+Ezra chiede ai giocatori se sanno quale «desiderio» sfuggì dalle grinfie di Strahd, quella notte di dieci anni fa. Se i giocatori dicono che quel desiderio era Ireena, Ezra sorride con aria d'intesa. Se chiedono quale sia questo «desiderio», Ezra lancia un'occhiata furtiva a Ireena e osserva, sorridendo: «Di certo non avete dimenticato colei che per prima lo spinse alla rovina».
 
-At a suitable time in their conversation, Ezra shares the following additional information:
+Al momento opportuno della conversazione, Ezra aggiunge quanto segue:
 
-* She has brought the players to this dream to show them a vision of peace: a possibility of the future they can create.
-* As goddess of the Mists, she knows the desires that lie in the pit of Strahd’s soul. Although he craves freedom, he craves conquest even more—and he dares not flee the Mists if he knows that, in doing so, he would relinquish the one conquest he has always failed to make: Tatyana’s soul.
-* Ezra can prevent Strahd from conquering Ireena, as well as the “soul that she carries," by taking her soul from this dream and hiding it away in the Mists, until the cycle of reincarnation comes for her again. “If I do," she says reassuringly, “this future may yet come to pass—life rather than death, light rather than shadow, and peace rather than war."
+* Ha portato i giocatori in questo sogno per mostrare loro una visione di pace: un futuro possibile, che loro stessi possono creare.
+* In quanto dea delle Nebbie conosce i desideri nascosti nel fondo dell'anima di Strahd. Strahd brama la libertà, ma brama ancora di più la conquista e non osa fuggire dalle Nebbie se sa che così rinuncerebbe all'unica conquista che non gli è mai riuscita: l'anima di Tatyana.
+* Ezra può impedire a Strahd di conquistare Ireena, e «l'anima che porta con sé», prendendo l'anima della ragazza da questo sogno e nascondendola fra le Nebbie finché il ciclo delle reincarnazioni non verrà di nuovo a cercarla. «Se lo farò», dice in tono rassicurante, «questo futuro potrà ancora avverarsi: la vita invece della morte, la luce invece dell'ombra, la pace invece della guerra».
 
-To accept Ezra’s offer, she shares gently, Ireena need only wade into the waters of Lake Zarovich and submerge herself completely; once she does, the Mists shall take her to a place where Strahd cannot find her—until her soul is spun out once again in the cycle of reincarnation.
+Per accettare l'offerta di Ezra, spiega la dea con dolcezza, a Ireena basta entrare nelle acque del Lago Zarovich e immergersi del tutto; a quel punto le Nebbie la porteranno in un luogo dove Strahd non potrà trovarla, finché la sua anima non sarà di nuovo filata nel ciclo delle reincarnazioni.
 
-> [!info]+ **Ireena’s Choice**
-> Ireena, paralyzed by the possibility of sacrificing other Barovians’ lives to save her own, or offering her life to save theirs, is unable to choose whether to accept Ezra’s offer or deny it. While she is willing to make a decision on her own if forced, she is desperate for the players’ counsel and guidance.
+> [!info]+ **La scelta di Ireena**
+> Ireena, paralizzata davanti alla possibilità di sacrificare la vita di altri baroviani per salvare la propria, o di offrire la propria per salvare la loro, non riesce a decidere se accettare o rifiutare l'offerta di Ezra. Se costretta è disposta a decidere da sola, ma ha un bisogno disperato del consiglio e della guida dei giocatori.
 >
-> If the players decline to provide any guidance and emphasize that the decision lies in Ireena’s hands alone, she acts in accordance with the players’ ideals as they have shown her so far:
+> Se i giocatori si rifiutano di consigliarla e insistono che la decisione spetta soltanto a lei, Ireena agisce secondo gli ideali che i giocatori le hanno mostrato fin lì:
 >
-> * If the players have inspired Ireena to dream of a brighter future, she rejects Ezra’s offer, stands by the players’ side, and declares calmly, then fiercely and tearfully, that she will never give up hope that her people will one day see the Sun again.
-> * If the players have planted great doubts in Ireena’s mind and expressed their fears that Strahd may not be defeated, Ireena tiredly agrees to enter Lake Zarovich, and so give up her soul to Ezra, so that her people may be saved.
+> * Se i giocatori l'hanno spinta a sognare un futuro migliore, Ireena rifiuta l'offerta di Ezra, si schiera al fianco dei giocatori e dichiara, prima con calma, poi con ardore e fra le lacrime, che non smetterà mai di sperare che un giorno la sua gente rivedrà il Sole.
+> * Se i giocatori le hanno messo in testa grandi dubbi e hanno espresso il timore che Strahd non si possa sconfiggere, Ireena accetta, stanca, di entrare nel Lago Zarovich e di cedere così la sua anima a Ezra, perché la sua gente si salvi.
 
-If Ireena refuses Ezra’s offer, the Dark Powers’ mask falls away. Read:
+Se Ireena rifiuta l'offerta di Ezra, la maschera dei Poteri Oscuri cade. Leggi:
 
 <div class="description">
-<p>Ezra frowns, and her eyes flash a dark, swirling gray. “Unfortunate," she says, but this time, a chorus of echoing whispers speaks with her—no, <em>through</em> her.</p>
-<p>The skies melt away into mist, the grey, overcast light vanishing into a black, infinite void. The mountains fall away behind them, then the forests, like paper cutouts—and as they do, you see the <em>strings</em> holding them up—strings of mist.</p>
-<p>Identical strings rise from Ezra’s shoulders, rising high into the sky above until they reach a swirling mass of mists, and an array of countless cloaked, faceless figures that look down upon you like giants. When they speak, they speak with one voice and thousands, a chorus and cacophony that echoes through your ears and minds alike.</p>
-<p>YOU CANNOT DEFEAT HIM, the figures say, their voices both a whisper and a shout. GIVE UP YOUR FOOLISH ENDEAVOR.</p>
+<p>Ezra si acciglia, e i suoi occhi lampeggiano di un grigio scuro e vorticante. «Peccato», dice, ma questa volta un coro di sussurri echeggianti parla con lei, anzi, <em>attraverso</em> di lei.</p>
+<p>Il cielo si scioglie in nebbia, e la luce grigia e coperta svanisce in un vuoto nero e infinito. Le montagne crollano alle sue spalle, poi le foreste, come sagome di carta ritagliata, e mentre crollano vedete i <em>fili</em> che le reggevano: fili di nebbia.</p>
+<p>Fili identici salgono dalle spalle di Ezra, in alto nel cielo, fino a raggiungere una massa vorticante di nebbie e una schiera di innumerevoli figure incappucciate e senza volto che vi guardano dall'alto come giganti. Quando parlano, parlano con una voce sola e con mille voci, un coro e una cacofonia che vi rimbomba nelle orecchie e nella mente.</p>
+<p>NON POTETE SCONFIGGERLO, dicono le figure, con voci che sono insieme un sussurro e un grido. RINUNCIATE ALLA VOSTRA FOLLE IMPRESA.</p>
 </div>
 
-The figures are the Dark Powers. If challenged, the Dark Powers retort that, if the players attempt to fight Strahd, many—if not all—of their friends shall die in the process.
+Le figure sono i Poteri Oscuri. Se i giocatori li sfidano, i Poteri Oscuri ribattono che, se proveranno a combattere Strahd, molti dei loro amici, se non tutti, moriranno nel tentativo.
 
-If the players defy them again, the mists swirl angrily, and the Dark Powers’ voices ring out like thunder: THEN TO YOUR DEATHS, WE RELINQUISH YOU—BUT OUR OFFER REMAINS.
+Se i giocatori li sfidano di nuovo, le nebbie vorticano furiose e le voci dei Poteri Oscuri risuonano come un tuono: ALLORA VI ABBANDONIAMO ALLA VOSTRA MORTE. MA LA NOSTRA OFFERTA RESTA.
 
-The dream then ends, and the players awaken at the end of their long rest. When they do, Ireena awakens with a sprig of belladonna on her chest.
+A quel punto il sogno finisce e i giocatori si svegliano alla fine del riposo lungo. Al risveglio, Ireena trova un rametto di belladonna sul petto.
 
-> [!abstract]+ **The Belladonna**
-> The sprig of belladonna—nightshade—is a deadly poison, enhanced by the Dark Powers’ magic. If Ireena ingests it, she dies one minute later, her soul collected by the Dark Powers.
+> [!abstract]+ **La belladonna**
+> Il rametto di belladonna è un veleno mortale, potenziato dalla magia dei Poteri Oscuri. Se Ireena lo ingerisce, muore un minuto dopo, e i Poteri Oscuri prendono la sua anima.
 
-> [!abstract]+ **Ireena’s Death**
-> If Ireena accepts the Dark Powers’ gift in the dream or ingests the sprig of belladonna, her body dissipates into mist immediately after her death.
-# U3. The Whispering Wall	
-## U3a. The Long Night
-> [!lore]+ **The Long Night**
-> By reconsecrating the third Fane, the players prevent Strahd from using its power to escape during the Grand Conjunction. Yet Strahd has plans within plans, and the players’ success only pushes him to his backup plan: the Long Night.
+> [!abstract]+ **La morte di Ireena**
+> Se Ireena accetta il dono dei Poteri Oscuri nel sogno o ingerisce il rametto di belladonna, subito dopo la morte il suo corpo si dissolve in nebbia.
+# U3. Il Muro dei Sussurri	
+## U3a. La lunga notte
+> [!lore]+ **La Lunga Notte**
+> Riconsacrando il terzo Tempio, i giocatori impediscono a Strahd di usarne il potere per fuggire durante la Grande Congiunzione. Ma Strahd ha piani dentro altri piani, e il successo dei giocatori non fa che spingerlo al piano di riserva: la Lunga Notte.
 >
-> Strahd can sense that the players have received the blessing of the Fanes in his place. Should the players visit Castle Ravenloft and fall before him, he will steal those connections to restore his bond to the Fanes, and so channel their energies to escape the Mists once and for all.
+> Strahd sente che i giocatori hanno ricevuto al suo posto la benedizione dei Templi. Se i giocatori verranno al Castello di Ravenloft e cadranno davanti a lui, Strahd ruberà quei legami per ripristinare il proprio vincolo con i Templi e ne incanalerà le energie per fuggire dalle Nebbie una volta per tutte.
 >
-> Using the power stored in the Heart of Sorrow over his century of hibernation, channelled through the vestige of the Devourer entrapped within the Heart, Strahd plunges Barovia into an eternal night and raises every corpse from its slumber, forming an army of the endless dead. He then sends his ranks against the players and their friends, intending to force the players into a final confrontation: meet and fight him at Castle Ravenloft, or see all they love come to ruin.
+> Con il potere accumulato nel Cuore della Tristezza durante il suo secolo di ibernazione, incanalato attraverso la vestigia del Divoratore imprigionata nel Cuore, Strahd fa sprofondare Barovia in una notte eterna e sveglia ogni cadavere dal suo sonno, formando un esercito di morti senza fine. Poi scaglia le sue schiere contro i giocatori e i loro amici, per costringerli a uno scontro finale: affrontarlo al Castello di Ravenloft, o vedere andare in rovina tutto ciò che amano.
 >
-> Now, the dead have risen from every grave in Barovia—marked and unmarked alike—and march to destroy the living. Strahd’s torments of the Devourer’s vestige, as well as the corrupted energies of the Heart of Sorrows, have awoken the Whispering Wall—the Devourer’s divine corpse—and sent it crawling across Barovia toward Castle Ravenloft, mindlessly seeking to shelter and save its tortured spirit. As it does, however, its misted depths swallow up all in its path, imprisoning them in an endless loop of nightmares to fuel its eastward march.
-### Into Darkness
-When the players awaken at the end of their first long rest after reconsecrating the Fanes in [[Arc T - The Three Fanes]], read:
+> Ora i morti si sono alzati da ogni tomba di Barovia, segnata o no, e marciano per distruggere i vivi. I tormenti che Strahd infligge alla vestigia del Divoratore, insieme alle energie corrotte del Cuore della Tristezza, hanno risvegliato il Muro dei Sussurri, il cadavere divino del Divoratore, e lo hanno spinto a strisciare attraverso Barovia verso il Castello di Ravenloft, alla cieca ricerca di un modo per proteggere e salvare il suo spirito torturato. Ma mentre avanza, le sue profondità nebbiose inghiottono tutto ciò che trovano sul cammino e lo imprigionano in un ciclo infinito di incubi che alimenta la sua marcia verso est.
+### Nel buio
+Quando i giocatori si svegliano alla fine del primo riposo lungo dopo aver riconsacrato i Templi nell'[[Arc T - The Three Fanes|Arco T: I tre templi]], leggi:
 
 <div class="description">
-<p>Your limbs and mind tell you that morning has come—but no light illuminates your resting place. Instead, the skies beyond are as dark as the blackest night, tinged with an eerie, crimson glow.</p>
-<p>Not far away, the sound of screams tears through the darkness.</p>
+<p>Le membra e la mente vi dicono che è arrivato il mattino, ma nessuna luce illumina il posto dove avete riposato. Il cielo, là fuori, è scuro come la notte più nera, venato di un inquietante bagliore cremisi.</p>
+<p>Non lontano, delle urla squarciano l'oscurità.</p>
 </div>
 
-If a player looks at the sky, read:
+Se un giocatore guarda il cielo, leggi:
 
 <div class="description">
-<p>Alien constellations glitter in the night sky, joined by the shadows of great, distant planets. Amongst them, thirteen stars stand in perfect alignment, forming a line that cuts across the night sky like a bloody wound.</p>
-<p>Across the valley, amongst the eastern mountains where Castle Ravenloft stands, a distant pillar of crimson light thrusts toward the heavens, crackling with terrible power. Where it touches the skies, a tide of darkness flows forth, sustaining the night with waves of roiling shadow.</p>
+<p>Costellazioni aliene scintillano nel cielo notturno, insieme alle ombre di grandi pianeti lontani. Fra loro, tredici stelle sono perfettamente allineate e formano una linea che taglia il cielo come una ferita insanguinata.</p>
+<p>Dall'altra parte della valle, fra le montagne orientali dove sorge il Castello di Ravenloft, una lontana colonna di luce cremisi si slancia verso il cielo, crepitante di un potere terribile. Dove tocca il cielo si riversa una marea di tenebre, che alimenta la notte con ondate di ombra ribollente.</p>
 </div>
 
-If a player looks to the west, read:
+Se un giocatore guarda a ovest, leggi:
 
 <div class="description">
-<p>A shadowed wall of impenetrable fog towers above the town, each building little more than an ant before it. Strange shapes and silhouettes seem to drift through its depths, which stretch forth to meet the heavens far above. The wall seems to extend across the entire western valley, its ends running from Mount Baratok to the north to Mount Ghakis to the south.</p>
-<p>At the wall’s center, a great winged shadow looms over the tiny rooftops below.</p>
+<p>Un muro di nebbia impenetrabile e piena d'ombra torreggia sulla città, e davanti a esso ogni edificio sembra poco più di una formica. Strane forme e sagome sembrano vagare nelle sue profondità, che si allungano fino al cielo, molto in alto. Il muro sembra attraversare l'intera valle occidentale, con le estremità che vanno dal Monte Baratok a nord al Monte Ghakis a sud.</p>
+<p>Al centro del muro, una grande ombra alata incombe sui minuscoli tetti più in basso.</p>
 </div>
 
-Players who have previously seen the Whispering Wall in [[Arc J - The Stolen Gem]] can immediately recognize the wall as the Whispering Wall. A player who inspects the shadow and succeeds on a DC 10 Wisdom (Perception) check observes that it resembles an enormous moth or butterfly.
+I giocatori che hanno già visto il Muro dei Sussurri nell'[[Arc J - The Stolen Gem|Arco J: La gemma rubata]] lo riconoscono subito. Un giocatore che osserva l'ombra e supera una prova di Saggezza (Percezione) con CD 10 nota che somiglia a un'enorme falena o farfalla.
 
-Shortly after the players awaken, one of the following occurs, depending on where the players have rested:
+Poco dopo il risveglio dei giocatori succede una di queste cose, a seconda di dove hanno riposato:
 
-* **Blue Water Inn.** A horde of six **zombies** from the cemetery of St. Andral’s Church breaks down the inn’s doors, with three entering <span class="citation">N2c. Taproom (p. 100)</span> and three crashing through the door atop <span class="citation">N2b. Outside Staircase (p. 98)</span>.
-* **Wachterhaus.** A horde of six **zombies** from the cemetery of St. Andral’s Church breaks down the manor’s doors, with three entering <span class="citation">N4a. Front Door and Vestibule (p. 110)</span> and three entering <span class="citation">N4e. Back Vestibule (p. 112)</span>.
-* **St. Andral’s Church.** A horde of six **zombies** from the cemetery of St. Andral’s Church breaks down the doors of a house across the street, spurring cries of terror and pleas for help from the family inside (two Vallakian **commoners** and two noncombatant children with 1 hit point each).
+* **Locanda dell'Acqua Azzurra.** Un'orda di sei **zombi** venuti dal cimitero della Chiesa di Sant'Andral sfonda le porte della locanda: tre entrano in <span class="citation">N2c. Sala comune (p. 100)</span> e tre irrompono dalla porta in cima a <span class="citation">N2b. Scala esterna (p. 98)</span>.
+* **Wachterhaus.** Un'orda di sei **zombi** venuti dal cimitero della Chiesa di Sant'Andral sfonda le porte della villa: tre entrano in <span class="citation">N4a. Porta d'ingresso e vestibolo (p. 110)</span> e tre in <span class="citation">N4e. Vestibolo sul retro (p. 112)</span>.
+* **Chiesa di Sant'Andral.** Un'orda di sei **zombi** venuti dal cimitero della Chiesa di Sant'Andral sfonda le porte di una casa dall'altra parte della strada, e dall'interno si levano grida di terrore e richieste d'aiuto della famiglia che ci abita (due **popolani** vallakiani e due bambini che non combattono, con 1 punto ferita ciascuno).
 
-Each zombie bears a glowing crimson symbol on its forehead: the raven-and-keep shield crest of Castle Ravenloft. Each zombie’s symbol and eyes glow with the same color as the pillar of bloody light that rises in the eastern mountains.
-### Vallaki’s Dilemma
-The following events may occur in any order and at any time shortly after the players defeat the zombies, either separately or concurrently:
+Ogni zombi porta sulla fronte un simbolo cremisi luminoso: lo stemma del Castello di Ravenloft, uno scudo con il corvo e il torrione. Il simbolo e gli occhi di ogni zombi brillano dello stesso colore della colonna di luce sanguigna che si leva fra le montagne orientali.
+### Il dilemma di Vallaki
+Poco dopo che i giocatori hanno sconfitto gli zombi possono succedere gli eventi seguenti, in qualunque ordine e in qualunque momento, uno alla volta o insieme:
 
-* ***The Wall’s Pain.*** To the east, in the mountains where Castle Ravenloft lies, a pulse of crimson light briefly fills the skies—and the winged shadow within the Whispering Wall writhes, a deep, angry rumble echoing through the earth. The wall then moves several dozen feet forward.
-* ***The Dreamer’s Remnants.*** As the players exit onto the streets or look toward the Whispering Wall, if they are in possession of the butterfly statuette from [[Arc J - The Stolen Gem#J4a. Il tumulo di Kavan|J4a. Kavan’s Cairn]], or the twilight crest from [[Arc J - The Stolen Gem#J6b. Il Muro dei Sussurri|J6b. The Whispering Wall]], the item glows a brilliant purple and emits a high-pitched, keening hum. The light and hum increase in intensity if brought closer to the Whispering Wall.
-* ***Urwin’s Warning.*** After conferring with his raven spies, a pale-faced Urwin Martikov confirms to the players that the Whispering Wall fills the entire sky, from Mount Baratok to Mount Ghakis, appears to have swallowed up the entire western half of the valley, including Krezk, the Wizard of Wines, and the western edge of Vallaki. He also shares that the wall is expanding eastward rapidly, and that the entirety of Vallaki may be swallowed up in less than an hour. He further shares that strange winged apparitions have been seen emerging from the wall and dragging Vallakians into it. (If asked, Urwin confirms that the winged apparitions resemble butterflies or moths, though he’s startled at how the players made such a guess.)
-* ***Fiona’s Plea.*** Lady Fiona Wachter, flanked by two **cult fanatics** and four **guards** covered in blood and gore, approaches the players with a bloodstained *mace* in hand. She informs the players that the dead have risen from the cemetery of St. Andral’s Church; while they have been largely cleared from the eastern half of the town, many more may still linger to the west. She also shares that a vast host of undead has been spotted approaching the town from the east, led by a pale, white-fleshed undead that emits great clouds of reddish smoke, and will arrive within a quarter-hour. Lady Wachter then kneels before the players, begs them to help defend her town, and informs them that all of Vallaki’s resources are at their disposal. If any of the players accept, Lady Wachter accompanies them to [[#U3j. The Morning Gate]].
-* ***Night Everlasting.*** Any Vallakian can inform the players that, although morning should have come by now, the Moon remains high in the sky, and no daylight has appeared over the horizon.
+* ***Il dolore del Muro.*** A est, fra le montagne dove sorge il Castello di Ravenloft, un impulso di luce cremisi riempie per un attimo il cielo, e l'ombra alata dentro il Muro dei Sussurri si contorce, mentre un rombo profondo e furioso fa tremare la terra. Poi il muro avanza di parecchi metri.
+* ***Le vestigia della Sognatrice.*** Quando i giocatori escono in strada o guardano verso il Muro dei Sussurri, se hanno con sé la statuetta della farfalla di [[Arc J - The Stolen Gem#J4a. Il tumulo di Kavan|J4a. Il tumulo di Kavan]], o il sigillo del crepuscolo di [[Arc J - The Stolen Gem#J6b. Il Muro dei Sussurri|J6b. Il Muro dei Sussurri]], l'oggetto brilla di un viola intenso ed emette un ronzio acuto, simile a un lamento. La luce e il ronzio si fanno più intensi man mano che l'oggetto si avvicina al Muro dei Sussurri.
+* ***L'avvertimento di Urwin.*** Dopo essersi consultato con le sue spie corvo, un Urwin Martikov pallido in volto conferma ai giocatori che il Muro dei Sussurri riempie tutto il cielo, dal Monte Baratok al Monte Ghakis, e sembra aver inghiottito l'intera metà occidentale della valle, compresi Krezk, il Mago dei Vini e il margine ovest di Vallaki. Aggiunge che il muro si allarga in fretta verso est e che in meno di un'ora potrebbe inghiottire tutta Vallaki. Racconta anche che si sono viste strane apparizioni alate uscire dal muro e trascinarci dentro dei vallakiani. (Se glielo chiedono, Urwin conferma che le apparizioni alate somigliano a farfalle o a falene, ma resta sorpreso che i giocatori lo abbiano indovinato.)
+* ***La supplica di Fiona.*** Lady Fiona Wachter, scortata da due **fanatici del culto** e da quattro **guardie** coperte di sangue e di brandelli di carne, si avvicina ai giocatori con una *mazza* insanguinata in mano. Li informa che i morti si sono alzati dal cimitero della Chiesa di Sant'Andral; la metà orientale della città è stata in gran parte ripulita, ma a ovest potrebbero aggirarsene ancora molti. Aggiunge che un'enorme schiera di non morti è stata avvistata mentre si avvicina alla città da est, guidata da un non morto dalla carne pallida e bianca che emana grandi nubi di fumo rossastro, e che arriverà entro un quarto d'ora. Poi Lady Wachter si inginocchia davanti ai giocatori, li supplica di aiutarla a difendere la sua città e mette a loro disposizione tutte le risorse di Vallaki. Se qualcuno dei giocatori accetta, Lady Wachter lo accompagna alla [[#U3j. La Porta del Mattino|Porta del Mattino]].
+* ***La notte eterna.*** Qualunque vallakiano può dire ai giocatori che, anche se ormai dovrebbe essere mattina, la Luna è ancora alta nel cielo e all'orizzonte non è comparsa nessuna luce.
 
-> [!info]+ **Running This Sequence**
-> Most groups of players will split the party to address the simultaneous threats of the Whispering Wall and undead horde. If they do, run these sequences in the following order:
+> [!info]+ **Condurre questa sequenza**
+> Quasi tutti i gruppi divideranno le forze per far fronte insieme alle due minacce del Muro dei Sussurri e dell'orda di non morti. In questo caso, conduci le sequenze in questo ordine:
 >
-> * First, run both fights in [[#U3b. Vallaki Streets]] simultaneously.
-> * Second, run [[#Arrival at the Gate]], followed by [[#U3c. The Wall]]
-> * Third, run [[#Organizing the Defense]], followed by [[#U3d. The Nightmares]]
-> * Fourth, run [[#The Zarovich Gate]], followed by [[#U3e. Descent of the Mists]] and [[#U3f. Fall of the Devourer]]. Allow the players in the Whispering Wall to control any NPCs in [[#The Zarovich Gate]], but require them to obey the commands of any player characters present.
-> * Fifth, run [[#The Southern Wall]], followed by [[#U3g. Attack on the Swamp Fane]]. Allow the players in the Whispering Wall to control any NPCs at the Southern Wall, and vice-versa, but require them to obey the commands of any player characters present.
-> * Sixth, run [[#The Morning Gate]], followed by [[#U3h. The Lonely Maid]] and [[#U3i. Lake Zarovich]]. Allow the players in the Whispering Wall to control any NPCs at the Morning Gate, but require them to obey the commands of any player characters present.
+> * Primo, conduci insieme i due scontri di [[#U3b. Le strade di Vallaki]].
+> * Secondo, conduci [[#L'arrivo alla porta]], poi [[#U3c. Il muro]]
+> * Terzo, conduci [[#Organizzare la difesa]], poi [[#U3d. Gli incubi]]
+> * Quarto, conduci [[#La Porta Zarovich]], poi [[#U3e. La discesa delle Nebbie]] e [[#U3f. La caduta del Divoratore]]. Lascia che i giocatori dentro il Muro dei Sussurri controllino i PNG della [[#La Porta Zarovich|Porta Zarovich]], ma che obbediscano agli ordini dei personaggi giocanti presenti.
+> * Quinto, conduci [[#Le mura meridionali]], poi [[#U3g. L'attacco al Tempio della Palude]]. Lascia che i giocatori dentro il Muro dei Sussurri controllino i PNG delle mura meridionali, e viceversa, ma che obbediscano agli ordini dei personaggi giocanti presenti.
+> * Sesto, conduci [[#La Porta del Mattino]], poi [[#U3h. La fanciulla solitaria]] e [[#U3i. Il Lago Zarovich]]. Lascia che i giocatori dentro il Muro dei Sussurri controllino i PNG della Porta del Mattino, ma che obbediscano agli ordini dei personaggi giocanti presenti.
 >
-> If the players fail to send a player character to defend the Zarovich Gate, Morning Gate, or Southern Wall, a party NPC companion (such as Ezmerelda or Ireena) or friendly NPC (such as Lady Wachter) leads that location’s defense instead. If this occurs, you can have one of the players control that location’s commander, or use challengerated.com to estimate that location’s losses. (In the latter case, cut the Vallakians’ losses by half to account for the protections offered by the town walls.)
-## U3b. Vallaki Streets
-As they travel to [[#U3c. The Wall]] or [[#U3j. The Morning Gate]], the players face the following encounters:
+> Se i giocatori non mandano nessun personaggio a difendere la Porta Zarovich, la Porta del Mattino o le mura meridionali, a guidare la difesa di quel punto è un PNG del gruppo (come Ezmerelda o Ireena) o un PNG amico (come Lady Wachter). In questo caso puoi far controllare a uno dei giocatori il comandante di quel punto, oppure usare challengerated.com per stimare le perdite. (Nel secondo caso, dimezza le perdite dei vallakiani per tenere conto della protezione offerta dalle mura della città.)
+## U3b. Le strade di Vallaki
+Mentre si dirigono verso [[#U3c. Il muro|il muro]] o verso [[#U3j. La Porta del Mattino|la Porta del Mattino]], i giocatori affrontano questi scontri:
 
-* **The Wall.** While traveling to the Whispering Wall, the players are attacked by three **winged harbingers** (use the statistics below) and six **zombies**. In battle, one **winged harbinger** and two **zombies** prefer to fight one another, rather than the players.
-* **The Gate.** While travelling to the Morning Gate, the players are attacked by six **zombies**.
+* **Il muro.** Mentre vanno verso il Muro dei Sussurri, i giocatori vengono attaccati da tre **araldi alati** (usa le statistiche qui sotto) e da sei **zombi**. In battaglia, un **araldo alato** e due **zombi** preferiscono combattere fra loro piuttosto che contro i giocatori.
+* **La porta.** Mentre vanno verso la Porta del Mattino, i giocatori vengono attaccati da sei **zombi**.
 
-> [!combat]- **Combat - The Vallakian Streets Wall**  
-> **Combat Level**: Mild
-> **Expected Character Level**: 10
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
-> **Expected HP Consumption:** 17%
+> [!combat]- **Combattimento: le strade di Vallaki, il muro**  
+> **Livello di combattimento**: lieve
+> **Livello previsto dei personaggi**: 10
+> **Alleati:** Ireena Kolyana (GS 2), Ezmerelda d'Avenir (GS 4)
+> **Consumo previsto di pf:** 17%
 > 
-> ### **Enemies:**
+> ### **Nemici:**
 > 
-> | |1 Player | 2 Players | 3 Players | 4 Players | 5 Players | 6 Players |
+> | |1 giocatore | 2 giocatori | 3 giocatori | 4 giocatori | 5 giocatori | 6 giocatori |
 > |-|-|-|-|-|-|-|
-> | Winged Harbinger | 2 | 3 | 3 | 4 | 5 | 5 |
-> | Zombie | 6 | 6 | 9 | 9 | 9 | 12 |
+> | Araldo alato | 2 | 3 | 3 | 4 | 5 | 5 |
+> | Zombi | 6 | 6 | 9 | 9 | 9 | 12 |
 > 
-> ### **Balancing:**
-> If you have fewer or more than 2 players, modify the encounter in the following ways:
+> ### **Bilanciamento:**
+> Se hai meno o più di 2 giocatori, modifica lo scontro così:
 >
-> | Number of Players | Modification |
+> | Numero di giocatori | Modifica |
 > |-|-|-|-|
-> | 1 | Reduce the number of harbingers to two. In battle, one winged harbinger and two zombies prefer to fight one another, rather than the players. |
-> | 3 | Increase the number of zombies to nine. In battle, one winged harbinger and two zombies prefer to fight one another, rather than the players. |
-> | 4 | Increase the number of harbingers to four and the number of zombies to nine. In battle, one winged harbinger and two zombies prefer to fight one another, rather than the players. |
-> | 5 | Increase the number of harbingers to five and the number of zombies to nine. In battle, one winged harbinger and two zombies prefer to fight one another, rather than the players. |
-> | 6 | Increase the number of harbingers to five and the number of zombies to twelve. In battle, one winged harbinger and two zombies prefer to fight one another, rather than the players. |
+> | 1 | Riduci gli araldi a due. In battaglia, un araldo alato e due zombi preferiscono combattere fra loro piuttosto che contro i giocatori. |
+> | 3 | Porta gli zombi a nove. In battaglia, un araldo alato e due zombi preferiscono combattere fra loro piuttosto che contro i giocatori. |
+> | 4 | Porta gli araldi a quattro e gli zombi a nove. In battaglia, un araldo alato e due zombi preferiscono combattere fra loro piuttosto che contro i giocatori. |
+> | 5 | Porta gli araldi a cinque e gli zombi a nove. In battaglia, un araldo alato e due zombi preferiscono combattere fra loro piuttosto che contro i giocatori. |
+> | 6 | Porta gli araldi a cinque e gli zombi a dodici. In battaglia, un araldo alato e due zombi preferiscono combattere fra loro piuttosto che contro i giocatori. |
 
-> [!combat]- **Combat - The Vallakian Streets Gate**  
-> **Combat Level**: Mild
-> **Expected Character Level**: 10
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
-> **Expected HP Consumption:** 10%
+> [!combat]- **Combattimento: le strade di Vallaki, la porta**  
+> **Livello di combattimento**: lieve
+> **Livello previsto dei personaggi**: 10
+> **Alleati:** Ireena Kolyana (GS 2), Ezmerelda d'Avenir (GS 4)
+> **Consumo previsto di pf:** 10%
 > 
-> ### **Enemies:**
+> ### **Nemici:**
 > 
-> | |1 Player | 2 Players | 3 Players | 4 Players | 5 Players | 6 Players |
+> | |1 giocatore | 2 giocatori | 3 giocatori | 4 giocatori | 5 giocatori | 6 giocatori |
 > |-|-|-|-|-|-|-|
-> | Zombie | 2 | 4 | 6 | 8 | 10 | 12 |
+> | Zombi | 2 | 4 | 6 | 8 | 10 | 12 |
 
-> [!info]+ **Winged Harbinger**
-> A **winged harbinger**, which appears as a six-foot-tall butterfly made of frigid fog and mist, uses the statistics of a **specter**, with the following changes:
-> * It’s a fey instead of an undead.
-> * It lacks the *incorporeal movement* and *sunlight sensitivity* features.
-> * It isn’t immune to necrotic damage, is immune to cold damage, and is vulnerable to fire damage.
-> * Its Life Drain attack deals cold damage instead of necrotic damage.
-## U3c. The Wall
-When the players arrive at the base of the Whispering Wall, read:
-
-<div class="description">
-<p>As you approach the wall of fog, the wind rises to a screaming howl. The temperature plummets, too, forming a frigid gale that whips with shards of frozen ice. Your breath fogs on the air, and the warmth saps from your extremities into the wintry air beyond.</p>
-<p>Soon, you stand before it: a towering plume of impenetrable white that reaches far into the skies. Each second, it crawls forward once more—a few inches, then a foot—inexorably reaching eastward as it swallows up Vallaki within its opaque depths.</p>
-</div>
-
-If a player enters the wall, proceed to [[#U3d. The Nightmares]].
-## U3d. The Nightmares
-A player who enters the Whispering Wall finds themselves within a new location, indistinguishable from reality. The location is a reflection of that player character's deepest desire, sculpted to be as real and alluring as possible. The location is populated by any inhabitants necessary for that character's desire. Both the location and any inhabitants are illusory, but appear solid and real to those who enter.
-
-After a period of time—which may be subjective minutes, hours, or even years after they entered—the “dream" becomes nightmarish, using the player’s greatest fears to terrorize and threaten them. (For example, a deceased spouse may become a monstrous version of themselves, and accuse the player of killing them or allowing them to die while attempting to kill the player themselves.)
-
-Should a player successfully survive their nightmare, a crack of rumbling thunder announces the appearance of a tall arch formed of fog and swirling mist, which appears ten feet before them—opposite the direction from whence they came.
-
-A player who enters the arch proceeds to [[#U3e. Descent of the Mists]].
-## U3e. Descent of the Mists
-When the players emerge from [[#U3d. The Nightmares]], read:
+> [!info]+ **Araldo alato**
+> Un **araldo alato**, che ha l'aspetto di una farfalla alta 1,8 metri fatta di nebbia e foschia gelide, usa le statistiche di uno **spettro**, con queste modifiche:
+> * È un folletto invece che un non morto.
+> * Non ha i tratti *movimento incorporeo* e *sensibilità alla luce del sole*.
+> * Non è immune ai danni necrotici, è immune ai danni da freddo ed è vulnerabile ai danni da fuoco.
+> * Il suo attacco Risucchio vitale infligge danni da freddo invece che necrotici.
+## U3c. Il muro
+Quando i giocatori arrivano ai piedi del Muro dei Sussurri, leggi:
 
 <div class="description">
-<p>You pass through the arch—and emerge atop the terraced peak of Yester Hill. Below it, the valley of Barovia stretches out before you—but, no Mists encircle it, the valley <em>continues</em>, extending into unfamiliar mountain ranges, boundless woods, and glittering rivers that snake miles into the distance.</p>
-<p>One object dominates the horizon: a shadowed wall of impenetrable fog that stretches forth to meet the heavens far above. Above it, the skies are stained blood-red, a wounded crimson that stretches across the valley.</p>
-<p>The sky itself seems to boil, occasionally taking the form of countless cloaked and hooded figures. Their fingers seem to reach down to the wall of fog below, tearing strips away from it, like vultures ripping at a corpse’s flesh. Each time they do, the wall of fog writhes, the earth rumbling as it seems to cry out in pain.</p>
-<p>The sky-figures pay no heed to the wall’s agony, weaving the torn strips to form a tall ring that encircles the land below. Slowly, a curtain of Mist descends from the fog-like ring, encircling the valley—and entrapping it.</p>
-<p>A lone arch of swirling mist stands ten feet before you, leading west—toward the writhing wall.</p>
+<p>Mentre vi avvicinate al muro di nebbia, il vento sale fino a un ululato stridente. Anche la temperatura precipita, e si alza una burrasca gelida che sferza con schegge di ghiaccio. Il fiato vi si condensa nell'aria, e il calore vi abbandona le estremità per disperdersi nel gelo.</p>
+<p>Presto ve lo trovate davanti: un'immensa colonna di bianco impenetrabile che sale altissima nel cielo. A ogni secondo striscia ancora in avanti, qualche centimetro, poi trenta, e si allunga inesorabile verso est, inghiottendo Vallaki nelle sue profondità opache.</p>
 </div>
 
-A player who saw the blood-red skies in [[Arc O - Dinner with the Devil#O8f. La fortezza insanguinata|O8. Varushka’s Nightmare]] recognizes them as the same color of sky that appeared on the day that Strahd died and became a vampire.
+Se un giocatore entra nel muro, passa a [[#U3d. Gli incubi]].
+## U3d. Gli incubi
+Un giocatore che entra nel Muro dei Sussurri si ritrova in un luogo nuovo, indistinguibile dalla realtà. Il luogo riflette il desiderio più profondo di quel personaggio, plasmato per essere il più vero e seducente possibile, ed è popolato da tutti gli abitanti che quel desiderio richiede. Il luogo e gli abitanti sono illusori, ma a chi entra sembrano solidi e reali.
 
-If the players proceed through the arch, they emerge into [[#U3f. Fall of the Devourer]].
-## U3f. Fall of the Devourer
-When the players emerge from [[#U3e. Descent of the Mists]], read:
+Dopo un certo tempo, che può sembrare di minuti, di ore o persino di anni dall'ingresso, il «sogno» diventa un incubo e usa le paure più grandi del giocatore per terrorizzarlo e minacciarlo. (Per esempio, il coniuge morto può diventare una versione mostruosa di sé e accusare il giocatore di averlo ucciso o di averlo lasciato morire, mentre cerca a sua volta di ucciderlo.)
+
+Se un giocatore sopravvive al suo incubo, un tuono rombante annuncia la comparsa di un alto arco di nebbia e di foschia vorticante, 3 metri davanti a lui, nella direzione opposta a quella da cui è venuto.
+
+Un giocatore che entra nell'arco passa a [[#U3e. La discesa delle Nebbie]].
+## U3e. La discesa delle Nebbie
+Quando i giocatori escono da [[#U3d. Gli incubi]], leggi:
 
 <div class="description">
-<p>You pass through the arch—and emerge onto a snowy mountain cliff top beneath a familiar white-capped peak. The winds whip and howl about you, shards of frozen ice whirling through the gale. Above you, a great black stormcloud covers the entirety of the valley. Within its roiling depths, you see a pair of great and terrible wings, its wingspan stretching from the northern mountains to the south. Trembles quake the earth, and lightning thunders across the sky.</p>
-<p>To the south, a small group of huddled figures trudges through the snow behind you. They wear animal hides and carry simple spears. They seem to be headed toward a sheer cliff face from which two frozen waterfalls plummet.</p>
-<p>One of them—a woman—breaks from the group, only to be caught by an older man beside her. “No!" she screams. “Zia is still out there! My Zia, my girl—" She collapses to her knees, sobbing.</p>
+<p>Attraversate l'arco e sbucate sulla cima a terrazze della Collina di Yester. Sotto di voi si stende la valle di Barovia, ma nessuna Nebbia la circonda: la valle <em>continua</em> e si allunga verso catene montuose sconosciute, boschi sterminati e fiumi scintillanti che serpeggiano per chilometri in lontananza.</p>
+<p>Un solo oggetto domina l'orizzonte: un muro di nebbia impenetrabile e piena d'ombra che sale fino al cielo, molto in alto. Sopra di esso il cielo è macchiato di rosso sangue, un cremisi da ferita aperta che si stende su tutta la valle.</p>
+<p>Il cielo stesso sembra ribollire e ogni tanto prende la forma di innumerevoli figure con mantello e cappuccio. Le loro dita sembrano allungarsi verso il muro di nebbia sottostante e strapparne lembi, come avvoltoi che dilaniano la carne di un cadavere. Ogni volta il muro di nebbia si contorce, e la terra rimbomba come se gridasse di dolore.</p>
+<p>Le figure del cielo non badano all'agonia del muro: intrecciano i lembi strappati in un alto anello che circonda la terra sottostante. Lentamente, dall'anello di nebbia scende una cortina di Nebbia che circonda la valle, e la imprigiona.</p>
+<p>A 3 metri da voi si erge un unico arco di nebbia vorticante, rivolto a ovest, verso il muro che si contorce.</p>
 </div>
 
-Any player who has previously visited Soldav recognizes the cliff as [[Arc R - Trials of the Mountain#R5a. The Twin Falls|R5a. The Twin Falls]], and the figures as a group of Mountain Folk.
+Un giocatore che ha visto il cielo rosso sangue in [[Arc O - Dinner with the Devil#O8f. La fortezza insanguinata|O8. L'incubo di Varushka]] lo riconosce: è lo stesso colore del cielo del giorno in cui Strahd morì e divenne un vampiro.
 
-The Mountain Folk, who call themselves the Tauta and don’t recognize the term “Mountain Folk," can share the following information:
-
-* The woman’s name is Sargetia. The man is Tarbus, her father.
-* The Tauta are retreating to Soldav to take shelter from the Devourer—a great beast of cold and darkness that arose from the Balinok Mountains three days ago and swallowed the valley in shadow.
-* In their haste to escape, Sargetia lost her daughter, Zia, in the blizzard. Sargetia last saw Zia with her on the mountain path to Soldav, only a few minutes prior.
-* The blizzard is growing fiercer, the lightning strikes are growing more frequent, and great boulders and snowdrifts are beginning to plummet from the mountain peaks. Tarbus, though grieving for his granddaughter, believes that Zia is lost to them, and wants to ensure Sargetia and the rest of the group make it safely to the shelter of Soldav.
-
-Sargetia and Tarbus are deeply grateful if the players offer to search for Zia and return her to Soldav. Tarbus promises to wait for the players “beneath the eastern waterfall, until the tenth lightning strike," but no longer. As the players move to depart, Tarbus performs a quick, reverent gesture—touching his right hand to his eye, his mouth, and his heart—and tells them: “May the Seeker guide your step, the Huntress guide your hand, and the Weaver bring you home." (The gesture, called the Sign of the Rozana, is a sign of supplication and prayer to the Ladies Three.)
-
-As she travelled with her mother, Zia lost her grip on Sargetia’s hand and wandered through the blizzard alone, soon falling off the cliff and catching herself on a root that protruded from the icy bluff. As they explore the trail, the players might find Zia using any of the following methods, or in any other reasonable way:
-
-* Hearing Zia’s weak cries for help with a successful DC 10 Wisdom (Perception) check.
-* Following the Mountain Folks’ tracks back through the snow, which soon split from a smaller, single child-sized set of footprints that lead off the edge of the cliff.
-* Looking over the cliff’s edge, either of their own initiative or by succeeding on a DC 14 Intelligence (Investigation) check.
-
-When the players find Zia, read:
+Se i giocatori attraversano l'arco, sbucano in [[#U3f. La caduta del Divoratore]].
+## U3f. La caduta del Divoratore
+Quando i giocatori escono da [[#U3e. La discesa delle Nebbie]], leggi:
 
 <div class="description">
-<p>A small child—a girl, no older than five or six years old—dangles precariously from a thick root that protrudes from the cliffside.</p>
-<p>"Help," she whimpers, her voice nearly lost amidst the screaming winds.</p>
+<p>Attraversate l'arco e sbucate sulla cima di una rupe innevata, sotto una vetta incappucciata di bianco che conoscete. Il vento sferza e ulula intorno a voi, e nella bufera turbinano schegge di ghiaccio. Sopra di voi una grande nube temporalesca nera copre l'intera valle. Nelle sue profondità ribollenti scorgete un paio di ali grandi e terribili, con un'apertura che va dalle montagne del nord a quelle del sud. La terra trema e i fulmini tuonano attraverso il cielo.</p>
+<p>A sud, alle vostre spalle, un piccolo gruppo di figure rannicchiate avanza a fatica nella neve. Indossano pelli di animale e portano lance semplici. Sembrano dirette verso una parete a strapiombo da cui precipitano due cascate ghiacciate.</p>
+<p>Una di loro, una donna, si stacca dal gruppo, ma un uomo più anziano accanto a lei la trattiene. «No!», urla. «Zia è ancora là fuori! La mia Zia, la mia bambina…» Crolla in ginocchio, singhiozzando.</p>
 </div>
 
-Zia is too scared, cold, and weak to climb a rope or otherwise ascend the cliff under her own power. The players might rescue her by descending the cliff and carrying her up on their backs, or by any other reasonable means.
+Un giocatore che è già stato a Soldav riconosce la parete: sono [[Arc R - Trials of the Mountain#R5a. Le cascate gemelle|R5a. Le cascate gemelle]], e le figure sono un gruppo del Popolo della Montagna.
 
-Zia is deeply grateful to the players for rescuing her, though her hands are near-frostbitten from exposure to the cold. As she huddles to them for warmth, she suddenly looks toward the valley’s basin below and raises a shivering hand to point. If the players follow her gaze, read:
+Il Popolo della Montagna, che chiama sé stesso Tauta e non conosce il nome «Popolo della Montagna», può dire quanto segue:
+
+* La donna si chiama Sargetia. L'uomo è Tarbus, suo padre.
+* I Tauta si stanno ritirando a Soldav per ripararsi dal Divoratore, una grande bestia di freddo e di tenebra che tre giorni fa si è levata dai Monti Balinok e ha inghiottito la valle nell'ombra.
+* Nella fretta della fuga, Sargetia ha perso nella tormenta sua figlia Zia. L'ultima volta che l'ha vista era con lei sul sentiero di montagna per Soldav, solo pochi minuti prima.
+* La tormenta si fa più violenta, i fulmini cadono sempre più spesso e dalle vette cominciano a precipitare grandi massi e cumuli di neve. Tarbus piange la nipote, ma crede che Zia sia perduta e vuole che Sargetia e il resto del gruppo arrivino sani e salvi al riparo di Soldav.
+
+Sargetia e Tarbus sono profondamente grati se i giocatori si offrono di cercare Zia e di riportarla a Soldav. Tarbus promette di aspettarli «sotto la cascata orientale, fino al decimo fulmine», ma non oltre. Mentre i giocatori si preparano a partire, Tarbus compie un gesto rapido e devoto, toccandosi con la mano destra l'occhio, la bocca e il cuore, e dice: «Che il Cercatore guidi il vostro passo, la Cacciatrice la vostra mano, e la Tessitrice vi riporti a casa». (Il gesto, chiamato Segno delle Rozana, è un segno di supplica e di preghiera alle Tre Dame.)
+
+Mentre camminava con la madre, Zia ha perso la presa sulla mano di Sargetia e ha vagato da sola nella tormenta; presto è caduta dalla rupe e si è aggrappata a una radice che sporge dalla scarpata ghiacciata. Esplorando il sentiero, i giocatori possono trovare Zia in uno di questi modi, o in qualunque altro modo ragionevole:
+
+* Sentendo le deboli richieste d'aiuto di Zia con una prova di Saggezza (Percezione) con CD 10 superata.
+* Seguendo a ritroso nella neve le tracce del Popolo della Montagna, da cui presto si separa una sola fila di impronte più piccole, da bambina, che porta oltre il bordo della rupe.
+* Guardando oltre il bordo della rupe, di loro iniziativa o superando una prova di Intelligenza (Indagare) con CD 14.
+
+Quando i giocatori trovano Zia, leggi:
 
 <div class="description">
-<p>At the center of the valley, at a place where the trees, mountains, and rivers come together, three glowing figures rise into the air. Their distant forms shine with bright, verdant light, and a trio of voices emanate from them in fierce, yet mournful song.</p>
-<p>The storm cloud above roils, lightning crackling across its terrible mass. A great funnel of smoke-black fog whirls down toward them—but the figures’ song mounts in strength and defiance. Their light grows brighter, then brighter again—and send three radiant arrows soaring through the air.</p>
-<p>With a sound like thunder, the arrows pierce the storm cloud’s heart. It <em>screams</em>. The darkness seeps from its depths until only a mass of gray-white fog remains, and it plummets westward, until it vanishes beyond a mountain peak and vanishes at the edge of the valley below.</p>
+<p>Una bambina piccola, che non ha più di cinque o sei anni, penzola in bilico da una grossa radice che sporge dalla parete della rupe.</p>
+<p>«Aiuto», piagnucola, con una voce che quasi si perde nell'urlo del vento.</p>
 </div>
 
-When the Devourer is defeated, an archway of swirling mist appears before the players, pointing west—toward the place where the storm cloud fell. If the players pass through it, they emerge into [[#U3g. Attack on the Swamp Fane]].
-## U3g. Attack on the Swamp Fane
-When the players emerge from [[#U3f. Fall of the Devourer]], read:
+Zia è troppo spaventata, infreddolita e debole per arrampicarsi su una corda o risalire la rupe con le sue forze. I giocatori possono salvarla calandosi lungo la rupe e riportandola su a spalle, o in qualunque altro modo ragionevole.
+
+Zia è profondamente grata ai giocatori che l'hanno salvata, anche se ha le mani quasi congelate per l'esposizione al freddo. Mentre si stringe a loro per scaldarsi, all'improvviso guarda verso il fondo della valle e alza una mano tremante per indicare qualcosa. Se i giocatori seguono il suo sguardo, leggi:
 
 <div class="description">
-<p>You pass through the arch—and emerge onto the edge of a quiet swamp. Nearby, a sluggish river drifts lazily through the earth, with small, verdant islands blooming with life thrusting forth from the mire.</p>
-<p>You stand at the center of a familiar circle of standing stones—but they are newly carved, clear of lichen, moss, or dirt. Beside you, a circle of three individuals wearing animal hides and deer’s antlers stand with their hands held together. Their eyes are closed, and they sway as they chant in reverent song—but fall silent as a distant howl cuts through the air, thick clouds of shadowed fog descending to cover the terrain around you.</p>
-<p>"Ready your arms," one says to you, fearfully. “The beasts of Lady Winter approach."</p>
+<p>Al centro della valle, nel punto dove si incontrano alberi, montagne e fiumi, tre figure luminose si levano in aria. Le loro sagome lontane splendono di una luce verde e intensa, e ne esce un canto a tre voci, fiero e insieme dolente.</p>
+<p>La nube temporalesca sopra di loro ribolle, e i fulmini crepitano sulla sua massa terribile. Un grande imbuto di nebbia nera come il fumo scende vorticando verso di loro, ma il canto delle figure cresce in forza e in sfida. La loro luce si fa più intensa, poi ancora di più, e scaglia in volo tre frecce radiose.</p>
+<p>Con un rumore di tuono, le frecce trafiggono il cuore della nube temporalesca. La nube <em>urla</em>. L'oscurità cola via dalle sue profondità finché non resta che una massa di nebbia bianco grigia, che precipita verso ovest fino a sparire oltre una vetta, ai margini della valle.</p>
 </div>
 
-The three individuals are Tauta **druids** of the Weaver named Calabaeus, Acmonia, and Drasdea. They can share the following information:
+Sconfitto il Divoratore, davanti ai giocatori compare un arco di nebbia vorticante, rivolto a ovest, verso il punto dove è caduta la nube temporalesca. Se i giocatori lo attraversano, sbucano in [[#U3g. L'attacco al Tempio della Palude]].
+## U3g. L'attacco al Tempio della Palude
+Quando i giocatori escono da [[#U3f. La caduta del Divoratore]], leggi:
 
-* They are faithful servants of the Weaver, one of the Ladies Three who brought their people to the valley of Girvisa a generation ago. 
-* In the Weaver’s honor, they have erected a fane—a shrine of standing stones—in her place of power, at the center of the swamps of Girvisa.
-* Lady Winter is a rival of the Ladies Three. Her domain is the chill of winter and the terror of nightmares.
-* The howling beasts are not true wolves, but wolves of winter—servants of the Huntress that Lady Winter has twisted, corrupted, and enslaved as her own. (The druids believe that Lady Winter, envious of the Weaver’s power and devotion, has sent these beasts to destroy her holy place before it may be consecrated.)
+<div class="description">
+<p>Attraversate l'arco e sbucate al margine di una palude silenziosa. Lì vicino un fiume lento scorre pigro nella terra, e dal pantano spuntano isolette verdi traboccanti di vita.</p>
+<p>Siete al centro di un cerchio di menhir che conoscete, ma le pietre sono scolpite da poco, pulite da licheni, muschio o terra. Accanto a voi tre persone vestite di pelli di animale e corna di cervo stanno in cerchio tenendosi per mano. Hanno gli occhi chiusi e ondeggiano intonando un canto devoto, ma tacciono quando un ululato lontano taglia l'aria e fitte nubi di nebbia ombrosa scendono a coprire il terreno intorno a voi.</p>
+<p>«Preparate le armi», vi dice uno di loro, impaurito. «Le bestie della Dama dell'Inverno si avvicinano».</p>
+</div>
 
-Shortly after the players hear the howls, four **winter wolves** leap forth from the clouds of mist and attack.
+I tre sono **druidi** tauta della Tessitrice e si chiamano Calabaeus, Acmonia e Drasdea. Possono dire quanto segue:
 
-When the wolves are defeated, an archway of swirling mist appears before the players, pointing west. If the players pass through it, they emerge into [[#U3h. The Lonely Maid]].
+* Sono servitori fedeli della Tessitrice, una delle Tre Dame che una generazione fa hanno condotto il loro popolo nella valle di Girvisa. 
+* In onore della Tessitrice hanno eretto un tempio, un santuario di menhir, nel suo luogo di potere, al centro delle paludi di Girvisa.
+* La Dama dell'Inverno è una rivale delle Tre Dame. Il suo dominio è il gelo dell'inverno e il terrore degli incubi.
+* Le bestie che ululano non sono veri lupi, ma lupi d'inverno: servitori della Cacciatrice che la Dama dell'Inverno ha distorto, corrotto e reso suoi schiavi. (I druidi credono che la Dama dell'Inverno, invidiosa del potere della Tessitrice e della devozione che riceve, abbia mandato queste bestie a distruggere il suo luogo sacro prima che possa essere consacrato.)
 
-> [!combat]- **Combat - The Attack on the Swamp Fane**  
-> **Combat Level**: Bruising
-> **Expected Character Level**: 10
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
-> **Expected HP Consumption:** 29%
+Poco dopo che i giocatori hanno sentito gli ululati, quattro **lupi invernali** balzano fuori dalle nubi di nebbia e attaccano.
+
+Sconfitti i lupi, davanti ai giocatori compare un arco di nebbia vorticante, rivolto a ovest. Se i giocatori lo attraversano, sbucano in [[#U3h. La fanciulla solitaria]].
+
+> [!combat]- **Combattimento: l'attacco al Tempio della Palude**  
+> **Livello di combattimento**: impegnativo
+> **Livello previsto dei personaggi**: 10
+> **Alleati:** Ireena Kolyana (GS 2), Ezmerelda d'Avenir (GS 4)
+> **Consumo previsto di pf:** 29%
 > 
-> ### **Enemies:**
+> ### **Nemici:**
 > 
-> | |1 Player | 2 Players | 3 Players | 4 Players | 5 Players | 6 Players |
+> | |1 giocatore | 2 giocatori | 3 giocatori | 4 giocatori | 5 giocatori | 6 giocatori |
 > |-|-|-|-|-|-|-|
-> | Winter Wolf | 3 | 4 | 5 | 6 | 7 | 8 |
+> | Lupo invernale | 3 | 4 | 5 | 6 | 7 | 8 |
 
 
-## U3h. The Lonely Maid
-When the players emerge from [[#U3g. Attack on the Swamp Fane]], read:
-
-<div class="description">
-<p>You pass through the arch—and emerge into a woodland clearing beneath a starry, night-time sky. In the distance, tents of wood and animal hide encircle a roaring bonfire. The bonfire’s light illuminates dozens of men, women, and children who sing, dance, and laugh beneath it.</p>
-<p>Not far away, a young woman sits atop a boulder half-tucked into the woods. She hugs her legs to her chest, her chin resting upon her knees. Her gaze seems fixed on the fire in the distance.</p>
-</div>
-
-The woman is the Dreamer, the younger sister of the Ladies of the Fanes, and the goddess of winter, rest, hope, and the chill of the grave. If the players approach her, read:
+## U3h. La fanciulla solitaria
+Quando i giocatori escono da [[#U3g. L'attacco al Tempio della Palude]], leggi:
 
 <div class="description">
-<p>Your feet crunch through the grass, which has grown frigid and icy. As you draw closer, you can see that a thin layer of frost covers the woman’s boulder, and your breath mists in the chill air. A small patch of wildflowers surrounds her, each one frozen and glittering with ice.</p>
+<p>Attraversate l'arco e sbucate in una radura nel bosco, sotto un cielo notturno pieno di stelle. In lontananza, tende di legno e di pelli di animale circondano un falò scoppiettante. La luce del falò illumina decine di uomini, donne e bambini che cantano, ballano e ridono.</p>
+<p>Non lontano, una giovane donna siede su un masso mezzo nascosto fra gli alberi. Si stringe le gambe al petto, con il mento appoggiato sulle ginocchia. Lo sguardo sembra fisso sul fuoco lontano.</p>
 </div>
 
-The Dreamer, though melancholy and wistful, doesn’t object to the players’ presence. If spoken to, she can share the following information:
-
-* She has had many names, but most call her “Dreamer." (If asked, the Dreamer can also bitterly confirm that she is also sometimes called “Lady Winter," though she winces at the name.)
-* She is the youngest of her sisters. “They"—she nods toward the dancers by the fire—have always loved her three elder sisters for the growth, life, and harvest they provide. “I am not welcome at their fires," she says bitterly. “Not like my sisters are."
-* If the players ask, she confirms that her sisters’ names are Weaver, Huntress, and Seeker, though her eyes grow stony at the mention of their names.
-
-At a suitable point in the conversation, read:
+La donna è la Sognatrice, la sorella minore delle Dame dei Templi e la dea dell'inverno, del riposo, della speranza e del gelo della tomba. Se i giocatori le si avvicinano, leggi:
 
 <div class="description">
-<p>A small butterfly, with pale violet wings, flutters down from the trees above. The young woman holds out a finger, and the butterfly clings to it, perched delicately on her knuckle.</p>
-<p>Her eyes linger on the butterfly, then flicker wistfully to the fire in the distance. “Why do they hate me so?" she asks. Her voice is ragged—as if choking back a sob—and small, frozen tears gather at the corners of her eyes.</p>
+<p>L'erba scricchiola sotto i vostri piedi: si è fatta gelida e coperta di brina. Avvicinandovi vedete che un sottile strato di brina copre il masso della donna, e il fiato vi si condensa nell'aria fredda. Intorno a lei c'è una piccola macchia di fiori selvatici, ognuno congelato e scintillante di ghiaccio.</p>
 </div>
 
-If the players provide the Dreamer comfort and reassurance, an archway of swirling mist appears nearby, pointing north. If the players pass through it, they emerge into [[#U3i. Lake Zarovich]].
-## U3i. Lake Zarovich
-When the players emerge from [[#U3h. The Lonely Maid]], read:
+La Sognatrice, malinconica e assorta, non si oppone alla presenza dei giocatori. Se le rivolgono la parola, può dire quanto segue:
+
+* Ha avuto molti nomi, ma quasi tutti la chiamano «Sognatrice». (Se glielo chiedono, conferma con amarezza che a volte la chiamano anche «Dama dell'Inverno», ma a quel nome trasale.)
+* È la più giovane delle sorelle. «Loro», e accenna con la testa a chi balla intorno al fuoco, hanno sempre amato le sue tre sorelle maggiori per la crescita, la vita e il raccolto che portano. «Ai loro fuochi io non sono la benvenuta», dice con amarezza. «Non come le mie sorelle».
+* Se i giocatori glielo chiedono, conferma che le sue sorelle si chiamano la Tessitrice, la Cacciatrice e il Cercatore, ma quando le nomina lo sguardo le si indurisce.
+
+Al momento opportuno della conversazione, leggi:
 
 <div class="description">
-<p>You pass through the arch—and emerge at the mouth of a familiar river, where the waters of a dark mountain lake flow southward into dark woods. A small, crudely built shack stands tucked away near the water’s edge, its timbers worn and weathered with age. Not far away lies an old stone slab, resting on a cracked, mossy stone circle beneath a light dusting of snow. The area lies encircled by a cylinder of shadowed fog, which stretches a quarter-mile in width. In the skies overhead, thirteen stars stand in perfect alignment amidst an array of impossible heavens.</p>
-<p>The river and lake have both frozen over, and a thick layer of ice covers both. In the distance, past the fog’s edge, you can hear a howling gale—but the winds are quiet here, like the eye of a storm.</p>
-<p>An enormous butterfly, made of fog and swirling mist, hovers above the frozen lake to the north. The butterfly faces east—and as a pulse of crimson light flares through the eastern fog, the air seems to <em>tremble</em> around it, a deep, resonant hum echoing from the butterfly’s wings as it flares a deep, angry violet.</p>
+<p>Una piccola farfalla dalle ali viola pallido scende svolazzando dagli alberi. La giovane donna tende un dito, e la farfalla vi si aggrappa, posata con delicatezza sulla nocca.</p>
+<p>I suoi occhi indugiano sulla farfalla, poi tornano malinconici al fuoco lontano. «Perché mi odiano tanto?», chiede. Ha la voce rotta, come se trattenesse un singhiozzo, e agli angoli degli occhi le si raccolgono piccole lacrime gelate.</p>
 </div>
 
-Players who have previously visited this location in [[Arc E - The Missing Vistana#E4. Il Lago Zarovich|Arc E - The Missing Vistana]] recognize it as the mouth of the Luna River, which flows from Lake Zarovich beside Szoldar and Yevgeni’s shack. The players can also recognize the stars and skies as the sight of the Grand Conjunction in the present day.
-
-If the players investigate the slab, they find that it bears a carving of a butterfly, its grooves lined with lichen and moss.
-
-If the players investigate the shack, they find that it contains hunter’s gear and assorted animal pelts, but is otherwise empty.
-
-The butterfly is the heart of the Dreamer. Although the Dreamer’s vestige was taken from her corpse and sealed in the Amber Temple millenia ago, the butterfly still retains some of the Dreamer’s power, especially now that Strahd is using the Dreamer’s vestige to channel the power stores within the Heart of Sorrow.
-
-The Dreamer’s heart has the statistics of an **aboleth** (2024), with the following changes:
-
-* It has resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons, and immunity to cold damage.
-* It has a fly speed of 40 ft., and no swim speed.
-* It understands Sylvan, but can’t speak it, and doesn’t speak Deep Speech.
-* It can understand the spoken language of any creature it communicates with telepathically, but can communicate telepathically only by sending images, emotions, and sensations.
-* It lacks the aboleth’s **amphibious**, **mucus cloud**, and **eldritch restoration** features.
-* It can make three Tentacle attacks on its turn, rather than two.
-* It can’t use its legendary actions. Instead, it can use each legendary reaction only as a reaction, with the following trigger: A hostile creature ends its turn.
-* It can take up to three reactions per round, but only one per turn. If an effect or condition would prevent it from taking reactions, it loses one reaction instead.
-* It gains the following reaction: ***Indomitable.*** **Trigger:** A hostile creature ends its turn. **Effect:** The Dreamer’s heart can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)
-* A target that loses its memories to the heart’s ***consume memories*** action regains its memories when the heart dies.
-
-If the players address the Dreamer’s heart by the Dreamer’s name and show it compassion, the Dreamer sends them the following telepathic vision:
+Se i giocatori confortano e rassicurano la Sognatrice, lì vicino compare un arco di nebbia vorticante, rivolto a nord. Se i giocatori lo attraversano, sbucano in [[#U3i. Il Lago Zarovich]].
+## U3i. Il Lago Zarovich
+Quando i giocatori escono da [[#U3h. La fanciulla solitaria]], leggi:
 
 <div class="description">
-<p><em>Flicker.</em> You see in your mind’s eye a dark tower’s landing. A crimson, crystalline heart the size of a man floats beyond it, generating a pillar of crimson light that floods through the windows and thrusts toward the skies. Within the heart, the light refracts through a wisp of fragile darkness. It writhes in agony and despair, its suffering watched intently by a tall, gaunt shadow cloaked in darkness.</p>
+<p>Attraversate l'arco e sbucate alla foce di un fiume che conoscete, dove le acque di un cupo lago di montagna scorrono verso sud in boschi scuri. Una piccola baracca costruita alla buona sorge un po' nascosta vicino alla riva, con le travi consumate e segnate dagli anni. Non lontano c'è una vecchia lastra di pietra, appoggiata su un cerchio di pietra crepato e coperto di muschio, sotto una leggera spolverata di neve. Tutt'intorno l'area è chiusa da un cilindro di nebbia ombrosa largo circa 400 metri. In alto, nel cielo, tredici stelle sono perfettamente allineate fra volte celesti impossibili.</p>
+<p>Il fiume e il lago sono gelati, coperti da uno spesso strato di ghiaccio. In lontananza, oltre il margine della nebbia, sentite ululare una burrasca, ma qui il vento tace, come nell'occhio di una tempesta.</p>
+<p>Un'enorme farfalla fatta di nebbia e di foschia vorticante si libra sopra il lago gelato, a nord. La farfalla è rivolta a est, e quando un impulso di luce cremisi divampa nella nebbia orientale, l'aria intorno a lei sembra <em>tremare</em>: dalle sue ali, che si accendono di un viola cupo e furioso, echeggia un ronzio profondo e risonante.</p>
 </div>
 
-The wisp of darkness is the vestige of the Dreamer. The gaunt shadow is Strahd.
-### Persuading the Dreamer’s Heart
-If the players successfully communicate with the Dreamer’s heart and promise to free the Dreamer’s vestige from its torment, read:
+I giocatori che sono già stati in questo luogo nell'[[Arc E - The Missing Vistana#E4. Il Lago Zarovich|Arco E: La vistana scomparsa]] lo riconoscono: è la foce del fiume Luna, che esce dal Lago Zarovich accanto alla baracca di Szoldar e Yevgeni. I giocatori riconoscono anche le stelle e il cielo: è lo spettacolo della Grande Congiunzione dei giorni nostri.
+
+Se i giocatori esaminano la lastra, scoprono che porta incisa una farfalla, con i solchi pieni di licheni e muschio.
+
+Se esaminano la baracca, scoprono che contiene attrezzatura da caccia e pelli di animale di vario tipo, ma per il resto è vuota.
+
+La farfalla è il cuore della Sognatrice. La vestigia della Sognatrice è stata presa dal suo cadavere e sigillata nel Tempio d'Ambra millenni fa, ma la farfalla conserva ancora una parte del suo potere, soprattutto ora che Strahd usa la vestigia della Sognatrice per incanalare il potere accumulato nel Cuore della Tristezza.
+
+Il cuore della Sognatrice ha le statistiche di un **aboleth** (2024), con queste modifiche:
+
+* Ha resistenza ai danni contundenti, perforanti e taglienti delle armi non magiche e immunità ai danni da freddo.
+* Ha una velocità di volare di 12 metri e nessuna velocità di nuotare.
+* Capisce il Silvano ma non sa parlarlo e non parla il Linguaggio delle Profondità.
+* Capisce la lingua parlata di qualunque creatura con cui comunica telepaticamente, ma per telepatia può comunicare solo inviando immagini, emozioni e sensazioni.
+* Non ha i tratti **anfibio**, **nube di muco** e **ripristino sovrannaturale** dell'aboleth.
+* Nel suo turno può fare tre attacchi con il Tentacolo invece di due.
+* Non può usare le azioni leggendarie. Può invece usare ogni reazione leggendaria solo come reazione, con questo innesco: una creatura ostile termina il proprio turno.
+* Può effettuare fino a tre reazioni per round, ma solo una per turno. Se un effetto o una condizione gli impedirebbero di effettuare reazioni, invece perde una reazione.
+* Ottiene questa reazione: ***Indomabile.*** **Innesco:** una creatura ostile termina il proprio turno. **Effetto:** il cuore della Sognatrice può ripetere il tiro salvezza contro un effetto o una condizione che lo affligge in quel momento. (Questa reazione non ha effetto se l'effetto o la condizione non richiedevano in origine di fallire un tiro salvezza.)
+* Un bersaglio che perde i ricordi per l'azione ***consumare ricordi*** del cuore li recupera quando il cuore muore.
+
+Se i giocatori si rivolgono al cuore della Sognatrice chiamandolo con il nome della Sognatrice e gli mostrano compassione, la Sognatrice manda loro questa visione telepatica:
 
 <div class="description">
-<p>The great butterfly lets forth a low, keening hum. Slowly, the fog of its form begins to dissipate, even as the fog that surrounds you swirls, then slowly retreats. As you watch, the walls of fog melt away, falling west, as the dark waters of Lake Zarovich and the distant lights of Vallaki return once more. Nothing remains but the silence of the darkened night, the lapping of the waves against the shore, and a faint glimmer of violet light.</p>
-<p>The glimmer of light descends through the air before you, its form resolving into a swarm of tiny, ethereal butterflies. They hang patiently in the air before you—as if waiting to be claimed.</p>
+<p><em>Un lampo.</em> Con l'occhio della mente vedete il pianerottolo di una torre buia. Oltre il pianerottolo fluttua un cuore cristallino e cremisi, grande quanto un uomo, che genera una colonna di luce cremisi; la luce inonda le finestre e si slancia verso il cielo. Dentro il cuore la luce si rifrange attraverso un filo d'oscurità fragile, che si contorce nell'agonia e nella disperazione, mentre un'ombra alta e scarna, avvolta nelle tenebre, ne osserva attenta la sofferenza.</p>
 </div>
 
-Each butterfly is a *boon of the Dreamer.* There are enough boons for each character that helped calm the Dreamer.
-
-A player can claim their *boon of the Dreamer* by grasping or touching it, or inviting it to enter them. If they do, read:
+Il filo d'oscurità è la vestigia della Sognatrice. L'ombra scarna è Strahd.
+### Persuadere il cuore della Sognatrice
+Se i giocatori riescono a comunicare con il cuore della Sognatrice e promettono di liberare la vestigia della Sognatrice dal suo tormento, leggi:
 
 <div class="description">
-<p>A small, black tattoo in the shape of a butterfly appears in the palm of your hand.</p>
+<p>La grande farfalla emette un ronzio basso e lamentoso. Lentamente la nebbia del suo corpo comincia a dissolversi, mentre la nebbia che vi circonda vortica e poi si ritira piano. Sotto i vostri occhi le pareti di nebbia si sciolgono e ricadono verso ovest, e tornano le acque scure del Lago Zarovich e le luci lontane di Vallaki. Non resta altro che il silenzio della notte buia, lo sciabordio delle onde sulla riva e un debole luccichio di luce viola.</p>
+<p>Il luccichio scende nell'aria davanti a voi, e la sua forma si scioglie in uno sciame di minuscole farfalle eteree. Restano sospese davanti a voi, pazienti, come se aspettassero che qualcuno le prenda.</p>
 </div>
 
-> [!item]+ **Boon of the Dreamer**
-> A character who claims the *boon of the Dreamer* immediately regains all of their hit points and maximum hit points. In addition, while in Barovia, each time a character who possesses the *boon of the Dreamer* would be reduced to 0 hit points but not killed outright, they can drop to 1 hit point instead. They can’t use this feature again until they finish a long rest.
+Ogni farfalla è un *dono della Sognatrice.* Ce ne sono abbastanza per ogni personaggio che ha contribuito a calmare la Sognatrice.
 
-When the wall of fog recedes, all Barovians consumed by it are returned to their original locations, awake and unharmed.
-### Fighting the Dreamer’s Heart
-If the players attack the Dreamer’s Heart or otherwise anger it, it attacks them and fights to the death. 
-
-If the players defeat the Dreamer’s Heart, read:
+Un giocatore può prendere il suo *dono della Sognatrice* afferrando o toccando una farfalla, oppure invitandola a entrare in lui. In questo caso, leggi:
 
 <div class="description">
-<p>The great butterfly lets forth a high, pained cry. Slowly, the fog of its form begins to dissipate, even as the fog that surrounds you swirls, then slowly retreats. As you watch, the walls of fog melt away, falling west, as the dark waters of Lake Zarovich and the distant lights of Vallaki return once more. Nothing remains but the silence of the darkened night and the lapping of the waves against the shore.</p>
+<p>Sul palmo della mano vi compare un piccolo tatuaggio nero a forma di farfalla.</p>
 </div>
 
-When the wall of fog recedes, all Barovians consumed by it are returned to their original locations, awake and unharmed.
-## U3j. The Morning Gate
-### Arrival at the Gate
-If any players join Lady Wachter to aid in Vallaki’s defense against the undead horde, read the following when they arrive at the eastern Morning Gate:
+> [!item]+ **Dono della Sognatrice**
+> Un personaggio che prende il *dono della Sognatrice* recupera subito tutti i punti ferita e tutti i punti ferita massimi. Inoltre, finché si trova a Barovia, ogni volta che un personaggio con il *dono della Sognatrice* scenderebbe a 0 punti ferita senza morire sul colpo, può invece scendere a 1 punto ferita. Non può usare di nuovo questo privilegio finché non completa un riposo lungo.
+
+Quando il muro di nebbia si ritira, tutti i baroviani che aveva inghiottito tornano nei luoghi dove si trovavano, svegli e illesi.
+### Combattere il cuore della Sognatrice
+Se i giocatori attaccano il cuore della Sognatrice o lo fanno comunque infuriare, il cuore li attacca e combatte fino alla morte. 
+
+Se i giocatori sconfiggono il cuore della Sognatrice, leggi:
 
 <div class="description">
-<p>A small sea of grim- and anxious-looking Vallakians stands by the eastern gate. Some are familiar. All are armed.</p>
+<p>La grande farfalla lancia un grido acuto e dolente. Lentamente la nebbia del suo corpo comincia a dissolversi, mentre la nebbia che vi circonda vortica e poi si ritira piano. Sotto i vostri occhi le pareti di nebbia si sciolgono e ricadono verso ovest, e tornano le acque scure del Lago Zarovich e le luci lontane di Vallaki. Non resta altro che il silenzio della notte buia e lo sciabordio delle onde sulla riva.</p>
 </div>
 
-Shortly after the players’ arrival, Lady Wachter announces their presence. Read:
+Quando il muro di nebbia si ritira, tutti i baroviani che aveva inghiottito tornano nei luoghi dove si trovavano, svegli e illesi.
+## U3j. La Porta del Mattino
+### L'arrivo alla porta
+Se qualcuno dei giocatori si unisce a Lady Wachter per aiutare Vallaki a difendersi dall'orda di non morti, leggi quanto segue quando arriva alla Porta del Mattino, a est:
 
 <div class="description">
-<p>Lady Wachter clears her throat, then steps atop a wooden crate. “Your attention, please!" As heads turn toward her, she holds out a hand toward you. “These warriors—no, <em>heroes</em>—will be leading our defense. We have little time before the undead arrive, so I expect you to obey them without question. Am I understood?"</p>
-<p>A sea of nods and a chorus of affirmative grunts answer him. She nods in satisfaction, then turns toward you, hefting her mace, then bowing. “I leave them in your capable hands. They—and I—are at your disposal."</p>
+<p>Accanto alla porta orientale si accalca un piccolo mare di vallakiani dall'aria cupa e ansiosa. Alcuni li conoscete. Sono tutti armati.</p>
 </div>
 
-Shortly after Lady Wachter’s announcement, she and the players are approached by the **cult fanatic** Andrej, accompanied by Szoldar Szoldarovich and Yevgeni Krushkin. They can share the following information:
+Poco dopo l'arrivo dei giocatori, Lady Wachter annuncia la loro presenza. Leggi:
 
-* According to Andrej, the town guard has struck down roughly a dozen zombies so far, but shadows in the woods suggest that more are approaching.
-* According to Szoldar and Yevgeni, who have just returned from scouting the eastern woods, several dozen more undead are fast approaching, but have split into three groups. One group appears to be headed for the eastern Morning Gate, another is headed for the northern Zarovich Gate, and another is headed for the southeastern wall of Vallaki, by Arasek Stockyard.  All undead bear the same crimson red eyes, and the same glowing insignia on their foreheads.
-* According to Szoldar and Yevgeni, the horde as a whole is led by a pale-fleshed zombie breathing red smoke (a **zombie plague spreader**). This zombie appears to be headed for the Morning Gate.
-* According to Szoldar and Yevgeni, several of the zombies appear to be mutated in strange ways, with hulking, bloated frames or long, spindly limbs.
-* According to Andrej, he’s gathered the following force to aid in the town’s defense: six **guards**, six **cultists** (whom Andrej calls “members of Lady Wachter’s militia"), two other **cult fanatics** (Boris and Miruna, whom Andrej calls “Lady Wachter’s associates"), twelve **commoners** (whom Andrej calls “citizens"), and assorted others, including Nikolai and Karl Wachter (**nobles**), Victor Vallakovich, Father Lucian Petrovich, Urwin Martikov, Danika Dorakova, Gadof Blinsky, and (if they’re still alive and in Vallaki) Milivoj and Henrik van der Voort.
-### Organizing the Defense
-After Andrej, Szoldar, and Yevgeni have delivered their reports, Lady Wachter invites the players to divide the Vallakians in any way they choose. Once they’ve done so, Lady Wachter invites the players to lead or direct the groups they’ve made to the three points where the undead are expected to attack: the Morning Gate, the Zarovich Gate, and the southeastern wall.
+<div class="description">
+<p>Lady Wachter si schiarisce la voce, poi sale su una cassa di legno. «Attenzione, prego!» Mentre le teste si voltano verso di lei, tende una mano verso di voi. «Questi guerrieri, anzi, questi <em>eroi</em>, guideranno la nostra difesa. Abbiamo poco tempo prima che arrivino i non morti, quindi mi aspetto che obbediate loro senza discutere. Sono stata chiara?»</p>
+<p>Le risponde un mare di cenni e un coro di grugniti d'assenso. Annuisce soddisfatta, poi si volta verso di voi, solleva la mazza e si inchina. «Li lascio nelle vostre mani esperte. Loro, e io con loro, siamo a vostra disposizione».</p>
+</div>
 
-Before the players depart, Lady Wachter warns them that, while Vallaki’s immediate defense is of the utmost importance, they may wish to preserve the bulk of their strength for any battles that may follow. “I may be wrong," she says softly. “But this fights feels like a harbinger of horrors to come."
+Poco dopo l'annuncio di Lady Wachter, a lei e ai giocatori si avvicina il **fanatico del culto** Andrej, accompagnato da Szoldar Szoldarovich e Yevgeni Krushkin. Possono dire quanto segue:
 
-> [!info]+ **Vallakians at War**
-> Use the following names and descriptions for the unnamed members of Vallaki’s defense force:
+* Secondo Andrej, finora le guardie della città hanno abbattuto una dozzina di zombi, ma le ombre nei boschi fanno pensare che ne stiano arrivando altri.
+* Secondo Szoldar e Yevgeni, appena tornati da una ricognizione nei boschi a est, diverse decine di altri non morti si avvicinano in fretta, divisi in tre gruppi. Un gruppo sembra diretto alla Porta del Mattino, a est, un altro alla Porta Zarovich, a nord, e un altro alle mura sud-orientali di Vallaki, vicino al Recinto di Arasek.  Tutti i non morti hanno gli stessi occhi rosso cremisi e la stessa insegna luminosa sulla fronte.
+* Secondo Szoldar e Yevgeni, l'orda nel suo insieme è guidata da uno zombi dalla carne pallida che soffia fumo rosso (uno **zombi untore**). Questo zombi sembra diretto alla Porta del Mattino.
+* Secondo Szoldar e Yevgeni, diversi zombi sembrano mutati in modo strano, con corpi enormi e gonfi oppure con arti lunghi e sottili.
+* Secondo Andrej, per la difesa della città ha radunato queste forze: sei **guardie**, sei **cultisti** (che Andrej chiama «membri della milizia di Lady Wachter»), altri due **fanatici del culto** (Boris e Miruna, che Andrej chiama «collaboratori di Lady Wachter»), dodici **popolani** (che Andrej chiama «cittadini») e altre persone, fra cui Nikolai e Karl Wachter (**nobili**), Victor Vallakovich, padre Lucian Petrovich, Urwin Martikov, Danika Dorakova, Gadof Blinsky e (se sono ancora vivi e a Vallaki) Milivoj e Henrik van der Voort.
+### Organizzare la difesa
+Dopo i rapporti di Andrej, Szoldar e Yevgeni, Lady Wachter invita i giocatori a dividere i vallakiani come preferiscono. Fatto questo, li invita a guidare o a dirigere i gruppi formati verso i tre punti dove si aspetta l'attacco dei non morti: la Porta del Mattino, la Porta Zarovich e le mura sud-orientali.
+
+Prima che i giocatori partano, Lady Wachter li avverte che la difesa immediata di Vallaki è della massima importanza, ma che forse conviene risparmiare il grosso delle forze per le battaglie che potrebbero seguire. «Posso sbagliarmi», dice piano. «Ma questo scontro mi sembra il presagio di orrori a venire».
+
+> [!info]+ **Vallakiani in guerra**
+> Usa questi nomi e queste descrizioni per i difensori di Vallaki senza nome:
 >
-> * Yelena and Vesna, twin **guard** sisters in their early twenties
-> * Dunja, a middle-aged baker **commoner** and widow
-> * Faina & Bronislav, young **commoner** parents of a pair of toddlers, currently watched by Bronislav’s parents
-> * Milosh, Dobroslav & Radovan, three **cultist** young men who crave adventure and glory
-> * Volodimeru, a quiet and somewhat awkward middle-aged tailor and bachelor **commoner**
-> * Dmitrei & Chestirad, married adoptive **commoner** parents of a pair of Barovian orphans
-> * Aleksandru & Darya, a **guard** and his **commoner** fiance
-> * Yaromir, Svetlana, Vlastimir & Darya, two middle-aged **commoner** parents and their two **guard** adult children
-> * Koladin, an ornery and gruff **guard** captain in his early twenties
-> * Adomir and Shalana, a sociable pair of engaged **cultists**
-> * Sadek, a middle-aged, sharp-tongued **cultist** tanner
-> * Raisa & Radomi & Iskra, three **commoner** siblings in their late teens with sickly parents
+> * Yelena e Vesna, sorelle gemelle **guardie** di poco più di vent'anni
+> * Dunja, fornaia **popolana** di mezza età, vedova
+> * Faina e Bronislav, giovani genitori **popolani** di due bambini piccoli, che in questo momento sono affidati ai genitori di Bronislav
+> * Milosh, Dobroslav e Radovan, tre giovani **cultisti** assetati di avventura e di gloria
+> * Volodimeru, sarto **popolano** di mezza età, scapolo, silenzioso e un po' impacciato
+> * Dmitrei e Chestirad, coppia sposata di **popolani** che ha adottato due orfani baroviani
+> * Aleksandru e Darya, una **guardia** e la sua fidanzata **popolana**
+> * Yaromir, Svetlana, Vlastimir e Darya, due genitori **popolani** di mezza età e i loro due figli adulti, entrambi **guardie**
+> * Koladin, capitano delle **guardie** di poco più di vent'anni, scontroso e brusco
+> * Adomir e Shalana, una coppia di **cultisti** fidanzati, molto socievoli
+> * Sadek, conciatore **cultista** di mezza età, dalla lingua tagliente
+> * Raisa, Radomi e Iskra, tre fratelli **popolani** di quasi vent'anni, con i genitori malati
 
-> [!info]+ **Gates and Walls**
-> Vallaki’s town walls are as described in <span class="citation">Approaching the Town (p. 95)</span>. Each gate is as described in <span class="citation">Town Gates (p. 95)</span>, and has AC 19 and 20 hit points.
+> [!info]+ **Porte e mura**
+> Le mura della città di Vallaki sono come descritte in <span class="citation">Avvicinarsi alla città (p. 95)</span>. Ogni porta è come descritta in <span class="citation">Porte della città (p. 95)</span> e ha CA 19 e 20 punti ferita.
 
-> [!info]+ **The Zombies’ Approach**
-> In combat, a thick shroud of mist surrounds the walls of eastern Vallaki at a distance of thirty feet. Creatures within this mist are heavily obscured, and can’t be seen until they emerge.
-### The Zarovich Gate
-The Zarovich Gate is attacked by the following undead:
+> [!info]+ **L'avanzata degli zombi**
+> Durante il combattimento, una spessa coltre di nebbia circonda le mura orientali di Vallaki a una distanza di 9 metri. Le creature dentro la nebbia si trovano in un'area pesantemente oscurata e non si vedono finché non ne escono.
+### La Porta Zarovich
+La Porta Zarovich viene attaccata da questi non morti:
 
-* Twenty **zombies**
-* Two **zombie hulks** (use the statistics of an **ogre zombie**)
-* Two **swarms of bats**
+* Venti **zombi**
+* Due **zombi colosso** (usa le statistiche di uno **zombi ogre**)
+* Due **sciami di pipistrelli**
 
-In combat, the hulks attempt to batter down the gate, while the ordinary zombies attempt to pile atop one another in order to breach the nearby walls. (To do so, three zombies must stand atop one another’s shoulders.)
+In combattimento, i colossi cercano di sfondare la porta, mentre gli zombi normali cercano di ammucchiarsi uno sull'altro per superare le mura vicine. (Per farlo, tre zombi devono salire uno sulle spalle dell'altro.)
 
-> [!combat]- **Combat - The Zarovich Gate**  
-> **Combat Level**: Crushing
-> **Expected Character Level**: 10
-> **Allies:** Assorted Vallakians
-> **Expected HP Consumption:** 127%
+> [!combat]- **Combattimento: la Porta Zarovich**  
+> **Livello di combattimento**: schiacciante
+> **Livello previsto dei personaggi**: 10
+> **Alleati:** vallakiani vari
+> **Consumo previsto di pf:** 127%
 > 
-> ### **Enemies:**
+> ### **Nemici:**
 > 
-> | |0 Players | 1 Player | 2 Players|
+> | |0 giocatori | 1 giocatore | 2 giocatori|
 > |-|-|-|-|
-> | Swarm of Bats | 1 | 2 | 5 |
-> | Zombie | 2 | 20 | 24 |
-> | Zombie Hulk | 0 | 2 | 3 | 
+> | Sciame di pipistrelli | 1 | 2 | 5 |
+> | Zombi | 2 | 20 | 24 |
+> | Zombi colosso | 0 | 2 | 3 | 
 
 
-### The Southern Wall
-Vallaki’s southeastern wall is attacked by the following undead:
+### Le mura meridionali
+Le mura sud-orientali di Vallaki vengono attaccate da questi non morti:
 
-* Twenty **zombies**
-* Three **zombie leapers** (use the statistics of **chokers** (<span class="citation">Monsters of the Multiverse, p. 76)</span>
-* Two **swarms of bats**
+* Venti **zombi**
+* Tre **zombi saltatori** (usa le statistiche dei **choker** (<span class="citation">Mostri del Multiverso, p. 76)</span>
+* Due **sciami di pipistrelli**
 
-In combat, the three leapers attempt to climb the wall directly, while the ordinary zombies attempt to pile atop one another in order to reach the top. (To do so, three zombies must stand atop one another’s shoulders.)
+In combattimento, i tre saltatori cercano di scalare direttamente le mura, mentre gli zombi normali cercano di ammucchiarsi uno sull'altro per raggiungere la cima. (Per farlo, tre zombi devono salire uno sulle spalle dell'altro.)
 
-> [!combat]- **Combat - The Southern Wall**  
-> **Combat Level**: Crushing
-> **Expected Character Level**: 10
-> **Allies:** Assorted Vallakians
-> **Expected HP Consumption:** 135%
+> [!combat]- **Combattimento: le mura meridionali**  
+> **Livello di combattimento**: schiacciante
+> **Livello previsto dei personaggi**: 10
+> **Alleati:** vallakiani vari
+> **Consumo previsto di pf:** 135%
 > 
-> ### **Enemies:**
+> ### **Nemici:**
 > 
-> | |0 Players | 1 Player | 2 Players|
+> | |0 giocatori | 1 giocatore | 2 giocatori|
 > |-|-|-|-|
-> | Swarm of Bats | 2 | 2 | 5 |
-> | Zombie | 15 | 20 | 25 |
-> | Zombie Leapers | 1 | 2 | 4 | 
+> | Sciame di pipistrelli | 2 | 2 | 5 |
+> | Zombi | 15 | 20 | 25 |
+> | Zombi saltatori | 1 | 2 | 4 | 
 
-### The Morning Gate
-The Morning Gate is attacked by the following undead:
+### La Porta del Mattino
+La Porta del Mattino viene attaccata da questi non morti:
 
-* Sixteen **zombies**
-* One **zombie plague spreader**
+* Sedici **zombi**
+* Uno **zombi untore**
 
-In combat, the zombies attempt to mass around the gates and walls, drawing fire until the plague spreader can reach the defenders with its ***virulent miasma***.
+In combattimento, gli zombi cercano di ammassarsi intorno alle porte e alle mura per attirare il fuoco finché l'untore non riesce a raggiungere i difensori con il suo ***miasma virulento***.
 
-> [!combat]- **Combat - The Morning Gate**  
-> **Combat Level**: Brutal
-> **Expected Character Level**: 10
-> **Allies:** Assorted Vallakians
-> **Expected HP Consumption:** 73%
+> [!combat]- **Combattimento: la Porta del Mattino**  
+> **Livello di combattimento**: brutale
+> **Livello previsto dei personaggi**: 10
+> **Alleati:** vallakiani vari
+> **Consumo previsto di pf:** 73%
 > 
-> ### **Enemies:**
+> ### **Nemici:**
 > 
-> | |0 Players | 1 Player | 2 Players|
+> | |0 giocatori | 1 giocatore | 2 giocatori|
 > |-|-|-|-|
-> | Zombie | 9 | 16 | 18 |
-> | Zombie Plague Spreader | 1 | 1 | 2 | 
+> | Zombi | 9 | 16 | 18 |
+> | Zombi untore | 1 | 1 | 2 | 
 
-## U3k. Aftermath
-Shortly after the players reunite following [[#U3i. Lake Zarovich]] and [[#U3j. The Morning Gate]], after they and their companions have had an opportunity to celebrate, a grim Urwin Martikov—or Danika Dorakova, if Urwin is dead—visits the players and shares the following information, as relayed by his raven scouts:
+## U3k. Le conseguenze
+Poco dopo che i giocatori si sono ritrovati dopo [[#U3i. Il Lago Zarovich]] e [[#U3j. La Porta del Mattino]], e dopo che loro e i compagni hanno avuto modo di festeggiare, un cupo Urwin Martikov (o Danika Dorakova, se Urwin è morto) va a trovare i giocatori e riferisce quanto segue, come gli hanno riportato i corvi esploratori:
 
-* An undead army one hundred times the size of the last one—or larger—is approaching Vallaki from the east, traveling along the Old Svalich Road.
-* Other hordes of undead have arisen across Barovia, from the terraces of Yester Hill to the cliffs of Mount Ghakis, the depths of Lake Zarovich, and the base of Tser Falls. Several of the other hordes appear to be shambling toward the villages of Krezk and Barovia.
-* Each army is led by at least one **zombie plague spreader**—a pale-fleshed undead exhaling crimson mist—and all of the undead bear red eyes and the same glowing crimson symbol on their foreheads: the crest of Castle Ravenloft.
-* By Urwin’s estimates, the slow-moving eastern army will arrive in approximately five hours, though its forerunners will arrive earlier and its reserves will arrive last. (The journey to Castle Ravenloft is just under four hours on foot, giving the players just over an hour to rest before the bulk of the army arrives.)
+* Un esercito di non morti cento volte più grande dell'ultimo, o anche di più, si avvicina a Vallaki da est lungo la Vecchia Strada di Svalich.
+* In tutta Barovia si sono levate altre orde di non morti, dalle terrazze della Collina di Yester alle rupi del Monte Ghakis, dalle profondità del Lago Zarovich ai piedi delle Cascate di Tser. Diverse di queste orde sembrano trascinarsi verso i villaggi di Krezk e di Barovia.
+* Ogni esercito è guidato da almeno uno **zombi untore**, un non morto dalla carne pallida che esala nebbia cremisi, e tutti i non morti hanno gli occhi rossi e lo stesso simbolo cremisi luminoso sulla fronte: lo stemma del Castello di Ravenloft.
+* Secondo le stime di Urwin, il lento esercito orientale arriverà fra circa cinque ore, anche se l'avanguardia arriverà prima e le riserve per ultime. (Il viaggio a piedi fino al Castello di Ravenloft dura poco meno di quattro ore, e ai giocatori resta poco più di un'ora per riposare prima che arrivi il grosso dell'esercito.)
 
-> [!abstract]+ **The Walking Dead**
-> The armies of undead are animated by the power Strahd is channeling from the Heart of Sorrow, as indicated by their red eyes and the symbols upon their foreheads. To stop them, the players must kill Strahd before Barovia’s settlements are destroyed. If the players fail to reach this conclusion themselves, Lady Wachter, Father Lucian, Victor Vallakovich, Ezmerelda d’Avenir, or a similar character can suggest it instead.
+> [!abstract]+ **I morti che camminano**
+> Gli eserciti di non morti sono animati dal potere che Strahd incanala dal Cuore della Tristezza, come rivelano gli occhi rossi e i simboli sulla fronte. Per fermarli i giocatori devono uccidere Strahd prima che gli insediamenti di Barovia vengano distrutti. Se i giocatori non ci arrivano da soli, può suggerirlo Lady Wachter, padre Lucian, Victor Vallakovich, Ezmerelda d'Avenir o un personaggio simile.
 
-> [!info]+ **Free Stuff**
-> Should the players require any equipment before departing Vallaki, Lady Wachter and the other Vallakians are glad to obtain it for them swiftly, free of charge, in gratitude for their heroism and in support of their efforts to defeat Strahd.
+> [!info]+ **Tutto gratis**
+> Se i giocatori hanno bisogno di equipaggiamento prima di lasciare Vallaki, Lady Wachter e gli altri vallakiani sono felici di procurarglielo in fretta e senza chiedere nulla, per gratitudine verso il loro eroismo e per sostenere i loro sforzi contro Strahd.
 
-> [!abstract]+ **Recruiting Allies**
-> The players can recruit no allies other than Ireena Kolyana and Ezmerelda d’Avenir for their journey to Castle Ravenloft. All other characters, though grateful and honored for the invitation, insist on remaining behind to defend their homes, families, friends, and neighbors from the undead incursion. (As Victor Vallakovich says if asked—pale, but determined—“If we all went with you to Castle Ravenloft, who would be left to protect everyone else while you fight? Go—we’ll stay here to make sure everyone is still alive when you get back.")
-# U4. The Old Svalich Road
-## U4a. Old Bonegrinder
-At the time Urwin first notifies the players of its existence, the eastern undead army is located at <span class="citation">I. Black Carriage (p. 37)</span>. If the players take a short rest before departing Vallaki, they and the undead army cross paths at or near <span class="citation">Chapter 6: Old Bonegrinder (p. 125)</span>.
-The eastern army contains the following creatures:
+> [!abstract]+ **Reclutare alleati**
+> Per il viaggio al Castello di Ravenloft i giocatori non possono reclutare altri alleati oltre a Ireena Kolyana ed Ezmerelda d'Avenir. Tutti gli altri personaggi, grati e onorati dell'invito, insistono per restare a difendere dall'invasione dei non morti le loro case, le famiglie, gli amici e i vicini. (Come dice Victor Vallakovich se glielo chiedono, pallido ma deciso: «Se venissimo tutti con voi al Castello di Ravenloft, chi resterebbe a proteggere gli altri mentre combattete? Andate. Noi restiamo qui, così quando tornate saranno ancora tutti vivi».)
+# U4. La Vecchia Strada di Svalich
+## U4a. Il Vecchio Tritaossa
+Quando Urwin avverte per la prima volta i giocatori della sua esistenza, l'esercito orientale di non morti si trova a <span class="citation">I. Carrozza nera (p. 37)</span>. Se i giocatori fanno un riposo breve prima di lasciare Vallaki, loro e l'esercito di non morti si incrociano presso il <span class="citation">Capitolo 6: Il Vecchio Tritaossa (p. 125)</span> o lì vicino.
+L'esercito orientale comprende queste creature:
 
-* Three thousand **zombies**
-* Twenty-five **zombie clots** (<span class="citation">Van Richten’s Guide to Ravenloft (p. 255)</span>
-* Four **zombie plague spreaders**
+* Tremila **zombi**
+* Venticinque **grumi di zombi** (<span class="citation">Guida di Van Richten a Ravenloft (p. 255)</span>
+* Quattro **zombi untori**
 
-The undead are under strict orders to ignore the players unless attacked. If the players attack them, the zombies fight to knock them unconscious, then bring their unconscious bodies to Castle Ravenloft. (The zombies cease their attack if the players retreat.)
-## U4b. The Svalich Wood
-If the players attempt to circumvent the army by cutting through the Svalich Wood instead, they encounter a pack of thirteen **dire wolves**. If they do, read:
-
-<div class="description">
-<p>A rustling draws your attention to an underbrush—and, several dozen yards beyond it, a pack of thirteen wolves the size of grizzly bears.</p>
-</div>
-
-The players can attempt to sneak past the dire wolves by succeeding on a DC 16 Dexterity (Stealth) check. If dire wolves detect them, read:
+I non morti hanno l'ordine tassativo di ignorare i giocatori a meno di essere attaccati. Se i giocatori li attaccano, gli zombi combattono per far perdere loro i sensi, poi ne portano i corpi privi di sensi al Castello di Ravenloft. (Gli zombi smettono di attaccare se i giocatori si ritirano.)
+## U4b. I Boschi di Svalich
+Se i giocatori provano ad aggirare l'esercito tagliando invece per i Boschi di Svalich, incontrano un branco di tredici **lupi crudeli**. In questo caso, leggi:
 
 <div class="description">
-<p>The wolf at the head of the pack—a hulking brute a head taller than a warhorse—glances in your direction. For a moment, its eyes narrow—and then a glimmer of recognition alights in its eyes. It tilts its head, regarding you briefly with mild fascination—and then turns and continues on its path, leading its companions away into the shadows of the wood.</p>
+<p>Un fruscio vi attira lo sguardo verso il sottobosco, e diverse decine di metri più in là scorgete un branco di tredici lupi grandi come orsi grizzly.</p>
 </div>
 
-The wolves, like the zombies, attack only in self-defense, and cease their attacks if the players retreat. In combat, the wolves fight to knock the players unconscious, then bring their unconscious bodies to Castle Ravenloft.
-## U4c. The Black Carriage
-As the players pass through the crossroads to Castle Ravenloft, the area is as described in <span class="citation">I. Black Carriage (p. 37)</span>, including Strahd’s black carriage.
-
-Shortly after the players depart the crossroads, whether the players take the carriage or not, they are passed overhead by a small army of several dozen **swarms of ravens** sent by Muriel Vinshaw to reinforce Vallaki. Read:
+I giocatori possono provare a passare accanto ai lupi crudeli senza farsi notare superando una prova di Destrezza (Furtività) con CD 16. Se i lupi crudeli li scoprono, leggi:
 
 <div class="description">
-<p>The Moon’s silvery light is briefly blotted from view as a cloud of small, feathered black forms fills the sky above. Hundreds, if not thousands of ravens cross overhead toward the west, their whooping cries echoing through the chill air like the sound of an army gathering for war.</p>
+<p>Il lupo in testa al branco, un bestione massiccio più alto di un cavallo da guerra di tutta la testa, guarda dalla vostra parte. Per un attimo socchiude gli occhi, poi nel suo sguardo si accende un lampo di riconoscimento. Inclina la testa e vi osserva per qualche istante con vaga curiosità, poi si volta e riprende il cammino, portando via i compagni nell'ombra del bosco.</p>
 </div>
 
-The ravens don’t stop to interact with the players, and won’t be diverted from their course. However, if a player calls out to the flock through the use of *speak with animals* or similar magic, a solitary raven descends to share the following information:
+I lupi, come gli zombi, attaccano solo per difendersi e smettono di attaccare se i giocatori si ritirano. In combattimento i lupi cercano di far perdere i sensi ai giocatori, poi ne portano i corpi privi di sensi al Castello di Ravenloft.
+## U4c. La carrozza nera
+Quando i giocatori passano per il crocevia che porta al Castello di Ravenloft, l'area è come descritta in <span class="citation">I. Carrozza nera (p. 37)</span>, compresa la carrozza nera di Strahd.
 
-* The flock has been sent by “the blue-winged raven" (Muriel) to “the two-legged home surrounded by dead, sharpened trees" (Vallaki, surrounded by its palisade wall).
-* There, they will join “the keepers of wisdom and courage" (the Keepers of the Feather) to “defend the two-leggeds from the dead who walk."
-
-“The Shadow’s Reckoning comes," the raven squawks, “as the Storm Mother foresaw, long ago. The Shadow’s Reckoning comes, and we fly to delay it, so that the reckoning shall come for the Shadow, and the Light shall come again." Before it departs, the raven bows clumsily, nodding its head and neck with one wing tucked against its chest. “Fate guide you, Lightseekers," it prays, then departs into the air.
-# U5. Castle Ravenloft
-## U5a. The Castle Gates
-The journey from the crossroads to the castle gates is two and one-half miles long and takes fifty minutes.
-
-The gates of Ravenloft are as described in <span class="citation">J. Gates of Ravenloft (p. 38)</span>, with the castle’s drawbridge down. The players’ approach is largely as described in [[Arc O - Dinner with the Devil#O4. L'arrivo al Castello di Ravenloft|O4. Arrival at Castle Ravenloft]], except Rahadin and Anastrasya are not waiting in the courtyard to greet them. In addition, thirteen **swarms of bats** fill the skies around Castle Ravenloft, with a trio of **bats** reporting to Strahd each time a swarm observes the players’ location.
-
-Whether the players arrive via Strahd’s black carriage or on foot, the main doors to the castle are guarded by four **wights**, while two **vampire spawn** cling to the inner walls of the keep. If Volenta Popofsky, Anastraya Karelova, or Ludmilla Vilisevic still live, they are also present, leading and commanding the wights and other spawn.
-
-The wights and vampires attack any players who enter the courtyard. In combat, the undead aim to knock all of the players unconscious, then bring their unconscious bodies to Strahd.
-## U5b. Ascending the Keep
-If Strahd’s bats detect the players’ approach, he sends the **vampire spawn** Sasha Ivliskova to greet them. After the players dispatch or avoid the vampire spawn and wights, read:
+Poco dopo che i giocatori hanno lasciato il crocevia, che abbiano preso la carrozza o no, sopra le loro teste passa un piccolo esercito di diverse decine di **sciami di corvi** mandati da Muriel Vinshaw a dare rinforzo a Vallaki. Leggi:
 
 <div class="description">
-<p>A pale-skinned woman in an old wedding gown steps forward from the shadows, her black hair rustling softly across her shoulders. Though two fine-pointed fangs poke past her lips, her eyes are bloodshot and swollen, with blotchy, tear-stained cheeks beneath them.</p>
-<p>"The Master is expecting you," Sasha Ivliskova whispers, choking back a sob. “Please, will you follow me?</p>
+<p>La luce argentea della Luna sparisce per un attimo quando una nube di piccole sagome nere e piumate riempie il cielo. Centinaia di corvi, se non migliaia, vi passano sopra diretti a ovest, e i loro richiami echeggiano nell'aria fredda come il rumore di un esercito che si raduna per la guerra.</p>
 </div>
 
-Strahd has given Sasha the following strict orders, which she is powerless to disobey while Strahd lives:
+I corvi non si fermano a dare retta ai giocatori e non si lasciano deviare dalla loro rotta. Se però un giocatore chiama lo stormo con *parlare con gli animali* o con una magia simile, un corvo solitario scende a raccontare quanto segue:
 
-* She is to meet the players and lead them safely to the top landing of <span class="ciation">K20. Heart of Sorrow (p. 59)</span>.
-* She is forbidden to speak of Strahd’s plans, although she may share that his “Great Work" is nearly complete.
-* She is forbidden to share anything that she knows about Strahd’s history, abilities, knowledge, or weaknesses. (Sasha also believes that Strahd is impossible to defeat. If asked, she merely replies, tiredly, “The Master is all-powerful. He cannot be defeated.")
-* She is forbidden from aiding the players in any way.
-* She is forbidden from harming herself. (Because Sasha can’t step into the radius of the *Sunsword*’s sunlight without harming herself, she softly asks the players to deactivate its light while travelling with her.)
+* Lo stormo è stato mandato dal «corvo dalle ali azzurre» (Muriel) alla «casa dei bipedi circondata da alberi morti e appuntiti» (Vallaki, circondata dalla sua palizzata).
+* Lì si unirà ai «custodi della saggezza e del coraggio» (i Custodi della Piuma) per «difendere i bipedi dai morti che camminano».
 
-If permitted, Sasha guides the players to Strahd by the following routes:
+«Arriva la Resa dei conti dell'Ombra», gracchia il corvo, «come la Madre Tempesta previde, tanto tempo fa. Arriva la Resa dei conti dell'Ombra, e noi voliamo a ritardarla, perché la resa dei conti venga per l'Ombra e la Luce torni di nuovo». Prima di andarsene, il corvo si inchina goffo, chinando la testa e il collo con un'ala stretta al petto. «Che il Fato vi guidi, Cercatori di Luce», prega, poi riprende il volo.
+# U5. Il Castello di Ravenloft
+## U5a. I cancelli del castello
+Il viaggio dal crocevia ai cancelli del castello è lungo 3,75 km e dura cinquanta minuti.
 
-* If she meets the players at or near <span class="citation">K7. Entry (p. 54)</span>, Sasha leads them into <span class="citation">K8. Great Entry (p. 55)</span>, up <span class="citation">K19. Grand Landing (p. 58)</span> to <span class="citation">K25. Audience Hall (p. 61)</span>, through the secret door of <span class="citation">K26. Guards’ Post (p. 61)</span>, through the northern secret door at the foot of <span class="citation">K33. King’s Apartment Stair (p. 64)</span>, and onto the landing of <span class="citation">K20. Heart of Sorrow (p. 59)</span>.
-* If she meets the players at or near <span class="citation">K23. Servants’ Entrance (p. 59)</span>, Sasha leads them into <span class="citation">K24. Servants’ Quarters (p. 61)</span>, up the stairs to <span class="citation">K34. Servants’ Upper Floor (p. 64)</span>, and through the secret door into <span class="citation">K20. Heart of Sorrow (p. 59)</span>.
-* If she meets the players on <span class="citation">K46. Parapets (p. 68)</span>, Sasha leads them directly to <span class="citation">K20. Heart of Sorrow (p. 59)</span>
+I cancelli di Ravenloft sono come descritti in <span class="citation">J. Cancelli di Ravenloft (p. 38)</span>, con il ponte levatoio del castello abbassato. L'avvicinamento dei giocatori si svolge più o meno come descritto in [[Arc O - Dinner with the Devil#O4. L'arrivo al Castello di Ravenloft|O4. L'arrivo al Castello di Ravenloft]], tranne che Rahadin e Anastrasya non aspettano nel cortile per accoglierli. Inoltre tredici **sciami di pipistrelli** riempiono il cielo intorno al Castello di Ravenloft, e un terzetto di **pipistrelli** fa rapporto a Strahd ogni volta che uno sciame vede dove si trovano i giocatori.
 
-> [!abstract]+ **Sasha and the *Sunsword***
-> If the players attempt to reassure Sasha with the *Sunsword*, she shudders, her gaze lingering on it longingly before she squeezes her eyes shut. “It’s beautiful," she says dully, “but like all beautiful things in my Master’s domain, it will not survive this night. The true dawn will not come, and its like shall never be seen again."
-## U5c. The Heart of Sorrow
-### Approaching the Heart
-The Heart of Sorrow is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>. However, the spiral staircase doesn’t shake as the players ascend the tower, the halberds don't animate if the players attack the Heart of Sorrow, and no **vampire spawn** arrive if the players attack the Heart. In addition, revise this area’s description as follows:
+Che i giocatori arrivino con la carrozza nera di Strahd o a piedi, le porte principali del castello sono sorvegliate da quattro **wight**, mentre due **progenie vampiriche** stanno aggrappate alle pareti interne del torrione. Se Volenta Popofsky, Anastrasya Karelova o Ludmilla Vilisevic sono ancora vive, sono presenti anche loro e guidano e comandano i wight e le altre progenie.
+
+I wight e i vampiri attaccano qualunque giocatore entri nel cortile. In combattimento i non morti cercano di far perdere i sensi a tutti i giocatori, poi ne portano i corpi privi di sensi a Strahd.
+## U5b. La salita al torrione
+Se i pipistrelli di Strahd scoprono l'arrivo dei giocatori, Strahd manda ad accoglierli la **progenie vampirica** Sasha Ivliskova. Dopo che i giocatori si sono sbarazzati delle progenie vampiriche e dei wight, o li hanno evitati, leggi:
 
 <div class="description">
-<p>This tall, cold tower is bathed in a pulsing crimson light. Glowing red runes have been carved into every inch of the tower’s inner walls, which bear a faint crimson sheen.</p>
-<p>One hundred feet off the ground, the corpse of a night-black horse hovers in the air at the tower’s center. Its leathery hide is carved with hundreds of small, bloody runes, which glimmer with a faint crimson light. Its belly has been cut open from neck to groin, its stomach, heart, and other organs removed from the bloody cavity and placed into the air around it, still connected to the beast by arteries, veins, and bloated tubes of flesh. The entire gruesome display swirls slowly in the air, occasionally crackling with red sparks.</p>
-<p>Far overhead, at the pinnacle of the hollow tower, an enormous crystal heart pulsates with red light.</p>
+<p>Dall'ombra si fa avanti una donna dalla pelle pallida, con un vecchio abito da sposa, i capelli neri che le frusciano piano sulle spalle. Due zanne sottili e appuntite le sporgono dalle labbra, ma ha gli occhi iniettati di sangue e gonfi, e sotto di essi le guance chiazzate e rigate di lacrime.</p>
+<p>«Il Padrone vi aspetta», sussurra Sasha Ivliskova, trattenendo un singhiozzo. «Vi prego, volete seguirmi?</p>
 </div>
 
-Players who inspect the dead horse can immediately recognize it as the remains of Strahd’s **nightmare**, Beucephalus. Beucephalus’s remains are protected by a spherical *wall of force*, augmented with a *private sanctum* spell limited to the area protected by the wall. The wall briefly crackles with harmless red sparks if damaged or touched. 
+Strahd ha dato a Sasha questi ordini tassativi, ai quali lei non può disobbedire finché Strahd vive:
 
-> [!warning]+ **No Dispelling**
-> As described in the description of *wall of force*, nothing can physically pass through the wall, it is immune to all damage, can’t be dispelled by *dispel magic*, and extends into the Ethereal Plane. As described in the description of *private sanctum*, nothing can teleport into or out of the warded area.
+* Deve incontrare i giocatori e accompagnarli sani e salvi fino al pianerottolo più alto di <span class="citation">K20. Cuore della Tristezza (p. 59)</span>.
+* Le è proibito parlare dei piani di Strahd, anche se può dire che la sua «Grande Opera» è quasi compiuta.
+* Le è proibito rivelare ciò che sa della storia, dei poteri, delle conoscenze o delle debolezze di Strahd. (Sasha crede anche che sia impossibile sconfiggerlo. Se glielo chiedono, risponde soltanto, stanca: «Il Padrone è onnipotente. Non può essere sconfitto».)
+* Le è proibito aiutare i giocatori in qualunque modo.
+* Le è proibito farsi del male. (Poiché non può entrare nel raggio della luce solare della *Spada del Sole* senza farsi del male, Sasha chiede piano ai giocatori di spegnerne la luce mentre viaggiano con lei.)
 
-When the players first enter this area, Strahd is in <span class="citation">K60. North Tower Peak (p. 74)</span>. If Sasha didn’t go to greet the players in [[#U5b. Ascending the Keep]], she is standing on the Heart of Sorrow’s fourth-floor landing, just below the stairs leading to the North Tower Peak, waiting for Strahd to return.
+Se glielo permettono, Sasha guida i giocatori da Strahd lungo questi percorsi:
 
-When the players arrive at the fourth-floor landing, read:
+* Se incontra i giocatori a <span class="citation">K7. Ingresso (p. 54)</span> o lì vicino, Sasha li porta in <span class="citation">K8. Grande ingresso (p. 55)</span>, su per <span class="citation">K19. Grande pianerottolo (p. 58)</span> fino a <span class="citation">K25. Sala delle udienze (p. 61)</span>, attraverso la porta segreta di <span class="citation">K26. Posto di guardia (p. 61)</span>, attraverso la porta segreta nord ai piedi di <span class="citation">K33. Scala degli appartamenti del re (p. 64)</span> e fino al pianerottolo di <span class="citation">K20. Cuore della Tristezza (p. 59)</span>.
+* Se incontra i giocatori a <span class="citation">K23. Ingresso della servitù (p. 59)</span> o lì vicino, Sasha li porta in <span class="citation">K24. Alloggi della servitù (p. 61)</span>, su per le scale fino a <span class="citation">K34. Piano superiore della servitù (p. 64)</span> e attraverso la porta segreta in <span class="citation">K20. Cuore della Tristezza (p. 59)</span>.
+* Se incontra i giocatori su <span class="citation">K46. Parapetti (p. 68)</span>, Sasha li porta direttamente a <span class="citation">K20. Cuore della Tristezza (p. 59)</span>
+
+> [!abstract]+ **Sasha e la *Spada del Sole***
+> Se i giocatori provano a rassicurare Sasha con la *Spada del Sole*, lei rabbrividisce e ci posa sopra lo sguardo a lungo, con desiderio, prima di serrare gli occhi. «È bellissima», dice con voce spenta, «ma come tutte le cose belle nel dominio del mio Padrone, non sopravvivrà a questa notte. La vera alba non verrà, e non se ne vedrà mai più una uguale».
+## U5c. Il Cuore della Tristezza
+### Avvicinarsi al Cuore
+Il Cuore della Tristezza è più o meno come descritto in <span class="citation">K20. Cuore della Tristezza (p. 59)</span>. Però la scala a chiocciola non trema mentre i giocatori salgono la torre, le alabarde non si animano se i giocatori attaccano il Cuore della Tristezza e non arriva nessuna **progenie vampirica** se i giocatori attaccano il Cuore. Sostituisci inoltre la descrizione dell'area con questa:
 
 <div class="description">
-<p>The crystal heart looms above you. It pulses with the regularity of a heartbeat, its depths thrumming with a brilliant scarlet light. The light seems to refract through a sliver of utter darkness, no more than a few inches long, which writhes and twists at the heart’s core, as though in agony.</p>
-<p>A shroud of shrieking, ethereal souls surrounds the heart, their screams muted to a dull, distant hum. Beneath them, flashes of images dance across the crystalline surface: treetops; snow-capped mountains; a dark-watered lake; rooftops silvered by the Moon’s light far above.</p>
+<p>Questa torre alta e fredda è immersa in una luce cremisi pulsante. Su ogni centimetro delle pareti interne, che hanno un lieve riflesso cremisi, sono state incise rune rosse luminose.</p>
+<p>A 30 metri da terra, al centro della torre, il cadavere di un cavallo nero come la notte fluttua a mezz'aria. Sulla pelle coriacea sono incise centinaia di piccole rune insanguinate, che brillano di una debole luce cremisi. Il ventre è stato squarciato dal collo all'inguine; lo stomaco, il cuore e gli altri organi sono stati tolti dalla cavità sanguinante e disposti nell'aria intorno all'animale, ancora attaccati a esso da arterie, vene e gonfi tubi di carne. L'intero spettacolo raccapricciante ruota lento nell'aria e ogni tanto crepita di scintille rosse.</p>
+<p>Molto più in alto, sulla cima della torre cava, un enorme cuore di cristallo pulsa di luce rossa.</p>
 </div>
 
-Any player who has previously observed an amber sarcophagus in [[Arc S - A Sword of Sunlight]] recognizes the sliver of darkness as an amber vestige.
-### Strahd’s Descent
-Almost immediately after the players arrive at the landing, Strahd descends from the North Tower Peak to meet them. Read:
+I giocatori che esaminano il cavallo morto lo riconoscono subito: sono i resti dell'**incubo** di Strahd, Beucephalus. I resti di Beucephalus sono protetti da un *muro di forza* sferico, rinforzato da un incantesimo *santuario privato* limitato all'area protetta dal muro. Se viene danneggiato o toccato, il muro crepita per un attimo di innocue scintille rosse. 
+
+> [!warning]+ **Niente dissoluzione**
+> Come dice la descrizione di *muro di forza*, niente può attraversare fisicamente il muro, che è immune a tutti i danni, non può essere dissolto da *dissolvi magie* e si estende nel Piano Etereo. Come dice la descrizione di *santuario privato*, niente può teletrasportarsi dentro o fuori dall'area protetta.
+
+Quando i giocatori entrano per la prima volta in quest'area, Strahd si trova in <span class="citation">K60. Cima della torre nord (p. 74)</span>. Se Sasha non è andata ad accogliere i giocatori in [[#U5b. La salita al torrione]], si trova sul pianerottolo del terzo piano del Cuore della Tristezza, appena sotto le scale che portano alla Cima della torre nord, in attesa del ritorno di Strahd.
+
+Quando i giocatori arrivano al pianerottolo del terzo piano, leggi:
 
 <div class="description">
-<p>The sound of footsteps draws your eye to the top of the stairs above. Slowly, moving with a near-inhuman grace, Strahd von Zarovich descends from the chamber beyond.</p>
-<p>A crimson ruby hangs at his throat, and a gleaming steel sword is sheathed at his side. His long, sharp nails seem bloodstained in the Heart’s scarlet light, and his fangs glint like daggers. Above them, not a shred of life lingers in his eyes—no drop of pride, nor excitement, nor rage. Only death, and quiet darkness, lurk within them.</p>
+<p>Il cuore di cristallo incombe sopra di voi. Pulsa con la regolarità di un battito, e nelle sue profondità vibra una luce scarlatta intensa. La luce sembra rifrangersi attraverso una scheggia di oscurità assoluta, lunga non più di qualche centimetro, che si contorce e si torce nel nucleo del cuore, come in agonia.</p>
+<p>Un velo di anime eteree e urlanti avvolge il cuore, ma le loro grida arrivano smorzate, come un ronzio sordo e lontano. Sotto di esse, sulla superficie cristallina, danzano lampi di immagini: cime di alberi; montagne incappucciate di neve; un lago dalle acque scure; tetti inargentati dalla luce della Luna, molto in alto.</p>
 </div>
 
-If the players have not previously removed it, and if Sasha is present, Strahd carries with him his father’s crown. Add:
+Un giocatore che ha già visto un sarcofago d'ambra nell'[[Arc S - A Sword of Sunlight|Arco S: Una spada di luce solare]] riconosce nella scheggia d'oscurità una vestigia d'ambra.
+### La discesa di Strahd
+Quasi subito dopo l'arrivo dei giocatori sul pianerottolo, Strahd scende dalla Cima della torre nord per incontrarli. Leggi:
 
 <div class="description">
-<p>In his hands, Strahd cradles a red silk pillow, which bears a gold crown adorned with diamonds and rubies. It shines in the crimson illumination, seeming to emit a shadowed, malevolent light of its own.</p>
+<p>Un rumore di passi vi attira lo sguardo in cima alle scale. Lentamente, con una grazia quasi inumana, Strahd von Zarovich scende dalla stanza di sopra.</p>
+<p>Al collo gli pende un rubino cremisi, e al fianco porta una spada d'acciaio lucente nel fodero. Le unghie lunghe e affilate sembrano macchiate di sangue nella luce scarlatta del Cuore, e le zanne brillano come pugnali. Sopra di esse, negli occhi non resta un briciolo di vita: nessuna goccia d'orgoglio, né di eccitazione, né di rabbia. Dentro vi si annidano soltanto la morte e una tenebra silenziosa.</p>
 </div>
 
-Upon descending the stairs fully, Strahd presents Sasha the pillow to hold, which she accepts with trembling hands. 
-
-Strahd greets the players with a small, hollow smile, with no emotion coloring his voice. If the players do not immediately attack him, their conversation may proceed as follows:
-
-* Strahd welcomes the players back to Castle Ravenloft, and congratulates them on their “exploits" across the valley. “You’ve certainly been busy," he notes, raising an eyebrow slightly. 
-* If the players bear the *Sunsword*, Strahd bares his teeth in a cold, mirthless smile. “I see you’ve found half of my brother’s old sword," he says. “I had thought it destroyed long ago, but no matter. Do you mean to enchant me with nostalgia for the past, or do you truly believe that this trinket poses some threat to me?"
-
-If the players ask about Beucephalus’s corpse, inquire into Strahd’s plans, or inquire about the crown, he can share any or all of the following information, pausing occasionally to invite the players to “fill in the gaps" and amuse him with their deductions:
-
-* Once, Strahd was a conqueror—a man who razed kingdoms and forged an empire of blood and steel. So long as the Mists surround him, however, he can conquer no new lands, nor can he restore the empire he once lost. To escape the Mists, he needed three things: a pacified kingdom, a host of loyal servants, and—most importantly—an escape plan.
-* When Strahd awoke from his century-long slumber, he found that much had changed. The people of Barovia had forgotten why they feared him, and their burgomasters no longer served him faithfully. His servants and consorts had dispersed across the valley in pursuit of their own schemes and whims, and the Fane of Yester Hill had been stolen by “a mewling witch that believed herself the harbinger of a god." “These things, I knew," he said, “must be addressed."
-* He moved quickly to reclaim the Forest Fane as his own, restoring its bond to the Heart of Sorrow once more. He bade Rahadin to find staff and attendants for Castle Ravenloft, and to ensure that each of the keep’s occupants served their master’s will. And he summoned his brides and spawn to Castle Ravenloft, commanding them to spread his shadow across the valley once more. He broke the village of Barovia, brought the werewolf pack to heel, and brought his forces to bear against the settlements of Barovia.
-* Before his slumber, through the reluctant aid of the Vistani seer Madam Eva, Strahd learned of the Grand Conjunction—a time when the barriers between worlds would be thinned, and the energies of the stars aligned. “She is bound to read the fortunes of all who seek them," Strahd says amusedly. “When I awoke, I returned to her to find what Fate required of me to fulfill her ancient foretelling. It must have been Fate, however, that brought me there that day—for it was then that I first encountered a group of strange outsiders to my lands—newcomers whom the old woman had said foretold “the dusk of an era": the end of my imprisonment."
-* To this end, Strahd crafted an ambitious and dangerous ritual to escape the Mists, using the Heart of Sorrow as its conduit and anchor. (“A curious relic," Strahd observes, eyeing the floating Heart. “It appeared on the day of my resurrection, seemingly forged from the blood I had spilled. I do not doubt it was placed here by my would-be jailers, but it is most ironic that it should become my greatest weapon against them.") Strahd’s ritual has four necessary components: a power source, a control mechanism, a catalyst, and a sacrifice.
-* Regarding the power source: Strahd’s plan requires a substantial amount of power—far more than he can supply himself. So long as he remains bonded to the Fanes of Barovia, however, he can channel their power directly into the Heart of Sorrow for use in the ritual. Using the Fanes in the ritual will also allow Strahd to bring the valley itself—and all of its inhabitants—along with him to the Material Plane. Given that Barovia was his final conquest and the centerpiece of his power, Strahd will not relinquish it so easily.
-* Regarding the control mechanism: The raw power of the leylines beneath the Fanes is wild and near-impossible to control. Even as their master, only a token of the Ladies’ divinity can allow Strahd to direct them. Although he initially learned that a child with the blood of the Seeker resided somewhere within the valley, his spies proved unable to locate them in [[Arc E - The Missing Vistana]]—and thus, he was forced to obtain a token of divinity from the Whispering Wall instead in [[Arc J - The Stolen Gem]], sacrificing his **animated armor**—his royal armor, the symbol of his early conquests and might, which he had once enchanted with the aid of the archmage Khazan himself—exchanging a piece of his past for a promise of his future.
-* Regarding the catalyst: While power and control are all well and good, in order to break through a wall, all good conquerors need a point of attack. To this end, Strahd plans to forge a battering ram capable of piercing through the Mists—a siege weapon forged from the souls of the Barovians themselves. The Mists, as creations of the Dark Powers, are born of apathy, fear, and despair. To escape the Mists without drawing their ire, therefore, Strahd intends to surround the Heart of Sorrow with a shell of wailing, hopeless souls. He believes that, by brutally reasserting his dominion over Barovia, his subjects will lose themselves to fear and despair, darkening their souls to meet his needs. (By consuming the Barovians’ souls, Strahd can also use the energies of his escape to repurpose their soulless husks as undead soldiers, forging a new army for his conquests to come.)
-* To manipulate the Barovians’ souls, Strahd needed a master in the ways of soul magic—and found one in an innocuous sarcophagus tucked away in the Amber Temple. He extracted the vestige from its prison, containing it in the Heart’s crystalline depths, and extracted the knowledge of soul bondage from its mind. (“It resisted," Strahd remarks, “though not for long.")
-* Regarding the sacrifice: The energies of the Mists are attuned to darkness. To escape their clutches, Strahd needed to find a suitable replacement—an accursed creature, whose soul is stained with evil—and sacrifice them as his scapegoat, their soul offered to the Dark Powers as bait as Strahd makes his escape. Although Strahd had intended to use Dr. Rudolph van Richten as a sacrifice, he proved similarly unable to locate the vampire hunter, and so sacrificed Beuceaphalus, his **nightmare**, instead. (“Ah, Beucephalus," Strahd croons softly, without a touch of regret to his voice. “The ever-loyal steed. Even into death, he serves me.")
-
-Strahd can further share that he did not expect the players to discover the secret of the Fanes, let alone reclaim them from him. “Nevertheless," he says, smiling, “it is fortunate that—how does the saying go? Ah: Each cloud has its silver lining." By becoming the champions of the Fanes, Strahd shares, the players made themselves into conduits for the Fanes’ power—thereby allowing Strahd to access their energies once more. 
-
-To lure them to him, he needed only bait. He drew upon the power he had stored in the Heart of Sorrow for over a century, then channelled it through the nameless vestige he had plundered from the Amber Temple—which, to his delight, proved “remarkably resonant to the energies of the valley’s leylines." He used this power to plunge Barovia into eternal night, raise the deceased from their graves, and send a plague of undead against Barovia’s settlements—a siege that would end only if Strahd himself were defeated. “It is said that the gods praise the selfless and heroic," Strahd says, flashing his teeth. “I praise them, too—for they are nothing if not predictable, and wonderfully easy to direct."
-### Strahd Attacks
-Combat with Strahd might begin in any one of the following ways:
-
-* If the players activate the Sunsword’s radiant blade and refuse to deactivate it so that he and the players can “speak, like civilized individuals," Strahd bares his teeth in a snarl. “A quaint, if futile gesture. Perhaps it is time I taught you a lesson I should have long ago."
-* If the players attack or invite him to do so, Strahd curls his left hand around the ruby at his neck. “Eager," he hisses, his eyes flashing. “Very well. Let us begin."
-* If Strahd tires of their conversation or finishes sharing his plan, his eyes flicker toward the unseen sky above, then back to the players. “I have waited nearly four hundred years for this moment," he says. “At last, I shall wait no longer."
-
-Before or as combat begins, Strahd commands Sasha to return with his crown to <span class="citation">K60. North Tower Peak (p. 74)</span> to await his summons. If given sufficient time, Strahd strokes her cheek gently, and says: “First of my wives—long have you waited for the day of my triumph. When you return, I shall have dispatched the ones you once thought saviors, and you shall look upon the first night of my everlasting reign."
-## U5d. The Final Battle
-### The Battle Begins
-When the final battle begins, read:
+Se i giocatori non l'hanno già portata via e se Sasha è presente, Strahd ha con sé la corona di suo padre. Aggiungi:
 
 <div class="description">
-<p>A great shudder runs through the keep. The crystal heart pulses with a brilliant, blinding light—and from the mountain below comes a great and terrible rumble, echoing with the groans of crumbling stone. The floor abruptly <em>lurches</em>, then lurches the other way. An awful roar of air batters the tower’s walls, a gale ripping through the skies as lightning splits the clouds. For a moment, you feel as though your weight has doubled—until, in the distance, past the outer walls of the keep, you see it:</p>
-<p>The mountains are falling—even drifting away.</p>
-<p>But no—the castle is <em>rising</em>.</p>
-<p>In the distance, thirteen stars shine across a bloodstained sky.</p>
-<p>"The time has come," Strahd intones solemnly. “The hour of my deliverance is finally at hand—and this keep shall be the weapon that shatters the chains that bind me."</p>
+<p>Fra le mani Strahd regge un cuscino di seta rossa con sopra una corona d'oro ornata di diamanti e rubini. Brilla nella luce cremisi e sembra emanare una luce propria, ombrosa e malevola.</p>
 </div>
 
-A player who inspects the castle’s surroundings from outside the tower can confirm that the castle has split from the Pillarstone of Ravenloft and is rising into the air.
+Arrivato in fondo alle scale, Strahd porge il cuscino a Sasha, che lo prende con le mani tremanti. 
 
-> [!combat]- **Combat - The Ancient**  
-> **Combat Level**: Bloody (phase one), Bloody (phase two), Bloody (phase three)
-> **Expected Character Level**: 10
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
-> **Expected HP Consumption:** 45% (phase one), 45% (phase two), 45% (phase three) for a total of 136%
+Strahd saluta i giocatori con un sorriso piccolo e vuoto, senza alcuna emozione nella voce. Se i giocatori non lo attaccano subito, la conversazione può andare così:
+
+* Strahd dà il bentornato ai giocatori al Castello di Ravenloft e si congratula per le loro «imprese» nella valle. «Siete stati davvero molto occupati», osserva, inarcando appena un sopracciglio. 
+* Se i giocatori hanno con sé la *Spada del Sole*, Strahd scopre i denti in un sorriso freddo e senza allegria. «Vedo che avete trovato metà della vecchia spada di mio fratello», dice. «La credevo distrutta da tempo, ma poco importa. Volete incantarmi con la nostalgia del passato, o credete davvero che questo ninnolo sia una minaccia per me?»
+
+Se i giocatori chiedono del cadavere di Beucephalus, dei piani di Strahd o della corona, Strahd può dire una parte o tutte le cose seguenti, fermandosi ogni tanto per invitare i giocatori a «riempire i vuoti» e divertirlo con le loro deduzioni:
+
+* Un tempo Strahd era un conquistatore, un uomo che radeva al suolo regni e forgiava un impero di sangue e d'acciaio. Finché le Nebbie lo circondano, però, non può conquistare nuove terre né ricostruire l'impero che ha perduto. Per sfuggire alle Nebbie gli servivano tre cose: un regno pacificato, una schiera di servitori leali e, soprattutto, un piano di fuga.
+* Quando Strahd si è svegliato dal suo sonno secolare, ha scoperto che molto era cambiato. La gente di Barovia aveva dimenticato perché lo temeva, e i borgomastri non lo servivano più fedelmente. I suoi servitori e i suoi consorti si erano dispersi per la valle dietro ai propri intrighi e capricci, e il Tempio della Collina di Yester era stato rubato da «una strega piagnucolosa convinta di essere l'araldo di un dio». «Sapevo», dice, «che a queste cose bisognava porre rimedio».
+* Si è mosso in fretta per riprendersi il Tempio della Foresta, ripristinandone il legame con il Cuore della Tristezza. Ha ordinato a Rahadin di trovare personale e servitù per il Castello di Ravenloft e di assicurarsi che ogni abitante del torrione servisse la volontà del padrone. E ha richiamato al Castello di Ravenloft le sue spose e le sue progenie, ordinando loro di stendere di nuovo la sua ombra sulla valle. Ha piegato il villaggio di Barovia, ha messo in riga il branco di lupi mannari e ha scagliato le sue forze contro gli insediamenti di Barovia.
+* Prima del suo sonno, grazie all'aiuto riluttante della veggente vistana Madam Eva, Strahd aveva saputo della Grande Congiunzione: un tempo in cui le barriere fra i mondi si sarebbero assottigliate e le energie delle stelle si sarebbero allineate. «È tenuta a leggere il destino di chiunque glielo chieda», dice Strahd divertito. «Al risveglio sono tornato da lei per scoprire che cosa il Fato pretendesse da me perché si compisse la sua antica profezia. Ma dev'essere stato il Fato a portarmi lì quel giorno, perché fu allora che incontrai per la prima volta un gruppo di strani forestieri giunti nelle mie terre: nuovi arrivati che, secondo la vecchia, annunciavano “il crepuscolo di un'era”. La fine della mia prigionia».
+* A questo scopo Strahd ha messo a punto un rituale ambizioso e pericoloso per sfuggire alle Nebbie, con il Cuore della Tristezza come canale e come ancora. («Una reliquia curiosa», osserva Strahd, guardando il Cuore che fluttua. «È comparsa il giorno della mia resurrezione, forgiata, a quanto pare, dal sangue che avevo versato. Non dubito che l'abbiano messa qui i miei aspiranti carcerieri, ma è davvero ironico che sia diventata la mia arma più grande contro di loro».) Il rituale di Strahd ha quattro componenti necessarie: una fonte di energia, un meccanismo di controllo, un catalizzatore e un sacrificio.
+* La fonte di energia: il piano di Strahd richiede una grande quantità di energia, molta più di quanta lui stesso possa fornirne. Finché resta legato ai Templi di Barovia, però, può incanalarne il potere direttamente nel Cuore della Tristezza e usarlo per il rituale. Usare i Templi nel rituale permetterà a Strahd anche di portare con sé nel Piano Materiale la valle stessa, con tutti i suoi abitanti. Barovia è stata la sua ultima conquista e il centro del suo potere, e Strahd non intende rinunciarvi tanto facilmente.
+* Il meccanismo di controllo: il potere grezzo delle linee di forza sotto i Templi è selvaggio e quasi impossibile da controllare. Anche se ne è il padrone, Strahd può dirigerle solo con un frammento della divinità delle Dame. All'inizio aveva saputo che da qualche parte nella valle viveva un bambino con il sangue del Cercatore, ma nell'[[Arc E - The Missing Vistana|Arco E: La vistana scomparsa]] le sue spie non sono riuscite a trovarne traccia, e così nell'[[Arc J - The Stolen Gem|Arco J: La gemma rubata]] è stato costretto a prendere invece un frammento di divinità dal Muro dei Sussurri, sacrificando la sua **armatura animata**: la sua armatura regale, simbolo delle sue prime conquiste e della sua potenza, che un tempo aveva incantato con l'aiuto dell'arcimago Khazan in persona. Ha scambiato un pezzo del suo passato con una promessa di futuro.
+* Il catalizzatore: potere e controllo vanno benissimo, ma per sfondare un muro ogni buon conquistatore ha bisogno di un punto d'attacco. Per questo Strahd vuole forgiare un ariete capace di perforare le Nebbie, una macchina d'assedio fatta con le anime degli stessi baroviani. Le Nebbie, creature dei Poteri Oscuri, nascono dall'apatia, dalla paura e dalla disperazione. Per sfuggire alle Nebbie senza attirarne l'ira, quindi, Strahd vuole circondare il Cuore della Tristezza con un guscio di anime lamentose e senza speranza. Crede che, riaffermando con brutalità il suo dominio su Barovia, i suoi sudditi si perderanno nella paura e nella disperazione, e le loro anime si incupiranno quanto gli serve. (Consumando le anime dei baroviani, Strahd può anche usare le energie della sua fuga per riutilizzarne i gusci senz'anima come soldati non morti, forgiando un nuovo esercito per le conquiste future.)
+* Per manipolare le anime dei baroviani Strahd aveva bisogno di un maestro nelle arti della magia delle anime e lo ha trovato in un sarcofago anonimo, nascosto nel Tempio d'Ambra. Ha estratto la vestigia dalla sua prigione, l'ha racchiusa nelle profondità cristalline del Cuore e ha strappato dalla sua mente la conoscenza dell'asservimento delle anime. («Ha resistito», osserva Strahd, «ma non a lungo».)
+* Il sacrificio: le energie delle Nebbie sono in sintonia con l'oscurità. Per sfuggire alla loro stretta, Strahd doveva trovare un sostituto adatto, una creatura maledetta con l'anima macchiata dal male, e sacrificarla come capro espiatorio, offrendone l'anima ai Poteri Oscuri come esca mentre lui fugge. Strahd voleva sacrificare il dottor Rudolph van Richten, ma non è riuscito a trovare nemmeno il cacciatore di vampiri, e così ha sacrificato Beucephalus, il suo **incubo**. («Ah, Beucephalus», mormora piano Strahd, senza un filo di rimpianto nella voce. «Il destriero sempre fedele. Mi serve anche nella morte».)
+
+Strahd può aggiungere che non si aspettava che i giocatori scoprissero il segreto dei Templi, e tanto meno che glieli strappassero. «Eppure», dice sorridendo, «per fortuna... com'è che si dice? Ah, sì: non tutto il male vien per nuocere». Diventando i campioni dei Templi, spiega Strahd, i giocatori si sono trasformati in canali del loro potere, e così hanno permesso a Strahd di attingere di nuovo alle loro energie. 
+
+Per attirarli da sé gli bastava un'esca. Ha attinto al potere accumulato nel Cuore della Tristezza per più di un secolo, poi lo ha incanalato attraverso la vestigia senza nome razziata nel Tempio d'Ambra, che con sua grande soddisfazione si è rivelata «straordinariamente in risonanza con le energie delle linee di forza della valle». Ha usato questo potere per far sprofondare Barovia in una notte eterna, far alzare i morti dalle tombe e scagliare una piaga di non morti contro gli insediamenti di Barovia: un assedio che finirà solo se Strahd stesso sarà sconfitto. «Si dice che gli dèi lodino gli altruisti e gli eroi», dice Strahd, mostrando i denti. «Anch'io li lodo, perché sono quanto di più prevedibile esista e meravigliosamente facili da manovrare».
+### Strahd attacca
+Lo scontro con Strahd può cominciare in uno di questi modi:
+
+* Se i giocatori accendono la lama radiosa della Spada del Sole e si rifiutano di spegnerla perché loro e Strahd possano «parlare come persone civili», Strahd scopre i denti in un ringhio. «Un gesto pittoresco, per quanto inutile. Forse è ora che vi dia una lezione che avrei dovuto darvi molto tempo fa».
+* Se i giocatori lo attaccano o lo invitano a farlo, Strahd stringe con la mano sinistra il rubino che porta al collo. «Impazienti», sibila, con gli occhi che lampeggiano. «Molto bene. Cominciamo».
+* Se Strahd si stanca della conversazione o finisce di spiegare il suo piano, lancia un'occhiata verso il cielo invisibile sopra di loro, poi torna a guardare i giocatori. «Ho atteso questo momento per quasi quattrocento anni», dice. «Finalmente, non aspetterò più».
+
+Prima che cominci lo scontro, o mentre comincia, Strahd ordina a Sasha di tornare con la corona in <span class="citation">K60. Cima della torre nord (p. 74)</span> e di aspettare che lui la chiami. Se ha abbastanza tempo, Strahd le accarezza piano la guancia e dice: «Prima delle mie spose, a lungo hai atteso il giorno del mio trionfo. Quando tornerai avrò eliminato coloro che un tempo credevi i tuoi salvatori, e contemplerai la prima notte del mio regno eterno».
+## U5d. La battaglia finale
+### La battaglia comincia
+Quando comincia la battaglia finale, leggi:
+
+<div class="description">
+<p>Un grande fremito attraversa il torrione. Il cuore di cristallo pulsa di una luce intensa e accecante, e dalla montagna sottostante arriva un rombo enorme e terribile, che riecheggia del gemito della pietra che si sgretola. Il pavimento <em>sobbalza</em> all'improvviso, poi sobbalza dall'altra parte. Un ruggito d'aria tremendo si abbatte sulle pareti della torre, una burrasca squarcia il cielo mentre i fulmini spaccano le nuvole. Per un attimo vi sembra che il vostro peso sia raddoppiato, finché in lontananza, oltre le mura esterne del torrione, non lo vedete:</p>
+<p>Le montagne stanno cadendo, anzi, si allontanano.</p>
+<p>Ma no: è il castello che si sta <em>alzando</em>.</p>
+<p>In lontananza, tredici stelle brillano in un cielo macchiato di sangue.</p>
+<p>«È giunto il momento», proclama Strahd con solennità. «L'ora della mia liberazione è finalmente arrivata, e questo torrione sarà l'arma che spezzerà le catene che mi tengono prigioniero».</p>
+</div>
+
+Un giocatore che osserva i dintorni del castello dall'esterno della torre può accertare che il castello si è staccato dal Pilastro di Ravenloft e si sta sollevando in aria.
+
+> [!combat]- **Combattimento: l'Antico**  
+> **Livello di combattimento**: sanguinoso (prima fase), sanguinoso (seconda fase), sanguinoso (terza fase)
+> **Livello previsto dei personaggi**: 10
+> **Alleati:** Ireena Kolyana (GS 2), Ezmerelda d'Avenir (GS 4)
+> **Consumo previsto di pf:** 45% (prima fase), 45% (seconda fase), 45% (terza fase), per un totale del 136%
 > 
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
+> ### **Bilanciamento:**
+> Se hai meno o più di 5 giocatori, modifica lo scontro così:
 >
-> | Number of Players | Modification |
+> | Numero di giocatori | Modifica |
 > |-|-|
-> | 3 | Reduce Strahd's hit points in each phase to 247. <ul><li>In his first phase, reduce the damage of his ***Vampiric Touch*** attack to 2d6 necrotic damage. Reduce the damage of his ***Lightning Bolt*** and ***Circle of Sickness*** to 6d6 damage. Reduce the damage of his ***Blindness/Deafness*** reaction to 1d10. </li><li>In his second phase, reduce his ***Longsword*** attack to 1d10+5 slashing damage and 1d4 necrotic damage. Reduce the damage of his ***Umbral Net*** to 1d10. Reduce the damage of his ***Thunderous Wave*** to 2d8. Reduce the damage of his ***Dark Volley*** to 3d8.</li> <li>In his third phase, reduce his ***Unarmed Strike*** attack to 1d8+5 piercing damage and 2d6 necrotic damage. Reduce his ***Bats' Frenzy*** to 4d4 necrotic damage. Reduce his ***Predator's Fury*** to 1d10+5 force damage. </li></ul>|
-> | 4 | Reduce Strahd's hit points in each phase to 289. <ul><li> In his first phase, reduce his Multiattack to only one use of ***Vampiric Touch*** and one use of ***Telekinetic Grasp***. Reduce the damage of his ***Lightning Bolt*** and ***Circle of Sickness*** to 5d6 damage. Reduce the damage of his ***Blindness/Deafness*** reaction to 1d12. </li><li> In his second phase, reduce his ***Longsword*** attack to 1d10+5 slashing damage and 1d8 necrotic damage. Reduce the damage of his ***Umbral Net*** to 1d12. Reduce the damage of his ***Thunderous Wave*** to 2d10. Reduce the damage of his ***Dark Volley*** to 3d10. </li><li> In his third phase, reduce his ***Unarmed Strike*** attack to 1d8+5 piercing damage and 3d6 necrotic damage. Reduce his ***Bats' Frenzy*** to 2d12 necrotic damage. Reduce his ***Predator's Fury*** to 2d8+5 force damage. </li></ul>|
-> | 6 | Increase Strahd's hit points in each phase to 373. <ul><li> In his first phase, increase his ***multiattack*** to either two attacks with ***Vampiric Touch*** or one attack of ***Vampiric Touch*** and two uses of ***Telekinetic Grasp***. Increase the damage of his ***Lightning Bolt*** and ***Circle of Sickness*** to 9d6 damage. Increase the damage of his ***Blindness/Deafness*** reaction to 2d8. </li><li> In his second phase, increase his ***Longsword*** attack to 1d10+5 slashing damage and 2d8 necrotic damage. Increase the damage of his ***Umbral Net*** to 2d8. Increase the damage of his ***Thunderous Wave*** to 3d10. Increase the damage of his ***Dark Volley*** to 4d10. </li><li> In his third phase, increase his ***Unarmed Strike*** attack to 1d8+5 piercing damage and 5d6 necrotic damage. Increase his ***Bats' Frenzy*** to 4d8 necrotic damage. Increase his ***Predator's Fury*** to 2d12+5 force damage. </li></ul>|
+> | 3 | Riduci i punti ferita di Strahd in ogni fase a 247. <ul><li>Nella prima fase, riduci i danni del suo attacco ***Tocco del vampiro*** a 2d6 danni necrotici. Riduci i danni di ***Fulmine*** e di ***Cerchio di malattia*** a 6d6. Riduci i danni della sua reazione ***Cecità/Sordità*** a 1d10. </li><li>Nella seconda fase, riduci il suo attacco con la ***Spada lunga*** a 1d10+5 danni taglienti e 1d4 danni necrotici. Riduci i danni di ***Rete d'ombra*** a 1d10. Riduci i danni di ***Onda tonante*** a 2d8. Riduci i danni di ***Raffica oscura*** a 3d8.</li> <li>Nella terza fase, riduci il suo attacco ***Colpo senz'armi*** a 1d8+5 danni perforanti e 2d6 danni necrotici. Riduci ***Frenesia dei pipistrelli*** a 4d4 danni necrotici. Riduci ***Furia del predatore*** a 1d10+5 danni da forza. </li></ul>|
+> | 4 | Riduci i punti ferita di Strahd in ogni fase a 289. <ul><li> Nella prima fase, riduci il suo Multiattacco a un solo uso di ***Tocco del vampiro*** e un uso di ***Presa telecinetica***. Riduci i danni di ***Fulmine*** e di ***Cerchio di malattia*** a 5d6. Riduci i danni della sua reazione ***Cecità/Sordità*** a 1d12. </li><li> Nella seconda fase, riduci il suo attacco con la ***Spada lunga*** a 1d10+5 danni taglienti e 1d8 danni necrotici. Riduci i danni di ***Rete d'ombra*** a 1d12. Riduci i danni di ***Onda tonante*** a 2d10. Riduci i danni di ***Raffica oscura*** a 3d10. </li><li> Nella terza fase, riduci il suo attacco ***Colpo senz'armi*** a 1d8+5 danni perforanti e 3d6 danni necrotici. Riduci ***Frenesia dei pipistrelli*** a 2d12 danni necrotici. Riduci ***Furia del predatore*** a 2d8+5 danni da forza. </li></ul>|
+> | 6 | Aumenta i punti ferita di Strahd in ogni fase a 373. <ul><li> Nella prima fase, porta il suo ***multiattacco*** a due attacchi con ***Tocco del vampiro***, oppure a un attacco con ***Tocco del vampiro*** e due usi di ***Presa telecinetica***. Aumenta i danni di ***Fulmine*** e di ***Cerchio di malattia*** a 9d6. Aumenta i danni della sua reazione ***Cecità/Sordità*** a 2d8. </li><li> Nella seconda fase, porta il suo attacco con la ***Spada lunga*** a 1d10+5 danni taglienti e 2d8 danni necrotici. Aumenta i danni di ***Rete d'ombra*** a 2d8. Aumenta i danni di ***Onda tonante*** a 3d10. Aumenta i danni di ***Raffica oscura*** a 4d10. </li><li> Nella terza fase, porta il suo attacco ***Colpo senz'armi*** a 1d8+5 danni perforanti e 5d6 danni necrotici. Porta ***Frenesia dei pipistrelli*** a 4d8 danni necrotici. Porta ***Furia del predatore*** a 2d12+5 danni da forza. </li></ul>|
 
-> [!info]+ **Strahd’s Statistics**
-> See [[Strahd von Zarovich#Le tattiche di Strahd|Le tattiche di Strahd]] for more information about Strahd’s statistics and tactics in battle.
+> [!info]+ **Le statistiche di Strahd**
+> Vedi [[Strahd von Zarovich#Le tattiche di Strahd|Le tattiche di Strahd]] per altre informazioni sulle statistiche e sulle tattiche di Strahd in battaglia.
 
-> [!info]+ **The Heart of Sorrow**
-> The Heart of Sorrow can’t be moved and is immune to all damage while Strahd lives. It’s held aloft by the will of Strahd, and isn’t affected by *dispel magic* or similar magic. In addition, it has the following properties while channeling its stores of power:
+> [!info]+ **Il Cuore della Tristezza**
+> Finché Strahd vive, il Cuore della Tristezza non può essere spostato ed è immune a tutti i danni. È tenuto sospeso dalla volontà di Strahd e non subisce gli effetti di *dissolvi magie* o di magie simili. Inoltre, mentre incanala il potere che ha accumulato, ha queste proprietà:
 >
-> ***Sanguine Bond.*** When combat begins, Strahd can cause a spectral network of crimson veins to emanate from the Heart, connecting it to each creature within 100 feet. If a connected creature would deal damage to the Heart, that creature takes that much damage instead. Additionally, on initiative count 20 of each round of combat, Strahd can force any number of connected creatures to succeed on a DC 19 Constitution saving throw or have their maximum hit points each reduced by 2 (1d4), or 5 (2d4) if it’s raining blood. If this effect reduces a creature's maximum hit points to 0, the creature dies.
+> ***Legame sanguigno.*** Quando comincia il combattimento, Strahd può far partire dal Cuore una rete spettrale di vene cremisi che lo collega a ogni creatura entro 30 metri. Se una creatura collegata infliggerebbe danni al Cuore, è invece quella creatura a subire quei danni. Inoltre, al conteggio d'iniziativa 20 di ogni round di combattimento, Strahd può costringere un numero qualsiasi di creature collegate a superare un tiro salvezza su Costituzione con CD 19; chi lo fallisce vede i propri punti ferita massimi ridotti di 2 (1d4), o di 5 (2d4) se piove sangue. Se questo effetto riduce a 0 i punti ferita massimi di una creatura, la creatura muore.
 >
-> ***Evil's Heart.*** While he’s connected to the Heart, being in sunlight doesn't cause Strahd to have disadvantage on attack rolls and ability checks. (Strahd still takes radiant damage when he starts his turn in sunlight.)
+> ***Cuore del male.*** Finché è collegato al Cuore, Strahd non ha svantaggio ai tiri per colpire e alle prove di caratteristica quando si trova alla luce del sole. (Strahd subisce comunque danni radiosi quando comincia il turno alla luce del sole.)
 >
-> In addition, while connected to the Heart, Strahd can use the Heart to take one of the following lair actions on initiative count 20 of each round of combat, depending on his phase:
+> Inoltre, finché è collegato al Cuore, Strahd può usarlo per compiere una di queste azioni di tana al conteggio d'iniziativa 20 di ogni round di combattimento, a seconda della fase:
 >
-> ***Baneful Curse (Mage Phase Only)***. Up to three creatures connected to the Heart must make a DC 19 Charisma saving throw. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the start of the Heart's next turn, the target must roll a d4 and subtract the number rolled from the attack roll or saving throw.
+> ***Maledizione funesta (solo fase del Mago)***. Fino a tre creature collegate al Cuore devono effettuare un tiro salvezza su Carisma con CD 19. Ogni volta che un bersaglio che ha fallito il tiro salvezza effettua un tiro per colpire o un tiro salvezza prima dell'inizio del turno successivo del Cuore, deve tirare un d4 e sottrarre il risultato dal tiro per colpire o dal tiro salvezza.
 > 
-> ***Baleful Command (Soldier Phase Only).*** The Heart telepathically speaks a one-word command to a creature connected to it. The target must succeed on a DC 19 Wisdom saving throw or be charmed by Strahd until the end of its next turn. While charmed in this way, the target must use its action to follow the command. The target automatically succeeds on the saving throw if the Heart's command is directly harmful to it.
+> ***Comando malevolo (solo fase del Soldato).*** Il Cuore pronuncia telepaticamente un ordine di una sola parola a una creatura collegata. Il bersaglio deve superare un tiro salvezza su Saggezza con CD 19, altrimenti è affascinato da Strahd fino alla fine del suo turno successivo. Mentre è affascinato in questo modo, il bersaglio deve usare la sua azione per eseguire l'ordine. Il bersaglio supera automaticamente il tiro salvezza se l'ordine del Cuore gli farebbe direttamente del male.
 > 
-> ***Arterial Binding (Vampire Phase Only).*** Up to two creatures connected to the Heart must succeed on a DC 19 Strength saving throw or be grappled by the Heart (escape DC 19) until initiative count 20 of the next round of combat.
+> ***Vincolo arterioso (solo fase del Vampiro).*** Fino a due creature collegate al Cuore devono superare un tiro salvezza su Forza con CD 19, altrimenti sono afferrate dal Cuore (CD 19 per sfuggire) fino al conteggio d'iniziativa 20 del round di combattimento successivo.
 >
-> ***Tower's Fury.*** The tower around the Heart shakes and pitches violently. Any creature on the stairs or hanging on a tower wall must succeed on a DC 10 Dexterity saving throw or fall to the base of the tower. Creatures with the Spider Climb feature, as well as creatures crawling on the staircase or lying prone on the stairs, succeed automatically.
+> ***Furia della torre.*** La torre intorno al Cuore trema e sbanda violentemente. Ogni creatura che si trova sulle scale o appesa a una parete della torre deve superare un tiro salvezza su Destrezza con CD 10, altrimenti cade fino alla base della torre. Le creature con il tratto Movimento del ragno e quelle che strisciano sulla scala o giacciono prone sui gradini, lo superano automaticamente.
 >
-> Each time Strahd uses one of these lair actions, read:
+> Ogni volta che Strahd usa una di queste azioni di tana, leggi:
 >
 > ---
 > 
-> *The Heart’s beat skips, and a small crack appears across its surface. A line of blood weeps from the wound, the light surrounding it flickering, then briefly dimming.*
+> *Il battito del Cuore perde un colpo, e sulla sua superficie compare una piccola crepa. Dalla ferita cola un filo di sangue, e la luce intorno sfarfalla, poi per un attimo si affievolisce.*
 > 
 > ---
 >
-> Each crack has AC 15 and 10 hit points, and is immune to psychic and poison damage. If the players reduce a crack to 0 hit points, Strahd takes 20 psychic damage and can’t use the Heart’s lair actions for one round.
+> Ogni crepa ha CA 15 e 10 punti ferita, ed è immune ai danni psichici e da veleno. Se i giocatori riducono una crepa a 0 punti ferita, Strahd subisce 20 danni psichici e non può usare le azioni di tana del Cuore per un round.
 > 
-> Otherwise, on initiative counts 15, 10, and 5 of each round that Strahd uses one of these lair actions, read or paraphrase:
+> Altrimenti, ai conteggi d'iniziativa 15, 10 e 5 di ogni round in cui Strahd usa una di queste azioni di tana, leggi o riassumi:
 > 
 > ---
 > 
-> *The Heart’s crack grows smaller, its cascade of blood growing thinner.*
+> *La crepa del Cuore si restringe, e il rivolo di sangue si assottiglia.*
 > 
 > ---
 >
-> The crack vanishes entirely on initiative count 0.
+> Al conteggio d'iniziativa 0 la crepa scompare del tutto.
 
-> [!info]+ **Unnatural Weather**
-> When the battle begins, Castle Ravenloft is pelted by light precipitation. When Strahd’s first phase is defeated, this increases to <span class="citation">heavy precipitation (Dungeon Master’s Guide, p. 110)</span>. When Strahd’s second phase is defeated, the precipitation continues, but rains blood instead of water.
+> [!info]+ **Tempo innaturale**
+> Quando comincia la battaglia, sul Castello di Ravenloft cadono precipitazioni leggere. Quando la prima fase di Strahd viene sconfitta, diventano <span class="citation">precipitazioni intense (Guida del Dungeon Master, p. 110)</span>. Quando viene sconfitta la seconda fase, le precipitazioni continuano, ma piove sangue invece che acqua.
 
-Strahd begins the battle in his Mage form. While in this phase, Strahd prefers to fight within <span class="citation">K20. Heart of Sorrow (p. 59)</span>, using his *misty step* spell to avoid the reach of melee combatants.
-### Visions of Death
-When Strahd’s Mage phase is reduced to 0 hit points, read the following, modifying the text as necessary to reflect each non-player character’s current status:
+Strahd comincia la battaglia nella forma del Mago. In questa fase preferisce combattere dentro <span class="citation">K20. Cuore della Tristezza (p. 59)</span> e usa l'incantesimo *passo velato* per tenersi fuori dalla portata di chi combatte in mischia.
+### Visioni di morte
+Quando i punti ferita di Strahd nella fase del Mago scendono a 0, leggi quanto segue, adattando il testo alla situazione attuale di ogni personaggio non giocante:
 
 <div class="description">
-<p>Ruby shards scatter across the ancient stones of Castle Ravenloft, catching the faint light of flickering torches. With a wave of his hand, Strahd rips the broken focus from his throat and casts it to the ground. His voice, a low, cold, echo, fills the silence.</p>
-<p>“Well played—but you’re too late," he says, tone dripping with amusement and scorn. His lips curl into the faintest of smiles. “The end has finally begun."</p>
-<p>A sickening throb pulses from the Heart of Sorrow through the tendrils that bind you, and your vision swims. For a moment, the castle walls dissolve—and in their place comes a flood of harrowing images intertwining with reality.</p>
-<p>The visions flicker—and you recognize the village of Barovia, its slouching buildings shrouded in gloom. A chaotic melee fills its streets: villagers wielding axes, swords, and even torches pitchforks as they fight back against the oncoming tide. A flood of undead pushes back from every direction, dozens of the shambling dead throwing themselves forward against the few pockets of resistance. “Fall back!" comes a voice, desperate and hoarse as it cuts through the din of steel and screams. “Fall back!"</p>
-<p>The vision flickers again, and you see the town of Vallaki, its palisade walls groaning beneath the weight of the oncoming siege. The dead climb atop one another in mounds ten feet high, decaying hands grasping for purchase as the town’s guards try to frantically fight back. The undead lay siege in every direction, from every angle; for every guard that defends the walls, two hordes go ignored, hollow eyes peering down at the bleeding town below. From within the walls, a chorus of screams rings out through the air.</p>
-<p><em>Flicker</em>. The defenders of Krezk bellow in fury and fear as the undead tide threatens to drown their stone walls. The village’s mighty wooden gates splinter and quake as a pack of decaying direwolves slam against them with all their might. Black arrows fly down through the air, but the beasts press forward, unharmed. Somewhere in the distance, a bell is ringing.</p>
-<p><em>Flicker</em>. The inside of the Wizard of Wines. Adrian Martikov clutches a sword to his chest—and roars as a pale-skinned ghoul barrels against the door, its poisonous claws reaching for his throat. Ten feet away, Stefania and Dag, their flesh covered in black raven’s feathers, do battle with two others—but each blow brings them one step back. Not far behind them, Claudiu pulls his young siblings close and loads a bolt into his crossbow, his face ashen and hands trembling with fear.</p>
-<p>Flicker. The towering crater of Soldav—but with no mountain-mist to protect it. Undead spill from the cliff’s walls like a waterfall, pouring forth and tearing through the encampment. Chief Diegia fights at the vanguard, but is soon surrounded by a half-dozen of the dead. With horror, she watches as her people are separated, exhausted, and overwhelmed. “To me!" she howls. “Warriors, to me!"</p>
-<p><em>Flicker</em>.</p>
-<p>The stone of Castle Ravenloft returns. Strahd smiles, but there is no joy in it—only quiet satisfaction. His ruby clasp removed, the cape falls from his back and collapses onto the ground. With a practiced ease, he draws his longsword from its sheath, its cruel edge glinting with anticipation.</p>
-<p>“You wish to dance?" he says. “Then let us dance."</p>
+<p>Schegge di rubino si spargono sulle antiche pietre del Castello di Ravenloft, catturando la luce fioca delle torce tremolanti. Con un gesto della mano Strahd si strappa dalla gola il focus spezzato e lo getta a terra. La sua voce, un'eco bassa e fredda, riempie il silenzio.</p>
+<p>«Ben giocato, ma siete arrivati troppo tardi», dice, in un tono che gronda divertimento e disprezzo. Le labbra gli si piegano in un sorriso appena accennato. «La fine è finalmente cominciata».</p>
+<p>Un pulsare nauseante parte dal Cuore della Tristezza e corre lungo i viticci che vi legano, e la vista vi si annebbia. Per un istante le mura del castello si dissolvono, e al loro posto arriva un fiume di immagini strazianti che si intrecciano con la realtà.</p>
+<p>Le visioni sfarfallano, e riconoscete il villaggio di Barovia, con le case sbilenche avvolte nella penombra. Nelle sue strade infuria una mischia caotica: gli abitanti brandiscono asce, spade, torce e forconi e combattono contro la marea che avanza. Un fiume di non morti li respinge da ogni direzione, decine di morti barcollanti si gettano in avanti contro le poche sacche di resistenza. «Ripiegate!», grida una voce disperata e rauca, che taglia il fragore dell'acciaio e delle urla. «Ripiegate!»</p>
+<p>La visione sfarfalla di nuovo, e vedete la cittadina di Vallaki, con la palizzata che geme sotto il peso dell'assedio. I morti si arrampicano uno sull'altro in cumuli alti 3 metri, le mani putrefatte che cercano un appiglio mentre le guardie della città provano freneticamente a respingerli. I non morti assediano da ogni direzione, da ogni lato; per ogni guardia che difende le mura ci sono due orde che nessuno ferma, e i loro occhi vuoti guardano in basso la città che sanguina. Da dentro le mura si alza un coro di urla.</p>
+<p><em>Un lampo</em>. I difensori di Krezk urlano di furia e di paura mentre la marea di non morti minaccia di sommergere le loro mura di pietra. Le possenti porte di legno del villaggio si scheggiano e tremano sotto i colpi di un branco di lupi crudeli putrefatti che vi si scagliano contro con tutte le forze. Frecce nere piovono dall'alto, ma le bestie avanzano illese. Da qualche parte, in lontananza, suona una campana.</p>
+<p><em>Un lampo</em>. L'interno del Mago dei Vini. Adrian Martikov stringe una spada al petto e ruggisce mentre un ghoul dalla pelle pallida si avventa contro la porta, con gli artigli velenosi tesi verso la sua gola. A 3 metri da lui Stefania e Dag, con la carne coperta di piume nere di corvo, combattono contro altri due, ma ogni colpo li fa arretrare di un passo. Poco dietro di loro, Claudiu si stringe accanto i fratelli più piccoli e carica un quadrello nella balestra, il viso cinereo e le mani che tremano di paura.</p>
+<p>Un lampo. L'immenso cratere di Soldav, ma senza la nebbia della montagna a proteggerlo. I non morti si riversano dalle pareti della rupe come una cascata, dilagano e fanno strage nell'accampamento. La capo Diegia combatte in prima linea, ma presto mezza dozzina di morti la circonda. Inorridita, vede la sua gente dispersa, sfinita e sopraffatta. «A me!», urla. «Guerrieri, a me!»</p>
+<p><em>Un lampo</em>.</p>
+<p>Torna la pietra del Castello di Ravenloft. Strahd sorride, ma senza gioia: c'è solo una quieta soddisfazione. Tolto il fermaglio di rubino, il mantello gli scivola dalla schiena e si affloscia a terra. Con disinvoltura esperta sfodera la spada lunga, il cui filo crudele scintilla come in attesa.</p>
+<p>«Volete ballare?», dice. «Allora balliamo».</p>
 </div>
 
 
 ![[Strahd_Soldier.png]]
-<span class="credit">"Strahd the Soldier" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">«Strahd the Soldier» di Caleb Cleveland. Sostienilo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-In his Soldier phase, Strahd moves freely between <span class="citation">K20. Heart of Sorrow (p. 59)</span> and <span class="citation">K57. Tower Roof (p. 72)</span>, though he prefers to linger upon <span class="citation">K58. Bridge (p. 73)</span> and use his ***longsword*** and ***thunderous wave*** features to push players off of the bridge onto <span class="citation">K53. Rooftop (p. 71)</span>.
+Nella fase del Soldato Strahd si muove liberamente fra <span class="citation">K20. Cuore della Tristezza (p. 59)</span> e <span class="citation">K57. Tetto della torre (p. 72)</span>, ma preferisce restare su <span class="citation">K58. Ponte (p. 73)</span> e usare la ***spada lunga*** e ***onda tonante*** per spingere i giocatori giù dal ponte, su <span class="citation">K53. Tetto (p. 71)</span>.
 
-> [!info]+ **Ascending the Walls**
-> A character attempting to ascend or descend the exterior walls of <span class="citation">K20. Heart of Sorrow (p. 59)</span> or <span class="citation">K57. Tower Roof (p. 72)</span> must make a DC 17 Strength (Athletics) check. If the check succeeds, the character moves at half speed up or down the wall, as desired. On a check result of 8-16, the character neither gains nor loses ground; on a result of 5 or less, the character falls and takes 1d6 bludgeoning damage per 10 feet fallen, landing prone on the rooftop below.
+> [!info]+ **Scalare le pareti**
+> Un personaggio che prova a salire o scendere lungo le pareti esterne di <span class="citation">K20. Cuore della Tristezza (p. 59)</span> o di <span class="citation">K57. Tetto della torre (p. 72)</span> deve effettuare una prova di Forza (Atletica) con CD 17. Se la prova riesce, il personaggio sale o scende lungo la parete a metà velocità, come preferisce. Con un risultato fra 8 e 16 il personaggio non guadagna né perde terreno; con un risultato di 5 o meno cade, subisce 1d6 danni contundenti ogni 3 metri di caduta e atterra prono sul tetto sottostante.
 
-### Visions of Life
-When Strahd’s Soldier phase is reduced to 0 hit points, read the following, modifying the text as necessary to reflect each non-player character’s current status:
-
-<div class="description">
-<p>With a thunderous shriek, Strahd’s sword shatters into pieces, sending echoes that reverberate off the castle walls. Strahd eyes the broken hilt with disgust, and lets it slip from his grasp. He turns to you and sneers.</p>
-<p>“You fight well," he says, his voice hollow and cold. His nostrils pull back, becoming batlike slits; his claws grow longer, and his fangs even sharper. His eyes glint with crimson light. “But your doom is nigh, and your friends have surely fallen."</p>
-<p>He raises a hand—and snaps his fingers.</p>
-<p>The world flickers once more.</p>
-<p>You’re back in Soldav. The icy mists roil, and blood stains the snow. There’s no sign of Diegia—and the Mountain Folk have fallen back. Corpses litter the crater in every direction. In the distance, you can see the battle raging on.</p>
-<p>And then—the frontline opens, and a new band of warriors marches forth.</p>
-<p>Diona, mounted upon a mighty elk, raises her stone spear in the air and bellows defiance. Beside and towering above them, the ethereal form of Chief Kavan, mounted upon a ghostly giant elk of his own, leads a train of whooping spirits marching forward. Bestial spirits—a giant bear, an enormous eagle, and ravenous wolf—raze the undead before them as Chief Diegia raises a rallying cry. Overhead, a sky-splitting shriek pierces the air—and the great shadow of the roc of Mount Ghakis plunges through the clouds.</p>
-<p><em>Flicker</em>. The Wizard of Wines returns—and the Martikovs are no longer alone. Gleaming shades, clad in shining mail, step forth from the shadows to rend the grotesque horde. The wereravens crow with gleeful defiance as two radiant spirits—the familiar forms of Vladimir Horngaard and Sir Godfrey Gwilym—fight side-by-side, leading the Order of the Silver Dragon to battle once more.</p>
-<p><em>Flicker</em>. The stone walls of Kezk—and a lone figure soaring high above the fray. With a note of purity and grace, Ithuriel plunges from the sky, his wings shining with divine light. His radiant mace cleaves through the undead masses as, below, the Belviews rip and tear with ferocious tenacity. An undead direwolf roars and stumbles back as two massive wolves, their eyes alight with human intelligence, tackle it to the ground.</p>
-<p><em>Flicker</em>. Grim-faced figures, their blades burning with baneful fire, begin to turn back the lurching tide. Fiona Wachter stands above them, commanding their fury with deadly precision. Father Lucian stands beside her, a storm of swirling suns filling the air around them as the arrows of the dusk elves fall like a black cloud to meet their victims far below.</p>
-<p>You hear a child’s voice cut through the chaos—“The northern gate! It’s about to fall!"—and see Arabelle not far away, Luvash and Arrigal destroying any shadow that dares step too close. As her warning rings through the air, a pair of cloaked figures take to the skies—and Victor Vallakovich and Kasimir Velikov begin to rain fire down upon the monsters below.</p>
-<p><em>Flicker</em>. The villagers of Barovia fight fiercely from their barricades—and Dr. Rudolph van Richten shouts orders from the vanguard. As his blade cleaves an elegant dance, rusted nails and broken boards whirl through the air in an unseen wind, the spirit of Erasmus van Richten flickering through the streets. At the backlines, Father Donavich kneels before the wounded, his hands alight with golden life as Doru, fangs bared and claws outstretched, cuts down undead with fierce abandon.</p>
-<p>And then, as Ismark fights his way forward beside them, a shimmering, spectral figure joins the fray: the spirit of Sergei von Zarovich, his armor and sword shining like the sun. “To arms!" Ismark shouts, his deep voice ringing across the din. “For light! For freedom! For Barovia!"</p>
-<p><em>Flicker</em>. <em>Flicker</em>. <em>Flicker</em>. The visions blur together, forming a seamless whole. A radiant beacon that shines with glorious hope. Three shrines that shake with vengeful joy. A land that has heard your call, again and again—and listened.</p>
-<p>The visions melt away—and the castle returns once more.</p>
-<p>Strahd’s sneer has given way to a snarl, his face stony and cold. “This changes nothing," he whispers—and throws himself forward like a beast.</p>
-</div>
-
-In his Vampire phase, Strahd prefers to fight on and around <span class="citation">K57. Tower Roof (p. 72)</span>, using his ***night’s retreat*** to cling to its exterior walls before returning to the fray.
-## U5e. The Collapsing Castle
-When Strahd dies, read:
+### Visioni di vita
+Quando i punti ferita di Strahd nella fase del Soldato scendono a 0, leggi quanto segue, adattando il testo alla situazione attuale di ogni personaggio non giocante:
 
 <div class="description">
-<p>Strahd stiffens, then staggers back. A shudder seems to go through him, followed by a flash of surprise. Surprise turns to rage, and the keep trembles with fury, shaking dust from the ceiling.</p>
-<p>"I am the Ancient," he gasps. "I am the Land. I am—"</p>
-
-<p>The dark orbs of his eyes wither and sink into his skull as his corpse deteriorates before you, his limbs, then his torso, crumbling to ash. In a matter of moments, only bones, dust, and noble garb remain.</p>
-<p>Strahd von Zarovich, the dark lord of Barovia, is dead and gone.</p>
+<p>Con uno stridio tonante la spada di Strahd va in pezzi, e l'eco rimbalza sulle mura del castello. Strahd guarda l'elsa spezzata con disgusto e la lascia cadere. Si volta verso di voi con un ghigno.</p>
+<p>«Combattete bene», dice, con voce vuota e fredda. Le narici si ritraggono, fino a diventare fessure da pipistrello; gli artigli si allungano e le zanne si fanno ancora più aguzze. Gli occhi brillano di luce cremisi. «Ma la vostra fine è vicina, e i vostri amici sono di certo caduti».</p>
+<p>Alza una mano e schiocca le dita.</p>
+<p>Il mondo sfarfalla un'altra volta.</p>
+<p>Siete di nuovo a Soldav. Le nebbie gelide ribollono e il sangue macchia la neve. Di Diegia non c'è traccia, e il Popolo della Montagna ha ripiegato. I cadaveri coprono il cratere in ogni direzione. In lontananza vedete la battaglia che infuria ancora.</p>
+<p>E poi la prima linea si apre, e avanza una nuova schiera di guerrieri.</p>
+<p>Diona, in groppa a un possente alce, alza in aria la lancia di pietra e grida la sua sfida. Accanto a loro, torreggiante, la forma eterea del capo Kavan, in sella a un alce gigante spettrale, guida avanti un corteo di spiriti urlanti. Spiriti di bestie, un orso gigante, un'aquila enorme e un lupo famelico, falciano i non morti davanti a loro mentre la capo Diegia lancia un grido di raccolta. In alto, uno strillo che spacca il cielo trafigge l'aria, e la grande ombra del roc del Monte Ghakis piomba giù attraverso le nuvole.</p>
+<p><em>Un lampo</em>. Torna il Mago dei Vini, e i Martikov non sono più soli. Ombre lucenti, vestite di maglia scintillante, escono dall'oscurità per fare a pezzi l'orda grottesca. I corvi mannari gracchiano con una sfida esultante mentre due spiriti radiosi, le figure familiari di Vladimir Horngaard e di Sir Godfrey Gwilym, combattono fianco a fianco, guidando ancora una volta in battaglia l'Ordine del Drago d'Argento.</p>
+<p><em>Un lampo</em>. Le mura di pietra di Krezk, e una figura solitaria che vola alta sopra la mischia. Con una nota di purezza e di grazia, Ithuriel piomba dal cielo, le ali splendenti di luce divina. La sua mazza radiosa fende le masse di non morti mentre, più in basso, i Belview dilaniano e squarciano con feroce tenacia. Un lupo crudele non morto ruggisce e barcolla all'indietro quando due lupi enormi, con gli occhi accesi di un'intelligenza umana, lo atterrano.</p>
+<p><em>Un lampo</em>. Figure dal volto cupo, con le lame che ardono di un fuoco funesto, cominciano a respingere la marea barcollante. Fiona Wachter le domina dall'alto e ne dirige la furia con precisione letale. Accanto a lei c'è padre Lucian, e intorno a loro l'aria si riempie di una tempesta di soli vorticanti, mentre le frecce degli elfi del crepuscolo cadono come una nube nera sulle loro vittime, molto più in basso.</p>
+<p>Sentite una voce di bambina tagliare il caos («La porta nord! Sta per cedere!») e vedete Arabelle poco lontano, con Luvash e Arrigal che distruggono ogni ombra che osi avvicinarsi troppo. Mentre il suo avvertimento risuona nell'aria, due figure ammantate si levano in cielo: Victor Vallakovich e Kasimir Velikov cominciano a far piovere fuoco sui mostri sottostanti.</p>
+<p><em>Un lampo</em>. Gli abitanti di Barovia combattono con ferocia dalle barricate, e il dottor Rudolph van Richten grida ordini dalla prima linea. Mentre la sua lama danza elegante, chiodi arrugginiti e assi spezzate turbinano nell'aria spinti da un vento invisibile, e lo spirito di Erasmus van Richten guizza per le strade. Nelle retrovie padre Donavich è inginocchiato accanto ai feriti, con le mani accese di una luce dorata di vita, mentre Doru, zanne scoperte e artigli protesi, abbatte i non morti con furia sfrenata.</p>
+<p>E poi, mentre Ismark si fa strada combattendo accanto a loro, alla mischia si unisce una figura spettrale e scintillante: lo spirito di Sergei von Zarovich, con l'armatura e la spada che splendono come il sole. «All'armi!», grida Ismark, e la sua voce profonda risuona sopra il frastuono. «Per la luce! Per la libertà! Per Barovia!»</p>
+<p><em>Un lampo</em>. <em>Un lampo</em>. <em>Un lampo</em>. Le visioni si confondono fino a formare un tutto unico. Un faro radioso che splende di una speranza gloriosa. Tre santuari che tremano di una gioia vendicativa. Una terra che ha sentito il vostro richiamo, ancora e ancora, e gli ha dato ascolto.</p>
+<p>Le visioni si sciolgono, e il castello torna ancora una volta.</p>
+<p>Il ghigno di Strahd si è fatto ringhio, il viso duro e freddo. «Questo non cambia niente», sussurra, e si scaglia in avanti come una belva.</p>
 </div>
 
-One round after Strahd dies, read:
+Nella fase del Vampiro Strahd preferisce combattere su <span class="citation">K57. Tetto della torre (p. 72)</span> e intorno a esso, e usa la sua ***ritirata notturna*** per aggrapparsi alle pareti esterne prima di tornare nella mischia.
+## U5e. Il castello che crolla
+Quando Strahd muore, leggi:
 
 <div class="description">
-<p>The shroud of souls around the crystalline heart dissipates. Blood pours from the heart’s surface, its light flickering, then extinguishing as its crystalline mass melts away. The crimson light that illuminated the keep dims, then vanishes, leaving the tower a hollow, empty husk.</p>
-<p>The floor of the keep trembles—then lurches. For a moment, you feel near-weightless—then the sensation comes again as a terrible, deep <em>groan</em> echoes through the tower.</p>
-<p>Beyond the walls of the keep, you see it: the peaks of the mountains are rising once more.</p>
-<p>And the castle is falling.</p>
+<p>Strahd si irrigidisce, poi barcolla all'indietro. Un brivido sembra attraversarlo, seguito da un lampo di sorpresa. La sorpresa si fa rabbia, e il torrione trema di furia, facendo piovere polvere dal soffitto.</p>
+<p>«Io sono l'Antico», ansima. «Io sono la Terra. Io sono…»</p>
+
+<p>Le orbite scure degli occhi avvizziscono e sprofondano nel cranio mentre il cadavere si disfa davanti a voi: prima gli arti, poi il torso si sbriciolano in cenere. In pochi istanti non restano che ossa, polvere e abiti nobili.</p>
+<p>Strahd von Zarovich, l'oscuro signore di Barovia, è morto e sepolto.</p>
 </div>
 
-If any players remain on <span class="citation">K57. Tower Roof (p. 72)</span> or <span class="citation">K58. Bridge (p. 73)</span>, add:
+Un round dopo la morte di Strahd, leggi:
 
 <div class="description">
-<p>The sound of wings draws your eye to the east, where, in the distance, a black cloud steadily grows on the horizon. It’s only as it approaches that you realize that it’s a flock of hundreds of ravens—led by a single, blue-winged raven at their head.</p>
+<p>Il velo di anime intorno al cuore cristallino si dissolve. Dalla superficie del cuore sgorga sangue, e la sua luce sfarfalla, poi si spegne, mentre la massa cristallina si scioglie. La luce cremisi che illuminava il torrione si affievolisce, poi svanisce, e lascia la torre un guscio vuoto.</p>
+<p>Il pavimento del torrione trema, poi sobbalza. Per un attimo vi sentite quasi senza peso, poi la sensazione torna mentre un <em>gemito</em> profondo e terribile echeggia nella torre.</p>
+<p>Oltre le mura del torrione lo vedete: le cime delle montagne stanno risalendo.</p>
+<p>E il castello sta cadendo.</p>
 </div>
 
-The blue-winged raven is Muriel Vinshaw, joined by twenty **swarms of ravens**.
-
-In the rounds after the castle begins to fall, the following events occur:
-
-* On initiative count 20 of the first round, the castle lurches again, forcing each creature standing upon it that isn’t anchored to a surface to succeed on a DC 15 Dexterity (Acrobatics) check or fall prone and slide 10 feet to the south. If a creature would fall off the edge of the keep in this way, it can catch itself by succeeding on a DC 10 Strength or Dexterity saving throw. On a failure, the creature is caught instead by Sasha Ivliskova, who sensed Strahd’s death and emerged to aid them.
-* On initiative count 20 of the second round, the castle plummets 10 feet, forcing each creature standing upon it that isn’t anchored to a surface to fall 10 feet, take 1d6 bludgeoning damage, and fall prone. If she hasn’t already emerged from <span class="citation">K60. North Tower Peak (p. 74)</span>, Sasha Ivliskova descends the wall into <span class="citation">K20. Heart of Sorrow (p. 59)</span> using her ***spider climb***, but cries out when she’s hit by and pinned to the fourth-floor landing beneath a large chunk of rubble. (The rubble has AC 17, 10 hit points, immunity to poison, psychic, necrotic, and piercing damage, and resistance to fire damage. A player can also lift the rubble by succeeding on a DC 18 Strength check.)
-* On initiative count 20 of the third round, the castle, as well as any creatures standing upon it, fall 500 feet toward the Svalich Wood below.
-* On initiative count 20 of the fourth round, the castle, as well as any creatures standing upon it, fall 500 feet and crash in the Svalich Wood below. When this occurs, each creature still in or on the castle takes 242 (44d10) bludgeoning damage.
-
-If the players beckon to Muriel or otherwise catch the flock’s attention, the ravens arrive on initiative count 0 of the second round of combat, descending to carry the players—and any other characters they designate—away. (Although initially reluctant to take Sasha, Muriel is easily convinced to do so.)
-# U6. The Sun Rises
-The players and Muriel’s ravens can most safely land on the cliff that once held the western edge of Castle Ravenloft’s drawbridge, which has now fallen into the chasm between the cliff and the Pillarstone of Ravenloft. After returning to her human form, Muriel can share the following information:
-
-* Urwin sent her to gather raven allies in the eastern Svalich Woods, anticipating that “something bad" might happen soon.
-* After sending her first wave of ravens to Vallaki, Muriel received a report of undead massing on the western road, and immediately led the second wave westward herself, hoping to arrive before any fighting occurred.
-* Upon seeing the castle floating in the sky, she guided the flock toward it, concerned about what it might mean. (“I may not know much," she says, chuckling tiredly. “But I *do* know that castles aren’t supposed to fly.")
-
-If rescued, Sasha is deeply grateful to the players for doing so.
-
-Shortly after the players land, read:
+Se qualche giocatore è ancora su <span class="citation">K57. Tetto della torre (p. 72)</span> o su <span class="citation">K58. Ponte (p. 73)</span>, aggiungi:
 
 <div class="description">
-<p>Thick clouds fill the sky. Through the chilly mists, the land of Barovia is visible far below. There is peacefulness here. Rest has come to the valley for the first time you can remember.</p>
-<p>In the distance, the clouds begin to thin—and then, a single shaft of molten gold breaks the shadowed grey. It is followed by a second, then a third—and the clouds suddenly break open, letting shafts of perfect sunlight flood through.</p>
-<p>In the valley below, now bathed in the light of a glorious sunrise, the mists dissolve, the ashen husks of the Svalich Wood and the pale grey of the River Ivlis turning to greens, blues, reds, and yellows so deep and filled with life that they seem to burn, an inferno of vivid and beautiful color that takes your breath away.</p>
-<p>You can barely remember how long you’ve been in Barovia. Only now do you realize that you’d nearly forgotten what beauty looked like.</p>
-<p>You feel the wind sweep through your hair—no longer stagnant and cold, but warm, as for a moment, autumn’s icy chill recedes.</p>
-<p>Far below, in the tiny village of Barovia, you think you can see tiny figures stirring—moving through the streets, congregating, looking like so many ants from this far above.</p>
-<p>In the distance, you think you can hear music—at first of mortal instruments, then joined by a trio of ethereal female voices, ancient and serene and proud, intertwining with a fierceness and joy that you can scarcely comprehend.</p>
-<p>And then—all is quiet. All is whole. All is peace.</p>
+<p>Un rumore d'ali vi attira lo sguardo verso est, dove in lontananza una nube nera cresce costante all'orizzonte. Solo quando si avvicina vi accorgete che è uno stormo di centinaia di corvi, guidato da un unico corvo dalle ali azzurre.</p>
 </div>
 
-If Sasha is present, shortly after the sun rises, read:
+Il corvo dalle ali azzurre è Muriel Vinshaw, insieme a venti **sciami di corvi**.
+
+Nei round dopo che il castello comincia a cadere succedono questi eventi:
+
+* Al conteggio d'iniziativa 20 del primo round, il castello sobbalza di nuovo, e ogni creatura che ci sta sopra senza essere ancorata a una superficie deve superare una prova di Destrezza (Acrobazia) con CD 15, altrimenti cade prona e scivola di 3 metri verso sud. Se in questo modo una creatura cadrebbe oltre il bordo del torrione, può riuscire ad aggrapparsi superando un tiro salvezza su Forza o su Destrezza con CD 10. Se lo fallisce, la afferra invece Sasha Ivliskova, che ha sentito la morte di Strahd ed è uscita ad aiutarli.
+* Al conteggio d'iniziativa 20 del secondo round, il castello precipita di 3 metri, e ogni creatura che ci sta sopra senza essere ancorata a una superficie cade di 3 metri, subisce 1d6 danni contundenti e cade prona. Se non è già uscita da <span class="citation">K60. Cima della torre nord (p. 74)</span>, Sasha Ivliskova scende lungo la parete in <span class="citation">K20. Cuore della Tristezza (p. 59)</span> con il suo ***movimento del ragno***, ma lancia un grido quando un grosso pezzo di macerie la colpisce e la blocca sul pianerottolo del terzo piano. (Le macerie hanno CA 17 e 10 punti ferita, sono immuni ai danni da veleno, psichici, necrotici e perforanti e hanno resistenza ai danni da fuoco. Un giocatore può anche sollevarle superando una prova di Forza con CD 18.)
+* Al conteggio d'iniziativa 20 del terzo round, il castello, con tutte le creature che ci stanno sopra, precipita di 150 metri verso i Boschi di Svalich.
+* Al conteggio d'iniziativa 20 del quarto round, il castello, con tutte le creature che ci stanno sopra, precipita di 150 metri e si schianta nei Boschi di Svalich. Quando succede, ogni creatura ancora dentro o sopra il castello subisce 242 (44d10) danni contundenti.
+
+Se i giocatori chiamano Muriel o attirano comunque l'attenzione dello stormo, i corvi arrivano al conteggio d'iniziativa 0 del secondo round di combattimento e scendono a portare via i giocatori, e tutti gli altri personaggi che indicano. (All'inizio Muriel è restia a prendere anche Sasha, ma è facile convincerla.)
+# U6. Il sole sorge
+Il posto più sicuro dove i giocatori e i corvi di Muriel possono atterrare è la rupe che un tempo reggeva l'estremità ovest del ponte levatoio del Castello di Ravenloft, ora precipitato nel baratro fra la rupe e il Pilastro di Ravenloft. Ripresa la forma umana, Muriel può dire quanto segue:
+
+* Urwin l'aveva mandata a radunare alleati fra i corvi nella parte orientale dei Boschi di Svalich, prevedendo che presto potesse succedere «qualcosa di brutto».
+* Dopo aver mandato a Vallaki la prima ondata di corvi, Muriel ha ricevuto notizia di non morti che si ammassavano sulla strada occidentale, e ha subito guidato lei stessa la seconda ondata verso ovest, sperando di arrivare prima che cominciassero i combattimenti.
+* Quando ha visto il castello che galleggiava nel cielo, ci ha guidato lo stormo, preoccupata di che cosa potesse significare. («Sarò anche ignorante», dice con una risatina stanca. «Ma che i castelli non dovrebbero volare lo *so*».)
+
+Se è stata salvata, Sasha è profondamente grata ai giocatori.
+
+Poco dopo che i giocatori sono atterrati, leggi:
 
 <div class="description">
-<p>As the sun crests the eastern mountains, its rays pierce like golden arrows through the sky. The warm breeze sweeps across the clifftop, casting Sasha’s tattered veil aside and dancing through her hair.</p>
-<p>"It’s magnificent," she whispers—and, as flames wreathe her dress and her form dissolves into ash, smiles in long-awaited relief. With a contented sigh, she slowly exhales—and then she’s gone, dust carried away on the wind.</p>
+<p>Nuvole spesse riempiono il cielo. Attraverso le nebbie fredde, molto più in basso, si vede la terra di Barovia. Qui c'è pace. Per la prima volta da quando riuscite a ricordare, la valle riposa.</p>
+<p>In lontananza le nuvole cominciano a diradarsi, e poi un unico raggio d'oro fuso rompe il grigio ombroso. Lo segue un secondo, poi un terzo, e all'improvviso le nuvole si squarciano e lasciano dilagare fasci di luce solare perfetta.</p>
+<p>Nella valle sottostante, ora immersa nella luce di un'alba gloriosa, le nebbie si dissolvono, e i gusci cinerei dei Boschi di Svalich e il grigio pallido del fiume Ivlis si accendono di verdi, di azzurri, di rossi e di gialli così profondi e pieni di vita che sembrano bruciare, un incendio di colori vividi e bellissimi che vi toglie il fiato.</p>
+<p>Ricordate a stento da quanto tempo siete a Barovia. Solo adesso vi accorgete di aver quasi dimenticato che aspetto avesse la bellezza.</p>
+<p>Sentite il vento passarvi fra i capelli: non più stagnante e freddo, ma tiepido, perché per un attimo il gelo dell'autunno si ritira.</p>
+<p>Molto più in basso, nel minuscolo villaggio di Barovia, vi sembra di vedere delle figurine che si muovono: camminano per le strade, si radunano, e da quassù sembrano tante formiche.</p>
+<p>In lontananza vi sembra di sentire della musica: prima di strumenti mortali, poi accompagnata da tre voci femminili eteree, antiche, serene e fiere, che si intrecciano con una forza e una gioia che riuscite a stento a comprendere.</p>
+<p>E poi tutto tace. Tutto è intero. Tutto è pace.</p>
 </div>
 
-***Milestone.*** Defeating Strahd completes the final campaign milestone. When the sun rises, award each player 25,000 XP.
+Se Sasha è presente, poco dopo il sorgere del sole leggi:
+
+<div class="description">
+<p>Mentre il sole supera la cresta delle montagne orientali, i suoi raggi trafiggono il cielo come frecce d'oro. La brezza tiepida spazza la cima della rupe, scosta il velo lacero di Sasha e le danza fra i capelli.</p>
+<p>«È magnifico», sussurra, e mentre le fiamme le avvolgono l'abito e il suo corpo si dissolve in cenere, sorride con il sollievo atteso da tanto tempo. Con un sospiro appagato espira piano, e poi non c'è più: polvere portata via dal vento.</p>
+</div>
+
+***Traguardo.*** Sconfiggere Strahd completa l'ultimo traguardo della campagna. Quando sorge il sole, assegna a ogni giocatore 25.000 PE.
 
