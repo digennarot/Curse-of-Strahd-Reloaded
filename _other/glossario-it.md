@@ -1026,3 +1026,16 @@ Sezioni: 1. Il ritorno dal castello (1a La strana coppia, 1b La nuova Strada di 
 | *mist talisman* / Domains of Ravenloft | *talismano delle nebbie* / Domini di Ravenloft | |
 | rehabilitator (of monsters) | riabilitatore | Van Richten |
 | N4t. Cult Headquarters / N4j. Dining Room | N4t. Quartier generale del culto / N4j. Sala da pranzo | |
+
+## Changelog
+
+| Inglese | Italiano | Note |
+|---|---|---|
+| Patch / Hotfix / Update / Version | Patch / Hotfix / Aggiornamento / Versione | titoli delle voci; date all'italiana |
+| General Changes | Modifiche generali | |
+| Amended various typos, broken links, and errors in formatting | Corretti vari refusi, link rotti ed errori di formattazione | voce ricorrente |
+| Relettered arc | Cambiata la lettera dell'arco | |
+| rebalancing details | dettagli di ribilanciamento | |
+| *Mace of Life* | *Mazza della vita* | ⚠ oggetto citato solo nel Changelog |
+| fermentation vat | vasca di fermentazione | |
+| nomi e capacità eliminati (*weak grip*, *vengeful ward*, *Father of the Night*, Resurrection Madness, «The Trial», «The Black Carriage», «One Must Die», «Song for Elisabeth») | invariati in inglese | non esistono più nella guida: il vecchio nome resta, quello nuovo va in italiano |
