@@ -899,3 +899,44 @@ Aree del libro: N5 Recinto di Arasek; N9a Catapecchia di Kasimir; Q11 Cantina; K
 | Icicle Cascade | cascata di ghiaccioli | |
 
 Misure: 165 libbre = 82,5 kg (1 libbra = 0,5 kg, come nell'edizione italiana). Profondità a dadi: «14 (4d6) × 30 cm di neve».
+
+### Arco S
+
+Titolo: Arc S: A Sword of Sunlight → Arco S: Una spada di luce solare. Aree: S1 L'esterno del tempio (S1a La facciata, S1b La fenditura); S2 Le difese del tempio (S2a La sala d'ingresso; S2b L'atrio: Il belvedere, Il saluto di Heinrich, La richiesta di Heinrich, La navata, Le balconate; S2c La guarnigione ovest: La caserma ovest, Il posto di guardia ovest; S2d L'annesso ovest: Il deposito delle pergamene ovest; S2e La galleria ovest; S2f L'annesso est; S2g La galleria est; S2h La guarnigione est: La caserma est, Il posto di guardia est); S3 Le catacombe (S3a centrali, S3b ovest, S3c est); S4 Il tempio occidentale (S4a piano principale: La stanza delle pozioni, La stanza dell'architetto, La scala del tempio ovest, Il refettorio, Il santuario della tentazione; S4b piano inferiore: Il corridoio ovest, Gli alloggi ovest, Le cripte ovest, La cripta violata, La cripta di Harkotha, La cripta di Thangob); S5 Il tempio orientale (S5a piano principale: L'aula, La sala d'addestramento, Il santuario della paura, La scala del tempio est; S5b piano inferiore: Il corridoio est, Gli alloggi est, Le cripte sud-est, La cripta di Shalx, La cripta di Maverus, La cripta nord-est); S6 Le cripte del tempio (S6a La tesoreria ovest, S6b La tesoreria est, S6c La cripta d'ambra: Il sarcofago del Vampyr, L'albero, Il canale di sangue, La spada rubata, La vendetta di Patrina, Accendere la Spada del Sole); S7 Gli alloggi dell'arcimago (S7a La scala della saggezza, S7b La biblioteca dell'arcimago: L'ospitalità di Exethanter; S7c Gli alloggi dell'arcimago; S7d L'avvertimento di Exethanter; S7e La sala del rituale); S8 Lasciare il tempio.
+
+Aree del libro, Capitolo 13: X1 Facciata del tempio; X1a Fenditura stretta; X2 Ingresso; X2a / X2b Stanza di guardia; X3 Caserma vuota; X4 Belvedere; X5 Tempio dei segreti perduti; X5a Dio dei segreti; X5b Porta segreta; X5c Porte chiuse a chiave; X5d Riflessi d'ambra; X6 Annesso sud-est; X8 Corridoio superiore est; X9 Aula; X10 Annesso nord-est; X11 Balconata nord-est; X12 Santuario est; X13 Postazione est degli arcieri; X14 Scala nord; X15 Annesso sud-ovest; X16 Deposito delle pergamene ovest; X17 Corridoio superiore ovest; X18 Corridoio; X19 Deposito delle pozioni; X20 Stanza dell'architetto; X21 Scala ovest; X22 Annesso nord-ovest; X23 Balconata nord-ovest; X24 Santuario ovest; X25 Postazione ovest degli arcieri; X26 Alcova segreta; X27 Tana del lich; X28 Filatterio nascosto; X29 Stanza segreta; X30 Biblioteca conservata; X31 Catacombe centrali (X31a ovest, X31b est); X32 Corridoio inferiore est; X33 Cripte d'ambra (X33a Cripta di Shalx, X33b di Maverus, X33c Cripta orrenda, X33d Cripta violata, X33e di Harkotha, X33f di Thangob); X34 / X37 Camera da letto del mago; X35 Guardiano addormentato; X36 Corridoio inferiore ovest; X38 Stanza infestata; X39 Tesoreria saccheggiata; X40 Tesoreria sigillata; X41 Fenditura; X42 Cripta d'ambra. Amber Sarcophagi → Sarcofagi d'ambra; Sentient Magic Items → Oggetti magici senzienti; Extreme Cold → Freddo estremo; Rite of Stolen Life → Rito della vita rubata.
+
+| Inglese | Italiano | Note |
+|---|---|---|
+| flameskull / amber golem / arcanaloth | teschio infuocato / golem d'ambra / arcanaloth | |
+| wraith | wraith | ⚠ invariato come *wight*; *specter* resta *spettro*; il profilo di Patrina in appendice si chiama comunque «spettro vendicativo» |
+| shield guardian | guardiano dello scudo | ⚠ |
+| death / blue / green / red / gray slaad, slaad tadpole | slaad della morte / blu / verde / rosso / grigio, girino di slaad | |
+| chaos phage | fago del caos | |
+| nothic / quasit / toad | nothic / quasit / rospo | |
+| iron golem / amber construct | golem di ferro / costrutto d'ambra | |
+| coldlight walker | camminatore della luce fredda | ⚠ |
+| lesser star spawn emissary / star spawn hulk | emissario minore della progenie stellare / colosso della progenie stellare | ⚠ |
+| hell hound / bone devil / invisible stalker | segugio infernale / diavolo delle ossa / cacciatore invisibile | |
+| incubus / succubus | incubo (il demone) / succube | omografo di *nightmare* |
+| bulezau / maurezhi / cambion / barlgura / armanite | invariati | |
+| Society of Amber | Società dell'Ambra | |
+| journeyman (grado della società) | allievo anziano | ⚠ |
+| dark gift / disfiguring condition | oscuro dono / condizione deturpante | |
+| Stage Four / Five / Six | quarto / quinto / sesto stadio | |
+| Rite of Resilience | *Rito della Resistenza* | ⚠ rito di passaggio di Diona |
+| Rite of Conjured Divinity | *Rito della divinità evocata* | |
+| resonance level | livello di risonanza | *Spada del Sole* |
+| undead restoration / fire ray / possession / shapechanger | ripristino non morto / raggio di fuoco / possessione / mutaforma | |
+| Tenebrous, the Shadow That Was / Zhudun, the Corpse Star | Tenebrous, l'Ombra Che Fu / Zhudun, la Stella Cadavere | |
+| Demon Prince of Undeath / the Last Word | Principe Demoniaco della Non Morte / l'Ultima Parola | Orcus |
+| *staff of frost* / *eyes of minute seeing* / *tome of understanding* | *bastone del gelo* / *occhi della vista minuta* / *tomo della comprensione* | |
+| *sun blade* / *stone of good luck* | *lama del sole* / *pietra della fortuna* | |
+| *antipathy/sympathy* / *programmed illusion* / *fabricate* / *demiplane* | *antipatia/simpatia* / *illusione programmata* / *creazione* / *semipiano* | |
+| *arcane eye* / *banishment* / *plane shift* / *magic jar* / *cloudkill* | *occhio arcano* / *esilio* / *spostamento planare* / *giara magica* / *nube mortale* | |
+| *alter self* / *chain lightning* / *blink* / *true seeing* / *finger of death* | *alterare se stesso* / *fulmine a catena* / *intermittenza* / *visione del vero* / *dito della morte* | |
+| *enlarge/reduce* / *enhance ability* / *summon fiend* / *contagion* | *ingrandire/ridurre* / *potenziamento caratteristica* / *evoca immondo* / *contagio* | |
+| *reincarnate* / *dominate monster* / *legend lore* / *contact other plane* | *reincarnazione* / *dominare mostri* / *conoscenza delle leggende* / *contattare altri piani* | |
+| *shield of faith* / *protection from evil and good* / *burning hands* / *prestidigitation* | *scudo della fede* / *protezione dal bene e dal male* / *mani brucianti* / *prestidigitazione* | |
+
+Citazioni: *Icewind Dale: Rime of the Frostmaiden*, *Tomb of Annihilation*, *Van Richten's Guide to Fiends*, *The Eye of the World*, *A Wizard Abroad* lasciati in inglese.

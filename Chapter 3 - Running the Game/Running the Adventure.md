@@ -70,7 +70,7 @@ Il *Simbolo Sacro di Ravenkind* è stato rivisto così:
 </div>
 
 ## La Spada del Sole
-La *Spada del Sole* si può sintonizzare appena i giocatori la ottengono. Nello stato in cui la trovano, però, le manca la scintilla per accendersi. Per risanarla, devono legare alla spada un'anima radiosa. (Anche prima che la lama sia risanata, l'elsa conserva la propria coscienza e la capacità di comunicare per via telepatica.) Per altre informazioni vedi [[Arc S - A Sword of Sunlight#Igniting the Sunsword|Arco S: Una spada di luce solare]].
+La *Spada del Sole* si può sintonizzare appena i giocatori la ottengono. Nello stato in cui la trovano, però, le manca la scintilla per accendersi. Per risanarla, devono legare alla spada un'anima radiosa. (Anche prima che la lama sia risanata, l'elsa conserva la propria coscienza e la capacità di comunicare per via telepatica.) Per altre informazioni vedi [[Arc S - A Sword of Sunlight#Accendere la Spada del Sole|Arco S: Una spada di luce solare]].
 
 Tieni presente che la *Spada del Sole* è un oggetto magico senziente: come descritto in **Conflitto** (*Guida del Dungeon Master*, p. 216), può avanzare pretese verso chi la impugna o tentare di prenderne il controllo se agisce contro la sua volontà. (Succede con più probabilità se, per esempio, chi la impugna è affascinato da Strahd von Zarovich.)
 ## Il nemico di Strahd
