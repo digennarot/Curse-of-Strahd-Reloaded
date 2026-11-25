@@ -1,1042 +1,1042 @@
-*An adventure for five 2nd-level characters.*
+*Un'avventura per cinque personaggi di 2º livello.*
 
-> [!warning]+ **A Second-Level Adventure**
-> Remember that, unlike the original *Curse of Strahd* adventure, the players in this guide begin at 2nd level, rather than 1st level.
+> [!warning]+ **Un'avventura di secondo livello**
+> A differenza dell'avventura originale *La Maledizione di Strahd*, in questa guida i giocatori cominciano al 2º livello e non al 1º.
 
-The players begin in the town of Daggerford on the night before Highharvesttide, an annual feast and holiday celebration. The local inns are full for the night, and the players—vagabonds with little coin or company to speak of—find shelter in the stable of the Nightmare’s Bridle, a ramshackle tavern on the outskirts of town. 
+I giocatori cominciano nella città di Daggerford, la notte prima di Altoraccolto, la festa annuale che celebra la fine del raccolto. Le locande sono tutte piene e i personaggi, vagabondi con poche monete in tasca e nessuna compagnia degna di nota, trovano riparo nella stalla delle Briglie dell'Incubo, una taverna malandata alla periferia della città. 
 
-When the relics they carry sense the presence of Death House, however, the players are led through Daggerford’s rainy streets and into the house’s waiting threshold.
+Quando le reliquie che portano con sé avvertono la presenza della Casa della Morte, però, i giocatori vengono condotti per le strade di Daggerford sotto la pioggia, fino alla soglia della casa che li aspetta.
 
-Once inside, the players are trapped and told that a monster will hunt them down once it awakens. They have six hours to find it first and either appease it with a suitable sacrifice—or kill it. As they explore the house, they come to learn the house’s lurid history, as well as the true identity of the beast that lurks beneath.
+Appena entrati, i giocatori restano intrappolati e vengono a sapere che un mostro darà loro la caccia non appena si sveglierà. Hanno sei ore per trovarlo per primi e placarlo con un sacrificio adeguato, oppure ucciderlo. Esplorando la casa ne scoprono la storia torbida e la vera identità della bestia che si annida nei sotterranei.
 
-If the players kill the monster, the house begins to collapse, forcing them to flee or be lost in the rubble. Upon emerging, they find that their surroundings have changed, transporting them to the darkened land of Barovia.
+Se i giocatori uccidono il mostro, la casa comincia a crollare e li costringe a fuggire prima di restare sepolti sotto le macerie. Quando ne escono, il paesaggio intorno a loro è cambiato: sono stati trasportati nella terra oscura di Barovia.
 
-> [!lore]+ **The History of Death House**
-> See [[History of Barovia#Strahd’s First Followers|Strahd's First Followers]] for a full retelling of the gruesome history of Death House.
+> [!lore]+ **La storia della Casa della Morte**
+> Il racconto completo della macabra storia della Casa della Morte è in [[History of Barovia#I primi seguaci di Strahd|I primi seguaci di Strahd]].
 
-> [!info]+ **Arc A Foundry Module**
-> Want a fully-prepped Foundry module for ***Arc A: Escape From Death House***? Download the manifest for the official Reloaded module by Eidolon Publishing [here](https://github.com/Eidolon-Publishing/cosrl-escape-from-death-house/releases/latest/download/module.json)!
+> [!info]+ **Modulo Foundry per l'Arco A**
+> Vuoi un modulo Foundry già pronto per ***Arco A: Fuga dalla Casa della Morte***? Scarica [qui](https://github.com/Eidolon-Publishing/cosrl-escape-from-death-house/releases/latest/download/module.json) il manifest del modulo ufficiale di Reloaded pubblicato da Eidolon Publishing!
 # A1. Daggerford
 
-> [!warning]+ **Keep Your Workload Low**
-> *Curse of Strahd: Reloaded* has intentionally been written to minimize time spent away from the table, aiming to serve as a "zero-prep" campaign to the maximum extent possible. To make this possible, this guide has been designed to manipulate players into taking specific, curated paths through the adventure, even while providing intentional degrees of freedom that, while meaningful, will not substantially change the ultimate outcome of the campaign.
+> [!warning]+ **Riduci il lavoro di preparazione**
+> *Curse of Strahd: Reloaded* è stato scritto apposta per ridurre al minimo il tempo passato lontano dal tavolo, con l'obiettivo di essere, per quanto possibile, una campagna a preparazione zero. Per riuscirci la guida pilota i giocatori lungo percorsi precisi e studiati, pur lasciando loro margini di libertà voluti, che contano davvero ma non cambiano in modo sostanziale l'esito finale della campagna.
 > 
-> If you wish to minimize your workload, do your best to avoid making any changes or additions to this guide. Doing so is likely to alter how the players interface with and approach its narrative and gameplay, disturbing load-bearing pillars that may be difficult to notice without re-reading the full, complete guide multiple times. (For example, increasing distances between the Barovian settlements makes multiple quests in Acts II and III impossible to complete without a comprehensive overhaul of the entire campaign's timeline.) Any modifications—such as changes to deadlines, distances, statblocks, character motivations, or events—are made at the DM's own risk, and may lead to TPKs, wild divergences, or unsatisfying storylines.
-## A1a. The Nightmare’s Bridle
-If one or more of your players are using the [[Running the Adventure#Adventure Hooks|Barovian Relics]] hook, read the following text. Otherwise, proceed to [[#A2. Death House]] below.
+> Se vuoi ridurre al minimo il lavoro, evita il più possibile di modificare la guida o di aggiungervi qualcosa. Ogni intervento rischia di cambiare il modo in cui i giocatori si accostano alla storia e al gioco. Rischia anche di incrinare pilastri portanti che è difficile vedere senza rileggere più volte la guida per intero. (Allungare le distanze fra gli insediamenti baroviani, per esempio, rende impossibili diverse missioni degli Atti II e III, a meno di rivedere da cima a fondo la cronologia di tutta la campagna.) Qualsiasi modifica, che tocchi scadenze, distanze, profili, motivazioni dei personaggi o eventi, è a rischio e pericolo del DM e può portare a TPK, deviazioni imprevedibili o trame insoddisfacenti.
+## A1a. Le Briglie dell'Incubo
+Se uno o più giocatori usano l'aggancio [[Running the Adventure#Agganci|Reliquie baroviane]], leggi il testo seguente. Altrimenti passa direttamente ad [[#A2. Casa della Morte]], più avanti.
 
 <div class="description">
-<p>It’s the evening before Highharvesttide, and a storm has descended over Daggerford, with dark clouds pouring cascades of rain down upon the town below. Despite the weather, however, the town buzzes with anticipation of the impending falltime festival, each home filled with warmth and joy. Bright, cheery candlelight twinkles from every window, and the sounds of song and dance echo throughout the wet and muddy streets.</p>
-<p>Amidst the merriment, however, you stand apart. Neither locals nor visitors, you’re vagabonds—travelers, ghosts passing through an unfamiliar town. As laughter rings out from inns and homes, you face a simpler, starker dilemma: the quest for shelter.</p>
-<p>Every room in this town is claimed, every hearth filled to bursting, leaving you in the grip of the bitter storm. Until, that is, the owner of the ramshackle Nightmare’s Bridle tavern offers you a grudging reprieve: the hayloft above their stable. It’s nothing to boast about, leaving the biting cold and the lingering scent of musty hay as your only companions. But it’s a roof over your heads nonetheless—a small mercy on a night such as this.</p>
-<p>One by one, you find a home amidst the muck and hay. Overhead, rain lashes the stable, thunder punctuating the rhythmic drumming on the roof. Flashes of lightning lance across the skies, casting the stable’s interior in stark lights and darks. Rainwater drips steadily down through a leak in the roof, snaking its way across the floor until it pools in the corner.</p>
-<p>Here, then, you find yourselves: huddled in the darkness amongst strangers, while joy and mirth dance just out of reach.</p>
+<p>È la sera prima di Altoraccolto e su Daggerford si è abbattuto un temporale: nuvole scure rovesciano cascate di pioggia sulla città. Nonostante il tempo, la città freme in attesa della festa d'autunno ormai vicina e ogni casa è piena di calore e di allegria. Da ogni finestra brilla la luce vivace delle candele; per le strade bagnate e fangose risuonano canti e musiche da ballo.</p>
+<p>In mezzo a tanta festa, però, voi restate in disparte. Non siete gente del posto né forestieri in visita: siete vagabondi, viaggiatori, fantasmi di passaggio in una città sconosciuta. Mentre dalle locande e dalle case escono risate, voi avete un problema più semplice e più duro: trovare un riparo.</p>
+<p>Ogni stanza della città è occupata, ogni focolare affollato fino a scoppiare, e voi restate in balia del temporale gelido. Finché chi gestisce le Briglie dell'Incubo, una taverna malandata, non vi concede di malavoglia una tregua: il fienile sopra la stalla. Non c'è niente di cui vantarsi: a farvi compagnia restano soltanto il freddo pungente e l'odore stantio del fieno. Ma è pur sempre un tetto sopra la testa, una piccola grazia in una notte come questa.</p>
+<p>Uno dopo l'altro, vi sistemate fra il fango e il fieno. Sopra di voi la pioggia sferza la stalla e i tuoni scandiscono il tamburellare regolare sul tetto. I lampi squarciano il cielo e gettano dentro la stalla luci e ombre nette. Da una crepa nel tetto l'acqua gocciola senza sosta, serpeggia sul pavimento e si raccoglie in un angolo.</p>
+<p>Eccovi qui, dunque: rannicchiati nel buio fra sconosciuti, mentre la gioia e l'allegria danzano appena fuori dalla vostra portata.</p>
 </div>
 
-Invite the players to describe each character's appearance and countenance, how they’ve positioned themselves, and how they’ve arranged their belongings.
+Invita i giocatori a descrivere l'aspetto e l'espressione di ciascun personaggio, dove si sono sistemati e come hanno disposto le loro cose.
 
-When the players have finished introducing themselves, read:
+Quando i giocatori hanno finito di presentarsi, leggi:
 
 <div class="description">
-<p>A searing bolt of lightning rends the sky, illuminating the evening in a blinding flash of stark white. The booming thunder that follows is so loud it shakes the very ground beneath you, causing the timbers of the stable to creak and groan.</p>
-<p>The light of the strike lingers unnaturally, silhouetting small wisps of fog that twist through the air. A thick, ankle-deep mist gathers outside, shrouding the earth in a ghostly veil. Its tendrils curl invitingly, as though beckoning you to the darkness beyond.</p>
-<p>The rain continues to pelt the roof above, but the wind no longer howls, and the merry sounds of Daggerford’s festivities seem muted and distant. The horses in the stable beneath stir uneasily, their whinnies echoing loudly in the stillness. An uneasy feeling sweeps through the hayloft, a cold shiver that has nothing to do with the wind or rain.</p>
+<p>Un fulmine accecante squarcia il cielo e illumina la sera di un lampo bianchissimo. Il tuono che segue è così forte da far tremare il terreno sotto di voi, e le travi della stalla scricchiolano e gemono.</p>
+<p>La luce del fulmine indugia in modo innaturale e disegna sottili filamenti di nebbia che si attorcigliano nell'aria. Fuori si raccoglie una foschia densa, alta fino alle caviglie, che avvolge la terra in un velo spettrale. I suoi tentacoli si arricciano come un invito, quasi a chiamarvi verso l'oscurità.</p>
+<p>La pioggia continua a battere sul tetto, ma il vento non ulula più e i suoni allegri della festa di Daggerford sembrano attutiti e lontani. Sotto di voi, nella stalla, i cavalli si agitano inquieti e i loro nitriti risuonano forti nel silenzio. Un senso di disagio attraversa il fienile, un brivido freddo che non ha niente a che fare con il vento o con la pioggia.</p>
 </div>
 
-One by one, the players’ relics then react as follows, in the following order.
+A una a una, le reliquie dei giocatori reagiscono così, in quest'ordine.
 
-* ***Stone Crest.*** The crest emits a low hum and smells of pine needles and earthy soil, which both grow stronger when the crest is moved toward Death House.
-* ***Broken Blade.*** The blade emits a high-pitched hum and begins to tremble violently, spinning like a compass needle in the direction of Death House.
-* ***Dragon's Scale.*** The scale burns icy cold, one end glowing with a bright, silver light in the direction of Death House.
-* ***Sunrise Medallion.*** The medallion shines with a warm, golden glow, emitting rays of bright light in the direction of Death House.
-* ***Amber Shard.*** The shard glows with amber light and tugs its cord in the direction of Death House.
-* ***Wolf's Tooth.*** The tooth lengthens, glowing with silver moonlight, and tugs its cord in the direction of Death House.
-* ***Crumpled Page.*** The ink on the page glows with amber light, the runes reshaping themselves into a map that shows the page's location—and an arrow that guides toward Death House.
-* ***Tattered Banner.*** The sound of war-drums fills the air, and the banner blows in an unseen wind in the direction of Death House.
-* ***Electrum Coin.*** The coin lands on its edge and begins rolling across the muddy cobblestones in the direction of Death House.
-* ***Angel's Feather.*** The feather is swept away by an unseen wind, its barbs glimmering with golden light as it twirls through the streets toward Death House.
-* ***Raven's Feather.*** The feather is swept away by the wind, its shadow seeming to dance in the air, as it twirls through the streets toward Death House.
-* ***Wanderer's Scarf.*** The scarf is carried away by the wind, its patterns shifting and turning in the air as it whirls through the streets toward Death House.
+* ***Stemma di pietra.*** Lo stemma emette un ronzio basso e profuma di aghi di pino e di terra; i due odori si fanno più intensi quando lo si sposta verso la Casa della Morte.
+* ***Lama spezzata.*** La lama emette un ronzio acuto, comincia a tremare con violenza e gira come l'ago di una bussola, fino a puntare verso la Casa della Morte.
+* ***Scaglia di drago.*** La scaglia diventa gelida e l'estremità rivolta verso la Casa della Morte brilla di un'intensa luce argentea.
+* ***Medaglione dell'Alba.*** Il medaglione risplende di un caldo bagliore dorato e proietta raggi di luce intensa verso la Casa della Morte.
+* ***Frammento d'ambra.*** Il frammento brilla di luce ambrata e tira il suo cordino verso la Casa della Morte.
+* ***Dente di lupo.*** Il dente si allunga, brilla di una luce argentea come quella della luna e tira il suo cordino verso la Casa della Morte.
+* ***Pagina spiegazzata.*** L'inchiostro della pagina brilla di luce ambrata e le rune si ricompongono in una mappa che mostra dove si trova la pagina, con una freccia che indica la strada per la Casa della Morte.
+* ***Stendardo lacero.*** L'aria si riempie del rullo dei tamburi di guerra e lo stendardo sventola, mosso da un vento invisibile, verso la Casa della Morte.
+* ***Moneta d'electrum.*** La moneta cade di taglio e comincia a rotolare sui ciottoli fangosi verso la Casa della Morte.
+* ***Piuma d'angelo.*** Un vento invisibile porta via la piuma, che volteggia per le strade verso la Casa della Morte con le barbe che brillano di luce dorata.
+* ***Piuma di corvo.*** Il vento porta via la piuma, che volteggia per le strade verso la Casa della Morte mentre la sua ombra sembra danzare nell'aria.
+* ***Sciarpa del viandante.*** Il vento porta via la sciarpa, che turbina per le strade verso la Casa della Morte mentre i suoi disegni cambiano e si rimescolano nell'aria.
 
-If the players give chase, read:
+Se i giocatori le inseguono, leggi:
 
 <div class="description">
-<p>You emerge from the hayloft into the swirling mists beyond, the stones of Daggerford's streets slick and gleaming beneath your feet. The city’s laughter and cheer is now but a hollow echo, the brightness of its revelry drowned in the fog that encircles you. The taste of the cold, damp air is sharp on your tongue, and the sound of your own breath loud in your ears.</p>
-<p>Your relics call you forward, the mists parting to make way. You move slowly at first, then faster, your hearts pounding in your chest. As you venture deeper into the fog, each step you make feels heavier, each echo of thunder a beat in this relentless march.</p>
-<p>The fog swallows the town, buildings reduced to looming shadows, their shapes dancing and flickering in the storm's sporadic flashes of lightning. Rain drums a relentless rhythm, the patter of drops on cobblestone accompanying the distant, mournful peal of thunder. For brief moments, you can feel something else beneath your feet: the steady pounding of a deep and distant heartbeat.</p>
-<p>You're pulled left, then right, then left again, the relics guiding you through the murky labyrinth. Distance and direction have lost all meaning, the shadows around you contorting in twisted shapes. Your blood sings in your ears, and the air grows denser, electric, as the energy of the storm—of the chase—swells with reckless abandon.</p>
-<p>And then—the pounding stops.</p>
-<p>The thunder pauses.</p>
-<p>And the mist breaks.</p>
-<p>The fog pulls back like a curtain, revealing a tall, eerie silhouette that towers in the gloom before you.</p>
+<p>Uscite dal fienile nella nebbia che turbina. Sotto i vostri piedi i ciottoli delle strade di Daggerford sono viscidi e lucidi. Le risate e l'allegria della città sono ormai un'eco vuota e la luce dei festeggiamenti affoga nella nebbia che vi circonda. L'aria fredda e umida punge sulla lingua e il vostro stesso respiro vi rimbomba nelle orecchie.</p>
+<p>Le reliquie vi chiamano avanti e la nebbia si apre per farvi passare. All'inizio procedete piano, poi più in fretta, con il cuore che martella nel petto. Più vi addentrate nella nebbia, più ogni passo si fa pesante; ogni tuono diventa un colpo di tamburo in questa marcia implacabile.</p>
+<p>La nebbia inghiotte la città. Gli edifici si riducono a ombre incombenti, che danzano e tremolano ai lampi irregolari del temporale. La pioggia batte un ritmo incessante e il picchiettare delle gocce sui ciottoli accompagna il brontolio lontano e lugubre del tuono. Per brevi istanti sentite qualcos'altro sotto i piedi: il battito regolare di un cuore, profondo e lontano.</p>
+<p>Vi sentite tirare a sinistra, poi a destra, poi di nuovo a sinistra: le reliquie vi guidano in quel labirinto torbido. Distanza e direzione non hanno più senso e le ombre intorno a voi si contorcono in forme distorte. Il sangue vi canta nelle orecchie e l'aria si fa più densa, elettrica, mentre l'energia del temporale, e dell'inseguimento, cresce senza più freni.</p>
+<p>E poi, all'improvviso, il battito si ferma.</p>
+<p>Il tuono tace.</p>
+<p>E la nebbia si squarcia.</p>
+<p>La foschia si ritira come un sipario e rivela una sagoma alta e sinistra che torreggia nell'oscurità davanti a voi.</p>
 </div>
 
-This is **Death House.**
-# A2. Death House
-If one or more of your players are using the [[Running the Adventure#Adventure Hooks|Lost in the Mists]] hook, read the following text. Otherwise, proceed to [[#A2a. The Arrival]] below.
+Questa è la **Casa della Morte.**
+# A2. Casa della Morte
+Se uno o più giocatori usano l'aggancio [[Running the Adventure#Agganci|Perduti nelle Nebbie]], leggi il testo seguente. Altrimenti passa direttamente ad [[#A2a. L'arrivo]], più avanti.
 
 <div class="description">
-<p>Highharvesttide in Daggerford. It’s a time of joy and celebration, of hearth and home, of golden laughter ringing out into the night. But tonight, as a storm has swept over the town, you find yourselves apart from the warmth and revelry, drawn into the cold, dark embrace of mystery.</p>
-<p>As mercenaries, you're no strangers to danger or the unknown. But this—this is different. Over the past few weeks, whispers have spread throughout Daggerford of disappearances: ordinary folk, vanished without a trace.</p>
-<p>The only connection? A grand, old manor, known in hushed tones as “Death House.”</p>
-<p>Tonight, as the storm rages outside, you've been summoned to investigate this mysterious dwelling. The town crier’s proclamation still echoes in your ears, a bounty for any brave souls who dare to uncover the truth. Driven by a mix of greed, curiosity, and perhaps a touch of bravado, you stepped forward.</p>
-<p>Now, guided by the faint glow of your lanterns, you traverse the slick, fog-shrouded cobblestone streets. The distant merriment is a stark contrast to the eerie quiet around you. The world has been reduced to hushed whispers and the steady drumming of rain, a somber serenade to your perilous journey.</p>
-<p>And then, as if answering an unspoken summons, the mists before you part, revealing the grim silhouette of your destination: the “Death House.” Its dark, stone façade and towering spires loom ominously against the storm-tossed sky, a wordless challenge against your resolve.</p>
+<p>Altoraccolto a Daggerford. È tempo di gioia e di festa, di focolari e di case calde, di risate dorate che risuonano nella notte. Ma stanotte, mentre un temporale si abbatte sulla città, voi siete lontani dal calore e dai festeggiamenti, attirati nell'abbraccio freddo e oscuro di un mistero.</p>
+<p>Siete mercenari, e il pericolo e l'ignoto non vi sono estranei. Ma questa volta è diverso. Nelle ultime settimane per Daggerford sono corse voci di sparizioni: gente comune, svanita senza lasciare traccia.</p>
+<p>L'unico legame? Una vecchia, grande villa che la gente chiama sottovoce «la Casa della Morte».</p>
+<p>Stanotte, mentre fuori infuria il temporale, siete stati chiamati a indagare su questa dimora misteriosa. Il bando del banditore cittadino vi risuona ancora nelle orecchie: una taglia per chiunque abbia il coraggio di scoprire la verità. Spinti da un misto di avidità, curiosità e forse un pizzico di spavalderia, vi siete fatti avanti.</p>
+<p>Adesso, guidati dal debole chiarore delle lanterne, attraversate le strade lastricate, viscide e avvolte nella nebbia. L'allegria lontana stride con il silenzio inquietante che vi circonda. Il mondo si è ridotto a bisbigli e al tamburellare costante della pioggia, una serenata cupa che accompagna il vostro viaggio pericoloso.</p>
+<p>E poi, come in risposta a un richiamo muto, la nebbia davanti a voi si apre e rivela la sagoma tetra della vostra meta: la «Casa della Morte». La facciata di pietra scura e le guglie altissime incombono minacciose contro il cielo in tempesta, una sfida silenziosa alla vostra determinazione.</p>
 </div>
 
-## A2a. The Arrival
-### Entrance
-<span class="citation"><em>This scene takes place in Appendix B: Area 1.</em></span>
+## A2a. L'arrivo
+### Ingresso
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 1.</em></span>
 
-Read all players the following text:
+Leggi a tutti i giocatori il testo seguente:
 
 <div class=description>
-<p>A grand manor stands before you, four stories of cold, soot-stained stone, tall narrow windows, and high peaked roofs forming a picture of austere, chilling grandeur. Midway up, a narrow balcony juts out from the third floor, offering a grim perch from which to survey the surrounding grounds.</p>
-<p>The centerpiece of this imposing facade is the portico, a stone arch standing sentinel before the house's oaken doors. A wrought-iron gate fills this arch, its rusty hinges creaking as it sways in the wind.</p>
-<p>On either side of the gate, oil lamps hang from chains, their light dim and flickering, casting a sickly glow that barely pierces the surrounding fog.</p>
-<p>Beyond the gate, a set of sturdy oaken doors stand closed, framed by the gate and the lamps. The doors are old and weathered, their wood darkened by time, but they stand strong and proud—an unwelcome entrance to the house beyond.</p>
-<p>A gust of wind sweeps past you, carrying with it a whisper of cold dread that sends shivers down your spine.</p>
+<p>Davanti a voi si erge una grande villa: quattro piani di pietra fredda annerita dalla fuliggine, finestre alte e strette, tetti alti e spioventi, in un insieme di grandiosità austera e agghiacciante. A metà altezza uno stretto balcone sporge dal secondo piano, un appostamento lugubre da cui sorvegliare il terreno intorno.</p>
+<p>Al centro della facciata imponente c'è il portico, un arco di pietra che fa la guardia davanti al portone di quercia della casa. Un cancello di ferro battuto chiude l'arco e i suoi cardini arrugginiti cigolano mentre oscilla nel vento.</p>
+<p>Ai due lati del cancello pendono da catene lampade a olio dalla luce debole e tremolante, un chiarore malsano che a stento buca la nebbia intorno.</p>
+<p>Oltre il cancello, incorniciato dal cancello stesso e dalle lampade, c'è un robusto portone di quercia chiuso. È vecchio e consumato dalle intemperie, il legno scurito dal tempo, ma resta saldo e fiero: un ingresso poco ospitale verso la casa che sta dietro.</p>
+<p>Una folata di vento vi passa accanto e porta con sé un sussurro di terrore gelido che vi fa correre un brivido lungo la schiena.</p>
 </div>
 
-Any players who began with the ***Barovian Relics*** hook can now see the players who began with the ***Lost in the Mists*** hook, and vice-versa. (If any of the players’ relics flew or rolled to Death House—as with the ***wanderer’s scarf*** or the ***electrum coin***—they land on the house’s threshold, just beyond the portico.) The street is otherwise deserted.
+I giocatori che hanno cominciato con l'aggancio ***Reliquie baroviane*** ora vedono quelli che hanno cominciato con l'aggancio ***Perduti nelle Nebbie***, e viceversa. (Se una reliquia è arrivata alla Casa della Morte volando o rotolando, come la ***sciarpa del viandante*** o la ***moneta d'electrum***, si posa sulla soglia della casa, appena oltre il portico.) Per il resto la strada è deserta.
 
-The entrance beyond the portico is otherwise as described in <span class="citation">Entrance (p. 212)</span>.
+Per il resto l'ingresso oltre il portico è come descritto in <span class="citation">Ingresso (p. 212)</span>.
 
-> [!lore]+ **Strahd & the Cult**
+> [!lore]+ **Strahd e il culto**
 >
-> The cult of Death House earned no love from Strahd in life. But in death, the two parties have come to an informal, unspoken understanding. 
+> In vita, il culto della Casa della Morte non godeva delle simpatie di Strahd. Nella morte, però, le due parti sono arrivate a un'intesa informale e tacita. 
 >
-> In exchange for the permission to roam far afield from the misty land of Barovia to claim sacrifices, Death House is bound to return to the valley after each hunting excursion. Should any adventurers successfully escape the house's bloodied altar, they inevitably emerge into Strahd's domain—assuring him of a worthy crop of prey to pursue. 
-### Main Hall
-<span class="citation"><em>This scene takes place in Appendix B: Area 2.</em></span>
+> In cambio del permesso di spingersi lontano dalla terra nebbiosa di Barovia per procurarsi vittime, la Casa della Morte è obbligata a tornare nella valle dopo ogni battuta di caccia. Se degli avventurieri riescono a sfuggire all'altare insanguinato della casa, sbucano immancabilmente nel dominio di Strahd, che così si assicura un buon raccolto di prede da inseguire. 
+### Salone principale
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 2.</em></span>
 
-When the players pass through Death House’s threshold, any Barovian relics they carry cease to be active. (For example, the *sunrise medallion* ceases to glow.)
+Quando i giocatori varcano la soglia della Casa della Morte, le reliquie baroviane che portano con sé smettono di essere attive. (Il *Medaglione dell'Alba*, per esempio, smette di brillare.)
 
-The main hall is largely as described in <span class="citation">Main Hall (p. 212)</span> but now contains a grandfather clock, which is placed in the circular space at the base of the stairs.
+Il salone principale è più o meno come descritto in <span class="citation">Salone principale (p. 212)</span>, ma ora contiene anche una pendola, sistemata nello spazio circolare ai piedi delle scale.
 
-Instead of a longsword, the portrait of the Durst family from <span class="citation">Upper Hall (p. 213)</span> now hangs above the fireplace. In the portrait, Thorn is holding a smiling doll wearing a yellow lace dress. A plaque beneath the portrait reads: *Mr. Gustav and Mrs. Elisabeth Durst, with their two children, Rosavalda and Thornboldt.*<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup>
+Sopra il camino, al posto della spada lunga, ora è appeso il ritratto della famiglia Durst descritto in <span class="citation">Corridoio superiore (p. 213)</span>. Nel ritratto Thorn tiene in braccio una bambola sorridente con un vestito di pizzo giallo. Una targa sotto il ritratto dice: *Il signor Gustav e la signora Elisabeth Durst, con i due figli, Rosavalda e Thornboldt.*<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup>
 
 ![[The Durst Family.png]]
-<span class="credit">"The Durst Family" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">«The Durst Family» di Caleb Cleveland. Sostienilo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-Shortly after all of the characters enter the main hall, the front door slams shut, extinguishing all lights in the house. The sound of the rain outside completely vanishes, leaving the house eerily silent. 
+Poco dopo che tutti i personaggi sono entrati nel salone, il portone d'ingresso si chiude di colpo e tutte le luci della casa si spengono. Il rumore della pioggia scompare del tutto e la casa resta immersa in un silenzio inquietante. 
 
-Bloody letters then begin appearing on the southern wall, just above the marble staircase. They read as follows:
+Poi sulla parete sud, proprio sopra lo scalone di marmo, cominciano a comparire lettere di sangue. Dicono così:
 
 <div class="description" style="text-align: center; padding: 15px;">
-<em>Beneath this dwelling lurks a beast</em>
+<em>Sotto la casa una bestia è in attesa,</em>
 <br>
-<em>Who hungers for a bloody feast.</em>
+<em>di sangue e banchetti la brama l'ha presa.</em>
 <br>
-<em>He sleeps until the midnight chime</em>
+<em>Dorme finché mezzanotte non suona,</em>
 <br>
-<em>Then wakes to feed his dark design.</em>
+<em>poi si risveglia e la fame la sprona.</em>
 <br>
-<em>If morsels seek to flee their doom,</em>
+<em>Se i bocconi vogliono il fato scampare,</em>
 <br>
-<em>Then bring toward his secret room</em>
+<em>alla sua stanza segreta dovranno portare</em>
 <br>
-<em>A gift to soothe his savage mood</em>
+<em>un dono che plachi il suo animo fiero,</em>
 <br>
-<em>But mind the servants of his brood.</em>
+<em>ma attenti ai servi del suo nido nero.</em>
 </div>
 
-The grandfather clock then strikes six o’clock.
+Poi la pendola batte le sei.
 
-> [!info]+ **Time in Death House**
+> [!info]+ **Il tempo nella Casa della Morte**
 >
-> When the clock strikes six, place three six-sided dice on the table in front of the players, with each side showing a six. Each pip on the dice represents twenty minutes until midnight.
+> Quando la pendola batte le sei, metti sul tavolo davanti ai giocatori tre dadi a sei facce, tutti con il sei rivolto verso l'alto. Ogni punto sui dadi rappresenta venti minuti che mancano alla mezzanotte.
 >
-> As the players explore the house, tick this dice clock downward to indicate the passage of time, always starting with the die showing the lowest number. If the lowest die shows a one, you can tick it down to “zero” by removing it from the group instead.
+> Mentre i giocatori esplorano la casa, fai scendere questo orologio di dadi per segnare il passare del tempo, cominciando sempre dal dado con il numero più basso. Se il dado più basso mostra un uno, per portarlo a «zero» toglilo dal gruppo.
 >
-> The dice clock counts down as follows to represent the total time the players have spent in the house:
-> - Each time the players enter a new floor of the house or dungeon, tick the dice clock down by one.
-> - Each time the players make a Perception or Investigation check to search an entire room, tick the dice clock down by one.
-> - Each time the players complete a short rest, tick the dice clock down by three.
+> L'orologio di dadi scende così, per rappresentare il tempo complessivo che i giocatori passano nella casa:
+> - Ogni volta che i giocatori entrano in un nuovo piano della casa o dei sotterranei, fai scendere l'orologio di uno.
+> - Ogni volta che i giocatori fanno una prova di Percezione o di Indagare per perquisire un'intera stanza, fai scendere l'orologio di uno.
+> - Ogni volta che i giocatori completano un riposo breve, fai scendere l'orologio di tre.
 >
-> A full hour passes each time a die decreases from 4 to 3, or each time a die decreases from 1 to 0. The grandfather clock in the **Main Hall** sounds on the hour, every hour, and can be heard throughout the house and dungeon.
+> Passa un'ora intera ogni volta che un dado scende da 4 a 3 o da 1 a 0. La pendola del **Salone principale** suona allo scoccare di ogni ora e si sente in tutta la casa e nei sotterranei.
 >
-> When the clock strikes midnight, the **flesh mound** in the **Ritual Chamber** awakens and makes a beeline for the players, exiting through the **Hidden Trapdoor** into the **Den of Wolves** if necessary to reach them. At least one minute should pass between the time the mound wakes up and the time that it first reaches the players, nullifying its *heavy sleeper* feature and allowing it to use its *multiattack* actions.
+> Quando la pendola batte la mezzanotte, il **cumulo di carne** nella **Sala del rituale** si sveglia e punta dritto sui giocatori, passando se serve dalla **Botola nascosta** nella **Tana dei lupi** per raggiungerli. Fra il momento in cui il cumulo si sveglia e quello in cui raggiunge i giocatori deve passare almeno un minuto: così il suo tratto *sonno pesante* non ha più effetto e il cumulo può usare l'azione *multiattacco*.
 
-> [!info]+ **Resting in Death House**
+> [!info]+ **Riposare nella Casa della Morte**
 >
-> Due to their midnight deadline, it is impossible for the players to take a long rest in Death House. However, the players might still need to take a short rest. Each time they do so in the main house, they experience one or more of the following hauntings:
+> Con la scadenza della mezzanotte, i giocatori non possono fare un riposo lungo nella Casa della Morte. Potrebbero però avere bisogno di un riposo breve. Ogni volta che lo fanno nella casa vera e propria, assistono a una o più di queste manifestazioni:
 >
-> - A player hears rats scrabbling up and down the spaces between the walls. A thick, choking stench of rot seeps into the room.
-> - A player hears the sound of a woman’s humming emanating from the opposite side of a closed door. If the door is cracked open, a cold blue eye stares back before vanishing.
-> - A player hears footsteps descending from the attic, which stop outside of their door before moving away to the library. Soon after, a grinding noise can be heard coming from the library—the sound of the secret door.
-> - A player hears maniacal laughter echoing from far below the house.
-> - A player hears a pleading female voice in their right ear that swears that “it isn’t his.” Another, colder female voice in the player’s left ear scoffs and says, "You would say that, you little *harlot*."
+> - Un giocatore sente dei topi che zampettano su e giù nelle intercapedini dei muri. Un fetore denso e soffocante di marcio penetra nella stanza.
+> - Un giocatore sente una donna che canticchia a bocca chiusa dall'altra parte di una porta chiusa. Se la porta viene socchiusa, un gelido occhio azzurro ricambia lo sguardo e poi svanisce.
+> - Un giocatore sente dei passi che scendono dalla soffitta, si fermano davanti alla sua porta e poi si allontanano verso la biblioteca. Poco dopo dalla biblioteca arriva uno stridore: è il rumore della porta segreta.
+> - Un giocatore sente una risata folle che riecheggia dalle profondità sotto la casa.
+> - Un giocatore sente nell'orecchio destro una voce femminile che supplica e giura che «non è suo». Nell'orecchio sinistro un'altra voce femminile, più fredda, risponde con disprezzo: «Lo diresti comunque, piccola *sgualdrina*».
 
-A player who opens any outside-facing door or curtain in Death House, or who exits onto any balcony, finds that the exterior of the house has been surrounded by thick, fleshy tendrils. Although the tendrils can be damaged, more grow back swiftly to replace them, sealing the players inside. A player who inspects the tendrils finds that they appear to be extruding from beneath the house.
-## A2b. The First Floor
-### Cloakroom
-<span class="citation"><em>This scene takes place in Appendix B: Area 2.</em></span>
+Chi apre una porta o una tenda che dà sull'esterno della Casa della Morte, o esce su un balcone, scopre che la casa è circondata da spessi tentacoli di carne. I tentacoli si possono danneggiare, ma ne ricrescono subito altri al loro posto, che tengono i giocatori sigillati dentro. Chi esamina i tentacoli scopre che sembrano spuntare da sotto la casa.
+## A2b. Il pianterreno
+### Guardaroba
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 2.</em></span>
 
-A player who investigates the cloakroom adjoining the Main Hall can observe an envelope poking from the pocket of one of the cloaks. The envelope, which is addressed to Lady Lovina Wachter, contains an invitation. It reads:
+Un giocatore che esamina il guardaroba accanto al Salone principale può notare una busta che spunta dalla tasca di uno dei mantelli. La busta è indirizzata a Lady Lovina Wachter e contiene un invito. Dice:
 
 <div class="description" style="text-align:center; padding: 15px;">
-You are cordially invited to join 
+Siete cordialmente invitati a unirvi a 
 <div style="height: 3px;"></div>
-<strong>MR. GUSTAV & ELISABETH DURST</strong>
+<strong>IL SIGNOR GUSTAV E LA SIGNORA ELISABETH DURST</strong>
 <div style="height: 3px;"></div>
-for a celebration of the one-year anniversary of the Durst Mill.
+per festeggiare il primo anniversario del Mulino Durst.
 <div style="height: 3px;"></div>
-<strong><em>The Durst Residence, Barovia Village</em></strong>
+<strong><em>Residenza Durst, villaggio di Barovia</em></strong>
 <div style="height: 3px;"></div>
-6 o'clock p.m.
+Ore 18
 <br>
-13 Neyavr, 348
+13 Neyavr 348
 <div style="height: 3px;"></div>
-<em>Dinner and refreshments to be served.</em>
+<em>Seguiranno cena e rinfresco.</em>
 </div>
 
 ![[Durst Invitation.jpg]]
-<span class="credit">"Durst Invitation" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">«Durst Invitation» di Caleb Cleveland. Sostienilo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-### Den of Wolves
-<span class="citation"><em>This scene takes place in Appendix B: Area 3.</em></span>
+### Tana dei lupi
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 3.</em></span>
 
-This room is largely as described in <span class="citation">Den of Wolves (p. 212)</span>. As the players enter this room, read:
+La stanza è più o meno come descritta in <span class="citation">Tana dei lupi (p. 212)</span>. Quando i giocatori ci entrano, leggi:
 
 <div class="description">
-<p>As you crack the door to this room open, you catch a glimpse of something feral beyond: an amber eye that flashes in the darkness, and a bestial muzzle curled into a snarl.</p>
+<p>Mentre socchiudete la porta, intravedete qualcosa di selvatico al di là: un occhio ambrato che lampeggia nel buio e un muso bestiale arricciato in un ringhio.</p>
 </div>
 
-If the players proceed, read:
+Se i giocatori proseguono, leggi:
 
 <div class="description">
-<p>The door cracks open, revealing a gray-furred wolf frozen into place. It's only a moment before you realize that it's not moving—and another before you realize that it's not alone.</p>
-<p>This oak-paneled room looks like a hunter's den. Mounted above the fireplace is a stag's head, and positioned around the outskirts of the room are two additional stuffed wolves—a large gray wolf and a smaller brown wolf.</p>
-<p>Two padded chairs draped in animal furs face a hearth, with an oak table between them supporting an assortment of objects. A chandelier hangs above a cloth-covered table surrounded by four chairs, and two cabinets stand against the walls. A pair of small toys seems to have been forgotten beneath one of the chairs.</p>
+<p>La porta si apre e rivela un lupo dal pelo grigio, immobile. Vi basta un istante per capire che non si muove, e un altro per capire che non è solo.</p>
+<p>La stanza, rivestita di pannelli di quercia, sembra il rifugio di un cacciatore. Sopra il camino è appesa una testa di cervo e lungo le pareti ci sono altri due lupi impagliati, un grosso lupo grigio e un lupo bruno più piccolo.</p>
+<p>Due poltrone imbottite e coperte di pellicce sono rivolte verso il focolare, con in mezzo un tavolo di quercia su cui sono posati oggetti di ogni genere. Un lampadario pende sopra un tavolo coperto da una tovaglia e circondato da quattro sedie, e due armadietti sono addossati alle pareti. Sotto una delle sedie sembrano essere stati dimenticati due piccoli giocattoli.</p>
 </div>
 
-The discarded toys are small, plush gray wolves, whose threadbare coats show evidence of heavy mending and patchwork. Clumsy stitchwork on their stomachs reads ROSE and THORN, respectively.
+I giocattoli abbandonati sono due lupacchiotti grigi di pezza, con il pelo liso, rammendato e rattoppato più volte. Sulla pancia, cuciture goffe dicono ROSE su uno e THORN sull'altro.
 
-In addition to its other contents, the east cabinet contains five silvered crossbow bolts mixed in with the other sixty bolts. Meanwhile, the north cabinet also contains a mounted piece of child's needlework that depicts a boy and girl holding the hands of a young woman, alongside clumsily stitched words that read FOR MISS KLARA. The young woman's face has been slashed and cut out.
+Oltre al resto, l'armadietto est contiene cinque quadrelli argentati mescolati agli altri sessanta. L'armadietto nord contiene anche un ricamo infantile incorniciato che mostra un bambino e una bambina che tengono per mano una giovane donna, con una scritta cucita alla buona: PER LA SIGNORINA KLARA. Il volto della giovane donna è stato squarciato e ritagliato.
 
-The first time that no players are looking at them, the three taxidermied wolves move. When the players next look at them, the large gray wolf is standing beside the smaller brown wolf, and the first gray wolf has turned its snarl toward the others.
+La prima volta che nessun giocatore li guarda, i tre lupi impagliati si muovono. Quando i giocatori tornano a guardarli, il grosso lupo grigio è accanto al lupo bruno più piccolo e il primo lupo grigio ha rivolto il ringhio verso gli altri due.
 
-A player that succeeds on a DC 12 Intelligence (Nature) check can identify the large gray wolf as male and the other two as female.
-### Dining Room
-<span class="citation"><em>This scene takes place in Appendix B: Area 5.</em></span>
+Un giocatore che supera una prova di Intelligenza (Natura) con CD 12 riconosce che il grosso lupo grigio è un maschio e gli altri due sono femmine.
+### Sala da pranzo
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 5.</em></span>
 
-Players that approach this door can hear the muffled sound of a lively dinner feast, including clinking glasses, quiet laughter, and distant conversation. If the players open or knock on the door, however, the room falls silent, leaving only the stillness and the cold grandeur of the room beyond.
+I giocatori che si avvicinano a questa porta sentono i suoni attutiti di una cena animata: tintinnio di bicchieri, risate sommesse, conversazioni lontane. Se i giocatori aprono la porta o bussano, però, la stanza ammutolisce e resta soltanto l'immobilità fredda e sontuosa della sala.
 
-This room is largely as described in <span class="citation">Dining Room (p. 213)</span>. When the players enter it, read:
+La stanza è più o meno come descritta in <span class="citation">Sala da pranzo (p. 213)</span>. Quando i giocatori ci entrano, leggi:
 
 <div class="description">
-<p>You enter into a wood-paneled dining room. The centerpiece is a carved mahogany table surrounded by eight high-backed chairs with sculpted armrests and cushioned seats. A crystal chandelier hangs above the table, which is set with resplendent silverware and crystal glasses polished to a dazzling shine. Mounted above the marble fireplace is a mahogany-framed painting of an alpine vale.</p>
-<p>The wall paneling is carved with elegant images of deer among the trees. Red silk drapes cover the windows, and a tapestry hangs from an iron rod bolted to the south wall.</p>
-<p>The table groans beneath the weight of a delicious-looking feast. Exquisite dishes lay on grand platters: succulent roasted poultry glazed with a shimmering honey sauce, perfectly grilled cuts of beef still steaming lightly, a variety of cheeses and fresh fruits, and freshly baked breads giving off a comforting aroma. </p>
+<p>Entrate in una sala da pranzo rivestita di legno. Al centro c'è un tavolo di mogano intagliato circondato da otto sedie dallo schienale alto, con i braccioli scolpiti e i sedili imbottiti. Sopra il tavolo pende un lampadario di cristallo; la tavola è apparecchiata con posate d'argento splendenti e bicchieri di cristallo lucidati fino a scintillare. Sopra il camino di marmo è appeso un dipinto con la cornice di mogano che ritrae una valle alpina.</p>
+<p>I pannelli alle pareti sono intagliati con eleganti figure di cervi fra gli alberi. Tende di seta rossa coprono le finestre e un arazzo pende da un'asta di ferro fissata alla parete sud.</p>
+<p>Il tavolo geme sotto il peso di un banchetto dall'aspetto delizioso. Piatti squisiti sono disposti su grandi vassoi: pollame arrosto succulento, glassato con una salsa di miele luccicante, tagli di manzo grigliati alla perfezione che fumano ancora appena, formaggi e frutta fresca di ogni tipo e pane appena sfornato dal profumo confortante. </p>
 </div>
 
-A player who partakes in the food suffers no ill effects.
-### Kitchen and Pantry
-<span class="citation"><em>This scene corresponds to Appendix B: Area 4.</em></span>
+Un giocatore che assaggia il cibo non subisce nessun effetto negativo.
+### Cucina e dispensa
+<span class="citation"><em>Questa scena corrisponde all'Appendice B: Area 4.</em></span>
 
-This room is largely as described in <span class="citation">Kitchen and Pantry (p. 213)</span>. When the players enter this room, read:
+La stanza è più o meno come descritta in <span class="citation">Cucina e dispensa (p. 213)</span>. Quando i giocatori ci entrano, leggi:
 
 <div class="description">
-<p>You enter a tidy kitchen, with dishware, cookware, and utensils neatly placed on shelves. A worktable has a cutting board and rolling pin atop it. A stone, dome-shaped oven stands near the east wall, its bent iron stovepipe connecting to a hole in the ceiling. Behind the stove and to the left is a thin door.</p>
-<p>In the front right-hand corner of the room stands a small wooden door set into the wall.</p>
+<p>Entrate in una cucina ordinata, con stoviglie, pentole e utensili ben sistemati sugli scaffali. Su un tavolo da lavoro ci sono un tagliere e un mattarello. Vicino alla parete est c'è un forno di pietra a cupola, con una canna fumaria di ferro piegata che arriva fino a un foro nel soffitto. Dietro la stufa, sulla sinistra, c'è una porta sottile.</p>
+<p>Nell'angolo anteriore destro della stanza c'è una porticina di legno incassata nel muro.</p>
 </div>
 
-If the players inspect the cookware, they find that the largest kitchen knife is missing.
+Se i giocatori esaminano le pentole e gli utensili, scoprono che manca il coltello da cucina più grande.
 
-A player who enters the pantry finds that one of the shelves contains a set of beautiful decorative plates painted with pictures of windmills. One of the plates appears to have been knocked off of the shelf and lies in shattered pieces on the floor, leaving an empty spot in the row of plates.
+Un giocatore che entra nella dispensa trova su uno degli scaffali una serie di bei piatti decorativi dipinti con mulini a vento. Uno dei piatti sembra essere caduto dallo scaffale e giace in frantumi sul pavimento: nella fila è rimasto un vuoto.
 
-A few inches behind the empty spot on the shelf sits an antique copper pot, its lid slightly ajar. Peeking out from beneath the lid is the cork of what appears to be a bottle of wine.
+Qualche centimetro dietro il posto vuoto sullo scaffale c'è un'antica pentola di rame con il coperchio leggermente sollevato. Da sotto il coperchio spunta il tappo di quella che sembra una bottiglia di vino.
 
-A player who opens the pot finds it to contain a bottle of wine, a folded piece of delicate lace, a vial of a brownish dried powder, and a bouquet of wilted sunflowers tied to a small scroll of parchment.
+Un giocatore che apre la pentola ci trova una bottiglia di vino, un pezzo di pizzo delicato piegato, una fiala di polvere secca brunastra e un mazzo di girasoli appassiti legato a un piccolo rotolo di pergamena.
 
-* The wine's label shows that it is from the Wizard of Wines winery and provides the name of the wine: Champagne du le Stomp. (A player that drinks the wine finds it to have turned to vinegar, as though it has magically aged centuries in mere moments.)
-* The piece of lace bears the initial "K" sewn onto one corner. 
-* A successful DC 14 Intelligence (Nature) check identifies the brown powder as dried silphium, a contraceptive herb. 
-* The parchment scroll reads: "For the light of my life. —G."
+* L'etichetta del vino indica che viene dalla cantina del Mago dei Vini e riporta il nome del vino: Champagne du le Stomp. (Un giocatore che beve il vino scopre che è diventato aceto, come se fosse invecchiato di secoli in pochi istanti grazie alla magia.)
+* Il pezzo di pizzo ha l'iniziale «K» ricamata in un angolo. 
+* Una prova di Intelligenza (Natura) con CD 14 superata permette di riconoscere nella polvere bruna del silfio essiccato, un'erba anticoncezionale. 
+* Sulla pergamena c'è scritto: «Alla luce della mia vita. G.»
 
-If the players read the note, one of the knives in the kitchen flies off of its shelf and embeds itself in the opposite wall.
-## A2c. The Second Floor
-### Upper Hall
-<span class="citation"><em>This scene takes place in Appendix B: Area 6.</em></span>
+Se i giocatori leggono il biglietto, uno dei coltelli della cucina vola via dallo scaffale e si conficca nella parete di fronte.
+## A2c. Il primo piano
+### Corridoio superiore
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 6.</em></span>
 
-This room is largely as described in <span class="citation">Upper Hall (p. 213)</span>. When the players enter this room, read:
+La stanza è più o meno come descritta in <span class="citation">Corridoio superiore (p. 213)</span>. Quando i giocatori ci entrano, leggi:
 
 <div class="description">
-<p>Unlit oil lamps are mounted on the walls of this elegant hall. Hanging above the mantelpiece is a longsword with a windmill cameo worked into the hilt.</p>
-<p>Standing suits of armor flank wooden doors in the east and west walls. Each suit of armor clutches a spear and has a visored helm shaped like a wolf's head. The doors between them are carved with images of dancing youths.</p>
-<p>The red marble staircase continues its upward spiral to a third floor, a cold draft whispering down from above.</p>
+<p>Alle pareti di questo elegante corridoio sono fissate lampade a olio spente. Sopra la mensola del camino è appesa una spada lunga con un cammeo a forma di mulino a vento incastonato nell'elsa.</p>
+<p>Ai lati delle porte di legno nelle pareti est e ovest stanno armature complete in piedi. Ognuna stringe una lancia e porta un elmo con la visiera a forma di testa di lupo. Le porte fra le armature sono intagliate con figure di giovani che danzano.</p>
+<p>Lo scalone di marmo rosso prosegue la sua spirale verso il piano di sopra, e dall'alto scende uno spiffero freddo.</p>
 </div>
 
-### Servants’ Room
-<span class="citation"><em>This scene takes place in Appendix B: Area 7.</em></span>
+### Stanza della servitù
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 7.</em></span>
 
-This room is largely as described in <span class="citation">Servants’ Room (p. 213)</span>. When the players enter this room, read:
+La stanza è più o meno come descritta in <span class="citation">Stanza della servitù (p. 213)</span>. Quando i giocatori ci entrano, leggi:
 
 <div class="description">
-<p>This undecorated bedroom contains a pair of beds with straw-stuffed mattresses. At the foot of each bed is a closed foot locker. A door to the left appears to lead to a closet.</p>
-<p>In the right-hand corner stands a small wooden door, a metal button set into the wall beside it. A basket full of unwashed laundry appears to have been left beside it.</p>
+<p>In questa camera spoglia ci sono due letti con materassi imbottiti di paglia. Ai piedi di ciascun letto c'è un baule chiuso. Una porta sulla sinistra sembra dare su un armadio a muro.</p>
+<p>Nell'angolo destro c'è una porticina di legno, con un pulsante di metallo incassato nel muro accanto. Lì vicino sembra essere stata lasciata una cesta piena di biancheria sporca.</p>
 </div>
 
-The basket contains a man's laundry, including fine suits, tunics, neckties, pants, and stockings. However, a single, much-smaller woman's slip appears to have been mixed in with the rest.
-### Conservatory
-<span class="citation"><em>This scene takes place in Appendix B: Area 10.</em></span>
+La cesta contiene la biancheria di un uomo: abiti eleganti, tuniche, cravatte, pantaloni e calze. In mezzo al resto, però, sembra essere finita anche una sottoveste da donna, molto più piccola.
+### Sala della musica
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 10.</em></span>
 
-Players that approach this door can hear the faint sound of a harpsichord playing from beyond the doors. If the players open or knock on the door, however, the music falls silent.
+I giocatori che si avvicinano a questa porta sentono il suono debole di un clavicembalo che arriva da dietro i battenti. Se i giocatori aprono la porta o bussano, però, la musica tace.
 
-This room is largely as described in <span class="citation">Conservatory (p. 214)</span>. When the players enter it, read:
+La stanza è più o meno come descritta in <span class="citation">Sala della musica (p. 214)</span>. Quando i giocatori ci entrano, leggi:
 
 <div class="description">
-<p>You enter into an elegantly appointed hall, the windows of which are covered by gossamer drapes. A brass-plated chandelier hangs from the ceiling, and upholstered chairs line the walls. </p>
-<p>Several stained-glass wall hangings depict beautiful men, women, and children singing and playing instruments. A harpsichord with a bench rests in the northwest corner. Near the fireplace is a large standing harp. Alabaster figurines of well-dressed dancers adorn the mantelpiece. </p>
+<p>Entrate in una sala arredata con eleganza, con le finestre coperte da tende leggerissime. Dal soffitto pende un lampadario placcato d'ottone e lungo le pareti sono allineate sedie imbottite. </p>
+<p>Alle pareti sono appese diverse vetrate colorate che ritraggono uomini, donne e bambini bellissimi che cantano e suonano strumenti. Nell'angolo nord-ovest c'è un clavicembalo con il suo sgabello. Vicino al camino c'è una grande arpa. Statuine di alabastro raffiguranti ballerini ben vestiti decorano la mensola del camino. </p>
 </div>
 
-***The Harpsichord.*** A player who inspects the harpsichord finds that one of the keys appears to be permanently pressed in the "down" position. A player who investigates the interior of the harpsichord finds the cause: a rolled-up piece of parchment tucked beneath one of the strings. 
+***Il clavicembalo.*** Un giocatore che esamina il clavicembalo nota che uno dei tasti sembra bloccato in basso. Un giocatore che ispeziona l'interno dello strumento ne scopre la causa: un foglio di pergamena arrotolato e infilato sotto una delle corde. 
 
-The parchment is a piece of handwritten sheet music for the harpsichord titled *Waltz for Klara*. If the sheet music is played on the harpsichord, read:
+La pergamena è uno spartito per clavicembalo scritto a mano, intitolato *Valzer per Klara*. Se qualcuno suona lo spartito al clavicembalo, leggi:
 
 <div class="description">
-<p>As you press your fingers to the keys, the notes echo, a haunting melody filling the quiet, dusty room. As you continue to play, the music seems to take on a life of its own, your hands moving across the keys unbidden as if guided by an unseen force.</p>
-<p>From the edges of the room, spectral figures begin to materialize, spinning and weaving in a ghostly dance as though led by the song. Most are unfamiliar to you, but you recognize two: Elisabeth Durst, in the corner, watching Gustav's apparition dancing with a beautiful young woman wearing humble clothes.</p>
-<p>The eyes of Elisabeth's apparition narrow into a cold, furious stare. The dancers pay her little heed, however, the song growing faster as the spirits whirl to the rhythm of the harpsichord's crescendo.</p>
-<p>With a swift movement, Elisabeth reaches for a pendant around her spectral neck—a shimmering amber shard hung on a cord of ethereal mist. As her ghostly fist curls around it, her eyes flash a bright, menacing amber—and the spectral dancers dissipate, swept away as if by an unseen wind.</p>
-<p>Elisabeth's apparition lingers but a moment longer before disappearing with the rest. As it does, a sound resonates through the room: the low sound of scraping wood, originating from the room across the hall. The floor trembles faintly—and you hear a crash from the mantelpiece. Two of the alabaster figurines have fallen from their place on the shelf: one, toppled over on its side; the other, shattered across the floor.</p>
+<p>Appena premete i tasti, le note riecheggiano e una melodia struggente riempie la stanza silenziosa e polverosa. Mentre continuate a suonare, la musica sembra prendere vita: le mani scorrono sui tasti da sole, come guidate da una forza invisibile.</p>
+<p>Dai bordi della stanza cominciano a materializzarsi figure spettrali, che girano e si intrecciano in una danza fantasma come se la musica le guidasse. Quasi tutte vi sono sconosciute, ma due le riconoscete: Elisabeth Durst, in un angolo, osserva lo spettro di Gustav che balla con una bella giovane dai vestiti modesti.</p>
+<p>Gli occhi dello spettro di Elisabeth si stringono in uno sguardo gelido e furioso. I ballerini però non le badano, e la musica accelera mentre gli spiriti volteggiano al ritmo del crescendo del clavicembalo.</p>
+<p>Con un gesto rapido Elisabeth afferra un ciondolo che porta al collo spettrale: un frammento d'ambra luccicante, appeso a un cordino di nebbia eterea. Quando la sua mano di fantasma si chiude intorno al frammento, gli occhi le lampeggiano di una luce ambrata, intensa e minacciosa, e i ballerini spettrali si dissolvono, spazzati via come da un vento invisibile.</p>
+<p>Lo spettro di Elisabeth resta ancora un istante, poi scompare con gli altri. In quel momento un suono attraversa la stanza: il raschiare sordo di legno che striscia, dalla stanza dall'altra parte del corridoio. Il pavimento trema appena e sentite uno schianto dalla mensola del camino. Due delle statuine di alabastro sono cadute dal loro posto: una è rovesciata su un fianco, l'altra è andata in frantumi sul pavimento.</p>
 </div>
 
-A player who inspects the fallen figurines finds that the toppled figurine has cracked across its face, arms, and torso, and depicts a young and slender female dancer. The shattered figurine has broken into dozens of pieces, and appears to have once depicted a comely, older man. A third, female dancer figurine remains defiantly standing atop the mantelpiece where all three once stood.
+Un giocatore che esamina le statuine cadute nota che quella rovesciata, che raffigura una ballerina giovane e snella, ha crepe sul viso, sulle braccia e sul busto. Quella in frantumi si è rotta in decine di pezzi e sembra raffigurasse un uomo più anziano, di bell'aspetto. Una terza statuina, una ballerina, resta ostinatamente in piedi sulla mensola dove un tempo stavano tutte e tre.
 
-Playing *Waltz for Klara* also causes the bookshelf—not the door behind it—in the [[#Library]] to swing open, exposing the locked secret door beyond. (The scraping sound is the sound of the bookshelf scraping against the floor.)
-### Library
-<span class="citation"><em>This scene takes place in Appendix B: Area 8.</em></span>
+Suonare il *Valzer per Klara* fa anche ruotare la libreria della [[#Biblioteca]], non la porta che c'è dietro, e scopre la porta segreta chiusa a chiave. (Il raschiare è il rumore della libreria che striscia sul pavimento.)
+### Biblioteca
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 8.</em></span>
 
-This room is largely as described in <span class="citation">Library (p. 213-14)</span>. When the players enter this room, read:
+La stanza è più o meno come descritta in <span class="citation">Biblioteca (pp. 213–214)</span>. Quando i giocatori ci entrano, leggi:
 
 <div class="description">
-<p>Red velvet drapes cover the windows of this room. An exquisite mahogany desk and a matching high-back chair face the entrance and the fireplace, above which hangs a framed picture of a windmill perched atop a rocky crag. Situated in corners of the room are two overstuffed chairs. </p>
-<p>Floor-to-ceiling bookshelves line the south wall. A rolling wooden ladder allows one to more easily reach the high shelves.</p>
+<p>Tende di velluto rosso coprono le finestre della stanza. Una splendida scrivania di mogano e una poltrona coordinata dallo schienale alto sono rivolte verso l'ingresso e verso il camino, sopra il quale è appeso un quadro incorniciato con un mulino a vento in cima a una rupe. Negli angoli della stanza ci sono due poltrone imbottite. </p>
+<p>Librerie alte dal pavimento al soffitto coprono la parete sud. Una scala di legno su ruote permette di raggiungere con facilità gli scaffali più alti.</p>
 </div>
 
-***The Desk.*** A handwritten note sits atop the desk. It reads:
+***La scrivania.*** Sulla scrivania c'è un biglietto scritto a mano. Dice:
 
 <div class="description">
-<p>Dear Mr. and Mrs. Durst,</p>
-<p>In light of my current condition, I respectfully ask your leave for a brief time away from my responsibilities. </p>
-<p>While my devotion to your dear children makes this decision difficult, I have taken it upon myself to find a solution that, I hope, will serve your household well. A good acquaintance of mine is experienced in the care of children, and I believe that she could assume my role during my temporary leave without difficulty.</p>
-<p>I realize that my request is not without its complications. However, my years serving your family have shown me the depth of your understanding and compassion. I truly feel that I have become a part of this family, and I look forward to bringing another member of that family into this world.</p>
-<p>Yours sincerely,</p>
+<p>Gentili signor e signora Durst,</p>
+<p>date le mie condizioni attuali, vi chiedo rispettosamente il permesso di allontanarmi per breve tempo dai miei doveri. </p>
+<p>La mia devozione per i vostri cari bambini rende difficile questa decisione, perciò mi sono presa l'incarico di trovare una soluzione che spero sia di vostro gradimento. Una mia buona conoscente ha esperienza nella cura dei bambini e credo che potrebbe sostituirmi senza difficoltà durante la mia assenza temporanea.</p>
+<p>So bene che la mia richiesta non è priva di complicazioni. Ma gli anni passati al servizio della vostra famiglia mi hanno mostrato quanto siete comprensivi e compassionevoli. Sento davvero di essere diventata parte di questa famiglia e non vedo l'ora di mettere al mondo un altro suo membro.</p>
+<p>Con sincero affetto,</p>
 <p>Klara</p>
 </div>
 
-The top drawer of the desk now contains a number of receipts for candles, daggers, and incense, rather than the key to [[#Children’s Room]].
+Il primo cassetto della scrivania ora contiene, al posto della chiave della [[#Stanza dei bambini]], una serie di ricevute per candele, pugnali e incenso.
 
-A character that searches the room for 1 minute and succeeds on a DC 15 Wisdom (Perception) check can see flickering candle light emanating from beneath the secret door.<sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup>
+Un personaggio che perquisisce la stanza per 1 minuto e supera una prova di Saggezza (Percezione) con CD 15 vede la luce tremolante di una candela filtrare da sotto la porta segreta.<sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup>
 
-> [!info]+ **Making Multiple Ability Checks**
+> [!info]+ **Prove di caratteristica ripetute**
 >
-> As the players explore Death House and the many secret places within the land of Barovia, don't forget the **Multiple Ability Checks** rule (<span class="citation">Dungeon Master's Guide, p. 237</span>). For example, a player who searches the library can take 10 minutes to automatically succeed on the check.
+> Mentre i giocatori esplorano la Casa della Morte e i tanti luoghi segreti della terra di Barovia, non dimenticare la regola delle **prove di caratteristica ripetute** (<span class="citation">Guida del Dungeon Master, p. 237</span>). Un giocatore che perquisisce la biblioteca, per esempio, può impiegare 10 minuti e superare la prova automaticamente.
 
-***The Secret Door.*** The secret door in this room has two components. First, a player must pull on the switch as described in <span class="citation">Secret Door (p. 214)</span>. Doing so causes the bookshelf to swing forward, revealing a blank wooden wall behind it. 
+***La porta segreta.*** La porta segreta di questa stanza è fatta di due parti. Prima un giocatore deve tirare la leva come descritto in <span class="citation">Porta segreta (p. 214)</span>: la libreria ruota in avanti e rivela dietro di sé una parete di legno spoglia. 
 
-Once the bookshelf has been moved, the players can see a small panel made of dark wood behind it, built into the wall at approximately chest level. A small hollow niche, jagged and irregular, lies at the panel's center and emanates a faint amber glow. 
+Spostata la libreria, i giocatori vedono dietro di essa un piccolo pannello di legno scuro, incassato nel muro all'altezza del petto. Al centro del pannello c'è una piccola nicchia cava, frastagliata e irregolare, da cui esce un debole bagliore ambrato. 
 
-The door cannot be opened unless the amber shard from the [[#Master Suite]] is placed into the niche. The secret door then swings open, allowing the players to enter the [[#Secret Room]].
-### Secret Room
-<span class="citation"><em>This scene takes place in Appendix B: Area 9.</em></span>
+La porta si apre solo se nella nicchia si mette il frammento d'ambra della [[#Camera padronale]]. A quel punto la porta segreta ruota e i giocatori possono entrare nella [[#Stanza segreta]].
+### Stanza segreta
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 9.</em></span>
 
-This room is largely as described in <span class="citation">Secret Room (p. 214)</span>. When the players enter this room, read:
+La stanza è più o meno come descritta in <span class="citation">Stanza segreta (p. 214)</span>. Quando i giocatori ci entrano, leggi:
 
 <div class="description">
-<p>This small hidden room is packed with bookshelves groaning with old and ominous-looking leather-bound tomes. A heavy wooden chest with clawed iron feet stands against the south wall, its lid half-closed. Sticking out of the chest, its ribs and head caught beneath the lid, is a skeleton in leather armor.</p>
+<p>Questa piccola stanza nascosta è stipata di scaffali che si piegano sotto il peso di vecchi tomi rilegati in pelle dall'aria sinistra. Contro la parete sud c'è un pesante baule di legno con i piedi di ferro a forma di artiglio e il coperchio socchiuso. Dal baule sporge uno scheletro con un'armatura di cuoio, la testa e le costole incastrate sotto il coperchio.</p>
 </div>
 
-The chest no longer contains the deed to Old Bonegrinder. Additionally, change Strahd’s letter to read as follows:
+Il baule non contiene più l'atto di proprietà del Vecchio Tritaossa. Inoltre la lettera di Strahd va cambiata così:
 
 <div class="description">
-<p>My most pathetic servant,</p>
-<p>I am not a messiah sent to you by the Dark Powers of this land. I have not come to lead you on a path to immortality. However many souls you have bled on your hidden altar, however many visitors you have tortured in your dungeon, know that you are not the one who brought me to this beautiful land. You are but a worm writhing in my earth.</p>
-<p>You say that you are cursed, your fortune spent. Your husband took solace in the bosom of another woman, sired a bastard son, and drove you to abandon love for madness. Cursed by darkness? Of that I have no doubt. Save you from your wretchedness? I think not. I much prefer you as you are.</p>
-<p>Your dread lord and master,</p>
+<p>Mia servitrice più miserabile,</p>
+<p>non sono un messia mandato a te dai Poteri Oscuri di questa terra. Non sono venuto a guidarti sulla via dell'immortalità. Quante che siano le anime che hai dissanguato sul tuo altare nascosto, quanti che siano i visitatori che hai torturato nelle tue segrete, sappi che non sei stata tu a portarmi in questa terra meravigliosa. Sei soltanto un verme che si contorce nella mia terra.</p>
+<p>Dici di essere maledetta, la tua fortuna esaurita. Tuo marito ha cercato conforto nel seno di un'altra donna, ha generato un figlio bastardo e ti ha spinta ad abbandonare l'amore per la follia. Maledetta dalle tenebre? Su questo non ho dubbi. Salvarti dalla tua miseria? Non credo proprio. Ti preferisco di gran lunga così come sei.</p>
+<p>Il tuo temuto signore e padrone,</p>
 <p>Strahd von Zarovich</p>
 </div>
 
-The players do not recognize the name "Strahd von Zarovich."
+I giocatori non riconoscono il nome «Strahd von Zarovich».
 
-> [!design]- **Design Note: Removing the Deed**
-> Players who find the deed to Old Bonegrinder in the secret chest often come to the mistaken conclusion that looting the deed makes them the new owners of the mill. Such players are likely, as a result, to attempt to explore the windmill during [[Act I - Into the Mists/Arc C - Into the Valley]], triggering a conflict with the night hag coven and—through no fault of their own—a likely TPK. As such, the deed has been removed to help avoid this outcome.
+> [!design]- **Nota di progettazione: l'atto di proprietà rimosso**
+> I giocatori che trovano nel baule segreto l'atto di proprietà del Vecchio Tritaossa spesso concludono, sbagliando, che prendendolo diventano i nuovi proprietari del mulino. Così tendono a voler esplorare il mulino a vento durante l'[[Act I - Into the Mists/Arc C - Into the Valley|Arco C: Nella valle]]: ne nasce uno scontro con la congrega di megere notturne e, senza alcuna colpa da parte loro, quasi certamente un TPK. Per evitarlo, l'atto di proprietà è stato rimosso.
 
-## A2d. The Third Floor
-As the players ascend the spiral stairs to the third floor, remind them that they can see down the center of the staircase all the way to the bottom floor.
-### Balcony
-<span class="citation"><em>This scene takes place in Appendix B: Area 11.</em></span>
+## A2d. Il secondo piano
+Mentre i giocatori salgono la scala a chiocciola fino al secondo piano, ricorda loro che dal centro della tromba delle scale vedono fino al pianterreno.
+### Balconata
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 11.</em></span>
 
-This room is largely as described in <span class="citation">Balcony (p. 214)</span>. When the players enter this room, read:
+La stanza è più o meno come descritta in <span class="citation">Balconata (p. 214)</span>. Quando i giocatori ci entrano, leggi:
 
 <div class="description">
-<p>You climb the red marble staircase to its full height, arriving at a dusty balcony. The air here is dry and musty, but tinged with a strange, coppery scent. </p>
-<p>A suit of black plate armor stands against one wall, draped in cobwebs and marked by age. Oil lamps are mounted on the faded oak-paneled walls, which are carved with woodland scenes of trees, falling leaves, and tiny beasts.</p>
+<p>Salite lo scalone di marmo rosso fino in cima e arrivate a una balconata polverosa. L'aria qui è secca e sa di chiuso, ma ha anche uno strano odore di rame. </p>
+<p>Contro una parete c'è un'armatura a piastre nera, coperta di ragnatele e segnata dagli anni. Alle pareti, rivestite di pannelli di quercia sbiaditi e intagliati con scene di bosco (alberi, foglie che cadono e piccoli animali), sono fissate lampade a olio.</p>
 </div>
 
-When triggered, the **animated armor** will use one or both of its **_multiattack_** attacks to attempt to push a player over the railing using a ***shove*** attack, or attempt to grapple its nearest target before shoving them prone.
+Quando si attiva, l'**armatura animata** usa uno o entrambi gli attacchi del suo **_multiattacco_** per cercare di far cadere un giocatore oltre la ringhiera con un attacco per ***spingere***, oppure cerca di afferrare il bersaglio più vicino prima di spingerlo a terra prono.
 
-If the armor is thrown down to the first floor and the players do not reveal their presence atop the balcony, it is unable to observe them with its sixty feet of blindsight, and is too stupid to think to climb back up. 
+Se l'armatura viene scaraventata giù al pianterreno e i giocatori non rivelano la loro presenza sulla balconata, la sua vista cieca di 18 metri non basta a percepirli ed è troppo stupida per pensare di risalire. 
 
-A creature that is pushed over the edge of the balcony falls two stories, or twenty feet, and takes 2d6 bludgeoning damage. That creature must succeed on a DC 15 Dexterity (Acrobatics) check or land prone.
+Una creatura spinta oltre il bordo della balconata cade per due piani, cioè 6 metri, e subisce 2d6 danni contundenti. La creatura deve superare una prova di Destrezza (Acrobazia) con CD 15, altrimenti atterra prona.
 
-> [!combat]- **Combat - Animated Armor**  
-> **Combat Level**: Mild
-> **Expected Character Level**: 2
-> **Expected HP Consumption:** 15%
+> [!combat]- **Combattimento: armatura animata**  
+> **Livello di combattimento**: lieve
+> **Livello previsto dei personaggi**: 2
+> **Consumo previsto di pf:** 15%
 > 
-> ### **Enemies:**
+> ### **Nemici:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 giocatori | 4 giocatori | 5 giocatori | 6 giocatori |
 > |-|-|-|-|-|
-> | Animated Armor | 1 | 1 | 1 | 1 |
+> | Armatura animata | 1 | 1 | 1 | 1 |
 > 
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
+> ### **Bilanciamento:**
+> Se i giocatori sono meno o più di 5, modifica lo scontro così:
 >
-> | Number of Players | Modification |
+> | Numero di giocatori | Modifica |
 > |-|-|
-> | 3 | Reduce the armor's hit points to 12. |
-> | 4 | Reduce the armor's hit points to 21. |
-> | 6 | Increase the armor's hit points to 48. |
+> | 3 | Riduci i punti ferita dell'armatura a 12. |
+> | 4 | Riduci i punti ferita dell'armatura a 21. |
+> | 6 | Aumenta i punti ferita dell'armatura a 48. |
 
-### Master Suite
-<span class="citation"><em>This scene takes place in Appendix B: Area 12.</em></span>
+### Camera padronale
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 12.</em></span>
 
-When a player first approaches this door, read:
-
-<div class="description">
-<p>These grand doors loom tall, their dark wood frames enclosing a pair of dusty stained-glass windows. Each pane is etched with intricate designs that resemble windmills, their once-vibrant hues now faded and obscured beneath a thick veil of grime.</p>
-<p>Through the dusty haze that prickles your eyes, you catch a glimpse of something through the windows: a silhouette, standing mere inches behind the glass, lit from behind by a dim, amber glow. It's still and unmoving, but the mere sight of it seizes your muscles in a vice-like grip, your limbs refusing to obey your conscious mind.</p>
-<p>The air around you thickens, its temperature plummeting to a bone-chilling cold. Your breath fogs the glass panes, a delicate frost creeping across them as the house's distant creaks and whispers are swallowed by a heavy silence.</p>
-<p>The shadow behind the door is nearly formless—insubstantial—but its presence invokes a primordial dread deep within your marrow. Your heart beats faster, sweat beading on your forehead, pulse racing through your veins. Slowly, the silhouette begins to turn its head toward yours.</p>
-<p>And then, just as suddenly as it appeared, the shadow evaporates. The biting cold ebbs away, and the house's quiet sounds return once more.</p>
-</div>
-
-This room is largely as described in <span class="citation">Master Suite (p. 214)</span>. When the players enter this room, read:
+La prima volta che un giocatore si avvicina a questa porta, leggi:
 
 <div class="description">
-<p>You enter a dusty, cobweb-filled master bedroom with burgundy drapes covering the windows. A four-poster bed with embroidered curtains and tattered gossamer veils stands against the center wall.</p>
-<p>A door facing the foot of the bed has a faded full-length mirror mounted on it. In the right-hand corner of the room stands a small wooden door, its surface half-rotted by age. A tarnished metal button is set into the wall beside it.</p>
-<p>A rotting tiger-skin rug lies on the floor in front of the fireplace, which has a dust-covered portrait of the man and woman from the first-floor portrait hanging above it. A web-filled parlor in the southwest corner contains two chairs and a table holding several items, as well as a door with a dark, dirt-flecked window. </p>
-<p>The room also contains a matching pair of wardrobes, a padded chair, and a vanity with a wood-framed mirror and a silver jewelry box. A soft amber glow emanates from beneath the jewelry box's lid.</p>
+<p>Le grandi porte si innalzano davanti a voi: i telai di legno scuro racchiudono due vetrate colorate e impolverate. Ogni vetro è inciso con disegni intricati che ricordano mulini a vento, e i colori, un tempo vivaci, sono sbiaditi e nascosti sotto uno spesso velo di sporcizia.</p>
+<p>Attraverso la polvere che vi punge gli occhi intravedete qualcosa oltre i vetri: una sagoma, ferma a pochi centimetri dal vetro, illuminata da dietro da un debole bagliore ambrato. È immobile, eppure basta vederla perché i muscoli vi si irrigidiscano come in una morsa e gli arti si rifiutino di obbedirvi.</p>
+<p>L'aria intorno a voi si fa densa e la temperatura precipita a un freddo che entra nelle ossa. Il respiro appanna i vetri e una brina sottile vi si allarga sopra, mentre gli scricchiolii e i bisbigli lontani della casa vengono inghiottiti da un silenzio pesante.</p>
+<p>L'ombra dietro la porta è quasi informe, inconsistente, ma la sua presenza vi risveglia nel midollo un terrore primordiale. Il cuore accelera, il sudore vi imperla la fronte, il sangue vi corre nelle vene. Lentamente la sagoma comincia a voltare la testa verso di voi.</p>
+<p>Poi, all'improvviso come è apparsa, l'ombra svanisce. Il freddo pungente si ritira e i suoni sommessi della casa tornano a farsi sentire.</p>
 </div>
 
-***The Bed.*** A player that approaches the bed can see that a large, bloodstained kitchen knife has been driven into one of the pillows.
+La stanza è più o meno come descritta in <span class="citation">Camera padronale (p. 214)</span>. Quando i giocatori ci entrano, leggi:
 
-***The Jewelry Box.*** The jewelry box is empty of valuables. Instead, it is filled with grain, with an *amber shard* resting in the center of the box. (This amber shard is the unique key to the secret door in the [[#Library]].) 
+<div class="description">
+<p>Entrate in una camera da letto padronale polverosa e piena di ragnatele, con tende color borgogna alle finestre. Contro la parete centrale c'è un letto a baldacchino con cortine ricamate e veli sottili ridotti a brandelli.</p>
+<p>Sulla porta di fronte ai piedi del letto è fissato uno specchio a figura intera, ormai opaco. Nell'angolo destro della stanza c'è una porticina di legno, mezza marcita dagli anni, con un pulsante di metallo annerito incassato nel muro accanto.</p>
+<p>Sul pavimento, davanti al camino, c'è un tappeto di pelle di tigre che sta marcendo; sopra il camino è appeso un ritratto coperto di polvere con l'uomo e la donna del ritratto del pianterreno. Nel salottino dell'angolo sud-ovest, pieno di ragnatele, ci sono due sedie, un tavolino con sopra diversi oggetti e una porta con un vetro scuro e chiazzato di sporco. </p>
+<p>Nella stanza ci sono anche due armadi uguali, una poltrona imbottita e una toeletta con uno specchio incorniciato di legno e un portagioie d'argento. Da sotto il coperchio del portagioie filtra un tenue bagliore ambrato.</p>
+</div>
 
-A roll of parchment is half-buried in the grain beside the shard. If unfurled, it reads as follows:
+***Il letto.*** Un giocatore che si avvicina al letto vede un grosso coltello da cucina sporco di sangue piantato in uno dei cuscini.
+
+***Il portagioie.*** Nel portagioie non ci sono oggetti di valore. È pieno di grano, e al centro c'è un *frammento d'ambra*. (Questo frammento d'ambra è l'unica chiave della porta segreta della [[#Biblioteca]].) 
+
+Accanto al frammento, mezzo sepolto nel grano, c'è un rotolo di pergamena. Se lo si srotola, dice:
 
 <div class="description">
 <p>Drasha,</p>
-<p>I have selected you as the Beast’s custodian in my absence. Should the Beast grow unruly or show signs of agitation while I am away, I have left this amber shard to weaken it and soothe its fury.</p>
-<p>Should the need arise, present the shard and speak the Beast's name; if you speak with conviction, it shall obey you in my stead, if only for a time. But be sure to be gone from the house before it awakens fully at midnight.</p>
-<p>So long as the Beast draws breath, it—not you—is the heart of this house, and no meal shall ever sate its appetite. Should you linger in its domain, it will mean doom for you all.</p>
+<p>ti ho scelta come custode della Bestia durante la mia assenza. Se la Bestia diventasse irrequieta o mostrasse segni di agitazione mentre sono via, ti ho lasciato questo frammento d'ambra per indebolirla e placarne la furia.</p>
+<p>In caso di bisogno, mostrale il frammento e pronuncia il nome della Bestia: se parli con convinzione, ti obbedirà al posto mio, almeno per un po'. Ma assicurati di aver lasciato la casa prima che si svegli del tutto, a mezzanotte.</p>
+<p>Finché la Bestia respira, il cuore di questa casa è lei, non tu, e nessun pasto potrà mai saziarne la fame. Se ti attardi nel suo dominio, sarà la rovina per tutti voi.</p>
 <p>Elisabeth</p>
 </div>
 
-See **Elisabeth's Amber Shard** in [[#Ritual Chamber]] below for more information about the amber shard.
+Per maggiori informazioni sul frammento d'ambra, vedi **Il frammento d'ambra di Elisabeth** nella [[#Sala del rituale]], più avanti.
 
-***The Balcony.*** A player that exits the bedroom onto the balcony sees only a wall of fleshy tendrils encompassing the exterior of the house. The tendrils are as described in [[#Main Hall]].
-### Bathroom
-<span class="citation"><em>This scene takes place in Appendix B: Area 13.</em></span>
+***Il balcone.*** Un giocatore che esce dalla camera sul balcone vede soltanto un muro di tentacoli di carne che avvolge l'esterno della casa. I tentacoli sono quelli descritti nel [[#Salone principale]].
+### Bagno
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 13.</em></span>
 
-This room is as described in <span class="citation">Bathroom (p. 215)</span>.
-### Storage Room
-<span class="citation"><em>This scene takes place in Appendix B: Area 14.</em></span>
+La stanza è come descritta in <span class="citation">Bagno (p. 215)</span>.
+### Ripostiglio
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 14.</em></span>
 
-This room is largely as described in <span class="citation">Storage Room (p. 215)</span>. When the players enter it, read:
-
-<div class="description">
-<p>Dusty shelves line the walls of this room. A few of the shelves have folded sheets, blankets, and old bars of soap on them. A cobweb-covered broom leans against the far wall.</p>
-</div>
-
-When a player first approaches within 5 feet of the **broom of animated attack**, it attacks with surprise as soon as they avert their eyes or turn away, thwacking them once upside the head. It then immediately returns to its initial position—now cobweb-free. On its future turns, the broom uses its **_multiattack_** to continue to attack any player not looking at it who remains within 5 feet, foregoing opportunity attacks against players that move away.
-### Nursemaid’s Suite
-<span class="citation"><em>This scene takes place in Appendix B: Area 15.</em></span>
-
-This room is largely as described in <span class="citation">Nursemaid’s Suite (p. 217)</span>. When the players enter it, read:
+La stanza è più o meno come descritta in <span class="citation">Ripostiglio (p. 215)</span>. Quando i giocatori ci entrano, leggi:
 
 <div class="description">
-<p>Dust and cobwebs shroud this elegantly appointed bedroom. A large bed stands against the far wall, its once-opulent coverings now faded and threadbare. </p>
-<p>Beside the bed, a mildew-covered towel covers most of a dusty yellowed book on one of its two end tables. On the far side of the room, you can see a pair of two more stained-glass doors, their windows flecked with dirt and grime.</p>
-<p>To the left stands an empty wardrobe, its doors slightly ajar. Mounted beside it stands a full-length mirror, its wooden frame carved to resemble ivy and berries. To the right stands a closed door.</p>
-<p>As you look around the room, you notice that the blankets atop the bed lift slightly away from the mattress, as though something is lying atop the mattress beneath. As you watch, you can see the coverings, almost imperceptibly, slowly rise and fall with low, rhythmic rustling.</p>
+<p>Lungo le pareti della stanza ci sono scaffali polverosi. Su alcuni sono posati lenzuola piegate, coperte e vecchie saponette. Contro la parete di fondo è appoggiata una scopa coperta di ragnatele.</p>
 </div>
 
-***The Bed.*** A player that removes the covers from the bed finds that there is nothing beneath them. Instead, the player only finds a bloodstained mattress and crude hand-and-foot restraints made from barbed wire nailed to the four posts of the bed frame.
+La prima volta che un giocatore arriva entro 1,5 metri dalla **scopa dell'attacco animato**, la scopa attacca di sorpresa appena il giocatore distoglie lo sguardo o si volta, e gli assesta un colpo in testa. Poi torna subito al suo posto, stavolta senza ragnatele. Nei turni successivi la scopa usa il suo **_multiattacco_** per continuare ad attaccare qualsiasi giocatore che resti entro 1,5 metri senza guardarla, e rinuncia agli attacchi di opportunità contro i giocatori che si allontanano.
+### Appartamento della bambinaia
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 15.</em></span>
 
-***The Doors.*** A player that exits the bedroom through the stained-glass doors and onto the balcony sees only a wall of fleshy tendrils encompassing the exterior of the house. The tendrils are as described in [[#Main Hall]].
-
-***The Book.*** The book is a cobwebbed copy of a raunchy romance novel titled *Blue-Blooded Lips*. It tells the story of a peasant woman's romance with a wealthy duke.
-
-***The Nursery.*** The door to the nursery is closed. A player who approaches the door hears a young woman's quiet humming. (A player who has previously read or heard the song in the [[#Conservatory]] recognizes the melody as *Waltz for Klara*.)
-
-If a player enters the nursery, the humming abruptly cuts off. Read:
+La stanza è più o meno come descritta in <span class="citation">Appartamento della bambinaia (p. 217)</span>. Quando i giocatori ci entrano, leggi:
 
 <div class="description">
-<p>The air in this small nursery is strangely warm and tinged with a coppery scent. Blood-red runes cover the walls, arranged in concentric circles around the crib in the center, which seems to have a name carved into its side. Strange, flesh-like tumors have grown along the floor around it in sparse clusters, and slowly pulsate as if they're breathing.</p>
-<p>Looking down, you notice that a small object seems to have fallen beneath the crib. In the distance, you can faintly hear the sound of an infant's soft whimpering.</p>
+<p>Polvere e ragnatele avvolgono questa camera arredata con eleganza. Contro la parete di fondo c'è un grande letto, con le coperte un tempo sontuose ormai sbiadite e lise. </p>
+<p>Accanto al letto, su uno dei due comodini, un asciugamano coperto di muffa nasconde quasi del tutto un libro polveroso e ingiallito. In fondo alla stanza vedete altre due porte con vetrate colorate, i vetri chiazzati di sporco e di sudiciume.</p>
+<p>A sinistra c'è un armadio vuoto con le ante socchiuse. Accanto è fissato uno specchio a figura intera, con la cornice di legno intagliata a foglie d'edera e bacche. A destra c'è una porta chiusa.</p>
+<p>Mentre vi guardate intorno, notate che le coperte del letto sono leggermente sollevate dal materasso, come se ci fosse qualcosa disteso sotto. Mentre guardate, le coperte si alzano e si abbassano piano, in modo quasi impercettibile, con un fruscio basso e regolare.</p>
 </div>
 
-The object is a severed human finger with several pieces of flesh stripped from it. Tiny toothmarks can be seen around the wounds. A DC 12 Wisdom (Medicine) check identifies the finger as a woman's, and the toothmarks as a human child's. 
+***Il letto.*** Un giocatore che toglie le coperte dal letto scopre che sotto non c'è niente. Trova soltanto un materasso macchiato di sangue e rozzi ceppi per mani e piedi fatti di filo spinato, inchiodati alle quattro colonne del letto.
 
-The name "Walter" has been lovingly carved into the head of the crib. A successful DC 14 Intelligence (Arcana) identifies the runes around it as dark necromantic magic.
+***Le porte.*** Un giocatore che esce dalla camera sul balcone attraverso le porte a vetri colorati vede soltanto un muro di tentacoli di carne che avvolge l'esterno della casa. I tentacoli sono quelli descritti nel [[#Salone principale]].
 
-***The Mirror.*** The nursemaid’s **specter** does not appear in this room. Instead, when a player approaches the mirror, the nursemaid’s spirit appears as an apparition in the glass.
+***Il libro.*** Il libro è una copia piena di ragnatele di un romanzo d'amore piccante intitolato *Labbra di sangue blu*. Racconta la storia d'amore fra una contadina e un ricco duca.
 
-The spirit resembles a pale, skeletally thin young woman, with all of her fingers and toes removed, her eyes sewn shut, and her lips and teeth torn from her mouth. Countless knife-thin scars line her entire body, including the flesh around her wrists and ankles, and her hair has been carelessly hacked to stubble.
+***La cameretta.*** La porta della cameretta è chiusa. Un giocatore che si avvicina sente una giovane donna canticchiare piano. (Un giocatore che ha già letto o ascoltato la musica nella [[#Sala della musica]] riconosce la melodia: è il *Valzer per Klara*.)
 
-Though its appearance is disturbing, players observing the spirit feel that it is simply observing them with shy curiosity.
-
-The spirit can neither speak aloud nor exit the mirror. However, it shows no hostility toward the players, and can answer basic questions by nodding or shaking its head. It knows everything that the nursemaid did in life. It shows fear at any mention of Mrs. Durst’s name, sorrow at any mention of Mr. Durst’s, melancholic fondness at any mention of Rose or Thorn, and despair at any mention of Walter.
-
-If the players ask the spirit for aid in reaching the basement or finding the “monster,” the spirit steps aside—vanishing from sight—and the secret door behind the mirror slowly swings open. The spirit does not return.
-## A2e. The Attic
-### Attic Hall
-<span class="citation"><em>This scene takes place in Appendix B: Area 16.</em></span>
-
-This room is largely as described in <span class="citation">Attic Hall (p. 215)</span>. When the players enter this room, read:
+Se un giocatore entra nella cameretta, il canto si interrompe di colpo. Leggi:
 
 <div class="description">
-<p>This bare hall is choked with dust and cobwebs. Several doors lead from this attic corridor, including a door held shut with a padlock.</p>
-<p>A low creak cuts through the air as one of the unlocked doors slowly creaks open.</p>
+<p>L'aria di questa piccola stanza è stranamente calda e ha un odore di rame. Le pareti sono coperte di rune rosso sangue, disposte in cerchi concentrici intorno alla culla al centro, su un lato della quale sembra inciso un nome. Sul pavimento intorno sono cresciuti radi grappoli di strani tumori simili a carne, che pulsano piano come se respirassero.</p>
+<p>Abbassando lo sguardo notate un piccolo oggetto che sembra caduto sotto la culla. In lontananza sentite, debole, il piagnucolio sommesso di un neonato.</p>
 </div>
 
-The door leads to the [[#Spare Bedroom]].
-### Spare Bedroom
-<span class="citation"><em>This scene takes place in Appendix B: Area 17.</em></span>
+L'oggetto è un dito umano mozzato, con diversi brandelli di carne strappati. Intorno alle ferite si vedono minuscoli segni di denti. Una prova di Saggezza (Medicina) con CD 12 rivela che il dito è di una donna e i segni di denti di un bambino umano. 
 
-This room is largely as described in <span class="citation">Spare Bedroom (p. 215)</span>. The doll from Children’s Room (p. 215-16) can be found here. When the players first enter it, read:
+Sulla testata della culla è inciso con amore il nome «Walter». Una prova di Intelligenza (Arcano) con CD 14 superata rivela che le rune intorno alla culla sono magia necromantica oscura.
+
+***Lo specchio.*** Lo **spettro** della bambinaia non compare in questa stanza. Quando un giocatore si avvicina allo specchio, invece, lo spirito della bambinaia appare come un'immagine nel vetro.
+
+Lo spirito ha l'aspetto di una giovane donna pallida e magra fino all'osso, senza dita alle mani e ai piedi, con gli occhi cuciti e le labbra e i denti strappati dalla bocca. Innumerevoli cicatrici sottili come lame le segnano tutto il corpo, anche intorno ai polsi e alle caviglie, e i capelli sono stati tagliati malamente fino a lasciare solo un velo di ricrescita.
+
+Per quanto inquietante sia il suo aspetto, i giocatori che la osservano hanno l'impressione che lo spirito li stia soltanto guardando con una curiosità timida.
+
+Lo spirito non può parlare né uscire dallo specchio. Non mostra però ostilità verso i giocatori e può rispondere a domande semplici annuendo o scuotendo la testa. Sa tutto quello che la bambinaia sapeva in vita. Mostra paura quando sente il nome della signora Durst, tristezza a quello del signor Durst, un affetto malinconico ai nomi di Rose e Thorn, disperazione a quello di Walter.
+
+Se i giocatori chiedono allo spirito di aiutarli a raggiungere il seminterrato o a trovare il «mostro», lo spirito si fa da parte, sparisce alla vista, e la porta segreta dietro lo specchio si apre lentamente. Lo spirito non torna più.
+## A2e. La soffitta
+### Corridoio della soffitta
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 16.</em></span>
+
+La stanza è più o meno come descritta in <span class="citation">Corridoio della soffitta (p. 215)</span>. Quando i giocatori ci entrano, leggi:
 
 <div class="description">
-<p>This cold, dust-choked room contains a slender bed, a nightstand, a small iron stove, a writing desk with a stool, an empty wardrobe, and a rocking chair. A frowning doll in a lacy yellow dress sits in the northern window box beside a tarnished old music box, cobwebs draping it like a wedding veil.</p>
+<p>Questo corridoio spoglio è soffocato da polvere e ragnatele. Dal corridoio della soffitta si aprono diverse porte, fra cui una tenuta chiusa da un lucchetto.</p>
+<p>Un cigolio basso taglia l'aria: una delle porte senza lucchetto si apre lentamente.</p>
 </div>
 
-The players can recognize the doll as the same doll that Thorn was holding in the family portrait in the Main Hall.
+La porta dà sulla [[#Camera libera]].
+### Camera libera
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 17.</em></span>
 
-The music box contains a rusted, bloodstained skinning knife as well as the key to the padlock on Rose and Thorn's bedroom door.
+La stanza è più o meno come descritta in <span class="citation">Camera libera (p. 215)</span>. Qui si trova la bambola della Stanza dei bambini (pp. 215–216). La prima volta che i giocatori ci entrano, leggi:
 
-The music box also contains two curled-up pieces of parchment. The first parchment shows a basic floor plan split into three rectangles labeled QUARTERS, SHRINE, and ALTAR. QUARTERS and SHRINE are connected at the top by a single line, and at the bottom by a double line, which connects both to ALTAR. The second parchment contains a list of unfamiliar names beneath the word RECRUITMENT.
+<div class="description">
+<p>In questa stanza fredda e soffocata dalla polvere ci sono un letto stretto, un comodino, una piccola stufa di ferro, uno scrittoio con uno sgabello, un armadio vuoto e una sedia a dondolo. Sul davanzale della finestra nord, accanto a un vecchio carillon annerito, è seduta una bambola imbronciata con un vestito di pizzo giallo, avvolta nelle ragnatele come in un velo da sposa.</p>
+</div>
+
+I giocatori possono riconoscere nella bambola quella che Thorn teneva in braccio nel ritratto di famiglia del Salone principale.
+
+Il carillon contiene un coltello da scuoiare arrugginito e sporco di sangue e la chiave del lucchetto della porta della camera di Rose e Thorn.
+
+Nel carillon ci sono anche due fogli di pergamena arrotolati. Il primo mostra una pianta semplice divisa in tre rettangoli con le scritte ALLOGGI, SANTUARIO e ALTARE. ALLOGGI e SANTUARIO sono collegati in alto da una linea singola e in basso da una linea doppia, che li collega entrambi ad ALTARE. Il secondo foglio contiene un elenco di nomi sconosciuti sotto la parola RECLUTAMENTO.
 
 ![[Death House Dungeon Map.png]]
-<span class="credit">"Death House Dungeon Map" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">«Death House Dungeon Map» di Caleb Cleveland. Sostienilo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-As the players exit the room, the rocking chair begins to rock softly and the music box opens and begins to play. The sound of motherly humming floats through the air for two measures, but grows off-key and distorted before coming to a violent, screeching halt. The rocking chair then stops rocking.
-### Children’s Room
-<span class="citation"><em>This scene takes place in Appendix B: Area 20.</em></span>
+Quando i giocatori escono dalla stanza, la sedia a dondolo comincia a dondolare piano e il carillon si apre e comincia a suonare. Per due battute si sente nell'aria il canticchiare di una madre, che poi diventa stonato e distorto fino a interrompersi con uno stridio violento. Poi la sedia a dondolo si ferma.
+### Stanza dei bambini
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 20.</em></span>
 
-This room is largely as described in **Children’s Room** (p. 215-16).
+La stanza è più o meno come descritta in **Stanza dei bambini** (pp. 215–216).
 
 ![[Rose and Thorn.png]]
-<span class="credit">"Rose & Thorn" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">«Rose & Thorn» di Caleb Cleveland. Sostienilo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Profile: Rosavalda "Rose" Durst**
+> [!profile]+ **Profilo: Rosavalda «Rose» Durst**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Rose should inspire sympathy for her insecurities and fears, endearment for her dedication to Thorn, and gratitude for her earnest efforts to aid the players.
+> **Interpretazione**
+> ***Risonanza.*** Rose deve suscitare compassione per le sue insicurezze e le sue paure, tenerezza per la sua dedizione a Thorn e gratitudine per gli sforzi sinceri che fa per aiutare i giocatori.
 >
-> ***Emotions.*** Rose most often feels apprehensive, curious, defiant, or bold.
+> ***Emozioni.*** Il più delle volte Rose è apprensiva, curiosa, ribelle o audace.
 >
-> ***Motivations.*** Rose wants to keep Thorn safe and comforted, and to allow their spirits to finally find peace.
+> ***Motivazioni.*** Rose vuole che Thorn sia al sicuro e si senta confortato, e che i loro spiriti trovino finalmente pace.
 >
-> ***Inspirations.*** When playing Rose, channel Eleven (*Stranger Things*), Matilda (*Matilda*), and Lucy Pevensie (*The Chronicles of Narnia*). 
+> ***Ispirazioni.*** Quando interpreti Rose, ispirati a Undici (*Stranger Things*), Matilde (*Matilde*) e Lucy Pevensie (*Le cronache di Narnia*). 
 >
-> **Character Information**
-> ***Persona.*** To the world, Rose is Thorn's fiercest protector. To those she trusts, Rose is a lost, fearful, and traumatized young girl.
+> **Informazioni sul personaggio**
+> ***Personalità.*** Agli occhi del mondo Rose è la più fiera protettrice di Thorn. Con chi si fida, Rose è una bambina smarrita, spaventata e traumatizzata.
 >
-> ***Morale.*** In a fight, Rose would plead for peace, but flee with Thorn if that proved impossible.
+> ***Morale.*** In combattimento Rose implorerebbe la pace, ma se fosse impossibile fuggirebbe con Thorn.
 >
-> ***Relationships.*** Rose is Thorn Durst's older sister, Walter Durst's half-sibling, and the eldest child of Elisabeth and Gustav Durst.
+> ***Relazioni.*** Rose è la sorella maggiore di Thorn Durst, la sorellastra di Walter Durst e la primogenita di Elisabeth e Gustav Durst.
 
-> [!profile]+ **Profile: Thornboldt "Thorn" Durst**
+> [!profile]+ **Profilo: Thornboldt «Thorn» Durst**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Thorn should inspire sympathy for his shyness and fear, and endearment for his childlike joy.
+> **Interpretazione**
+> ***Risonanza.*** Thorn deve suscitare compassione per la sua timidezza e la sua paura, e tenerezza per la sua gioia di bambino.
 >
-> ***Emotions.*** Thorn most often feels uncomfortable, joyous, anxious, or terrified.
+> ***Emozioni.*** Il più delle volte Thorn è a disagio, felice, ansioso o terrorizzato.
 >
-> ***Motivations.*** Thorn wants to keep close to Rose and find toys to play with.
+> ***Motivazioni.*** Thorn vuole restare vicino a Rose e trovare giocattoli con cui giocare.
 >
-> ***Inspirations.*** When playing Thorn, channel Neville Longbottom (*Harry Potter*) and Piglet (*Winnie the Pooh*).
+> ***Ispirazioni.*** Quando interpreti Thorn, ispirati a Neville Paciock (*Harry Potter*) e a Pimpi (*Winnie the Pooh*).
 >
-> **Character Information**
-***Persona.*** To the world, Thorn is a frightened young boy who clings to his sister. To those he trusts, Thorn is  a quietly observant and insightful child.
+> **Informazioni sul personaggio**
+***Personalità.*** Agli occhi del mondo Thorn è un bambino spaventato che si aggrappa alla sorella. Con chi si fida, Thorn è  un bambino che osserva in silenzio e capisce molto.
 >
-> ***Morale.*** In a fight, Thorn would cower and cry, pleading for Rose to rescue him.
+> ***Morale.*** In combattimento Thorn si rannicchierebbe a piangere, implorando Rose di salvarlo.
 >
-> ***Relationships.*** Thorn is Rose Durst's younger brother, Walter Durst's half-sibling, and the youngest child of Elisabeth and Gustav Durst.
+> ***Relazioni.*** Thorn è il fratello minore di Rose Durst, il fratellastro di Walter Durst e il figlio più piccolo di Elisabeth e Gustav Durst.
 
-In life, Rose was a budding wizard who discovered a small spellbook in her father’s library, and took great care in copying the _mending_, _light_, and _shocking grasp_ cantrips into her diary.<sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup>
+In vita Rose era una maga in erba: aveva scoperto un piccolo libro degli incantesimi nella biblioteca del padre e aveva ricopiato con grande cura nel suo diario i trucchetti _riparare_, _luce_ e _stretta folgorante_.<sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup>
 
-As the ghost children speak with the players, Thorn levitates one of his toys into the air, which falls and breaks. Rose swiftly uses her _mending_ spell to repair it. If her use of magic is remarked upon, she shyly shares her diary’s location, which can be found hidden in the cobweb-covered pillowcase on her bed.
+Mentre i bambini fantasma parlano con i giocatori, Thorn fa levitare uno dei suoi giocattoli, che cade e si rompe. Rose lo aggiusta subito con l'incantesimo _riparare_. Se qualcuno fa notare che usa la magia, lei confida timidamente dove si trova il diario: è nascosto nella federa coperta di ragnatele del cuscino del suo letto.
 
-In addition to her cantrips, Rose’s aged and faded diary also contains entries regarding her studies, her friends, her younger brother, her nursemaid (“Miss Klara”), and arguments between her mother and father. (Rose doesn't know anything about the content of those fights.)
+Oltre ai trucchetti, il diario di Rose, vecchio e sbiadito, contiene pagine sui suoi studi, sulle amiche, sul fratellino, sulla bambinaia («la signorina Klara») e sui litigi fra la madre e il padre. (Rose non sa niente del motivo di quei litigi.)
 
-Rose knows the way down to the basement, but “isn’t supposed to go down there.” If the party convinces her to show them the way, she points them toward the dollhouse, revealing the secret entry. In exchange, she asks the players to take her and Thorn's bones with them if they escape, burying them in the garden outside. 
+Rose conosce la strada per il seminterrato, ma «non dovrebbe andare laggiù». Se il gruppo la convince a mostrare la strada, indica la casa delle bambole e rivela l'ingresso segreto. In cambio chiede ai giocatori di portare con sé le ossa sue e di Thorn, se riescono a fuggire, e di seppellirle nel giardino là fuori. 
 
-The dollhouse contains small dolls that depict tiny, twisted molds of any characters and creatures currently visible in the house. The dolls are made of painted resin. Any character looking inside the dollhouse while in Rose and Thorn’s room can see the appropriately-placed dolls of all living creatures within the manor. The dollhouse only contains rooms within the house itself, and does not depict the dungeon levels below.
+La casa delle bambole contiene piccole bambole che riproducono, in forme minuscole e contorte, tutti i personaggi e le creature visibili in quel momento nella casa. Le bambole sono di resina dipinta. Un personaggio che guarda dentro la casa delle bambole mentre si trova nella stanza di Rose e Thorn vede le bambole di tutte le creature vive della villa, ognuna al suo posto. La casa delle bambole riproduce soltanto le stanze della casa e non i livelli dei sotterranei.
 
-When the secret door is revealed, Thorn shyly asks the players if he and Rose can accompany them downstairs to aid them, and attempts to possess a friendly player if permitted. When Rose or Thorn attempts to possess a player, describe it as “a child’s tiny hand, desperately seeking the touch of another soul.” 
+Quando la porta segreta viene scoperta, Thorn chiede timidamente ai giocatori se lui e Rose possono accompagnarli di sotto per aiutarli e, se glielo permettono, cerca di possedere un giocatore amico. Quando Rose o Thorn cercano di possedere un giocatore, descrivilo come «la manina di un bambino che cerca disperatamente il contatto con un'altra anima». 
 
-A player possessed by Rose can cast the cantrips in her diary, while a player possessed by Thorn can gain the effects of the _mage hand_ cantrip as an action, without the use of components. (The spectral hand is invisible.)
-### Storage Room
-<span class="citation"><em>This scene takes place in Appendix B: Area 18.</em></span>
+Un giocatore posseduto da Rose può lanciare i trucchetti del suo diario; un giocatore posseduto da Thorn può ottenere gli effetti del trucchetto _mano magica_ come azione, senza bisogno di componenti. (La mano spettrale è invisibile.)
+### Ripostiglio
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 18.</em></span>
 
-This room is largely as described in <span class="citation">Storage Room (p. 215)</span>. When the players enter this room, read:
-
-<div class="description">
-<p>This dusty chamber is packed with lumpy, squat shapes draped in dusty white sheets. An old iron stove stands against the right-side wall, next to what looks to be a large trunk covered by a sheet.</p>
-</div>
-
-The nursemaid’s **specter** does not appear in this room. Instead, a character who opens the trunk finds the nursemaid’s corpse, with wounds consistent with those seen on the spirit’s body in the **Nursemaid’s Suite**. A DC 14 Wisdom (Medicine) check reveals that the woman died of starvation.
-
-A player inspecting the remains feels a cold breath on their shoulder and the unshakeable sense of being watched. Meanwhile, if another player has previously uncovered a nearby mirror from its sheet covering, that player can see an apparition of Elisabeth Durst within the mirror staring at the player near the chest. Once observed, the apparition swiftly vanishes.
-### Guest Bedroom
-<span class="citation"><em>This scene takes place in Appendix B: Area 19.</em></span>
-
-This room is as described in <span class="citation">Spare Bedroom (p. 215)</span>.
-### Secret Stairs
-<span class="citation"><em>This scene takes place in Appendix B: Area 21.</em></span>
-
-This room is largely as described in <span class="citation">Secret Stairs (p. 217)</span>. However, opening the secret door reveals only a stone slab on the opposite side, inset with a small bronze panel at approximately chest level. A small hollow niche identical to the one in the library lies at the panel's center, emanating a faint amber glow. When the niche is exposed, the amber shard from the [[#Master Suite]] glimmers faintly and swings in the air toward it, as though held aloft by an unseen force.
-
-To allow the stone slab to swing open and reveal the hidden stairs on the opposite side, the players must place the amber shard into the niche.
-
-When the players enter this room, read:
+La stanza è più o meno come descritta in <span class="citation">Ripostiglio (p. 215)</span>. Quando i giocatori ci entrano, leggi:
 
 <div class="description">
-<p>The secret door opens to reveal a narrow spiral staircase built of aged-looking wood within a tight shaft of mortared stone. Thick cobwebs fill the staircase as it descends into the darkness below.</p>
+<p>Questa stanza polverosa è stipata di sagome tozze e bitorzolute coperte da teli bianchi impolverati. Contro la parete destra c'è una vecchia stufa di ferro, accanto a quello che sembra un grosso baule coperto da un telo.</p>
 </div>
 
-As the players descend the stairs, read:
+Lo **spettro** della bambinaia non compare in questa stanza. Un personaggio che apre il baule ci trova invece il cadavere della bambinaia, con ferite che corrispondono a quelle viste sul corpo dello spirito nell'**Appartamento della bambinaia**. Una prova di Saggezza (Medicina) con CD 14 rivela che la donna è morta di fame.
+
+Un giocatore che esamina i resti sente un respiro freddo sulla spalla e la sensazione, impossibile da scrollarsi di dosso, di essere osservato. Se intanto un altro giocatore ha già tolto il telo da uno specchio lì vicino, quel giocatore vede nello specchio lo spettro di Elisabeth Durst che fissa il giocatore vicino al baule. Appena viene notato, lo spettro svanisce.
+### Camera degli ospiti
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 19.</em></span>
+
+La stanza è come descritta in <span class="citation">Camera libera (p. 215)</span>.
+### Scala segreta
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 21.</em></span>
+
+La stanza è più o meno come descritta in <span class="citation">Scala segreta (p. 217)</span>. Quando si apre la porta segreta, però, dall'altra parte c'è soltanto una lastra di pietra con un piccolo pannello di bronzo incassato all'altezza del petto. Al centro del pannello c'è una piccola nicchia cava, identica a quella della biblioteca, da cui esce un debole bagliore ambrato. Quando la nicchia viene scoperta, il frammento d'ambra della [[#Camera padronale]] luccica debolmente e oscilla nell'aria verso di essa, come sostenuto da una forza invisibile.
+
+Perché la lastra di pietra si apra e riveli la scala nascosta dall'altra parte, i giocatori devono mettere il frammento d'ambra nella nicchia.
+
+Quando i giocatori entrano in questa stanza, leggi:
 
 <div class="description">
-<p>The broken cobwebs around you sway like a gossamer wedding veil, beckoning you forward as the ancient stairs creak and groan underfoot. The gaping maw of the stairwell draws you deeper, swallowing you up as you descend further down its gullet. You descend one floor—two floors—three.</p>
-<p>The walls of the stone shaft narrow around you, forcing you to hunch your shoulders and pull in your elbows to continue downward. In the darkness, you can only hear the shuffle of your feet, the choking groan of the stairs, and the pounding of your blood in your ears. </p>
-<p>Finally, after what feels like hours, the descent levels out, and the spiral staircase ends at a darkened landing of  packed earth. A narrow tunnel supported by aged timber braces stretches ahead of you, its stone walls seeming to bleed with deposits of streaked, red clay. Eight feet ahead, the tunnel splits, branching to the left and right.</p>
-<p>As your eyes and ears adjust to the cold, subterranean corridor, you notice that the tunnel isn't as silent as the staircase above. An eerie, low-pitched sound echoes through the space—and you soon recognize it as a deep, incessant chanting.</p>
+<p>La porta segreta si apre su una stretta scala a chiocciola di legno vecchio, chiusa in un pozzo angusto di pietra e malta. Spesse ragnatele riempiono la scala, che scende nell'oscurità.</p>
 </div>
 
-**_Milestone_**. Descending into Death House's dungeon level completes a story milestone. When the party exits the secret stairs, award each player 200 XP. 
-## A2f. The Basement
-### Family Crypts
-<span class="citation"><em>This scene takes place in Appendix B: Area 23.</em></span>
-
-These rooms are largely as described in **Family Crypts** (p. 217-18). 
-
-As the players approach the **Empty Crypt** and **Walter’s Crypt**, read:
+Mentre i giocatori scendono le scale, leggi:
 
 <div class="description">
-<p>This side-corridor branches again to the left and right. On either side, large standing stone slabs have been set aside to lean against the walls, opening the way to a pair of dark, quiet crypts. The slab to the right is etched with the name "Walter Durst"; the slab to the left is blank.</p>
+<p>Le ragnatele strappate intorno a voi ondeggiano come un velo da sposa e vi invitano ad andare avanti, mentre i gradini antichi scricchiolano e gemono sotto i piedi. La bocca spalancata della tromba delle scale vi attira sempre più giù, e scendendo vi sentite inghiottire nella sua gola. Scendete di un piano. Di due. Di tre.</p>
+<p>Le pareti del pozzo di pietra si stringono intorno a voi, e per continuare a scendere dovete curvare le spalle e stringere i gomiti. Nel buio sentite soltanto lo strusciare dei piedi, il gemito soffocato dei gradini e il sangue che vi martella nelle orecchie. </p>
+<p>Alla fine, dopo quelle che sembrano ore, la discesa si fa piana e la scala a chiocciola termina su un pianerottolo buio di terra battuta. Davanti a voi si allunga uno stretto cunicolo sorretto da vecchie travi di legno, con le pareti di pietra che sembrano sanguinare per le venature di argilla rossa. A 2,4 metri davanti a voi il cunicolo si divide e si dirama a sinistra e a destra.</p>
+<p>Mentre occhi e orecchie si abituano al corridoio sotterraneo e freddo, vi accorgete che il cunicolo non è silenzioso come la scala. Nello spazio riecheggia un suono basso e inquietante, e presto lo riconoscete: è una cantilena profonda e incessante.</p>
 </div>
 
-If the characters enter the **Empty Crypt**, read:
+**_Traguardo_**. Scendere nei sotterranei della Casa della Morte completa un traguardo della storia. Quando il gruppo esce dalla scala segreta, assegna 200 PE a ogni giocatore. 
+## A2f. Il seminterrato
+### Cripte di famiglia
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 23.</em></span>
+
+Queste stanze sono più o meno come descritte in **Cripte di famiglia** (pp. 217–218). 
+
+Quando i giocatori si avvicinano alla **Cripta vuota** e alla **Cripta di Walter**, leggi:
 
 <div class="description">
-<p>You peer past the leaning stone slab to see an empty earthen crypt.</p>
+<p>Questo corridoio laterale si dirama di nuovo a sinistra e a destra. Ai due lati grandi lastre di pietra sono state spostate e appoggiate alle pareti, e aprono il passaggio verso due cripte buie e silenziose. Sulla lastra di destra è inciso il nome «Walter Durst»; quella di sinistra è liscia.</p>
 </div>
 
-If the characters enter **Walter’s Crypt**, read:
+Se i personaggi entrano nella **Cripta vuota**, leggi:
 
 <div class="description">
-<p>Swollen, bloody cysts cover the walls of this crypt like tumors. From time to time, they pulsate and burst, streams of pus oozing down to collect on the floor. Each time they do, you can hear an infant's quiet whimpers, which are swiftly quieted by the sound of distant humming.</p>
+<p>Guardate oltre la lastra di pietra appoggiata al muro e vedete una cripta di terra, vuota.</p>
 </div>
 
-Players who have previously read or heard the song recognize the melody of the humming as *Waltz for Klara.*
-
-As the players approach **Gustav’s Crypt** and **Elisabeth’s Crypt**, read:
+Se i personaggi entrano nella **Cripta di Walter**, leggi:
 
 <div class="description">
-<p>This side corridor branches again to the left and right. Large standing stone slabs seal the entrance to the tunnels on either side, blocking the way forward. The slab to the left is etched with the name "Gustav Durst"; the slab to the right is etched with the name "Elisabeth Durst." The tunnel here is unnaturally quiet, and a thin mist clings to the floor.</p>
+<p>Cisti gonfie e sanguinolente coprono le pareti della cripta come tumori. Ogni tanto pulsano e scoppiano, e rivoli di pus colano giù e si raccolgono sul pavimento. Ogni volta sentite il piagnucolio sommesso di un neonato, che si calma subito al suono di qualcuno che canticchia in lontananza.</p>
 </div>
 
-If the characters enter **Gustav’s Crypt**, read:
+I giocatori che hanno già letto o ascoltato la musica riconoscono nella melodia il *Valzer per Klara.*
+
+Quando i giocatori si avvicinano alla **Cripta di Gustav** e alla **Cripta di Elisabeth**, leggi:
 
 <div class="description">
-<p>The crypt beyond the slab contains a stone coffin lying atop a dusty stone bier. Silence hangs heavy over the lonely chamber.</p>
+<p>Questo corridoio laterale si dirama di nuovo a sinistra e a destra. Grandi lastre di pietra sigillano l'ingresso dei cunicoli ai due lati e sbarrano la strada. Sulla lastra di sinistra è inciso il nome «Gustav Durst», su quella di destra il nome «Elisabeth Durst». Qui il cunicolo è immerso in un silenzio innaturale e una nebbia sottile ristagna sul pavimento.</p>
 </div>
 
-If the characters enter **Elisabeth’s Crypt**, read:
+Se i personaggi entrano nella **Cripta di Gustav**, leggi:
 
 <div class="description">
-<p>A thick, acrid miasma hangs over the interior of this crypt, which holds a stone-carved coffin resting atop a stone bier. The floor before it is littered with the bodies of hundreds of dead termites. Many cling to the elongated, bloated body of a dead termite queen, while others appear to have died atop the scarred, mutilated bodies of four larger beetles not far away.</p>
+<p>Oltre la lastra, la cripta contiene una bara di pietra posata su un catafalco di pietra polveroso. Un silenzio pesante grava sulla camera solitaria.</p>
 </div>
 
-As the players approach **Rose’s Crypt** and **Thorn’s Crypt**, read:
+Se i personaggi entrano nella **Cripta di Elisabeth**, leggi:
 
 <div class="description">
-<p>This side-corridor branches again to the left and right. Large standing stone slabs seal the entrance to the tunnels on either side, blocking the way forward. The slab to the left is etched with the name "Rosavalda Durst"; the slab to the right is etched with the name "Thornboldt Durst." Each slab exudes the silence of a forgotten grave.</p>
+<p>Un miasma denso e acre ristagna nella cripta, che custodisce una bara di pietra scolpita posata su un catafalco di pietra. Il pavimento davanti è disseminato dei corpi di centinaia di termiti morte. Molte sono aggrappate al corpo allungato e gonfio di una regina delle termiti morta; altre sembrano essere morte sopra i corpi segnati e mutilati di quattro coleotteri più grandi, poco lontano.</p>
 </div>
 
-If the characters enter either crypt, read:
+Quando i giocatori si avvicinano alla **Cripta di Rose** e alla **Cripta di Thorn**, leggi:
 
 <div class="description">
-<p>This small chamber contains a stone coffin resting on a stone bier. The air in this crypt hangs heavy with sorrow.</p>
+<p>Questo corridoio laterale si dirama di nuovo a sinistra e a destra. Grandi lastre di pietra sigillano l'ingresso dei cunicoli ai due lati e sbarrano la strada. Sulla lastra di sinistra è inciso il nome «Rosavalda Durst», su quella di destra il nome «Thornboldt Durst». Da ogni lastra emana il silenzio di una tomba dimenticata.</p>
 </div>
 
-The players cannot help Rose or Thorn’s ghosts find peace by placing their remains in their coffins. Neither [[Non-Player Characters#Rosavalda "Rose" Durst|Rose]] nor [[Non-Player Characters#Thornboldt "Thorn" Durst|Thorn]] finds these crypts comforting. Both prefer to leave as quickly as possible.
-### Cult Initiates’ Quarters
-<span class="citation"><em>This scene takes place in Appendix B: Area 24.</em></span>
-
-This room is largely as described in <span class="citation">Cult Initiates’ Quarters (p. 218)</span>. 
-
-As the characters move to descend to the <span class="citation">Well and Cultist Quarters (p. 218)</span>, a sudden splashing sound can be heard—which then quickly subsides.
-### Well and Cultist Quarters
-<span class="citation"><em>This scene takes place in Appendix B: Area 25.</em></span>
-
-This room is largely as described in <span class="citation">Well and Cultist Quarters (p. 218)</span>. When the players enter this room, read:
+Se i personaggi entrano in una delle due cripte, leggi:
 
 <div class="description">
-<p>The ceiling of this dark, earthen chamber rises a foot higher than the cramped tunnel. It's supported by thick wooden posts and cross beams that have rotted with age and bear deep holes indicative of hungry insects.</p>
-<p>Here, a lonely well stands at the center of the room, surrounded on three sides by several smaller, alcove-like chambers that have been carved into the walls. Old footprints criss-cross the floor, leading into the alcoves, around the well, up a staircase on the other end of the room, and back upstairs the way you came.</p>
-<p>An old hempen rope attached to a rusted pulley descends past the mouth of the well, swaying gently in the stagnant air as if just abandoned by an unseen occupant.</p>
+<p>Questa piccola camera contiene una bara di pietra posata su un catafalco di pietra. L'aria della cripta è greve di dolore.</p>
 </div>
 
-The well comprises a 4-foot-diameter well shaft with a 3-foot-high stone lip, and descends 30 feet to a water-filled cistern. A wooden bucket hangs from a rope-and-pulley mechanism bolted to the cross beams above the well. The interior of the shaft is covered with an ash-black species of fungi.
+Mettere i resti di Rose e di Thorn nelle loro bare non aiuta i loro fantasmi a trovare pace. Né [[Non-Player Characters#Rosavalda «Rose» Durst|Rose]] né [[Non-Player Characters#Thornboldt «Thorn» Durst|Thorn]] trovano conforto in queste cripte: tutti e due preferiscono andarsene il prima possibile.
+### Alloggi degli iniziati del culto
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 24.</em></span>
 
-If the players toss an object down the well and then turn away, they hear loud splashing and tearing sounds coming from below. When they turn back, the object has been torn to pieces, with large parts missing.
+La stanza è più o meno come descritta in <span class="citation">Alloggi degli iniziati del culto (p. 218)</span>. 
 
-Replace the silvered shortsword in footlocker **25E** with a book bound in grimy black leather. This journal, which is signed by Drasha, contains a list of names and physical descriptions associated with each name. Each entry includes gruesome details describing the victim’s sacrifice, such as “struggled profusely” or “no sedative given,”<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> and ends with the phrase, "Fed to Walter."
+Quando i personaggi si avviano per scendere al <span class="citation">Pozzo e alloggi dei cultisti (p. 218)</span>, si sente all'improvviso uno sciabordio, che si placa subito.
+### Pozzo e alloggi dei cultisti
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 25.</em></span>
 
-
-### Hidden Spiked Pit
-<span class="citation"><em>This scene takes place in Appendix B: Area 26.</em></span>
-
-This room is largely as described in <span class="citation">Hidden Spiked Pit (p. 218)</span>. If the characters enter this area from [[#Well and Cultist Quarters]], read:
+La stanza è più o meno come descritta in <span class="citation">Pozzo e alloggi dei cultisti (p. 218)</span>. Quando i giocatori ci entrano, leggi:
 
 <div class="description">
-<p>The staircase leads to a quiet landing. To the front, the stairs continue upward and vanish around a bend. To the right, the landing continues straight into a lonely corridor. This tunnel hallway seems surprisingly clean and bereft of debris; at its far end, another earthen staircase descends into darkness.</p>
-<p>The incessant chanting that has filled the air of this underground complex grows stronger toward the far end of this corridor. Its source seems to lie beyond the descending stairs.</p>
+<p>Il soffitto di questa camera buia di terra è trenta centimetri più alto di quello dell'angusto cunicolo. Lo sorreggono spessi pali di legno e travi trasversali, marciti con gli anni e segnati da buchi profondi che tradiscono insetti affamati.</p>
+<p>Al centro della stanza c'è un pozzo solitario, circondato su tre lati da diverse nicchie più piccole scavate nelle pareti. Vecchie impronte si incrociano sul pavimento: entrano nelle nicchie, girano intorno al pozzo, salgono una scala in fondo alla stanza e tornano di sopra, da dove siete venuti.</p>
+<p>Una vecchia corda di canapa legata a una carrucola arrugginita scende oltre la bocca del pozzo e ondeggia piano nell'aria stagnante, come se qualcuno l'avesse appena lasciata.</p>
 </div>
 
-If the characters enter this area from [[#Dining Hall]], read:
+Il pozzo è una canna larga 1,2 metri con un parapetto di pietra alto 90 centimetri, e scende per 9 metri fino a una cisterna piena d'acqua. Un secchio di legno pende da un meccanismo a corda e carrucola fissato alle travi sopra il pozzo. L'interno della canna è coperto da una specie di fungo nero come la cenere.
+
+Se i giocatori gettano un oggetto nel pozzo e poi si voltano, sentono provenire dal basso forti sciabordii e rumori di qualcosa che viene strappato. Quando si girano di nuovo, l'oggetto è stato fatto a pezzi e ne mancano parti grandi.
+
+Sostituisci la spada corta argentata nel baule **25E** con un libro rilegato in pelle nera e sudicia. Il diario, firmato da Drasha, contiene un elenco di nomi, ognuno con una descrizione fisica. Ogni voce riporta dettagli raccapriccianti sul sacrificio della vittima, come «si è dibattuto parecchio» o «nessun sedativo somministrato»,<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> e si chiude con la frase «Dato in pasto a Walter».
+
+
+### Fossa chiodata nascosta
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 26.</em></span>
+
+La stanza è più o meno come descritta in <span class="citation">Fossa chiodata nascosta (p. 218)</span>. Se i personaggi arrivano in quest'area dal [[#Pozzo e alloggi dei cultisti]], leggi:
 
 <div class="description">
-<p>The staircase descends to a quiet landing. To the front, the stairs continue to descend, opening into a broader chamber. To the left, the landing continues straight into a lonely corridor. This tunnel hallway seems surprisingly clean and bereft of debris; at its far end, another earthen staircase descends into darkness.</p>
-<p>The incessant chanting that has filled the air of this underground complex grows stronger toward the far end of this corridor.</p>
+<p>La scala porta a un pianerottolo silenzioso. Davanti a voi i gradini continuano a salire e spariscono dietro una curva. A destra il pianerottolo prosegue dritto in un corridoio solitario. Il cunicolo sembra sorprendentemente pulito e sgombro di detriti; in fondo, un'altra scala di terra scende nel buio.</p>
+<p>La cantilena incessante che riempie l'aria di questo complesso sotterraneo si fa più forte verso il fondo del corridoio. Sembra venire da oltre la scala che scende.</p>
 </div>
 
-If the characters enter this area from [[#Ghoulish Encounter]], read:
+Se i personaggi arrivano in quest'area dal [[#Refettorio]], leggi:
 
 <div class="description">
-<p>The staircase descends to a quiet landing. To the left, the stairs continue to descend, rounding a bend before vanishing into darkness. The incessant chanting that has filled the air of this underground complex appears to be echoing from below.</p>
-<p>To the right, the landing continues straight into a lonely corridor. This tunnel hallway seems surprisingly clean and bereft of debris; at its far end, the corridor branches left and right.</p>
+<p>La scala scende a un pianerottolo silenzioso. Davanti a voi i gradini continuano a scendere e si aprono su una camera più ampia. A sinistra il pianerottolo prosegue dritto in un corridoio solitario. Il cunicolo sembra sorprendentemente pulito e sgombro di detriti; in fondo, un'altra scala di terra scende nel buio.</p>
+<p>La cantilena incessante che riempie l'aria di questo complesso sotterraneo si fa più forte verso il fondo del corridoio.</p>
 </div>
 
-### Dining Hall
-<span class="citation"><em>This scene takes place in Appendix B: Area 27.</em></span>
-
-This room is largely as described in <span class="citation">Dining Hall (p. 218)</span>. When the players enter this room, read: 
+Se i personaggi arrivano in quest'area dall'[[#Incontro con i ghoul]], leggi:
 
 <div class="description">
-<p>This room contains a plain wooden table flanked by long benches. Moldy humanoid bones lie strewn on the dirt floor.  A thick stench of rot and gore fills the chamber, so coppery with blood that you can taste it on your tongue.</p>
-<p>A few dozen moldy bones have been piled into a grotesque and misshapen pyramid in a dark alcove to the south.</p>
+<p>La scala scende a un pianerottolo silenzioso. A sinistra i gradini continuano a scendere, girano dietro una curva e spariscono nel buio. La cantilena incessante che riempie l'aria di questo complesso sotterraneo sembra riecheggiare dal basso.</p>
+<p>A destra il pianerottolo prosegue dritto in un corridoio solitario. Il cunicolo sembra sorprendentemente pulito e sgombro di detriti; in fondo, il corridoio si dirama a sinistra e a destra.</p>
 </div>
 
-### Larder
-<span class="citation"><em>This scene takes place in Appendix B: Area 28.</em></span>
+### Refettorio
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 27.</em></span>
 
-This area is largely as described in <span class="citation">Larder (p. 218)</span>. 
-
-The **grick** in this alcove—the warped remains of Gustav Durst’s flayed corpse—is coiled on the ceiling, and drops onto its victim when they enter. A DC 17 Wisdom (Perception) check allows a player to determine its presence before entering. 
-
-If the players disturb the grick, read:
+La stanza è più o meno come descritta in <span class="citation">Refettorio (p. 218)</span>. Quando i giocatori ci entrano, leggi: 
 
 <div class="description">
-<p>A horrific creature drops from the ceiling—a long, flesh-like worm the breadth and length of a human man, its trunk resembling a humanoid body with its arms sewn to its torso and both legs sewn together. Its flayed muscles split open to reveal a flapping, gaping maw ringed by hundreds of tiny, humanlike teeth and a gnashing, bony beak. </p>
-<p>It lets out a high-pitched, gurgling squeal as it hurls itself forward, writhing, tendon-like tentacles lashing toward your face.</p>
+<p>Nella stanza c'è un semplice tavolo di legno con lunghe panche ai lati. Sul pavimento di terra sono sparse ossa umanoidi ammuffite.  Un fetore denso di marcio e di carne riempie la camera, così carico dell'odore metallico del sangue che ne sentite il sapore sulla lingua.</p>
+<p>In una nicchia buia a sud qualche decina di ossa ammuffite è stata ammucchiata in una piramide grottesca e informe.</p>
 </div>
 
-> [!combat]- **Combat - Grick**
-> **Combat Level**: Bruising
-> **Expected Character Level**: 2
-> **Expected HP Consumption:** 28%  
+### Dispensa sotterranea
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 28.</em></span>
+
+L'area è più o meno come descritta in <span class="citation">Dispensa sotterranea (p. 218)</span>. 
+
+Il **grick** di questa nicchia, ciò che resta deformato del cadavere scuoiato di Gustav Durst, sta arrotolato sul soffitto e piomba sulla vittima quando questa entra. Con una prova di Saggezza (Percezione) con CD 17 un giocatore ne scopre la presenza prima di entrare. 
+
+Se i giocatori disturbano il grick, leggi:
+
+<div class="description">
+<p>Dal soffitto piomba una creatura orribile: un lungo verme di carne, grosso e lungo quanto un uomo, con il tronco simile a un corpo umanoide a cui hanno cucito le braccia al busto e le gambe l'una all'altra. I muscoli scorticati si squarciano e rivelano una bocca spalancata e palpitante, con un anello di centinaia di dentini simili a denti umani e un becco osseo che digrigna. </p>
+<p>Si lancia in avanti contorcendosi, con uno strillo acuto e gorgogliante, mentre i tentacoli simili a tendini sferzano verso la vostra faccia.</p>
+</div>
+
+> [!combat]- **Combattimento: grick**
+> **Livello di combattimento**: impegnativo
+> **Livello previsto dei personaggi**: 2
+> **Consumo previsto di pf:** 28%  
 >   
-> ### **Enemies:**  
+> ### **Nemici:**  
 >   
-> | |3 Players | 4 Players | 5 Players | 6 Players |  
+> | |3 giocatori | 4 giocatori | 5 giocatori | 6 giocatori |  
 > |-|-|-|-|-|  
 > | Grick | 1 | 1 | 1 | 1 |  
 >   
-> ### **Balancing:**  
-> If you have fewer or more than 5 players, modify the encounter in the following ways:  
+> ### **Bilanciamento:**  
+> Se i giocatori sono meno o più di 5, modifica lo scontro così:  
 >   
-> | Number of Players | Modification |
+> | Numero di giocatori | Modifica |
 > |-|-|
-> | 3 | <ul><li>Reduce the grick's hit points to 16</li><li>Reduce its tentacles attack to 5 (2d4) damage</li><li>Reduce its beak attack to 3 (1d6 damage)</li></ul> |
-> | 4 | <ul><li>Reduce the grick’s hit points to 22</li><li>Reduce its tentacles attack to 7 (2d6) damage</li><li>Reduce its beak attack to 4 (1d8) damage</li></ul> |
-> | 6 | <ul><li>Increase the grick’s hit points to 32</li><li>Increase its tentacles attack to 11 (2d8+2)</li><li>Increase its bite attack to 6 (1d8+2)</li></ul> |
+> | 3 | <ul><li>Riduci i punti ferita del grick a 16</li><li>Riduci i danni dell'attacco con i tentacoli a 5 (2d4)</li><li>Riduci i danni dell'attacco con il becco a 3 (1d6)</li></ul> |
+> | 4 | <ul><li>Riduci i punti ferita del grick a 22</li><li>Riduci i danni dell'attacco con i tentacoli a 7 (2d6)</li><li>Riduci i danni dell'attacco con il becco a 4 (1d8)</li></ul> |
+> | 6 | <ul><li>Aumenta i punti ferita del grick a 32</li><li>Aumenta i danni dell'attacco con i tentacoli a 11 (2d8+2)</li><li>Aumenta i danni dell'attacco con il morso a 6 (1d8+2)</li></ul> |
 
 ![[Durst_Grick_Transparent.png]]
 
-<span class="credit">"The Grick" by Cuddly Kraken. Support them <a href="https://cuddlykraken.carrd.co/">here!</a></span>
+<span class="credit">«The Grick» di Cuddly Kraken. Sostieni l'artista <a href="https://cuddlykraken.carrd.co/">qui!</a></span>
 
-### Ghoulish Encounter
-<span class="citation"><em>This scene takes place in Appendix B: Area 29.</em></span>
+### Incontro con i ghoul
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 29.</em></span>
 
-This area is largely as described in <span class="citation">Ghoulish Encounter (p. 218)</span>. When the players first approach this area, read: 
+L'area è più o meno come descritta in <span class="citation">Incontro con i ghoul (p. 218)</span>. La prima volta che i giocatori si avvicinano a quest'area, leggi: 
 
 <div class="description">
-<p>A deathly stench emanates from this corridor. The stone walls bear cracked, red stains, and a trail of old bones leads deeper down the tunnel.</p>
+<p>Da questo corridoio sale un fetore di morte. Le pareti di pietra sono segnate da macchie rosse screpolate e una scia di vecchie ossa si inoltra nel cunicolo.</p>
 
 </div>
 
-When a player first enters one of the 5-foot squares at the entrance of the corridors (marked T on the map), three **ghouls** rise up out of the ground in the spaces marked S and attack.
+La prima volta che un giocatore entra in uno dei quadretti da 1,5 metri all'imbocco dei corridoi (segnati con T sulla mappa), tre **ghoul** emergono dal terreno negli spazi segnati con S e attaccano.
 
 ![[Ghoulish Encounter Map.png]]
-> [!combat]- **Combat - Ghouls**
-> **Combat Level**: 3 consecutive Mild encounters
-> **Expected Character Level**: 2
-> **Expected HP Consumption:** 15% each, total of 45%
+> [!combat]- **Combattimento: ghoul**
+> **Livello di combattimento**: 3 scontri lievi consecutivi
+> **Livello previsto dei personaggi**: 2
+> **Consumo previsto di pf:** 15% ciascuno, 45% in totale
 > 
-> ### **Enemies:**
+> ### **Nemici:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 giocatori | 4 giocatori | 5 giocatori | 6 giocatori |
 > |-|-|-|-|-|
 > | Ghoul | 1 | 2 | 3 | 4 |
 > 
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
+> ### **Bilanciamento:**
+> Se i giocatori sono meno o più di 5, modifica lo scontro così:
 > 
-> | Number of Players | Modification |
+> | Numero di giocatori | Modifica |
 > |-|-|
 > | 3 |  |
-> | 4 | Only let one ghoul attack at a time |
-> | 6 | Only let one ghoul attack at a time |
+> | 4 | Fai attaccare un solo ghoul alla volta |
+> | 6 | Fai attaccare un solo ghoul alla volta |
 
-As the ghouls attack, they mindlessly repeat any or all of the following phrases:
+Mentre attaccano, i ghoul ripetono senza senso una o tutte queste frasi:
 
-* “Beautiful. We’re so beautiful.”
-* “We are perfect. We are immortal.”
-* “Help us live forever.”
+* «Belli. Siamo così belli.»
+* «Siamo perfetti. Siamo immortali.»
+* «Aiutateci a vivere per sempre.»
 
-If the players continue down the corridor, read:
-
-<div class="description">
-<p>The trail ends at the center of a quiet intersection. The incessant chanting you've heard since first entering the dungeon is noticeably louder down the northern branch of the intersection.</p>
-</div>
-
-### Stairs Down
-<span class="citation"><em>This scene takes place in Appendix B: Area 30.</em></span>
-
-This room is largely as described in <span class="citation">Stairs Down (p. 218)</span>. When the players approach this area, read:
+Se i giocatori proseguono lungo il corridoio, leggi:
 
 <div class="description">
-<p>A dark set of chiseled stone steps descends into darkness. It's clear that the origin of the muffled chanting you've been hearing lies below.</p>
+<p>La scia finisce al centro di un incrocio silenzioso. La cantilena incessante che sentite da quando siete entrati nei sotterranei è molto più forte lungo il ramo nord dell'incrocio.</p>
 </div>
 
-### Darklord’s Shrine
-<span class="citation"><em>This scene takes place in Appendix B: Area 31.</em></span>
+### Scala verso il basso
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 30.</em></span>
 
-This room is largely as described in <span class="citation">Darklord’s Shrine (p. 218)</span>. In addition, when the players enter this room, read:
+La stanza è più o meno come descritta in <span class="citation">Scala verso il basso (p. 218)</span>. Quando i giocatori si avvicinano a quest'area, leggi:
 
 <div class="description">
-<p>This room is festooned with moldy skeletons that hang from rusty shackles against the walls, their mouths hanging open in silent screams. </p>
-<p>A wide alcove in the south wall contains a painted wooden statue carved in the likeness of a gaunt, pale-faced man wearing a voluminous black cloak, his pale left hand resting on the head of a wolf that stands beside him. The statue's right hand holds a smoky-gray crystal orb, and its painted gaze stares down toward you, a cold and cruel glint to its eye.</p>
-<p>Five ashen shadows are burned into the walls, with soot marks stretching across the floor toward the statue.</p>
-<p>The room has exits to the west and north. Chanting can be heard coming from the north.</p>
+<p>Una scala scura di gradini scalpellati nella pietra scende nell'oscurità. È chiaro che la cantilena soffocata che sentite viene da lì sotto.</p>
 </div>
 
-A player that approaches the orb can hear many voices whispering the following phrases:
+### Santuario del Signore Oscuro
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 31.</em></span>
 
-* “His gaze burns upon us.”
-* “The Darklord’s eyes are always watching.”
+La stanza è più o meno come descritta in <span class="citation">Santuario del Signore Oscuro (p. 218)</span>. Inoltre, quando i giocatori ci entrano, leggi:
 
-Additionally, that player’s shadow begins to writhe and twist, its edges growing tattered and blurred as it lashes erratically across the floor. A player who touches the orb feels as though a “dark, ancient evil” has suddenly turned its eye upon them. 
+<div class="description">
+<p>La stanza è addobbata di scheletri ammuffiti appesi alle pareti con catene arrugginite, la bocca spalancata in un urlo muto. </p>
+<p>In un'ampia nicchia nella parete sud c'è una statua di legno dipinto che ritrae un uomo emaciato, dal viso pallido, avvolto in un ampio mantello nero, con la mano sinistra pallida posata sulla testa di un lupo che gli sta accanto. Nella mano destra la statua regge una sfera di cristallo grigio fumo, e il suo sguardo dipinto vi fissa dall'alto con un lampo freddo e crudele negli occhi.</p>
+<p>Sulle pareti sono impresse a fuoco cinque ombre di cenere, con segni di fuliggine che attraversano il pavimento verso la statua.</p>
+<p>La stanza ha uscite a ovest e a nord. Da nord arriva la cantilena.</p>
+</div>
 
-If the orb is removed from its position, the ashen **shadows** upon the walls begin to stir. Each round, up to two of the shadows “awaken,” swooping across the walls. As they awaken, they murmur and moan the following phrases:
+Un giocatore che si avvicina alla sfera sente molte voci sussurrare queste frasi:
 
-* “Begone from this place!”
-* “Look not upon us.”
-* “Return the Darklord’s offering!”
+* «Il suo sguardo ci brucia.»
+* «Gli occhi del Signore Oscuro ci osservano sempre.»
 
-Once all shadows have awoken, they attack, with each shadow preferring to target a different player. If the orb is returned to its place on the statue, the shadows return to their original positions and become dormant once more.
+Inoltre l'ombra di quel giocatore comincia a contorcersi e ad attorcigliarsi, con i contorni che si sfilacciano e si confondono mentre sferza il pavimento in modo scomposto. Un giocatore che tocca la sfera ha la sensazione che un «male oscuro e antico» abbia improvvisamente posato lo sguardo su di lui. 
 
-The shadows gain the following additional feature:
+Se la sfera viene tolta dal suo posto, le **ombre** di cenere sulle pareti cominciano ad agitarsi. Ogni round fino a due ombre si «risvegliano» e guizzano lungo le pareti. Mentre si risvegliano, mormorano e gemono queste frasi:
 
-***Light Sensitivity.*** The shadow is immune to acid, cold, fire, lightning, and thunder damage, as well as bludgeoning, piercing, and slashing damage, while in darkness. The shadow is resistant to those damage types while in dim light, and is damaged by those damage types normally while in bright light.
+* «Andatevene da questo luogo!»
+* «Non guardateci.»
+* «Restituite l'offerta del Signore Oscuro!»
 
-> [!combat]- **Combat - Shadows**
-> **Combat Level**: Crushing
-> **Expected Character Level**: 2
-> **Expected HP Consumption:** 131%
+Quando tutte le ombre si sono risvegliate attaccano, e ognuna preferisce prendere di mira un giocatore diverso. Se la sfera viene rimessa al suo posto sulla statua, le ombre tornano nella posizione iniziale e si assopiscono di nuovo.
+
+Le ombre ottengono anche questo tratto:
+
+***Sensibilità alla luce.*** Nell'oscurità l'ombra è immune ai danni da acido, freddo, fuoco, fulmine e tuono, e ai danni contundenti, perforanti e taglienti. In luce fioca è resistente a questi tipi di danni, mentre in luce intensa li subisce normalmente.
+
+> [!combat]- **Combattimento: ombre**
+> **Livello di combattimento**: schiacciante
+> **Livello previsto dei personaggi**: 2
+> **Consumo previsto di pf:** 131%
 > 
-> ### **Enemies:**
+> ### **Nemici:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 giocatori | 4 giocatori | 5 giocatori | 6 giocatori |
 > |-|-|-|-|-|
-> | Shadow | 3 | 4 | 5 | 6 |
+> | Ombra | 3 | 4 | 5 | 6 |
 
 
-### Hidden Trapdoor
-<span class="citation"><em>This scene takes place in Appendix B: Area 32.</em></span>
+### Botola nascosta
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 32.</em></span>
 
-This room is largely as described in <span class="citation">Hidden Trapdoor (p. 219)</span>. When the players find and enter this area, read:
-
-<div class="description">
-<p>The clay staircase ends at a cramped landing. Six feet above the ground, a half-rotted ceiling of close-fitting planks holds a closed wooden trapdoor leading to an upper floor. The trapdoor is bolted shut from this side.</p>
-</div>
-
-### Cult Leader’s Den
-<span class="citation"><em>This scene takes place in Appendix B: Area 33.</em></span>
-
-This room is largely as described in <span class="citation">Cult Leaders’ Den (p. 219)</span>. However, remove the **mimic** from this area. In addition, when the players enter this room, read:
+La stanza è più o meno come descritta in <span class="citation">Botola nascosta (p. 219)</span>. Quando i giocatori trovano quest'area e ci entrano, leggi:
 
 <div class="description">
-<p>This quiet room contains a wooden table flanked by two high-backed chairs and holding a clay jug and two flagons. Above the table is suspended an unlit cast-iron chandelier. Iron candlesticks stand in two corners of the chamber, their candles long since melted away. A short corridor at the north end of the room leads to a darkened chamber beyond.</p>
+<p>La scala di argilla finisce su un pianerottolo angusto. A 1,8 metri da terra, un soffitto di assi accostate, mezzo marcito, ospita una botola di legno chiusa che porta al piano di sopra. La botola è sprangata da questa parte.</p>
 </div>
 
-### Cult Leader’s Quarters
-<span class="citation"><em>This scene takes place in Appendix B: Area 34.</em></span>
+### Covo del capo del culto
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 33.</em></span>
 
-This room is largely as described in <span class="citation">Cult Leaders’ Quarters (p. 219)</span>. When the players enter this room, read:
+La stanza è più o meno come descritta in <span class="citation">Covo dei capi del culto (p. 219)</span>. Togli però il **mimic** da quest'area. Inoltre, quando i giocatori ci entrano, leggi:
 
 <div class="description">
-<p>This room contains a large wood-framed bed, the feather mattress rotted by years of disuse. An old wooden wardrobe carved with demonic faces stands against the wall to the left, and a faded wooden footlocker stands quietly at the foot of the bed.</p>
-<p>The room is suffused with a familiar stench of death—but far stronger, mixing with a noxious scent that fills your lungs with every breath.</p>
+<p>In questa stanza silenziosa c'è un tavolo di legno con due sedie dallo schienale alto ai lati, e sopra una brocca di terracotta e due boccali. Sopra il tavolo pende un lampadario di ghisa spento. In due angoli della camera ci sono candelieri di ferro, con le candele consumate da tempo. Un breve corridoio in fondo alla stanza, a nord, porta a una camera buia.</p>
 </div>
 
-The wardrobe contains several old robes, a pair of iron candlesticks, and an open crate containing thirty torches and a leather sack with fifteen candles inside it. A rotting aroma also emanates from a pair of rotted organs—a half-eaten liver and a gnawed intestine—lying hidden beneath the hems of the robes.
+### Alloggi del capo del culto
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 34.</em></span>
 
-Folded inside the foot locker, on top of its other contents, is a **boneless** (<span class="citation">Van Richten’s Guide to Ravenloft, p. 228)</span> made of the recognizable flayed skin of Gustav Durst. When the foot locker is opened, the **boneless** springs out to attack the nearest creature.
+La stanza è più o meno come descritta in <span class="citation">Alloggi dei capi del culto (p. 219)</span>. Quando i giocatori ci entrano, leggi:
 
-> [!combat]- **Combat - Boneless**
-> **Combat Level**: Mild
-> **Expected Character Level**: 2
-> **Expected HP Consumption:** 15%
+<div class="description">
+<p>Nella stanza c'è un grande letto con la struttura di legno e il materasso di piume marcito dopo anni di abbandono. Contro la parete sinistra c'è un vecchio armadio di legno intagliato con volti demoniaci, e ai piedi del letto c'è un baule di legno sbiadito.</p>
+<p>La stanza è impregnata di un fetore di morte che ormai conoscete, ma molto più forte, mescolato a un odore nauseabondo che vi riempie i polmoni a ogni respiro.</p>
+</div>
+
+L'armadio contiene diverse vecchie tonache, due candelieri di ferro e una cassa aperta con trenta torce e un sacco di cuoio con dentro quindici candele. Un odore di marcio viene anche da due organi in putrefazione, un fegato mezzo mangiato e un intestino rosicchiato, nascosti sotto gli orli delle tonache.
+
+Ripiegato nel baule, sopra il resto, c'è un **senz'ossa** (<span class="citation">Guida di Van Richten a Ravenloft, p. 228)</span> fatto della pelle scuoiata di Gustav Durst, ancora riconoscibile. Quando si apre il baule, il **senz'ossa** balza fuori e attacca la creatura più vicina.
+
+> [!combat]- **Combattimento: senz'ossa**
+> **Livello di combattimento**: lieve
+> **Livello previsto dei personaggi**: 2
+> **Consumo previsto di pf:** 15%
 > 
-> ### **Enemies:**
+> ### **Nemici:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 giocatori | 4 giocatori | 5 giocatori | 6 giocatori |
 > |-|-|-|-|-|
-> | Boneless | 1 | 1 | 1 | 1 |
+> | Senz'ossa | 1 | 1 | 1 | 1 |
 > 
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
+> ### **Bilanciamento:**
+> Se i giocatori sono meno o più di 5, modifica lo scontro così:
 > 
-> | Number of Players | Modification |
+> | Numero di giocatori | Modifica |
 > |-|-|
-> | 3 |  <ul><li>Reduce the boneless’ hit points to 16.</li><li>Reduce its slam ***attack*** and its ***crushing embrace*** action to 3 (1d4+1) damage each.</li></ul> |
-> | 4 | <ul><li>Reduce the boneless’ hit points to 21.</li><li>Reduce its ***slam*** attack and its ***crushing embrace*** action to 4 (1d4+2) damage each.</li></ul> |
-> | 6 | <ul><li>Increase the boneless’ hit points to 31.</li><li>Increase its ***slam*** attack and its ***crushing embrace*** action to 6 (1d6+3) damage each.</li></ul> |
+> | 3 |  <ul><li>Riduci i punti ferita del senz'ossa a 16.</li><li>Riduci i danni dell'***attacco*** di schianto e dell'azione ***abbraccio stritolante*** a 3 (1d4+1) ciascuno.</li></ul> |
+> | 4 | <ul><li>Riduci i punti ferita del senz'ossa a 21.</li><li>Riduci i danni dell'attacco di ***schianto*** e dell'azione ***abbraccio stritolante*** a 4 (1d4+2) ciascuno.</li></ul> |
+> | 6 | <ul><li>Aumenta i punti ferita del senz'ossa a 31.</li><li>Aumenta i danni dell'attacco di ***schianto*** e dell'azione ***abbraccio stritolante*** a 6 (1d6+3) ciascuno.</li></ul> |
 
-No **ghasts** attack if a player removes any items from the foot locker, and there are no hidden cavities behind the walls.
-## A2g. The Dungeon
-### Reliquary
-<span class="citation"><em>This scene takes place in Appendix B: Area 35.</em></span>
+Se un giocatore toglie degli oggetti dal baule non attacca nessun **ghast**, e dietro le pareti non ci sono cavità nascoste.
+## A2g. Le segrete
+### Reliquiario
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 35.</em></span>
 
-This room is largely as described in <span class="citation">Reliquary (p. 219)</span>. When the players enter this room, read:
-
-<div class="description">
-<p>The dusty stone steps descend past a landing and around a bend until they end at a cold, rectangular chamber. A thin, wafting mist clings to the ground, and the wooden cross beams that support the ceiling groan beneath the weight of the house and underground complex above. </p>
-<p>The walls of this room are cut with small, chiseled alcoves, each holding a strange, ghastly trinket or relic. A corridor with a sagging ceiling exits the chamber and bends out of sight to the right. Past it, you can see a stone slope that descends into black, murky water. The ghostly chant you've heard since entering the basement is strongest here, and seems to be emanating from the other side of a rusted, closed portcullis.</p>
-<p>You can finally understand the words.</p>
-<p>They say, over and over again, in a ceaseless refrain:</p>
-<p>"He is the Ancient."</p>
-<p>"He is the Land."</p>
-</div>
-
-### Prison
-<span class="citation"><em>This scene takes place in Appendix B: Area 36.</em></span>
-
-This room is largely as described in <span class="citation">Prison (p. 219)</span>. When the players enter this room, read:
+La stanza è più o meno come descritta in <span class="citation">Reliquiario (p. 219)</span>. Quando i giocatori ci entrano, leggi:
 
 <div class="description">
-<p>The sound of clinking chains melds with a quiet, near-imperceptible rustling as you round the bend into a long, darkened dungeon. Rusted shackles hang patiently from the walls, as if waiting to bite into prisoners' flesh once more.</p>
+<p>I gradini di pietra polverosi scendono oltre un pianerottolo e dietro una curva, fino a una camera rettangolare e fredda. Una nebbia sottile e fluttuante ristagna sul pavimento e le travi di legno che reggono il soffitto gemono sotto il peso della casa e del complesso sotterraneo che sta sopra. </p>
+<p>Nelle pareti sono scavate piccole nicchie, ognuna con un ninnolo o una reliquia strana e macabra. Un corridoio dal soffitto cedevole esce dalla camera e piega a destra, fuori dalla vista. Oltre, vedete un pendio di pietra che scende in un'acqua nera e torbida. La cantilena spettrale che sentite da quando siete entrati nel seminterrato qui è più forte che mai e sembra venire da dietro una saracinesca arrugginita e chiusa.</p>
+<p>Finalmente riuscite a capire le parole.</p>
+<p>Dicono, di continuo, in un ritornello senza fine:</p>
+<p>«Lui è l'Antico.»</p>
+<p>«Lui è la Terra.»</p>
 </div>
 
-### Portcullis
-<span class="citation"><em>This scene takes place in Appendix B: Area 37.</em></span>
+### Prigione
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 36.</em></span>
 
-This area is largely as described in <span class="citation">Portcullis (p. 219)</span>. When the players approach this area, read:
+La stanza è più o meno come descritta in <span class="citation">Prigione (p. 219)</span>. Quando i giocatori ci entrano, leggi:
 
 <div class="description">
-<p>The floor is submerged beneath two feet of dark, murky water that sloshes around your calves and boots. The tunnel forward is blocked by a rusty iron portcullis. Beyond its iron bars, you can make out the dark outline of a half-submerged chamber, a raised stone dais, and a thick cloud of rolling mist.</p>
+<p>Il tintinnio delle catene si mescola a un fruscio sommesso, quasi impercettibile, mentre girate l'angolo ed entrate in una lunga segreta buia. Ceppi arrugginiti pendono pazienti dalle pareti, come se aspettassero di mordere di nuovo la carne dei prigionieri.</p>
 </div>
 
-The wooden wheel that opens the portcullis remains on the western side of the gate (i.e., the side facing the [[#Ritual Chamber]]). However, the chain-link mechanism to open the portcullis has broken, preventing the players from proceeding without repairing it (e.g., by using Rose’s _mending_ cantrip) or lifting the portcullis by hand. (If the players lift the portcullis by hand and then release it, its weight causes it to shut once more unless propped open.)
-### Ritual Chamber
-<span class="citation"><em>This scene takes place in Appendix B: Area 38.</em></span>
+### Saracinesca
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 37.</em></span>
 
-This room is largely as described in <span class="citation">Ritual Chamber (p. 219)</span>. The water is 2ft deep and should be treated as difficult terrain for Medium creatures or smaller. Climbing from the pool to the ledges also counts as difficult terrain. When the players enter this room, read:
+L'area è più o meno come descritta in <span class="citation">Saracinesca (p. 219)</span>. Quando i giocatori si avvicinano a quest'area, leggi:
 
 <div class="description">
-<p>The smooth masonry walls of this forty-foot-square room provide excellent acoustics. Featureless stone pillars support the ceiling, and murky water covers most of the floor. Stairs lead up to dry stone ledges that hug the walls. In the middle of the room, more stairs rise to form an octagonal dais that also rises above the water. Rusty chains with shackles dangle from the ceiling directly above a stone altar mounted on the dais. The altar is carved with hideous depictions of grasping ghouls and is stained with dry blood. A small, white bundle lies atop it, surrounded by pulsating, fleshy tendrils.</p>
-<p>The tendrils run to a breach in the far wall that leads to a dark cave, their fleshy masses connecting to a dark, hulking shadow that lies within, its bloated mass rising and falling with a slow, shuddering rhythm.</p>
-<p>As soon as you step foot into the chamber, the ghostly chanting you've heard suddenly falls silent.</p>
+<p>Il pavimento è sommerso da sessanta centimetri di acqua scura e torbida, che vi sciaborda intorno ai polpacci e agli stivali. Il cunicolo davanti a voi è sbarrato da una saracinesca di ferro arrugginito. Oltre le sbarre distinguete il profilo scuro di una camera semisommersa, una pedana di pietra rialzata e una densa nube di nebbia che si rotola su sé stessa.</p>
 </div>
 
-A player that approaches the altar sees that the words "FEED HIM" are carved into its flat stone surface just below the white bundle, surrounded by several fleshy tendrils inset with human teeth. The tendrils belong to the **flesh mound** (see below), which awakens and attacks if the tendrils are damaged.
+La ruota di legno che apre la saracinesca resta sul lato ovest del cancello, cioè quello rivolto verso la [[#Sala del rituale]]. Il meccanismo a catena che solleva la saracinesca però si è rotto, e i giocatori non possono proseguire senza ripararlo (per esempio con il trucchetto _riparare_ di Rose) o senza sollevare la saracinesca a mano. (Se i giocatori la sollevano a mano e poi la lasciano, il suo peso la fa richiudere, a meno che non la tengano aperta con qualcosa.)
+### Sala del rituale
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 38.</em></span>
 
-The bundle atop the altar is the size and shape of an infant wrapped in swaddling clothes. If unwrapped, the players instead find it to hold a rusted, serrated dagger stained red with ancient blood.
+La stanza è più o meno come descritta in <span class="citation">Sala del rituale (p. 219)</span>. L'acqua è profonda 60 centimetri e conta come terreno difficile per le creature Medie o più piccole. Anche arrampicarsi dalla vasca sulle sporgenze conta come terreno difficile. Quando i giocatori entrano nella stanza, leggi:
 
-The dark shadow in the cave is a **flesh mound** containing Walter’s spirit and remains.<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> It is a swollen, bloated mound of bones, flesh, and gore that seems to breathe as its mass rises and falls. A player that observes it concludes that it appears to be sleeping.
+<div class="description">
+<p>Le pareti in muratura liscia di questa stanza quadrata, di 12 metri di lato, hanno un'acustica eccellente. Pilastri di pietra spogli reggono il soffitto e un'acqua torbida copre quasi tutto il pavimento. Alcune scale salgono a sporgenze di pietra asciutte che corrono lungo le pareti. Al centro della stanza altri gradini formano una pedana ottagonale che emerge anch'essa dall'acqua. Catene arrugginite con ceppi pendono dal soffitto proprio sopra un altare di pietra montato sulla pedana. L'altare è scolpito con raffigurazioni orribili di ghoul dalle mani protese ed è macchiato di sangue secco. Sopra c'è un piccolo fagotto bianco, circondato da tentacoli di carne che pulsano.</p>
+<p>I tentacoli corrono fino a una breccia nella parete di fondo, che dà su una grotta buia, e le loro masse di carne si collegano a un'ombra scura e massiccia che giace là dentro e la cui mole gonfia si alza e si abbassa con un ritmo lento e tremante.</p>
+<p>Appena mettete piede nella camera, la cantilena spettrale che avete sentito fin qui tace di colpo.</p>
+</div>
 
-The cultists' shadows described in <span class="citation">“One Must Die!” (p. 220)</span> do not appear when a player climbs the altar. Instead, the players have two choices: sacrifice a living creature on the altar, or attack the flesh mound.
+Un giocatore che si avvicina all'altare vede che sulla superficie piatta di pietra, proprio sotto il fagotto bianco, sono incise le parole «NUTRITELO», circondate da diversi tentacoli di carne incastonati di denti umani. I tentacoli appartengono al **cumulo di carne** (vedi sotto), che si sveglia e attacca se i tentacoli vengono danneggiati.
 
-If a creature is sacrificed on the altar, the flesh mound's tendrils accept its corpse and pull it to the mound's lair. There, the mound messily devours it before returning its tendrils to the altar once more. Feeding the mound does not free the players, because its hunger cannot be sated.
+Il fagotto sopra l'altare ha la forma e le dimensioni di un neonato avvolto nelle fasce. Se lo svolgono, invece, i giocatori ci trovano un pugnale seghettato e arrugginito, macchiato di rosso da sangue antico.
 
-The flesh mound awakens if attacked. When it does, its subsequent screeching wail causes the earth to tremble, sending the [[#Portcullis]] crashing to the ground if it's been opened and damaging the mechanism responsible for opening it.
+L'ombra scura nella grotta è un **cumulo di carne** che contiene lo spirito e i resti di Walter.<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> È un cumulo gonfio e tumefatto di ossa, carne e sangue rappreso che sembra respirare mentre la sua massa si alza e si abbassa. Un giocatore che lo osserva conclude che sembra dormire.
 
-In combat, the flesh mound begins in its first form, **the flesh mound**. For one minute after it has awoken, the flesh mound’s **_heavy sleeper_** feature reduces the power of its ***multiattack*** actions in either form. If attacked whilst asleep, the flesh mound will have the ***Surprised*** condition.
+Le ombre dei cultisti descritte in <span class="citation">«Uno deve morire!» (p. 220)</span> non compaiono quando un giocatore sale sull'altare. I giocatori hanno invece due possibilità: sacrificare una creatura vivente sull'altare oppure attaccare il cumulo di carne.
 
-A creature engulfed by the mound’s first form can hear the faint sound of a baby crying at the center of its swollen bulk.
+Se sull'altare viene sacrificata una creatura, i tentacoli del cumulo di carne ne accolgono il cadavere e lo trascinano nella tana del cumulo. Lì il cumulo lo divora in modo scomposto, poi rimanda i tentacoli all'altare. Nutrire il cumulo non libera i giocatori, perché la sua fame non si può saziare.
 
-> [!item]+ **Elisabeth's Amber Shard**
+Il cumulo di carne si sveglia se viene attaccato. Quando succede, il suo lamento stridente fa tremare la terra: la [[#Saracinesca]], se era stata aperta, crolla a terra e il meccanismo che serve ad aprirla si danneggia.
+
+In combattimento il cumulo di carne comincia nella sua prima forma, **il cumulo di carne**. Per un minuto dopo il risveglio, il tratto **_sonno pesante_** del cumulo riduce la potenza delle sue azioni di ***multiattacco*** in entrambe le forme. Se viene attaccato mentre dorme, il cumulo di carne ha la condizione ***sorpreso***.
+
+Una creatura inglobata dalla prima forma del cumulo sente, al centro della massa gonfia, il pianto debole di un neonato.
+
+> [!item]+ **Il frammento d'ambra di Elisabeth**
 >
-> A player in possession of Elisabeth's amber shard from the **Master Suite** can present the shard as a bonus action while within 30 feet of the **flesh mound**, speak the name "Walter," and give a brief command. If the player succeeds on a DC 13 Charisma (Intimidation) check, the mound must immediately use a reaction, if available, to follow the command, moving up to its speed to do so if necessary. The mound won't obey a command that is directly harmful to it, and can stop following a command at the start of its next turn. If it has no reactions available, the mound can use its bonus action to follow the command.
+> Un giocatore che possiede il frammento d'ambra di Elisabeth trovato nella **Camera padronale** può, come azione bonus, mostrare il frammento mentre si trova entro 9 metri dal **cumulo di carne**, pronunciare il nome «Walter» e dare un breve ordine. Se il giocatore supera una prova di Carisma (Intimidire) con CD 13, il cumulo deve usare subito una reazione, se ne ha una disponibile, per eseguire l'ordine, muovendosi se serve fino alla sua velocità. Il cumulo non obbedisce a un ordine che lo danneggia direttamente e può smettere di seguire un ordine all'inizio del suo turno successivo. Se non ha reazioni disponibili, il cumulo può usare la sua azione bonus per eseguire l'ordine.
 
-> [!warning]+ **Don't Use Tactics!**
-> All enemies in this guide, including boss monsters, have been exhaustively playtested and balanced using the Challenge Ratings 2.0 encounter-building system. All major boss encounters, including the two-phase fight with the **flesh mound**, have been calibrated to consume most or all of the players' hit points, in order to create a dangerous and exciting fight.
+> [!warning]+ **Niente tattica!**
+> Tutti i nemici di questa guida, boss compresi, sono stati provati a fondo al tavolo e bilanciati con il sistema di costruzione degli scontri Challenge Ratings 2.0. Tutti gli scontri principali con i boss, compreso quello in due fasi con il **cumulo di carne**, sono stati calibrati per consumare quasi tutti i punti ferita dei giocatori, o tutti, così da creare un combattimento pericoloso ed emozionante.
 > 
-> However, these boss statblocks have enough hit points and deal enough damage per round (DPR) to ensure that they can present a suitable threat without any special tactics or strategy. To the extent any such strategies exist, they have been built into the statblock and require no additional strategizing by the Dungeon Master.
+> I profili di questi boss, però, hanno abbastanza punti ferita e infliggono abbastanza danni per round (DPR) da rappresentare una minaccia adeguata senza bisogno di tattiche o strategie particolari. Le strategie che servono sono già incorporate nel profilo e non chiedono al Dungeon Master altro lavoro.
 > 
-> Accordingly, unless your players have proven themselves highly tactical and/or optimized, **avoid playing these boss statblocks tactically**—because if you *do* play them tactically, you're very likely to TPK your players. Instead, simply choose whichever actions, bonus actions, reactions, and targets will provide the most interest and excitement for the current round.
+> Perciò, a meno che i tuoi giocatori non si siano dimostrati molto tattici o ottimizzati, **evita di giocare questi boss in modo tattico**: se lo fai, rischi seriamente un TPK. Scegli invece, round per round, le azioni, le azioni bonus, le reazioni e i bersagli che rendono il momento più interessante ed emozionante.
 
-> [!combat]- **Combat - Flesh Mound**
-> **Combat Level**: 2 consecutive Bruising encounters
-> **Expected Character Level**: 2
-> **Expected HP Consumption:** 28% each, total of 56%
+> [!combat]- **Combattimento: cumulo di carne**
+> **Livello di combattimento**: 2 scontri impegnativi consecutivi
+> **Livello previsto dei personaggi**: 2
+> **Consumo previsto di pf:** 28% ciascuno, 56% in totale
 > 
-> ### **Enemies:**
+> ### **Nemici:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 giocatori | 4 giocatori | 5 giocatori | 6 giocatori |
 > |-|-|-|-|-|
-> | Flesh Mound | 1 | 1 | 1 | 1 |
+> | Cumulo di carne | 1 | 1 | 1 | 1 |
 > 
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
+> ### **Bilanciamento:**
+> Se i giocatori sono meno o più di 5, modifica lo scontro così:
 > 
-> | Number of Players | Modification |
+> | Numero di giocatori | Modifica |
 > |-|-|
-> | 3 | <ul><li>Reduce the mound’s hit points to 56 in each phase.</li><li>Reduce the first form’s Slam attack to 8 (2d6+1) damage, or 6 (2d4+1) damage while the heavy sleeper feature is active.</li><li>Reduce the Bone Splinters to 3 (1d4+1) damage.</li><li>Reduce Engulf to 6 (2d4+1) damage.</li><li>Reduce the Tentacle attack’s damage to 9 (2d6+2) damage, or 4 (1d4+2) while Heavy Sleeper is active.</li><li>Reduce the Bite attack’s damage to 7 (2d4+2).</li><li>Reduce the Gore Spray’s damage to 5 (2d4).</li></ul> |
-> | 4 | <ul><li>Reduce the mound’s hit points to 75 in each phase.</li><li>Reduce the first form’s Slam attack to 11 (2d10+1) damage, or 8 (2d6+1) damage while the heavy sleeper feature is active.</li><li>Reduce the Bone Splinters to 4 (1d6+1) damage.</li><li>Change Engulf to 8 (2d6+1) damage.</li><li>Reduce the Tentacle attack’s damage to 12 (2d10+1) damage, or 5 (1d8+1) while Heavy Sleeper is active.</li><li>Reduce the Bite attack’s damage to 9 (2d8+1).</li></ul> |
-> | 6 | <ul><li>Increase the mound’s hit points to 112 in each phase.</li><li>Increase the first form’s Slam attack to 16 (2d12+3) damage, or 12 (2d8+3) damage while the heavy sleeper feature is active.</li><li>Increase the Bone Splinters to 6 (1d6+3) damage.</li><li>Increase Engulf to 12 (2d8+3) damage.</li><li>Increase the Tentacle attack’s damage to 17 (4d6+3) damage, or 8 (2d4+3) while Heavy Sleeper is active.</li><li>Increase the Bite attack’s damage to 14 (2d10+3).</li><li>Increase the Gore Spray’s damage to 9 (2d8).</li></ul> |
+> | 3 | <ul><li>Riduci i punti ferita del cumulo a 56 in ogni fase.</li><li>Riduci i danni dell'attacco Schianto della prima forma a 8 (2d6+1), o a 6 (2d4+1) mentre il tratto sonno pesante è attivo.</li><li>Riduci i danni di Schegge d'osso a 3 (1d4+1).</li><li>Riduci i danni di Inglobare a 6 (2d4+1).</li><li>Riduci i danni dell'attacco Tentacolo a 9 (2d6+2), o a 4 (1d4+2) mentre Sonno pesante è attivo.</li><li>Riduci i danni dell'attacco Morso a 7 (2d4+2).</li><li>Riduci i danni di Spruzzo di sangue a 5 (2d4).</li></ul> |
+> | 4 | <ul><li>Riduci i punti ferita del cumulo a 75 in ogni fase.</li><li>Riduci i danni dell'attacco Schianto della prima forma a 11 (2d10+1), o a 8 (2d6+1) mentre il tratto sonno pesante è attivo.</li><li>Riduci i danni di Schegge d'osso a 4 (1d6+1).</li><li>Porta i danni di Inglobare a 8 (2d6+1).</li><li>Riduci i danni dell'attacco Tentacolo a 12 (2d10+1), o a 5 (1d8+1) mentre Sonno pesante è attivo.</li><li>Riduci i danni dell'attacco Morso a 9 (2d8+1).</li></ul> |
+> | 6 | <ul><li>Aumenta i punti ferita del cumulo a 112 in ogni fase.</li><li>Aumenta i danni dell'attacco Schianto della prima forma a 16 (2d12+3), o a 12 (2d8+3) mentre il tratto sonno pesante è attivo.</li><li>Aumenta i danni di Schegge d'osso a 6 (1d6+3).</li><li>Aumenta i danni di Inglobare a 12 (2d8+3).</li><li>Aumenta i danni dell'attacco Tentacolo a 17 (4d6+3), o a 8 (2d4+3) mentre Sonno pesante è attivo.</li><li>Aumenta i danni dell'attacco Morso a 14 (2d10+3).</li><li>Aumenta i danni di Spruzzo di sangue a 9 (2d8).</li></ul> |
 
 
 <div class="statblock">
-<h2>The Flesh Mound</h2>
-<em>Large undead, chaotic evil</em>
+<h2>Il cumulo di carne</h2>
+<em>Non morto Grande, caotico malvagio</em>
 <hr>
-<strong>Armor Class</strong> 15 (natural armor)
+<strong>Classe Armatura</strong> 15 (armatura naturale)
 <br>
-<strong>Hit Points</strong> 93 (11d10 + 33)
+<strong>Punti Ferita</strong> 93 (11d10 + 33)
 <br>
-<strong>Speed</strong> 20 ft.
+<strong>Velocità</strong> 6 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -1051,49 +1051,49 @@ A creature engulfed by the mound’s first form can hear the faint sound of a ba
   </tbody>
 </table>
 <hr>
-<strong>Condition Immunities</strong> blinded, deafened, exhaustion, grappled, prone<br>
-<strong>Senses</strong> blindsight 60 ft., passive Perception 10<br>
-<strong>Languages</strong> Understands Common, but can't speak it<br>
-<strong>Challenge</strong> 4, or 3 when its <strong><em>heavy sleeper</em></strong> feature is active.<br>
+<strong>Immunità alle condizioni</strong> accecato, afferrato, assordato, indebolimento, prono<br>
+<strong>Sensi</strong> vista cieca 18 m, Percezione passiva 10<br>
+<strong>Linguaggi</strong> capisce il Comune ma non sa parlarlo<br>
+<strong>Sfida</strong> 4, o 3 quando il tratto <strong><em>sonno pesante</em></strong> è attivo.<br>
 <hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> The mound doesn't have disadvantage on its ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Heavy Sleeper.</em></strong> If either of the mound’s forms has been unconscious within the past minute, it can’t use its <strong><em>slam</em></strong> attack more than once per turn.</p>
-<p><strong><em>Oozing Body.</em></strong> The flesh mound can move through spaces occupied by enemy creatures, as well as spaces smaller than a Large creature. (It can't end its turn inside an occupied space, and it provokes opportunity attacks normally.)</p>
-<p><strong><em>The Graveborn's Defense.</em></strong> When the mound drops to 0 hit points, it expels each creature currently engulfed by it. (Those creatures appear prone in an empty space within 5 feet of the mound.) The flesh mound rips open, displaying the rib cage cavity that contains Walter, and extruding several tentacles from that cavity. The mound’s statistics are then instantly replaced by the statistics of its second form. Its initiative count doesn’t change. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The flesh mound makes two attacks. It can replace one of those attacks with <strong><em>engulf</em></strong>. If its <strong><em>heavy sleeper</em></strong> feature is active, it can't use its <strong><em>slam</em></strong> attack more than once, and it can't use <strong><em>engulf</em></strong> on the same turn it uses its <strong><em>slam</em></strong>.
-<p><strong><em>Slam.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 14 (2d10 + 3) bludgeoning damage, or 10 (2d6 + 3) bludgeoning damage if the mound's <strong><em>heavy sleeper</em></strong> feature is active. If the attack hits a Medium or smaller target, the target is grappled (escape DC 13).</p>
-<p><strong><em>Bone Splinters.</em></strong> <em>Ranged Weapon Attack:</em> +5 to hit, range 20/60 ft., up to two targets standing within 5 ft. of each other. <em>Hit:</em> 5 (1d4 + 3) piercing damage.
-<p><strong><em>Engulf.</em></strong> The flesh mound attempts to engulf a Medium or smaller creature grappled by it, forcing that creature to make a DC 13 Strength saving throw. On a failure, the engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 13 Constitution saving throw at the start of each of its turns or take 8 (2d4 + 3) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can only have one creature engulfed at a time. An engulfed creature can make a DC 13 Strength saving throw at the end of each of its turns, freeing itself on a success. (Once freed, the creature is no longer grappled.)</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Rupture.</em></strong> The flesh mound expels a pustule of rotting flesh, which hits a point within 20 feet of the mound and bursts, spraying each creature within 5 feet with caustic blood and pus. A target must succeed on a DC 13 Constitution saving throw or be poisoned until the start of the flesh mound's next turn.</p>
-<p><strong><em>Quake.</em></strong> The flesh mound slams against the floor, causing the room to quake. Each creature within 10 feet of the mound must succeed on a DC 13 Strength saving throw or fall prone.</p>
-<h3>Reactions</h3>
-<p>The flesh mound can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent it from taking reactions, it loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> The flesh mound can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Squelch.</em></strong> In response to taking damage from a melee attack, the flesh mound attacks the creature that damaged it using <strong><em>Slam.</em></strong></p>
-<p><strong><em>Roll.</em></strong> In response to taking damage from a ranged attack or spell, the flesh mound moves up to its speed directly toward or away from the attacker without provoking opportunity attacks. If it moves toward the attacker, it can then immediately attempt to shove them.</p>
+<p><strong><em>Combattente ravvicinato.</em></strong> Il cumulo non subisce svantaggio ai tiri per colpire a distanza quando si trova entro 1,5 metri da una creatura ostile.</p>
+<p><strong><em>Sonno pesante.</em></strong> Se una delle due forme del cumulo è stata priva di sensi nell'ultimo minuto, il cumulo non può usare il suo attacco <strong><em>schianto</em></strong> più di una volta per turno.</p>
+<p><strong><em>Corpo viscido.</em></strong> Il cumulo di carne può muoversi attraverso gli spazi occupati da creature nemiche e attraverso spazi più piccoli di quelli di una creatura Grande. (Non può terminare il turno in uno spazio occupato e provoca normalmente attacchi di opportunità.)</p>
+<p><strong><em>Difesa del Nato dalla Tomba.</em></strong> Quando il cumulo scende a 0 punti ferita, espelle tutte le creature che sta inglobando. (Quelle creature compaiono prone in uno spazio libero entro 1,5 metri dal cumulo.) Il cumulo di carne si squarcia e mostra la cavità della gabbia toracica che contiene Walter, da cui spuntano diversi tentacoli. Le statistiche del cumulo vengono subito sostituite da quelle della sua seconda forma. Il suo punteggio di iniziativa non cambia. I danni in eccesso non passano alla nuova forma, ma il cumulo mantiene tutte le condizioni che aveva nella forma precedente.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Il cumulo di carne effettua due attacchi. Può sostituire uno dei due con <strong><em>inglobare</em></strong>. Se il tratto <strong><em>sonno pesante</em></strong> è attivo, non può usare l'attacco <strong><em>schianto</em></strong> più di una volta e non può usare <strong><em>inglobare</em></strong> nello stesso turno in cui usa <strong><em>schianto</em></strong>.
+<p><strong><em>Schianto.</em></strong> <em>Attacco con arma da mischia:</em> +5 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 14 (2d10 + 3) danni contundenti, o 10 (2d6 + 3) danni contundenti se il tratto <strong><em>sonno pesante</em></strong> del cumulo è attivo. Se l'attacco colpisce un bersaglio Medio o più piccolo, il bersaglio è afferrato (CD 13 per sfuggire).</p>
+<p><strong><em>Schegge d'osso.</em></strong> <em>Attacco con arma a distanza:</em> +5 al tiro per colpire, gittata 6/18 m, fino a due bersagli che si trovano entro 1,5 m l'uno dall'altro. <em>Colpito:</em> 5 (1d4 + 3) danni perforanti.
+<p><strong><em>Inglobare.</em></strong> Il cumulo di carne cerca di inglobare una creatura Media o più piccola che sta afferrando, e quella creatura deve effettuare un tiro salvezza su Forza con CD 13. Se lo fallisce, il bersaglio inglobato è accecato, trattenuto e non può respirare, e all'inizio di ogni suo turno deve superare un tiro salvezza su Costituzione con CD 13, altrimenti subisce 8 (2d4 + 3) danni contundenti. Se il cumulo si muove, il bersaglio inglobato si muove con lui. Il cumulo può inglobare una sola creatura alla volta. Una creatura inglobata può effettuare un tiro salvezza su Forza con CD 13 alla fine di ogni suo turno e, se lo supera, si libera. (Una volta libera, la creatura non è più afferrata.)</p>
+<h3>Azioni bonus</h3>
+<p><strong><em>Rottura.</em></strong> Il cumulo di carne espelle una pustola di carne putrefatta che colpisce un punto entro 6 metri dal cumulo e scoppia, spruzzando sangue e pus caustici su ogni creatura entro 1,5 metri. Un bersaglio deve superare un tiro salvezza su Costituzione con CD 13, altrimenti è avvelenato fino all'inizio del turno successivo del cumulo di carne.</p>
+<p><strong><em>Scossa.</em></strong> Il cumulo di carne si sbatte contro il pavimento e fa tremare la stanza. Ogni creatura entro 3 metri dal cumulo deve superare un tiro salvezza su Forza con CD 13, altrimenti cade prona.</p>
+<h3>Reazioni</h3>
+<p>Il cumulo di carne può usare fino a tre reazioni per round, ma non più di una per turno. Se un effetto o una condizione gli impedirebbe di usare reazioni, perde invece una reazione.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Innesco:</strong> una creatura ostile termina il suo turno. <strong>Effetto:</strong> il cumulo di carne può ripetere il tiro salvezza contro un effetto o una condizione che lo colpisce in quel momento. (La reazione non ha effetto se l'effetto o la condizione non richiedevano in origine il fallimento di un tiro salvezza.)</p>
+<p><strong><em>Schiacciata.</em></strong> Quando subisce danni da un attacco in mischia, il cumulo di carne attacca la creatura che lo ha danneggiato con <strong><em>Schianto.</em></strong></p>
+<p><strong><em>Rotolare.</em></strong> Quando subisce danni da un attacco a distanza o da un incantesimo, il cumulo di carne si muove fino alla sua velocità direttamente verso l'attaccante o lontano da lui, senza provocare attacchi di opportunità. Se si muove verso l'attaccante, subito dopo può cercare di spingerlo.</p>
 </div><br>
 
 <div class="statblock">
-<h2>Walter, the Graveborn</h2>
-<em>Large undead, chaotic evil</em>
+<h2>Walter, il Nato dalla Tomba</h2>
+<em>Non morto Grande, caotico malvagio</em>
 <hr>
-<strong>Armor Class</strong> 15 (natural armor)
+<strong>Classe Armatura</strong> 15 (armatura naturale)
 <br>
-<strong>Hit Points</strong> 93 (11d10 + 33)
+<strong>Punti Ferita</strong> 93 (11d10 + 33)
 <br>
-<strong>Speed</strong> 20 ft.
+<strong>Velocità</strong> 6 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -1108,134 +1108,134 @@ A creature engulfed by the mound’s first form can hear the faint sound of a ba
   </tbody>
 </table>
 <hr>
-<strong>Condition Immunities</strong> blinded, deafened, exhaustion, grappled, prone<br>
-<strong>Senses</strong> blindsight 60 ft., passive Perception 10<br>
-<strong>Languages</strong> Understands Common, but can't speak it<br>
-<strong>Challenge</strong> 4, or 3 when its <em>heavy sleeper</em> feature is active.<br>
+<strong>Immunità alle condizioni</strong> accecato, afferrato, assordato, indebolimento, prono<br>
+<strong>Sensi</strong> vista cieca 18 m, Percezione passiva 10<br>
+<strong>Linguaggi</strong> capisce il Comune ma non sa parlarlo<br>
+<strong>Sfida</strong> 4, o 3 quando il tratto <em>sonno pesante</em> è attivo.<br>
 <hr>
-<p><strong><em>Heavy Sleeper.</em></strong> If either of the mound’s forms has been unconscious within the past minute, it can’t use its <strong><em>tentacle</em></strong> attack more than once per turn.</p>
-<p><strong><em>Oozing Body.</em></strong> The flesh mound can move through spaces occupied by enemy creatures, as well as spaces smaller than a Large creature. (It can't end its turn inside an occupied space, and it provokes opportunity attacks normally.)</p>
-<p><strong><em>Innocent Heart.</em></strong> The center of the mound conceals its "heart": a large, misshapen rib cage. Within the rib cage hovers the infant corpse of Walter Durst. Walter's corpse has AC 15 and the same ability scores as the flesh mound. Each time Walter's corpse takes damage, the flesh mound takes twice as much damage.</p>
-<p><strong><em>Mother's Lullaby.</em></strong> If a player uses their action to hum or play <em>Waltz for Klara</em> and succeeds on a DC 10 Charisma (Performance) check, the mound exposes its heart and can't use its <strong><em>withdraw</em></strong> reaction until the start of the player's next turn.
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The flesh mound makes three attacks, or two attacks if its <strong><em>heavy sleeper</em></strong> feature is active.</p>
-<p><strong><em>Tentacle.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 15 ft., one target. <em>Hit:</em> 14 (2d10 + 3) bludgeoning damage, or 7 (1d8 + 3) bludgeoning damage if the mound's <strong><em>heavy sleeper</em></strong> feature is active. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be pulled up to 15 feet toward the mound.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (2d6 + 3) piercing damage.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Gore Spray.</em></strong> The mound spews blood and gore in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw. On a failure, a creature takes 7 (2d6) necrotic damage and is blinded until the end of the mound's next turn. On a success, a creature takes half as much damage and isn't blinded. Using this ability exposes the mound's heart, allowing it to be attacked.</p>
-<p><strong><em>Wail.</em></strong> The infant corpse of Walter Durst releases a piercing shriek. Each creature that can hear the shriek within 30 feet of the mound must succeed on a DC 10 Constitution saving throw or take 2 (1d4) psychic damage and be deafened until the end of the mound's next turn. Using this ability exposes the mound's heart, allowing it to be attacked.</p>
-<h3>Reaction</h3>
-<p>The flesh mound can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent it from taking reactions, it loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> The flesh mound can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Withdraw.</em></strong> In response to an attack or harmful spell hitting or missing its heart, the mound withdraws its heart into its body, concealing it from view and protecting it from attacks.</p>
-<p><strong><em>Lash Out.</em></strong> In response to taking damage from a melee attack, the mound lashes out at the attacker with a tentacle. The attacker must succeed on a DC 13 Dexterity saving throw or be pushed 10 feet away. If the attacker fails the saving throw by 5 or more, they also fall prone.</p>
-<p><strong><em>Roll.</em></strong> In response to taking damage from a ranged attack or spell, the mound moves up to its speed directly toward or away from the attacker without provoking opportunity attacks. If it moves toward the attacker, it can then immediately attempt to shove them.</p>
+<p><strong><em>Sonno pesante.</em></strong> Se una delle due forme del cumulo è stata priva di sensi nell'ultimo minuto, il cumulo non può usare il suo attacco <strong><em>tentacolo</em></strong> più di una volta per turno.</p>
+<p><strong><em>Corpo viscido.</em></strong> Il cumulo di carne può muoversi attraverso gli spazi occupati da creature nemiche e attraverso spazi più piccoli di quelli di una creatura Grande. (Non può terminare il turno in uno spazio occupato e provoca normalmente attacchi di opportunità.)</p>
+<p><strong><em>Cuore innocente.</em></strong> Il centro del cumulo nasconde il suo «cuore»: una grande gabbia toracica deforme. Dentro la gabbia toracica fluttua il cadavere neonato di Walter Durst. Il cadavere di Walter ha CA 15 e gli stessi punteggi di caratteristica del cumulo di carne. Ogni volta che il cadavere di Walter subisce danni, il cumulo di carne ne subisce il doppio.</p>
+<p><strong><em>Ninna nanna della madre.</em></strong> Se un giocatore usa la sua azione per canticchiare o suonare il <em>Valzer per Klara</em> e supera una prova di Carisma (Intrattenere) con CD 10, il cumulo espone il cuore e non può usare la reazione <strong><em>ritrarsi</em></strong> fino all'inizio del turno successivo del giocatore.
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Il cumulo di carne effettua tre attacchi, o due se il tratto <strong><em>sonno pesante</em></strong> è attivo.</p>
+<p><strong><em>Tentacolo.</em></strong> <em>Attacco con arma da mischia:</em> +5 al tiro per colpire, portata 4,5 m, un bersaglio. <em>Colpito:</em> 14 (2d10 + 3) danni contundenti, o 7 (1d8 + 3) danni contundenti se il tratto <strong><em>sonno pesante</em></strong> del cumulo è attivo. Se il bersaglio è una creatura, deve superare un tiro salvezza su Forza con CD 13, altrimenti viene tirato fino a 4,5 metri verso il cumulo.</p>
+<p><strong><em>Morso.</em></strong> <em>Attacco con arma da mischia:</em> +5 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 10 (2d6 + 3) danni perforanti.</p>
+<h3>Azioni bonus</h3>
+<p><strong><em>Spruzzo di sangue.</em></strong> Il cumulo vomita sangue e brandelli di carne in un cono di 4,5 metri. Ogni creatura nell'area deve effettuare un tiro salvezza su Destrezza con CD 13. Se lo fallisce, la creatura subisce 7 (2d6) danni necrotici ed è accecata fino alla fine del turno successivo del cumulo. Se lo supera, subisce la metà dei danni e non è accecata. Usare questa capacità espone il cuore del cumulo, che diventa attaccabile.</p>
+<p><strong><em>Lamento.</em></strong> Il cadavere neonato di Walter Durst lancia uno strillo acuto. Ogni creatura entro 9 metri dal cumulo che può sentirlo deve superare un tiro salvezza su Costituzione con CD 10, altrimenti subisce 2 (1d4) danni psichici ed è assordata fino alla fine del turno successivo del cumulo. Usare questa capacità espone il cuore del cumulo, che diventa attaccabile.</p>
+<h3>Reazione</h3>
+<p>Il cumulo di carne può usare fino a tre reazioni per round, ma non più di una per turno. Se un effetto o una condizione gli impedirebbe di usare reazioni, perde invece una reazione.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Innesco:</strong> una creatura ostile termina il suo turno. <strong>Effetto:</strong> il cumulo di carne può ripetere il tiro salvezza contro un effetto o una condizione che lo colpisce in quel momento. (La reazione non ha effetto se l'effetto o la condizione non richiedevano in origine il fallimento di un tiro salvezza.)</p>
+<p><strong><em>Ritrarsi.</em></strong> Quando un attacco o un incantesimo dannoso colpisce o manca il suo cuore, il cumulo ritrae il cuore dentro il corpo, nascondendolo alla vista e proteggendolo dagli attacchi.</p>
+<p><strong><em>Sferzata.</em></strong> Quando subisce danni da un attacco in mischia, il cumulo sferza l'attaccante con un tentacolo. L'attaccante deve superare un tiro salvezza su Destrezza con CD 13, altrimenti viene spinto via di 3 metri. Se fallisce il tiro salvezza di 5 o più, cade anche prono.</p>
+<p><strong><em>Rotolare.</em></strong> Quando subisce danni da un attacco a distanza o da un incantesimo, il cumulo si muove fino alla sua velocità direttamente verso l'attaccante o lontano da lui, senza provocare attacchi di opportunità. Se si muove verso l'attaccante, subito dopo può cercare di spingerlo.</p>
 </div>
 
 
-## A2h. Escape From Death House
-When the **flesh mound** dies, the players can hear the sound of the house’s front door opening far overhead, and the distant thunderstorm beyond.
+## A2h. Fuga dalla Casa della Morte
+Quando il **cumulo di carne** muore, i giocatori sentono, molto più in alto, il portone d'ingresso della casa che si apre e, al di là, il temporale lontano.
 
-When the players next begin to move toward the exit, read:
+Quando i giocatori si muovono verso l'uscita, leggi:
 
 <div class="description">
-<p>A guttural moan ripples through the air—and a terrifying apparition manifests before you: the spirit of Elisabeth Durst, her once-beautiful features now grotesquely distorted. Her lustrous hair is a wild, disheveled mess, her skin a deathly pallor, and her lips peeling back to reveal sharp, yellowed teeth. An amber shard glows ominously on a cord around her spectral neck, a shadowed wisp swirling within its depths.</p>
-<p>The spirit levitates high above the floor, sunken eyes blazing with malice and mouth twisted into a snarl. "You may have evaded my pet," it rasps, "but I will tear this house apart before I let you escape." It throws its head back and lets loose a blood-curdling scream that reverberates across the stone walls—and sets the very foundations of the house trembling.</p>
-<p>Far above, the grandfather clock begins to chime, the sound mounting to a thunderous cacophony. Dust and debris rain down as the floor shakes beneath you, the wooden cross beams of the ceiling starting to splinter and crack. Elisabeth's spirit fixes you with a feral grin—and then dissipates into thin air, leaving only echoes of its spiteful laughter as the house rumbles, shifts, and groans.</p>
+<p>Un gemito gutturale si propaga nell'aria e davanti a voi si manifesta un'apparizione terrificante: lo spirito di Elisabeth Durst, con i lineamenti un tempo belli ora deformati in modo grottesco. I capelli lucenti sono una massa scarmigliata e selvaggia, la pelle ha un pallore mortale e le labbra si ritraggono a scoprire denti aguzzi e ingialliti. Al collo spettrale, appeso a un cordino, un frammento d'ambra brilla minaccioso, e nelle sue profondità vortica un filo d'ombra.</p>
+<p>Lo spirito fluttua in alto sopra il pavimento, gli occhi infossati che bruciano di malvagità e la bocca storta in un ringhio. «Sarete anche sfuggiti alla mia bestiola», gracchia, «ma farò a pezzi questa casa prima di lasciarvi scappare.» Getta indietro la testa e lancia un urlo agghiacciante che rimbomba sulle pareti di pietra e fa tremare le fondamenta stesse della casa.</p>
+<p>Molto più in alto la pendola comincia a battere i rintocchi, e il suono cresce fino a diventare un frastuono assordante. Polvere e detriti piovono dall'alto mentre il pavimento trema sotto di voi e le travi di legno del soffitto cominciano a scheggiarsi e a spaccarsi. Lo spirito di Elisabeth vi fissa con un ghigno feroce, poi si dissolve nel nulla e lascia soltanto l'eco della sua risata maligna, mentre la casa rimbomba, si assesta e geme.</p>
 </div>
 
-The players must flee from the ritual chamber to the [[#Entrance]] of Death House before the entire structure collapses upon their heads. However, they don't need to roll initiative, and the architectural changes described in <span class="citation">The Cult is Denied (p. 220)</span> are not present. 
+I giocatori devono fuggire dalla sala del rituale fino all'[[#Ingresso]] della Casa della Morte prima che l'intera struttura crolli sulle loro teste. Non devono però tirare l'iniziativa, e i cambiamenti architettonici descritti in <span class="citation">Il culto respinto (p. 220)</span> non ci sono. 
 
-Instead, as the players escape the crumbling Death House, they face two additional obstacles.
+Mentre fuggono dalla Casa della Morte che crolla, i giocatori affrontano invece due ostacoli in più.
 
-***Gustav's Ghost.*** As the players move to exit the [[#Reliquary]], the ghost of Gustav Durst (use the statistics of a **poltergeist**, but without its ***invisibility*** feature) confronts them. Read:
+***Il fantasma di Gustav.*** Quando i giocatori stanno per uscire dal [[#Reliquiario]], il fantasma di Gustav Durst (usa le statistiche di un **poltergeist**, ma senza il tratto ***invisibilità***) li affronta. Leggi:
 
 <div class="description">
-<p>An ethereal apparition appears before you, obstructing the stairs—the ghost of a man. He is a gaunt and pale figure, with sunken, haunted eyes and trembling hands, wearing once-fine clothing now tattered with age.</p>
-<p>"Please," the spirit says, tears beading at the corners of his eyes. "You have to stay here and die. She won't accept anything else."</p>
+<p>Davanti a voi appare un'apparizione eterea che vi sbarra le scale: il fantasma di un uomo. È una figura emaciata e pallida, con gli occhi infossati e tormentati e le mani che tremano, vestita di abiti un tempo eleganti e ora logori.</p>
+<p>«Vi prego», dice lo spirito, con le lacrime agli angoli degli occhi. «Dovete restare qui e morire. Lei non accetterà nient'altro.»</p>
 </div>
 
-The spirit is recognizable as Gustav Durst. Gustav pleads with the players to give up, insisting that Elisabeth's spirit is simply too powerful—too fearsome—to disobey. A DC 10 Wisdom (Insight) check reveals that Gustav is terrified of Elisabeth—and ridden with guilt, doubt, and self-loathing.
+Lo spirito è riconoscibile: è Gustav Durst. Gustav implora i giocatori di arrendersi e insiste che lo spirito di Elisabeth è semplicemente troppo potente, troppo temibile, per disobbedirle. Una prova di Saggezza (Intuizione) con CD 10 rivela che Gustav è terrorizzato da Elisabeth e divorato dai sensi di colpa, dal dubbio e dal disprezzo di sé.
 
-If the players attempt to bypass or attack Gustav, a swarm of levitating debris and shrapnel arises around him. He pleads with the players again, insisting that he doesn't want to fight them, but that he doesn't know that he has any other choice.
+Se i giocatori cercano di superare Gustav o di attaccarlo, intorno a lui si solleva uno sciame di detriti e schegge che levitano. Gustav implora di nuovo i giocatori, insiste che non vuole combatterli ma che non sa di avere un'altra scelta.
 
-> [!combat]- **Combat - Gustav**
-> **Combat Level**: Bruising
-> **Expected Character Level**: 2
-> **Expected HP Consumption:** 28%
+> [!combat]- **Combattimento: Gustav**
+> **Livello di combattimento**: impegnativo
+> **Livello previsto dei personaggi**: 2
+> **Consumo previsto di pf:** 28%
 > 
-> ### **Enemies:**
+> ### **Nemici:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 giocatori | 4 giocatori | 5 giocatori | 6 giocatori |
 > |-|-|-|-|-|
 > | Poltergeist | 1 | 1 | 1 | 1 |
 > 
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
+> ### **Bilanciamento:**
+> Se i giocatori sono meno o più di 5, modifica lo scontro così:
 > 
-> | Number of Players | Modification |
+> | Numero di giocatori | Modifica |
 > |-|-|
-> | 3 | <ul><li>Reduce Gustav’s hit points to 13.</li><li>Reduce his ***forceful slam*** attack to 6 (3d4-1) force damage and his ***telekinetic thrust*** action’s attack to 3 (1d6) bludgeoning damage.</li></ul> |
-> | 4 | <ul><li>Reduce Gustav’s hit points to 18.</li><li>Reduce his ***forceful slam*** attack to 8 (3d4+1) force damage and his ***telekinetic thrust*** action’s attack to 4 (1d8) bludgeoning damage.</li></ul> |
-> | 6 | <ul><li>Increase Gustav’s hit points to 26.</li><li>Increase his ***forceful slam*** attack to 12 (3d6+2) force damage and his ***telekinetic thrust*** action’s attack to 6 (1d12) bludgeoning damage.</li></ul> |
+> | 3 | <ul><li>Riduci i punti ferita di Gustav a 13.</li><li>Riduci i danni del suo attacco ***schianto poderoso*** a 6 (3d4-1) danni da forza e quelli dell'attacco della sua azione ***spinta telecinetica*** a 3 (1d6) danni contundenti.</li></ul> |
+> | 4 | <ul><li>Riduci i punti ferita di Gustav a 18.</li><li>Riduci i danni del suo attacco ***schianto poderoso*** a 8 (3d4+1) danni da forza e quelli dell'attacco della sua azione ***spinta telecinetica*** a 4 (1d8) danni contundenti.</li></ul> |
+> | 6 | <ul><li>Aumenta i punti ferita di Gustav a 26.</li><li>Aumenta i danni del suo attacco ***schianto poderoso*** a 12 (3d6+2) danni da forza e quelli dell'attacco della sua azione ***spinta telecinetica*** a 6 (1d12) danni contundenti.</li></ul> |
 
-The players can convince Gustav to step aside with a successful DC 20 Charisma (Intimidation) check. Alternatively, if the players reference Gustav's history with Elisabeth and Klara, they can convince him to stand aside with a DC 10 Charisma (Persuasion) check, succeeding automatically if they show him empathy or kindness or if they ask Rose and Thorn's spirits to assist them in their plea.
+I giocatori possono convincere Gustav a farsi da parte superando una prova di Carisma (Intimidire) con CD 20. In alternativa, se richiamano la storia di Gustav con Elisabeth e Klara, possono convincerlo con una prova di Carisma (Persuasione) con CD 10, e ci riescono automaticamente se gli mostrano comprensione o gentilezza, o se chiedono agli spiriti di Rose e Thorn di unirsi alla loro supplica.
 
-If the players successfully persuade Gustav to stand aside, he warns them that "her other servants" are lying in wait ahead to block the players' escape. "Don't fear them," he says. "Their only power is fear." He then vanishes.
+Se i giocatori riescono a convincere Gustav a farsi da parte, lui li avverte che più avanti «gli altri suoi servi» li aspettano per sbarrare loro la fuga. «Non abbiate paura di loro», dice. «Il loro unico potere è la paura.» Poi svanisce.
 
-***The Cult's Return*** When the players first reach the [[#Family Crypts]] or (if they have previously found and opened the hidden trapdoor described in **32. Hidden Trapdoor**, p. 219) near the [[#Darklord’s Shrine]], the spirits of the cult arise to stop them. Read:
+***Il ritorno del culto*** La prima volta che i giocatori raggiungono le [[#Cripte di famiglia]] o, se hanno già trovato e aperto la botola nascosta descritta in **32. Botola nascosta** (p. 219), le vicinanze del [[#Santuario del Signore Oscuro]], gli spiriti del culto si alzano per fermarli. Leggi:
 
 <div class="description">
-<p>The chanting rises once more as thirteen dark apparitions appear around you, obstructing the way forward—as well as the way back. Each one resembles a black-robed figure holding a torch, but the torch's fire is black and seems to draw light into it. Where you'd expect to see faces are voids. "He is the Ancient!" they chant, over and over. "He is the Land!"</p>
+<p>La cantilena si alza di nuovo mentre intorno a voi compaiono tredici apparizioni scure, che sbarrano la strada davanti e anche quella alle vostre spalle. Ognuna ha l'aspetto di una figura con una tonaca nera che regge una torcia, ma il fuoco della torcia è nero e sembra risucchiare la luce. Dove dovrebbero esserci i volti ci sono soltanto vuoti. «Lui è l'Antico!» salmodiano, ancora e ancora. «Lui è la Terra!»</p>
 </div>
 
-The apparitions are harmless and intangible figments that can't be damaged, turned, or dispelled. At the end of each round, each player that remains between the apparitions must succeed on a DC 10 Dexterity saving throw or take 2 (1d4) bludgeoning damage from falling debris.
+Le apparizioni sono illusioni innocue e intangibili, che non si possono danneggiare, scacciare né dissolvere. Alla fine di ogni round, ogni giocatore che si trova ancora fra le apparizioni deve superare un tiro salvezza su Destrezza con CD 10, altrimenti subisce 2 (1d4) danni contundenti per i detriti che cadono.
 
   
-> [!combat]- **Balancing the Escape** 
-> This encounter is designed to be a threat for a party of five 2nd-level players. For parties of much smaller sizes, modify the encounter as follows: 
-> * ***Three Players.***  Reduce the damage per round to 1 bludgeoning.
+> [!combat]- **Bilanciare la fuga** 
+> Questo scontro è pensato come una minaccia per un gruppo di cinque giocatori di 2º livello. Con gruppi molto più piccoli, modifica lo scontro così: 
+> * ***Tre giocatori.***  Riduci i danni per round a 1 danno contundente.
 
 
-# A3. Outside Death House
-When the players exit Death House, the storm overhead has slowed to a mere drizzle, and the mists around the house have disappeared. Night has long since fallen, and the waning moon is high in the sky.
+# A3. Fuori dalla Casa della Morte
+Quando i giocatori escono dalla Casa della Morte, il temporale si è ridotto a una pioggerella e la nebbia intorno alla casa è scomparsa. La notte è calata da tempo e la luna calante è alta nel cielo.
 
-Most surprisingly, the players now find themselves in a dark forest clearing at the beginning of the <span class="citation">Old Svalich Road (p. 33)</span>, rather than in the streets of Daggerford. The road travels west. To the east lie dark, endless woods filled with the <span class="citation">Mists of Ravenloft (p. 23)</span>.
+Con loro grande sorpresa, i giocatori non sono più nelle strade di Daggerford ma in una radura buia nel bosco, all'inizio della <span class="citation">Vecchia Strada di Svalich (p. 33)</span>. La strada va verso ovest. A est si stende un bosco buio e sterminato, pieno delle <span class="citation">Nebbie di Ravenloft (p. 23)</span>.
 
-The house then collapses into the earth, leaving a dark and bottomless pit behind. If the players still have it, Elisabeth Durst's amber shard then crumbles into dust. The pit vanishes the first time the players depart the clearing.
+Poi la casa sprofonda nella terra e lascia dietro di sé una voragine buia e senza fondo. Se i giocatori ce l'hanno ancora, il frammento d'ambra di Elisabeth Durst si sbriciola in polvere. La voragine svanisce la prima volta che i giocatori lasciano la radura.
 
-If they’re still possessing the players, [[Non-Player Characters#Rosavalda "Rose" Durst|Rose]] and [[Non-Player Characters#Thornboldt "Thorn" Durst|Thorn]]’s spirits end their possessions. The children remark that the woods resembles the Svalich Woods, which once surrounded their home—Barovia. However, the children add that these particular woods are unfamiliar to them, and that they seem to be far from their family's original village.
+Se stanno ancora possedendo i giocatori, gli spiriti di [[Non-Player Characters#Rosavalda «Rose» Durst|Rose]] e di [[Non-Player Characters#Thornboldt «Thorn» Durst|Thorn]] mettono fine alla possessione. I bambini osservano che il bosco somiglia ai Boschi di Svalich che un tempo circondavano la loro casa, a Barovia. Aggiungono però che questa parte del bosco non la conoscono e che sembra lontana dal villaggio della loro famiglia.
 
-As the players explore their surroundings, they can quickly see the top of an old, ruined stone tower poking up through the treetops. The architecture of the tower is as described in <span class="citation">Will-o'-Wisp (p. 33)</span>, but the interior is not desecrated ground, there is no wooden chest on the ground, and there are no **zombies** or **will-o'-wisps** inside or around the tower.
+Mentre esplorano i dintorni, i giocatori vedono presto la cima di una vecchia torre di pietra in rovina che spunta sopra gli alberi. L'architettura della torre è quella descritta in <span class="citation">Fuoco fatuo (p. 33)</span>, ma l'interno non è terreno sconsacrato, a terra non c'è nessun baule di legno e dentro o intorno alla torre non ci sono **zombi** né **fuochi fatui**.
 
-The players can easily surmise that this ruin appears to be a safe place to spend the night. Rose and Thorn offer to serve as sentries while the players rest, watching the woods and awakening the players should any threats emerge.
+I giocatori capiscono facilmente che la rovina sembra un posto sicuro per passare la notte. Rose e Thorn si offrono di fare la guardia mentre i giocatori riposano: sorveglieranno il bosco e li sveglieranno se dovesse comparire qualche minaccia.
 
-The night passes without issue. When the players awaken the following morning, Rose and Thorn ask the players if they can bury their remains before proceeding any further, so that they can finally rest. (The children's spirits will not proceed further into Barovia, instead pleading for the players to allow them to rest.) If the players bury their remains here, the children’s spirits thank them before vanishing.
+La notte passa senza problemi. Quando i giocatori si svegliano, la mattina dopo, Rose e Thorn chiedono loro di seppellire i loro resti prima di andare avanti, così che possano finalmente riposare. (Gli spiriti dei bambini non si addentrano oltre in Barovia e implorano i giocatori di lasciarli riposare.) Se i giocatori seppelliscono qui i loro resti, gli spiriti dei bambini li ringraziano e poi svaniscono.
 
-The players can find the beginning of the Old Svalich Road a short ways through the woods away from the tower. [[Act I - Into the Mists/Arc B - Welcome to Barovia]] then begins.
+A poca distanza dalla torre, attraverso il bosco, i giocatori trovano facilmente l'inizio della Vecchia Strada di Svalich. Comincia allora l'[[Act I - Into the Mists/Arc B - Welcome to Barovia|Arco B: Benvenuti a Barovia]].
 
-**_Milestone_**. Escaping Death House completes a story milestone. When the party begins their first long rest after escaping the house, award each player 400 XP. (This should allow the players to advance to 3rd level.)
-# Design Notes: Death House
-***The Arrival.*** The illusory Rose and Thorn have been intentionally removed from this version of Death House in order to ensure that the players enter the house of their own volition and trust the real Durst children upon meeting them.
+**_Traguardo_**. Fuggire dalla Casa della Morte completa un traguardo della storia. Quando il gruppo comincia il primo riposo lungo dopo la fuga dalla casa, assegna 400 PE a ogni giocatore. (Dovrebbe bastare perché i giocatori passino al 3º livello.)
+# Note di progettazione: la Casa della Morte
+***L'arrivo.*** In questa versione della Casa della Morte le illusioni di Rose e Thorn sono state tolte apposta, perché i giocatori entrino nella casa di loro volontà e si fidino dei veri bambini Durst quando li incontrano.
 
-The countdown and poem have been added to provide the players with a clear sense of direction and purpose while exploring the house, and to prevent the players from taking a long rest (and therefore disrupting the balance of subsequent combat encounters) while doing so.
+Il conto alla rovescia e la poesia sono stati aggiunti per dare ai giocatori un'idea chiara di dove andare e di che cosa fare mentre esplorano la casa, e per impedire che facciano un riposo lungo, che altererebbe l'equilibrio degli scontri successivi.
 
-***The First Floor.*** The feast in the dining room has been made intentionally harmless in order to encourage the players to trust the safety of Strahd's dinner invitation when they later receive it. Additional clues have been added to convey to the players the relationships within the Durst family, including Mr. Durst's affair.
+***Il pianterreno.*** Il banchetto nella sala da pranzo è stato reso innocuo apposta, per invogliare i giocatori a fidarsi dell'invito a cena di Strahd quando lo riceveranno. Sono stati aggiunti altri indizi per far capire ai giocatori i rapporti all'interno della famiglia Durst, compresa la relazione extraconiugale del signor Durst.
 
-***The Second Floor.*** Clues have been added to ease the discovery of the library's secret room and to convey the depth of Mr. Durst's affair, as well as the nursemaid's pregnancy.
+***Il primo piano.*** Sono stati aggiunti indizi per facilitare la scoperta della stanza segreta della biblioteca e per far capire quanto fosse profonda la relazione del signor Durst, e anche la gravidanza della bambinaia.
 
-The dog Lancelot, a popular community character, has been intentionally cut from Death House to avoid providing the players with an easy sacrifice to make at the altar in the ritual chamber—a sacrifice that is no longer functional (because the cult no longer releases the players upon making a sacrifice) and which rings hollow when compared to the campaign that follows it (because Strahd's "hunger" cannot be sated.)
+Il cane Lancelot, un personaggio molto amato dalla comunità, è stato tolto apposta dalla Casa della Morte per non offrire ai giocatori un sacrificio facile da fare sull'altare della sala del rituale. È un sacrificio che non funziona più, perché il culto non libera più i giocatori in cambio di un sacrificio, e che suonerebbe falso rispetto alla campagna che segue, perché la «fame» di Strahd non si può saziare.
 
-***The Third Floor.*** The nursemaid's specter now serves as a vital tool that allows the players to find the attic staircase without undue frustration or delay. Additional clues have been added to convey the fate of Walter, Mr. Durst, and the nursemaid.
+***Il secondo piano.*** Lo spettro della bambinaia ora è uno strumento fondamentale che permette ai giocatori di trovare la scala della soffitta senza frustrazioni o ritardi inutili. Sono stati aggiunti indizi per far capire la sorte di Walter, del signor Durst e della bambinaia.
 
-***The Attic.*** Clues have been added to convey the nursemaid's fate and the founding of Mrs. Durst's cult.
+***La soffitta.*** Sono stati aggiunti indizi per far capire la sorte della bambinaia e la nascita del culto della signora Durst.
 
-***The Dungeon.*** Several of the encounters in this area have been changed to reduce the probability of a TPK and to teach the players to act cautiously and make wise decisions. In the ritual chamber, the cult is no longer willing to accept the sacrifice of a beast (e.g., Lancelot), foreshadowing that Strahd will not be content with Ireena alone. The **shambling mound** has been replaced by a two-stage **flesh mound**, whose statistics have been calibrated to provide a challenging fight without risking a TPK.
+***I sotterranei.*** Diversi scontri di quest'area sono stati cambiati per ridurre la probabilità di un TPK e per insegnare ai giocatori ad agire con cautela e a prendere decisioni sagge. Nella sala del rituale il culto non accetta più il sacrificio di una bestia (per esempio Lancelot), e questo anticipa che a Strahd non basterà Ireena. Il **cumulo strisciante** è stato sostituito da un **cumulo di carne** in due fasi, con statistiche calibrate per offrire uno scontro impegnativo senza rischiare un TPK.
 
-***Escape From Death House.*** The original "escape from Death House" sequence has been replaced with a pair of social encounters that reward the players for investigating the history of the house, and which serve to foreshadow the characterizations of Sergi von Zarovich, Lady Fiona Wachter, and Strahd's brides and servants in the adventure to come.
+***Fuga dalla Casa della Morte.*** La sequenza originale della fuga dalla Casa della Morte è stata sostituita da due incontri sociali che premiano i giocatori che hanno indagato sulla storia della casa e che anticipano i ritratti di Sergi von Zarovich, di Lady Fiona Wachter e delle spose e dei servi di Strahd nell'avventura che segue.
 
-The frequent community addition of a skill challenge to escape the house has been removed to ensure a smooth and simple transition from the flesh mound's death to the players' exit from the house, to remove any friction with players who may struggle to learn the mechanics of a new system of gameplay in the heat of the moment, and to preserve the players' immersion in the narrative of the escape, rather than its gameplay.
+La sfida di abilità per fuggire dalla casa, un'aggiunta frequente nella comunità, è stata tolta per tre motivi: per avere un passaggio semplice e senza intoppi dalla morte del cumulo di carne all'uscita dei giocatori dalla casa, per non mettere in difficoltà i giocatori che potrebbero faticare a imparare le meccaniche di un nuovo sistema di gioco nel pieno dell'azione e per tenere i giocatori immersi nella storia della fuga anziché nelle sue regole.
 
-This guide has intentionally foregone a popular community addition that places a bottle of wine—courtesy of Strahd—at or near the exit of the house. Strahd is not omniscient, and the players' efforts to avoid or foil his spies will prove a recurring aspect of gameplay through the adventure. Moreover, Death House is too far from Barovia proper for Strahd to have obtained and delivered a fresh bottle of wine to its location. A villain is only as evocative as their limitations, and Strahd has many. 
+Questa guida rinuncia di proposito a un'aggiunta molto diffusa nella comunità, che mette una bottiglia di vino, omaggio di Strahd, vicino all'uscita della casa. Strahd non è onnisciente, e i tentativi dei giocatori di evitare o sventare le sue spie saranno un aspetto ricorrente del gioco per tutta l'avventura. Inoltre la Casa della Morte è troppo lontana dalla Barovia vera e propria perché Strahd possa procurarsi una bottiglia di vino fresca e farla arrivare fin lì. Un cattivo è suggestivo quanto i suoi limiti, e Strahd ne ha molti. 
 
-Finally, it is an intentional design choice of this guide that the players do not encounter Strahd directly until their meeting at the River Ivlis Crossroads, which ensures that their relationship with Strahd before then is built solely on rumor, second-hand knowledge, and superstition. Earlier direct exposure would wholly spoil this effect.
+Infine, è una scelta voluta di questa guida che i giocatori non incontrino Strahd di persona prima dell'incontro al Crocevia del fiume Ivlis: così fino a quel momento il loro rapporto con Strahd si basa soltanto su voci, conoscenze di seconda mano e superstizioni. Un contatto diretto anticipato rovinerebbe del tutto questo effetto.

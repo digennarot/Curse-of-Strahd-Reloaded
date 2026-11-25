@@ -1,317 +1,317 @@
 
-# Flaws
-Your players can choose one or more flaws from the table below to add a dash of darkness to their characters' stories. Encourage them to embrace their inner struggles and let these complex traits drive their arcs forward.
+# Difetti
+I giocatori possono scegliere uno o più difetti dalla tabella qui sotto per aggiungere un tocco d'ombra alla storia dei loro personaggi. Incoraggiali ad abbracciare i loro conflitti interiori e a lasciare che questi tratti complessi facciano avanzare i loro archi narrativi.
 
 <table>
     <thead>
         <tr>
-            <th>Flaw</th>
-            <th>Character Arc</th>
+            <th>Difetto</th>
+            <th>Arco del personaggio</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Addiction</td>
-            <td>I must learn to conquer the addictions and demons that twist my better nature.</td>
+            <td>Dipendenza</td>
+            <td>Devo imparare a vincere le dipendenze e i demoni che piegano la parte migliore di me.</td>
         </tr>
         <tr>
-            <td>Ambition</td>
-            <td>I must learn to value things other than power and control.</td>
+            <td>Ambizione</td>
+            <td>Devo imparare a dare valore a qualcosa di diverso dal potere e dal controllo.</td>
         </tr>
         <tr>
-            <td>Anger</td>
-            <td>I must learn to let go of my need for revenge.</td>
+            <td>Rabbia</td>
+            <td>Devo imparare a rinunciare al bisogno di vendetta.</td>
         </tr>
         <tr>
-            <td>Anxiety</td>
-            <td>I must learn to be confident in my ability to protect those I love.</td>
+            <td>Ansia</td>
+            <td>Devo imparare ad avere fiducia nella mia capacità di proteggere le persone che amo.</td>
         </tr>
         <tr>
-            <td>Apathy</td>
-            <td>I must learn to hold hope again for the future.</td>
+            <td>Apatia</td>
+            <td>Devo imparare a sperare di nuovo nel futuro.</td>
         </tr>
         <tr>
-            <td>Control</td>
-            <td>I must learn to let go of my need to control those around me.</td>
+            <td>Controllo</td>
+            <td>Devo imparare a rinunciare al bisogno di controllare chi mi sta intorno.</td>
         </tr>
         <tr>
-            <td>Cynicism</td>
-            <td>I must learn to have faith in things greater than myself once again.</td>
+            <td>Cinismo</td>
+            <td>Devo imparare ad avere di nuovo fede in qualcosa di più grande di me.</td>
         </tr>
         <tr>
-            <td>Denial</td>
-            <td>I must learn to allow myself to grieve for the things I have lost.</td>
+            <td>Negazione</td>
+            <td>Devo imparare a concedermi il lutto per ciò che ho perduto.</td>
         </tr>
         <tr>
-            <td>Doubt</td>
-            <td>I must learn to become the hero that I've been waiting for.</td>
+            <td>Dubbio</td>
+            <td>Devo imparare a diventare l'eroe che ho sempre aspettato.</td>
         </tr>
         <tr>
-            <td>Greed</td>
-            <td>I must learn to let go of the things I believe I'm owed.</td>
+            <td>Avidità</td>
+            <td>Devo imparare a lasciar andare ciò che credo mi spetti.</td>
         </tr>
-			<tr>
-    <td>Grief</td>
-    <td>I must learn to move past the loved one that I lost.</td>
-</tr>
-<tr>
-    <td>Guilt</td>
-    <td>I must learn to let go of my guilt for my failure to protect my loved one.</td>
-</tr>
-<tr>
-    <td>Hesitation</td>
-    <td>I must learn to conquer my fear of the responsibilities that are expected of me.</td>
-</tr>
-<tr>
-    <td>Hubris</td>
-    <td>I must learn to accept that others have wisdom that I do not.</td>
-</tr>
-<tr>
-    <td>Impiety</td>
-    <td>I must learn to find my way back to the grace that I abandoned.</td>
-</tr>
-<tr>
-    <td>Insecurity</td>
-    <td>I must learn to define myself apart from the expectations of others.</td>
-</tr>
-<tr>
-    <td>Isolation</td>
-    <td>I must learn to open up and allow others to get close to me.</td>
-</tr>
-<tr>
-    <td>Naivete</td>
-    <td>I must learn to protect myself from those who would take advantage of me.</td>
-</tr>
-<tr>
-    <td>Narcissism</td>
-    <td>I must learn to value the lives and experiences of others.</td>
-</tr>
-<tr>
-    <td>Nostalgia</td>
-    <td>I must learn to leave the past behind and to look to the future instead.</td>
-</tr>
-<tr>
-    <td>Obsession</td>
-    <td>I must learn to confront the harms that my obsessions have caused to others.</td>
-</tr>
-<tr>
-    <td>Paranoia</td>
-    <td>I must learn to stop using my fears as an excuse to harm others.</td>
-</tr>
-<tr>
-    <td>Pride</td>
-    <td>I must learn to ask others for help, rather than shouldering responsibility alone.</td>
-</tr>
-<tr>
-    <td>Recklessness</td>
-    <td>I must learn to slow down—to stop, wait, and think before I act.</td>
-</tr>
-<tr>
-    <td>Resentment</td>
-    <td>I must learn to let go of the anger that was born from my grief.</td>
-</tr>
-<tr>
-    <td>Ruthlessness</td>
-    <td>I must learn the value of mercy and compassion.</td>
-</tr>
-<tr>
-    <td>Sanctimony</td>
-    <td>I must learn to let go of my need to feel righteous and pure.</td>
-</tr>
-<tr>
-    <td>Shame</td>
-    <td>I must learn to let go of my guilt for the mistakes that I have made.</td>
-</tr>
-<tr>
-    <td>Spite</td>
-    <td>I must learn to forgive those who have hurt those I love.</td>
-</tr>
-<tr>
-    <td>Stubbornness</td>
-    <td>I must learn to overcome my pride and make amends to those I have hurt.</td>
-</tr>
-<tr>
-    <td>Timidity</td>
-    <td>I must learn to stand up for myself, rather than letting others control me.</td>
-</tr>
+        <tr>
+            <td>Lutto</td>
+            <td>Devo imparare ad andare avanti dopo la perdita della persona che amavo.</td>
+        </tr>
+        <tr>
+            <td>Colpa</td>
+            <td>Devo imparare a liberarmi del senso di colpa per non aver protetto la persona che amavo.</td>
+        </tr>
+        <tr>
+            <td>Esitazione</td>
+            <td>Devo imparare a vincere la paura delle responsabilità che gli altri si aspettano da me.</td>
+        </tr>
+        <tr>
+            <td>Superbia</td>
+            <td>Devo imparare ad accettare che gli altri abbiano una saggezza che a me manca.</td>
+        </tr>
+        <tr>
+            <td>Empietà</td>
+            <td>Devo imparare a ritrovare la strada verso la grazia che ho abbandonato.</td>
+        </tr>
+        <tr>
+            <td>Insicurezza</td>
+            <td>Devo imparare a definirmi per conto mio, al di là di quello che gli altri si aspettano.</td>
+        </tr>
+        <tr>
+            <td>Isolamento</td>
+            <td>Devo imparare ad aprirmi e a lasciare che gli altri mi si avvicinino.</td>
+        </tr>
+        <tr>
+            <td>Ingenuità</td>
+            <td>Devo imparare a difendermi da chi vorrebbe approfittarsi di me.</td>
+        </tr>
+        <tr>
+            <td>Narcisismo</td>
+            <td>Devo imparare a dare valore alla vita e alle esperienze degli altri.</td>
+        </tr>
+        <tr>
+            <td>Nostalgia</td>
+            <td>Devo imparare a lasciarmi il passato alle spalle e a guardare al futuro.</td>
+        </tr>
+        <tr>
+            <td>Ossessione</td>
+            <td>Devo imparare ad affrontare il male che le mie ossessioni hanno fatto agli altri.</td>
+        </tr>
+        <tr>
+            <td>Paranoia</td>
+            <td>Devo imparare a smettere di usare le mie paure come scusa per fare del male agli altri.</td>
+        </tr>
+        <tr>
+            <td>Orgoglio</td>
+            <td>Devo imparare a chiedere aiuto agli altri invece di portare ogni responsabilità sulle mie spalle.</td>
+        </tr>
+        <tr>
+            <td>Avventatezza</td>
+            <td>Devo imparare a rallentare: a fermarmi, aspettare e pensare prima di agire.</td>
+        </tr>
+        <tr>
+            <td>Risentimento</td>
+            <td>Devo imparare a lasciar andare la rabbia nata dal mio dolore.</td>
+        </tr>
+        <tr>
+            <td>Spietatezza</td>
+            <td>Devo imparare il valore della misericordia e della compassione.</td>
+        </tr>
+        <tr>
+            <td>Bigottismo</td>
+            <td>Devo imparare a rinunciare al bisogno di sentirmi nel giusto e senza macchia.</td>
+        </tr>
+        <tr>
+            <td>Vergogna</td>
+            <td>Devo imparare a liberarmi del senso di colpa per gli errori che ho commesso.</td>
+        </tr>
+        <tr>
+            <td>Rancore</td>
+            <td>Devo imparare a perdonare chi ha fatto del male alle persone che amo.</td>
+        </tr>
+        <tr>
+            <td>Testardaggine</td>
+            <td>Devo imparare a vincere l'orgoglio e a riparare il torto fatto a chi ho ferito.</td>
+        </tr>
+        <tr>
+            <td>Timidezza</td>
+            <td>Devo imparare a farmi valere invece di lasciare che siano gli altri a decidere per me.</td>
+        </tr>
     </tbody>
 </table>
 
 
-# Bonds
-Your players can choose one or more bonds from the table below to weave a tapestry of connections between their characters and the ghosts of their pasts. Encourage them to reexamine and grow beyond these memories as they venture through Barovia, informing their interactions with the NPCs and narratives they encounter.
+# Legami
+I giocatori possono scegliere uno o più legami dalla tabella qui sotto per intrecciare una trama di rapporti fra i loro personaggi e i fantasmi del loro passato. Incoraggiali a riesaminare questi ricordi e a superarli mentre attraversano Barovia, lasciando che diano forma al modo in cui si rapportano ai PNG e alle storie che incontrano.
 
-| Bond | Character History |
+| Legame | Storia del personaggio |
 | :----- | :----- |
-| Abuse | One of my siblings was cruel to me as a child. I've forgiven them, but never forgotten. |
-| Bitterness | Two warring lords brought devastation to my community. I wish I could show them the cost of their war. |
-| Boundaries | I was once pursued by an unrelenting suitor. No one should have to endure what I did. |
-| Comparison | My older sibling was burdened by great expectations while I was not. I think they resented me for it. |
-| Compassion | Someone tried to steal from me once. Rather than hurting them, I helped them instead. |
-| Concern | One of my loved ones left home to seek their fortune. I hope they're staying safe. |
-| Corruption | Everyone knows that power corrupts. I've seen how firsthand. |
-| Determination | My mentor was one of the few people that believed in me. I'm determined to make them proud. |
-| Devastation | Someone once destroyed everything I cared about. I can't understand what could drive someone to such evil. |
-| Devotion | I love my family above all else. There's nothing I wouldn't do to protect them. |
-| Dignity | People should never be used as a means to an end. I should know. |
-| Division | My family was split by a bitter feud. I still hope that they'll reconcile someday. |
-| Empathy | I'll never forget the sound my parents made when they learned that my sibling had died. |
-| Faith | I know what it's like to be persecuted for what you believe in. I never let it shake my beliefs. |
-| Forgiveness | Someone once did me great harm. It was only much later that I learned to forgive them. |
-| Gratitude | Someone took me in when I had no one else to turn to. I'll always be grateful. |
-| Hope | I lost someone close to me to addiction and vice. I still hope that they'll get better someday. |
-| Humility | I've seen what happens when people think they have all the answers. It never turns out well. |
-| Judgment | I've seen people cause great harm in the name of faith. They laughed when I called it a sin. |
-| Loss | One of my loved ones was stolen away from me. I'm still searching for them. |
-| Loyalty | Someone close to me fell onto a dark path. I'd do anything to redeem them. |
-| Nostalgia | One of my parents loved to create things. Their work always brought me joy. |
-| Oppression | A cruel lord once ruled my community. I'll never forgive the harms he caused to my people. |
-| Regret | I once knew someone with grand, ambitious plans. I wish they'd heeded my advice. |
-| Responsibility | I watched someone allow their family to come to ruin. I'll never do the same. |
-| Romance | Love never dies. It might flicker, but I'll never let it burn out. |
-| Secrecy | I once promised someone I'd keep their secrets safe. I intend to do so—no matter the cost. |
-# Motivations
-If you choose to use the ***Barovian Relics*** adventure hook for one or more players (see **Chapter 3: Running the Game**), have those players choose a core character motivation from the following table.
+| Abuso | Nella mia infanzia ho subito la crudeltà di un fratello o di una sorella. Ho perdonato, ma non ho mai dimenticato. |
+| Amarezza | Due signori in guerra hanno portato la rovina nella mia comunità. Vorrei poter mostrare loro il prezzo della loro guerra. |
+| Limiti | Un tempo qualcuno mi ha fatto una corte ossessiva, senza darmi tregua. Nessuno dovrebbe sopportare quello che ho sopportato io. |
+| Confronto | Su mio fratello, o mia sorella, maggiore pesavano grandi aspettative, su di me no. Credo che per questo mi portasse rancore. |
+| Compassione | Una volta qualcuno ha cercato di derubarmi. Invece di fargli del male, l'ho aiutato. |
+| Preoccupazione | Una persona a me cara ha lasciato casa per cercare fortuna. Spero che sia al sicuro. |
+| Corruzione | Lo sanno tutti che il potere corrompe. Io ho visto con i miei occhi come succede. |
+| Determinazione | La persona che mi ha fatto da maestra è stata una delle poche a credere in me. Voglio renderla fiera di me. |
+| Devastazione | Una volta qualcuno ha distrutto tutto ciò a cui tenevo. Non riesco a capire che cosa possa spingere qualcuno a una tale malvagità. |
+| Devozione | Amo la mia famiglia più di ogni altra cosa. Non c'è niente che non farei per proteggerla. |
+| Dignità | Le persone non dovrebbero mai essere usate come mezzi per un fine. Io lo so bene. |
+| Divisione | Una faida amara ha spaccato la mia famiglia. Spero ancora che un giorno si riconcilino. |
+| Empatia | Non dimenticherò mai il suono che hanno fatto i miei genitori quando hanno saputo della morte di mio fratello, o di mia sorella. |
+| Fede | So che cosa vuol dire essere perseguitati per ciò in cui si crede. Non ho mai lasciato che questo scuotesse la mia fede. |
+| Perdono | Una volta qualcuno mi ha fatto molto male. Solo molto tempo dopo ho imparato a perdonarlo. |
+| Gratitudine | Qualcuno mi ha accolto quando non avevo nessun altro a cui rivolgermi. Gliene sarò sempre riconoscente. |
+| Speranza | Ho perso una persona a me vicina per colpa della dipendenza e del vizio. Spero ancora che un giorno stia meglio. |
+| Umiltà | Ho visto che cosa succede quando le persone credono di avere tutte le risposte. Non finisce mai bene. |
+| Giudizio | Ho visto persone fare grandi danni in nome della fede. Quando l'ho chiamato peccato, si sono messe a ridere. |
+| Perdita | Una persona che amo mi è stata portata via. La sto ancora cercando. |
+| Lealtà | Una persona a me vicina ha preso una strada oscura. Farei qualsiasi cosa per redimerla. |
+| Nostalgia | Uno dei miei genitori amava creare. Le sue opere mi hanno sempre dato gioia. |
+| Oppressione | Un tempo la mia comunità era governata da un signore crudele. Non gli perdonerò mai il male che ha fatto alla mia gente. |
+| Rimpianto | Un tempo conoscevo una persona con piani grandi e ambiziosi. Vorrei che avesse ascoltato i miei consigli. |
+| Responsabilità | Ho visto qualcuno lasciare che la propria famiglia andasse in rovina. Io non lo farò mai. |
+| Amore | L'amore non muore mai. Può vacillare, ma non lascerò mai che si spenga. |
+| Segretezza | Una volta ho promesso a qualcuno di custodire i suoi segreti. Intendo farlo, a qualunque costo. |
+# Motivazioni
+Se decidi di usare l'aggancio ***Reliquie baroviane*** per uno o più giocatori (vedi **Capitolo 3: Condurre il gioco**), fai scegliere a quei giocatori una motivazione di fondo per il personaggio dalla tabella seguente.
 
-|d12|Motivation|Relic|
+|d12|Motivazione|Reliquia|
 |:---:|:---|:---|
-|1|Knowledge| Amber Shard |
-|2|Redemption|Angel's Feather|
-|3|Family|Wanderer's Scarf|
-|4|Inheritance|Dragon's Scale|
-|5|Wealth|Electrum Coin|
-|6|Healing|Wolf's Tooth|
-|7|Duty|Raven's Feather|
-|8|Power|Crumpled Page|
-|9|Ambition|Tattered Banner|
-|10|Faith|Sunrise Medallion|
-|11|Harmony|Stone Crest|
-|12|Justice|Broken Blade|
+|1|Conoscenza|Frammento d'ambra|
+|2|Redenzione|Piuma d'angelo|
+|3|Famiglia|Sciarpa del viandante|
+|4|Eredità|Scaglia di drago|
+|5|Ricchezza|Moneta d'electrum|
+|6|Guarigione|Dente di lupo|
+|7|Dovere|Piuma di corvo|
+|8|Potere|Pagina spiegazzata|
+|9|Ambizione|Stendardo lacero|
+|10|Fede|Medaglione dell'Alba|
+|11|Armonia|Stemma di pietra|
+|12|Giustizia|Lama spezzata|
 
-Once a player has chosen their core motivation, use the relevant section below to aid that player in developing their character's history and goals.
-## Knowledge—The Amber Shard
+Quando un giocatore ha scelto la sua motivazione di fondo, usa la sezione corrispondente qui sotto per aiutarlo a sviluppare la storia e gli obiettivi del personaggio.
+## Il frammento d'ambra (conoscenza)
 ![[Amber Shard.png]]
-A player seeking **knowledge** begins the campaign with the *amber shard*, a small chunk of amber resin mounted on a chain-link cord. The shard is inset with complex, three-dimensional arcane runes. When viewed under the *detect magic* spell, it exudes a strong aura of abjuration magic.
+Un giocatore in cerca di **conoscenza** comincia la campagna con il *frammento d'ambra*, un piccolo pezzo di resina d'ambra montato su una catenella. Nel frammento sono incastonate rune arcane complesse e tridimensionali. Sotto l'incantesimo *individuazione del magico* emana una forte aura di abiurazione.
 
-Unbeknownst to the player, the *amber shard* was formerly a part of a dark vestige's amber sarcophagus in the Amber Temple in Barovia. When it senses the presence of Death House, it glows with amber light and tugs its cord in the direction of the house.
+Il giocatore non lo sa, ma il *frammento d'ambra* faceva parte del sarcofago d'ambra di una vestigia oscura nel Tempio d'Ambra di Barovia. Quando avverte la presenza della Casa della Morte, si illumina di luce ambrata e tira la catenella verso la casa.
 
-The player who possesses the *amber shard* should have strong, vivid reasons to want to unlock its secrets and the magic that it possesses.
+Il giocatore che possiede il *frammento d'ambra* deve avere ragioni forti e vivide per voler svelare i suoi segreti e la magia che racchiude.
 
-***Developments.*** In [[Arc A - Escape From Death House]], the player recognizes Elisabeth Durst's *amber shard* as similar in appearance to their own. In [[Arc G - The Strazni Siblings]], the player recognizes Izek Strazni's *amber shard* in a similar way. In [[Arc R - Trials of the Mountain]], Elder Burebis of Soldav can recognize the *amber shard* as a shard of evil taken from the Amber Temple, and the player can recognize the *amber shards* kept by the **shoosuva** and **bodaks** as resembling their own. 
+***Sviluppi.*** Nell'[[Arc A - Escape From Death House|Arco A: Fuga dalla Casa della Morte]] il giocatore nota che il *frammento d'ambra* di Elisabeth Durst somiglia al suo. Nell'[[Arc G - The Strazni Siblings|Arco G: I fratelli Strazni]] riconosce allo stesso modo il *frammento d'ambra* di Izek Strazni. Nell'[[Arc R - Trials of the Mountain|Arco R: Le prove della montagna]] l'anziano Burebis di Soldav può riconoscere nel *frammento d'ambra* un frammento di male preso dal Tempio d'Ambra, e il giocatore può notare che i *frammenti d'ambra* custoditi dallo **shoosuva** e dai **bodak** somigliano al suo.
 
-If the player character is reduced to 0 hit points in Barovia while in possession of their *amber shard*, it behaves as described in [[Amber Shards]] offering the player an opportunity to forge a pact with a vestige of the Amber Temple that fits the player character's personality, flaws, and temptations. Upon entering the Amber Temple, the player's *amber shard* glows and tugs in the same way that it did upon sensing Death House, guiding the player toward a suitable amber sarcophagus.
-## Redemption—The Angel's Feather
+Se il personaggio del giocatore scende a 0 punti ferita a Barovia mentre ha con sé il *frammento d'ambra*, il frammento si comporta come descritto in [[Amber Shards|Frammenti d'ambra]] e offre al giocatore l'occasione di stringere un patto con una vestigia del Tempio d'Ambra adatta alla personalità, ai difetti e alle tentazioni del personaggio. Quando il giocatore entra nel Tempio d'Ambra, il suo *frammento d'ambra* si illumina e tira come quando ha avvertito la Casa della Morte e lo guida verso un sarcofago d'ambra adatto.
+## La piuma d'angelo (redenzione)
 ![[Angel's Feather.png]]
-A player seeking **redemption** begins the campaign with the *angel's feather*, a large, snow-white feather. When viewed beneath the light of the morning sun, the feather's barbs glimmer like gold.
+Un giocatore in cerca di **redenzione** comincia la campagna con la *piuma d'angelo*, una grande piuma bianca come la neve. Alla luce del sole del mattino le sue barbe scintillano come oro.
 
-Unbeknownst to the player, the *angel's feather* formerly belonged to Ithuriel, a **deva** that serves the god Lathander, who is known to his followers as the Morninglord. Ithuriel is the true name of the Abbot, who dwells in the Abbey of Saint Markovia in Barovia. When it senses the presence of Death House, the feather is swept away by an unseen wind, its barbs glimmering with golden light, before eventually landing on the house's threshold.
+Il giocatore non lo sa, ma la *piuma d'angelo* apparteneva a Ithuriel, un **deva** al servizio del dio Lathander, che i suoi fedeli chiamano il Signore del Mattino. Ithuriel è il vero nome dell'Abate, che vive nell'Abbazia di Santa Markovia a Barovia. Quando avverte la presenza della Casa della Morte, la piuma viene sollevata da un vento invisibile, con le barbe che scintillano di luce dorata, e alla fine si posa sulla soglia della casa.
 
-The player who possesses the *angel's feather* should have strong, vivid reasons to believe that the feather will one day lead them to redemption for the sins that they have committed.
+Il giocatore che possiede la *piuma d'angelo* deve avere ragioni forti e vivide per credere che un giorno la piuma lo porterà alla redenzione per i peccati che ha commesso.
 
-***Developments.*** When the players first arrive at the Abbey in [[Arc I - The Walls of Krezk]] or [[Arc K - The Fallen Abbey]] the *angel's feather* glimmers and is swept away in the same way that it did upon sensing Death House, guiding the player toward the Abbot. The Abbot recognizes the feather as his own, but dismisses its importance.
-## Family—The Wanderer's Scarf
+***Sviluppi.*** Quando i giocatori arrivano per la prima volta all'Abbazia, nell'[[Arc I - The Walls of Krezk|Arco I: Le mura di Krezk]] o nell'[[Arc K - The Fallen Abbey|Arco K: L'abbazia caduta]], la *piuma d'angelo* scintilla e viene sollevata come quando ha avvertito la Casa della Morte e guida il giocatore verso l'Abate. L'Abate riconosce la piuma come sua, ma non le dà importanza.
+## La sciarpa del viandante (famiglia)
 ![[Wanderer's Scarf.png]]
-A player seeking **family** begins the campaign with the *wanderer's scarf*, a multicolored scarf woven with complex patterns. The fabric is soft and warm, and is long enough to be worn around the neck or over one's head. When bright sunlight, moonlight, or starlight is allowed to pass through it, the patterns seem to shimmer and twist in eerie and beautiful ways.
+Un giocatore in cerca di **famiglia** comincia la campagna con la *sciarpa del viandante*, una sciarpa multicolore tessuta con motivi complessi. Il tessuto è morbido, caldo e abbastanza lungo da portarlo al collo o sulla testa. Quando ci passa attraverso la luce intensa del sole, della luna o delle stelle, i motivi sembrano scintillare e torcersi in modi inquietanti e bellissimi.
 
-Unbeknownst to the player, the *wanderer's scarf* once belonged to a Vistana who left their caravan and settled down to marry the one they loved. The scarf was a parting gift from the caravan's leader—a reminder of the joys that the Vistana had experienced while traveling. When it senses the presence of Death House, the scarf is carried away by a warm, playful breeze, its patterns shifting and turning in the air, before eventually landing on the house's threshold.
+Il giocatore non lo sa, ma la *sciarpa del viandante* apparteneva a un membro dei Vistani che lasciò la sua carovana per fermarsi e sposare la persona amata. La sciarpa era un dono d'addio del capo della carovana, un ricordo delle gioie vissute in viaggio. Quando avverte la presenza della Casa della Morte, la sciarpa viene portata via da una brezza calda e giocosa, con i motivi che cambiano e si rigirano nell'aria, e alla fine si posa sulla soglia della casa.
 
-The player who possesses the *wanderer's scarf* should have received the scarf from a beloved family member, and should have strong, vivid reasons to long for a sense of family and belonging.
+Il giocatore che possiede la *sciarpa del viandante* deve averla ricevuta da un familiare amato e deve avere ragioni forti e vivide per desiderare una famiglia e un posto a cui appartenere.
 
-***Developments.*** When the players first encounter Ezmerelda in [[Arc K - The Fallen Abbey]], the *wanderer's scarf* shimmers and is carried away in the same way that it did upon sensing Death House, landing at Ezmerelda's feet. Ezmerelda recognizes the scarf and, upon confirming how the player came to inherit it, greets the player as family, calling them "cousin."
-## Inheritance—The Dragon's Scale
+***Sviluppi.*** Quando i giocatori incontrano per la prima volta Ezmerelda nell'[[Arc K - The Fallen Abbey|Arco K: L'abbazia caduta]], la *sciarpa del viandante* scintilla e viene portata via come quando ha avvertito la Casa della Morte e si posa ai piedi di Ezmerelda. Ezmerelda riconosce la sciarpa e, dopo aver saputo come il giocatore l'ha ereditata, lo accoglie come uno di famiglia e lo chiama «cugino» o «cugina».
+## La scaglia di drago (eredità)
 ![[Dragon's Scale.png]]
-A player seeking **inheritance** begins the campaign with the *dragon's scale*, a large silver scale that always feels cold to the touch. A Good-aligned creature that touches the scale feels a fleeting sense of safety, protection, and comfort.
+Un giocatore in cerca della sua **eredità** comincia la campagna con la *scaglia di drago*, una grande scaglia d'argento sempre fredda al tatto. Una creatura di allineamento buono che la tocca prova per un attimo un senso di sicurezza, di protezione e di conforto.
 
-Unbeknownst to the player, the *dragon's scale* formerly belonged to Argynvost, the **adult silver dragon** who founded the Order of the Silver Dragon. The order's headquarters, the mansion of Argynvostholt, can be found in Barovia. When it senses the presence of Death House, the scale burns with an icy cold, one end glowing with a bright, silver light in the direction of the house. While the scale glows in this way, a Good-aligned creature that touches it feels a deep sense of longing, loss, and hope.
+Il giocatore non lo sa, ma la *scaglia di drago* apparteneva ad Argynvost, il **drago d'argento adulto** che fondò l'Ordine del Drago d'Argento. Il quartier generale dell'ordine, la villa di Argynvostholt, si trova a Barovia. Quando avverte la presenza della Casa della Morte, la scaglia brucia di un freddo gelido e un'estremità si accende di una luce argentea intensa che punta verso la casa. Finché la scaglia brilla in questo modo, una creatura di allineamento buono che la tocca prova un senso profondo di nostalgia, di perdita e di speranza.
 
-The player who possesses the *dragon's scale* should have received the scale from a family member, and should have strong, vivid reasons to believe that the scale will one day unlock the secrets of their heritage.
+Il giocatore che possiede la *scaglia di drago* deve averla ricevuta da un familiare e deve avere ragioni forti e vivide per credere che un giorno la scaglia gli svelerà i segreti delle sue origini.
 
-***Developments.*** When the player first encounters Argynvost's shadow in the foyer of Argynvostholt in [[Arc M - The Dragon's Manor]], the scale briefly burns cold in the same way that it did upon sensing Death House. Each time the player approaches a manifestation of Argynvost's spirit, the scale burns cold and glows with a bright, silver light in the direction of the manifestation. 
+***Sviluppi.*** Quando il giocatore incontra per la prima volta l'ombra di Argynvost nell'atrio di Argynvostholt, nell'[[Arc M - The Dragon's Manor|Arco M: Il maniero del drago]], la scaglia brucia di freddo per un attimo come quando ha avvertito la Casa della Morte. Ogni volta che il giocatore si avvicina a una manifestazione dello spirito di Argynvost, la scaglia brucia di freddo e brilla di una luce argentea intensa in direzione della manifestazione.
 
-If the player helps to retrieve Argynvost's skull and restore it to his crypt in [[Arc Q - A Shining Beacon]], Argynvost's spirit greets the player warmly, naming them his heir to the legacy of the Order of the Silver Dragon before lighting the beacon of Argynvostholt.
-## Wealth—The Electrum Coin
+Se il giocatore aiuta a recuperare il teschio di Argynvost e a riportarlo nella sua cripta nell'[[Arc Q - A Shining Beacon|Arco Q: Un faro splendente]], lo spirito di Argynvost lo accoglie con calore e lo nomina erede della tradizione dell'Ordine del Drago d'Argento, prima di accendere il faro di Argynvostholt.
+## La moneta d'electrum (ricchezza)
 ![[Electrum Coin.png]]
-A player seeking **wealth** begins the campaign with an old, chipped *electrum coin* stamped with the profiled visage of a proud, yet cold-looking nobleman. When seen in a certain light, the nobleman's expression seems to change from a firm, aristocratic sneer to a feral, monstrous snarl.
+Un giocatore in cerca di **ricchezza** comincia la campagna con una vecchia *moneta d'electrum* sbeccata, che porta impresso il profilo di un nobile fiero ma dall'aria fredda. Sotto una certa luce, l'espressione del nobile sembra passare da un ghigno aristocratico e deciso a un ringhio feroce e mostruoso.
 
-Unbeknownst to the player, the visage stamped upon the *electrum coin* is the face of Strahd von Zarovich, the undead ruler of Barovia. The coin was minted long ago, but spirited away from Strahd's treasuries by a thief shortly before Barovia was lost to the mists. When it senses the presence of Death House, the coin lands on its edge, then begins rolling across the ground toward the house until it reaches the base of its steps.
+Il giocatore non lo sa, ma il volto impresso sulla *moneta d'electrum* è quello di Strahd von Zarovich, il sovrano non morto di Barovia. La moneta fu coniata molto tempo fa, ma un ladro la sottrasse dai tesori di Strahd poco prima che Barovia si perdesse nelle Nebbie. Quando avverte la presenza della Casa della Morte, la moneta si posa di taglio e comincia a rotolare verso la casa, fino ai piedi dei gradini d'ingresso.
 
-The player who possesses the *electrum coin* should have strong, vivid reasons to believe that the coin first came from a wondrous vault of treasure—a conqueror's hoard—and that, one day, it will lead them to claim riches beyond imagining.
+Il giocatore che possiede la *moneta d'electrum* deve avere ragioni forti e vivide per credere che la moneta venga da una favolosa camera del tesoro, il bottino di un conquistatore, e che un giorno lo porterà a impadronirsi di ricchezze inimmaginabili.
 
-***Developments.*** Any Barovian immediately recognizes the visage stamped upon the coin as Strahd's. If the player shares the coin's story with one of the Vistani of Madam Eva's camp in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]], Sir Godfrey Gwilym in [[Arc M - The Dragon's Manor]], or Kasimir Velikov in [[Arc E - The Missing Vistana]], they can learn of Strahd's vast hoard of treasure, collected in his days as a conqueror and hidden away in Castle Ravenloft. 
+***Sviluppi.*** Qualsiasi baroviano riconosce all'istante nel volto impresso sulla moneta quello di Strahd. Se il giocatore racconta la storia della moneta a uno dei Vistani dell'accampamento di Madam Eva nell'[[Act I - Into the Mists/Arc C - Into the Valley|Arco C: Nella valle]], a Sir Godfrey Gwilym nell'[[Arc M - The Dragon's Manor|Arco M: Il maniero del drago]] o a Kasimir Velikov nell'[[Arc E - The Missing Vistana|Arco E: La vistana scomparsa]], può venire a sapere dell'immenso tesoro di Strahd, accumulato ai tempi delle sue conquiste e nascosto nel Castello di Ravenloft.
 
-When the player first approaches Strahd's treasury, the coin lands on its edge and rolls as far as it can toward the treasury's entrance, in the same way that it did upon sensing Death House.
-## Healing—The Wolf's Tooth
+Quando il giocatore si avvicina per la prima volta alla camera del tesoro di Strahd, la moneta si posa di taglio e rotola il più lontano possibile verso l'ingresso, come quando ha avvertito la Casa della Morte.
+## Il dente di lupo (guarigione)
 ![[Wolf's Tooth.png]]
-A player seeking **healing** begins the campaign with a *wolf's tooth* coated with clear resin and mounted on a leather cord. The tooth seems to lengthen and sharpen on nights of the full moon, and calms its wearer's dreams when worn at night.
+Un giocatore in cerca di **guarigione** comincia la campagna con un *dente di lupo* rivestito di resina trasparente e montato su un laccio di cuoio. Nelle notti di luna piena il dente sembra allungarsi e farsi più aguzzo, e se lo si porta di notte calma i sogni di chi lo indossa.
 
-Unbeknownst to the player, the tooth once belonged to a wolfir—a **werewolf** that served the fey goddess known as the Huntress before her gift of lycanthropy was twisted into a curse. The Huntress's holy place, the Forest Fane, dwells amidst the woodlands of Barovia, silently waiting to be restored. When it senses the presence of Death House, the tooth lengthens, glowing with silver moonlight, and tugs its cord in the direction of the house.
+Il giocatore non lo sa, ma il dente apparteneva a un wolfir, un **lupo mannaro** al servizio della dea fatata nota come la Cacciatrice, prima che il suo dono della licantropia si trasformasse in una maledizione. Il luogo sacro della Cacciatrice, il Tempio della Foresta, sorge fra i boschi di Barovia e aspetta in silenzio di essere risanato. Quando avverte la presenza della Casa della Morte, il dente si allunga, brilla di una luce lunare argentea e tira il laccio verso la casa.
 
-The player who possesses the *wolf's tooth* should have strong, vivid reasons to believe that the tooth is the key to curing a particular wound, malady, or curse that ails them.
+Il giocatore che possiede il *dente di lupo* deve avere ragioni forti e vivide per credere che il dente sia la chiave per guarire una ferita, un male o una maledizione precisa che lo affligge.
 
-***Developments.*** If the player shows the *wolf's tooth* to Kavan in [[Arc J - The Stolen Gem]] or to Elder Burebis in [[Arc R - Trials of the Mountain]], the tooth is recognized as an artifact and symbol of the Huntress. When the player first approaches the circle of stones at the Forest Fane in [[Arc T - The Three Fanes]], the tooth lengthens and glows with moonlight as it did upon sensing Death House.
-## Duty—The Raven's Feather
+***Sviluppi.*** Se il giocatore mostra il *dente di lupo* a Kavan nell'[[Arc J - The Stolen Gem|Arco J: La gemma rubata]] o all'anziano Burebis nell'[[Arc R - Trials of the Mountain|Arco R: Le prove della montagna]], il dente viene riconosciuto come un manufatto e un simbolo della Cacciatrice. Quando il giocatore si avvicina per la prima volta al cerchio di pietre del Tempio della Foresta nell'[[Arc T - The Three Fanes|Arco T: I tre templi]], il dente si allunga e brilla di luce lunare come quando ha avvertito la Casa della Morte.
+## La piuma di corvo (dovere)
 ![[Raven's Feather.png]]
-A player seeking **duty** begins the campaign with a *raven's feather*, a small, black feather with soft, downy barbs. When held aloft before a storm, the feather seems to gently tremble, exuding the scent of cold rain and damp earth.
+Un giocatore in cerca del suo **dovere** comincia la campagna con una *piuma di corvo*, una piccola piuma nera dalle barbe morbide come piumino. Se la si tiene alzata prima di un temporale, la piuma sembra tremare piano e sprigiona un odore di pioggia fredda e di terra bagnata.
 
-Unbeknownst to the player, the feather once belonged to the **roc** of Mount Ghakis, a servant of the fey goddess known as the Seeker, whose Mountain Fane rests in the shadow of Mount Ghakis in Barovia. The roc once enjoyed disguising itself as a common raven, and shed this feather on one such occasion. When it senses the presence of Death House, the feather is swept away by an unseen and violent wind, the scent of rain and ozone  filling the air, before eventually landing on the house's threshold.
+Il giocatore non lo sa, ma la piuma apparteneva al **roc** del Monte Ghakis, servitore della dea fatata nota come il Cercatore, il cui Tempio della Montagna sorge all'ombra del Monte Ghakis, a Barovia. Al roc piaceva travestirsi da comune corvo, e in una di quelle occasioni perse questa piuma. Quando avverte la presenza della Casa della Morte, la piuma viene trascinata via da un vento invisibile e violento, mentre l'aria si riempie di un odore di pioggia e di ozono, e alla fine si posa sulla soglia della casa.
 
-The player who possesses the *raven's feather* should have strong, vivid reasons to believe that the feather will always guide them to those who need aid, protection, and comfort.
+Il giocatore che possiede la *piuma di corvo* deve avere ragioni forti e vivide per credere che la piuma lo guiderà sempre da chi ha bisogno di aiuto, di protezione e di conforto.
 
-***Developments.*** If the player shows the *raven's feather* to Madam Eva in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]], she inspects it reverently and returns it to the player, claiming mysteriously that she once knew the bird that shed it.  If the player shows the feather to Urwin Martikov, Danika Dorakova, Muriel Vinshaw, or any other member of the Keepers of the Feather, that member grows warmer and friendlier toward that player. 
+***Sviluppi.*** Se il giocatore mostra la *piuma di corvo* a Madam Eva nell'[[Act I - Into the Mists/Arc C - Into the Valley|Arco C: Nella valle]], lei la esamina con reverenza e la restituisce al giocatore, dicendo in tono misterioso di aver conosciuto un tempo l'uccello che l'ha persa. Se il giocatore mostra la piuma a Urwin Martikov, a Danika Dorakova, a Muriel Vinshaw o a qualsiasi altro membro dei Custodi della Piuma, quella persona diventa più calorosa e amichevole con lui.
 
-When the player first enters the circle of standing stones at the Mountain Fane in [[Arc T - The Three Fanes]], the feather trembles and the air around it briefly grows thick with the scent of rain and ozone as it did upon sensing Death House. If the player shows the feather to the Roc of Mount Ghakis after consecrating the Mountain Fane in the same arc, the roc places the tip of its beak against the player's forehead as a sign of gratitude and approval before departing.
-## Power—The Crumpled Page
+Quando il giocatore entra per la prima volta nel cerchio di menhir del Tempio della Montagna nell'[[Arc T - The Three Fanes|Arco T: I tre templi]], la piuma trema e per un attimo l'aria intorno si fa densa dell'odore di pioggia e di ozono, come quando ha avvertito la Casa della Morte. Se il giocatore mostra la piuma al roc del Monte Ghakis dopo aver consacrato il Tempio della Montagna nello stesso arco, il roc gli posa la punta del becco sulla fronte in segno di gratitudine e di approvazione, poi se ne va.
+## La pagina spiegazzata (potere)
 ![[Crumpled Page.png]]
-A player seeking **power** begins the campaign with the *crumpled page*, an old, yellowed page that was torn from its book long ago. The page is written in strange and cryptic arcane runes; those few runes that can be decoded speak of a path that leads to immortality and untold power.
+Un giocatore in cerca di **potere** comincia la campagna con la *pagina spiegazzata*, una vecchia pagina ingiallita strappata dal suo libro molto tempo fa. La pagina è scritta in rune arcane strane e oscure; le poche che si riescono a decifrare parlano di una via che porta all'immortalità e a un potere smisurato.
 
-Unbeknownst to the player, the page was taken from the library of Exethanter, a **ghost** who dwells in the deepest sanctum of the Amber Temple in Barovia. When it senses the presence of Death House, the ink on the page glows with amber light, the runes reshaping themselves into a map that leads to the house.
+Il giocatore non lo sa, ma la pagina viene dalla biblioteca di Exethanter, un **fantasma** che vive nel santuario più profondo del Tempio d'Ambra di Barovia. Quando avverte la presenza della Casa della Morte, l'inchiostro della pagina si accende di luce ambrata e le rune si ricompongono in una mappa che porta alla casa.
 
-The player who possesses the *crumpled page* should have strong, vivid reasons to want to find and claim the power that the page promises.
+Il giocatore che possiede la *pagina spiegazzata* deve avere ragioni forti e vivide per voler trovare e conquistare il potere che la pagina promette.
 
-***Developments.*** When the player first approaches Exethanter's library in [[Arc S - A Sword of Sunlight]], the ink glows with amber light as it did upon sensing Death House, and the runes reshape themselves into a map of Exethanter's chambers and nearby access points. If the player shows the page to Exethanter after restoring his memories in the same arc, Exethanter grows warmer and friendlier toward that player.
-## Ambition—The Tattered Banner
+***Sviluppi.*** Quando il giocatore si avvicina per la prima volta alla biblioteca di Exethanter nell'[[Arc S - A Sword of Sunlight|Arco S: Una spada di luce solare]], l'inchiostro si accende di luce ambrata come quando ha avvertito la Casa della Morte, e le rune si ricompongono in una mappa delle stanze di Exethanter e dei punti d'accesso vicini. Se il giocatore mostra la pagina a Exethanter dopo avergli restituito i ricordi nello stesso arco, Exethanter diventa più caloroso e amichevole con lui.
+## Lo stendardo lacero (ambizione)
 ![[Tattered Banner.png]]
-A player seeking **ambition** begins the campaign with the *tattered banner*, an old, ragged red banner bearing the heraldry of a raven in front of a shield. The raven's wings are spread wide, and the shield has the image of a castle's keep engraved into its top. Sometimes, when a Lawful-aligned creature holds the banner, a crimson light seems to glimmer from the peak of the castle's keep, and the sound of soldiers marching can be distantly heard.
+Un giocatore spinto dall'**ambizione** comincia la campagna con lo *stendardo lacero*, un vecchio stendardo rosso e sbrindellato con l'araldica di un corvo davanti a uno scudo. Il corvo ha le ali spiegate, e in cima allo scudo è incisa l'immagine del mastio di un castello. A volte, quando lo stendardo è in mano a una creatura di allineamento legale, dalla cima del mastio sembra brillare una luce cremisi e si sente, in lontananza, il passo di soldati in marcia.
 
-Unbeknownst to the player, the banner was once flown by the warlord Strahd von Zarovich in the days before he became a vampire and was trapped within the mists of Barovia. When it senses the presence of Death House, the distant sound of war-drums fills its holder's ears and the banner blows in an unseen wind, pulling toward the house's direction.
+Il giocatore non lo sa, ma lo stendardo sventolava un tempo per il signore della guerra Strahd von Zarovich, prima che diventasse un vampiro e restasse intrappolato fra le Nebbie di Barovia. Quando avverte la presenza della Casa della Morte, le orecchie di chi lo regge si riempiono del suono lontano di tamburi di guerra, e lo stendardo si gonfia in un vento invisibile che lo tira verso la casa.
 
-The player who possesses the *tattered banner* should have strong, vivid reasons to believe that the banner was once the sigil of a mighty conqueror—and that, by following in that conqueror's steps, they will one day achieve greatness, glory, and the right to rule.
+Il giocatore che possiede lo *stendardo lacero* deve avere ragioni forti e vivide per credere che lo stendardo fosse un tempo l'insegna di un potente conquistatore, e che seguendo le sue orme un giorno otterrà grandezza, gloria e il diritto di regnare.
 
-***Developments.*** When the player first experiences the haunted battlefield north of Berez in [[Arc I - The Walls of Krezk]], the banner flaps in the wind, which echoes with the sound of war-drums. 
+***Sviluppi.*** Quando il giocatore attraversa per la prima volta il campo di battaglia infestato a nord di Berez, nell'[[Arc I - The Walls of Krezk|Arco I: Le mura di Krezk]], lo stendardo sbatte nel vento, che risuona di tamburi di guerra.
 
-If the player shows the banner to the revenant at Tser Falls in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]], Sir Godfrey Gwilym or Sir Vladimir Horngaard in [[Arc M - The Dragon's Manor]], or Kasimir Velikov in either [[Arc E - The Missing Vistana]] or [[Arc S - A Sword of Sunlight]], its appearance is met with revulsion and bitter disgust. 
+Se il giocatore mostra lo stendardo al revenant delle Cascate di Tser nell'[[Act I - Into the Mists/Arc C - Into the Valley|Arco C: Nella valle]], a Sir Godfrey Gwilym o a Sir Vladimir Horngaard nell'[[Arc M - The Dragon's Manor|Arco M: Il maniero del drago]], o a Kasimir Velikov nell'[[Arc E - The Missing Vistana|Arco E: La vistana scomparsa]] o nell'[[Arc S - A Sword of Sunlight|Arco S: Una spada di luce solare]], lo stendardo suscita ribrezzo e un disgusto amaro.
 
-If the player shows the banner to Strahd, he regards it with fond thoughtfulness, but declines to elaborate on its significance. If the player shows the banner to Dr. Rudolph van Richten in **Arc M: Strahd's Enemy** or any Vistani, they immediately recognize it as the heraldry of Castle Ravenloft.
-## Faith—The Sunrise Medallion
+Se il giocatore mostra lo stendardo a Strahd, lui lo guarda con un'aria affettuosa e pensierosa, ma non spiega che cosa significhi. Se il giocatore lo mostra al dottor Rudolph van Richten nell'**Arco M: Il nemico di Strahd** o a un membro dei Vistani, lo riconoscono subito come l'araldica del Castello di Ravenloft.
+## Il medaglione dell'Alba (fede)
 ![[Sunrise Medallion.png]]
-A player seeking **faith** begins the campaign with the *sunrise medallion*, a bronze disc engraved with the image of a rising sun. The disc glitters like gold when exposed to the light of the sunrise, and a Good-aligned creature that touches it feels a fleeting sense of reverence, righteousness, and peace.
+Un giocatore in cerca di **fede** comincia la campagna con il *medaglione dell'Alba*, un disco di bronzo con incisa l'immagine di un sole che sorge. Alla luce dell'alba il disco luccica come oro, e una creatura di allineamento buono che lo tocca prova per un attimo un senso di reverenza, di rettitudine e di pace.
 
-Unbeknownst to the player, the medallion once belonged to Sergei von Zarovich, the brother of Strahd von Zarovich and an acolyte of the Church of the Morninglord who was once expected to become its Most High Priest. When it senses the presence of Death House, the medallion shines with a warm, golden glow, the rays of sunlight emanating from the engraved sun pointing in the direction of the house.
+Il giocatore non lo sa, ma il medaglione apparteneva a Sergei von Zarovich, fratello di Strahd von Zarovich e accolito della Chiesa del Signore del Mattino, destinato un tempo a diventarne il Sommo Sacerdote. Quando avverte la presenza della Casa della Morte, il medaglione si accende di un caldo bagliore dorato, e i raggi del sole inciso puntano verso la casa.
 
-The player who possesses the *sunrise medallion* should have strong, vivid reasons to believe that it will strengthen or guide them in faith, and that certain signs of the divine will lead them to those in need of salvation and deliverance.
+Il giocatore che possiede il *medaglione dell'Alba* deve avere ragioni forti e vivide per credere che il medaglione rafforzerà o guiderà la sua fede e che certi segni del divino lo porteranno da chi ha bisogno di salvezza e di liberazione.
 
-***Developments.*** When the player first approaches St. Andral's Church in [[Arc D - St. Andral's Feast]], the *sunrise medallion* glows and shines in the direction of the church's doors. If the player shows the *sunrise medallion* to Father Donavich or Lucian, they recognize it as a symbol of the Church of the Morninglord and grow warmer and friendlier toward that player.
-## Harmony—The Stone Crest
+***Sviluppi.*** Quando il giocatore si avvicina per la prima volta alla Chiesa di Sant'Andral nell'[[Arc D - St. Andral's Feast|Arco D: La festa di Sant'Andral]], il *medaglione dell'Alba* si accende e brilla in direzione delle porte della chiesa. Se il giocatore mostra il *medaglione dell'Alba* a padre Donavich o a padre Lucian, loro lo riconoscono come un simbolo della Chiesa del Signore del Mattino e diventano più calorosi e amichevoli con lui.
+## Lo stemma di pietra (armonia)
 ![[Stone Crest.png]]
-A player seeking **harmony** begins the campaign with the *stone crest*, a flat, round stone engraved with the image of a three-pointed star. On the nights of the new moon, the star seems to glimmer with emerald light.
+Un giocatore in cerca di **armonia** comincia la campagna con lo *stemma di pietra*, una pietra piatta e rotonda con incisa l'immagine di una stella a tre punte. Nelle notti di luna nuova la stella sembra brillare di una luce color smeraldo.
 
-Unbeknownst to the player, the crest once belonged to a spiritual leader among the First Folk, the people who first settled the land of Barovia long ago, and who have now divided into the Forest Folk (who are loyal to Strahd) and the Mountain Folk (who are not). The engravings upon it depict the symbols of the Seeker, the Weaver, and the Huntress—the three fey goddesses that the First Folk once called the *Rozana*, or Ladies Three. When it senses the presence of Death House, the crest emits a low hum and releases a scent of pine needles and earthy soil, which both grow stronger as the player approaches the house.
+Il giocatore non lo sa, ma lo stemma apparteneva a una guida spirituale del Primo Popolo, la gente che si stabilì per prima nella terra di Barovia, molto tempo fa, e che oggi si è divisa nel Popolo della Foresta (fedele a Strahd) e nel Popolo della Montagna (che non lo è). Le incisioni raffigurano i simboli del Cercatore, della Tessitrice e della Cacciatrice, le tre dee fatate che il Primo Popolo chiamava un tempo *Rozana*, le Tre Dame. Quando avverte la presenza della Casa della Morte, lo stemma emette un ronzio basso e sprigiona un odore di aghi di pino e di terra, che si fanno più intensi man mano che il giocatore si avvicina alla casa.
 
-The player who possesses the *stone crest* should have strong, vivid reasons to believe that the symbols upon it represent a primal or divine power of harmony and nature, and that the crest can aid them in restoring the sanctity of wild places.
+Il giocatore che possiede lo *stemma di pietra* deve avere ragioni forti e vivide per credere che i simboli incisi rappresentino un potere primordiale o divino di armonia e di natura e che lo stemma possa aiutarlo a restituire la sacralità ai luoghi selvaggi.
 
-***Developments.*** When the player first approaches the exterior of Soldav in [[Arc R - Trials of the Mountain]], the *stone crest* hums and releases a scent of pine needles and earth soil as it did upon sensing Death House, both of which grow stronger as the player approaches the Shrine of the Rozana in Soldav. 
+***Sviluppi.*** Quando il giocatore si avvicina per la prima volta a Soldav nell'[[Arc R - Trials of the Mountain|Arco R: Le prove della montagna]], lo *stemma di pietra* ronza e sprigiona un odore di aghi di pino e di terra come quando ha avvertito la Casa della Morte, e l'uno e l'altro si fanno più intensi man mano che il giocatore si avvicina al Santuario delle Rozana, a Soldav.
 
-If the player shows the *stone crest* to Kavan in [[Arc J - The Stolen Gem]] or to Elder Burebis in [[Arc R - Trials of the Mountain]], the crest is recognized as an artifact and symbol of the Ladies of the Fanes. 
-## Justice—The Broken Blade
+Se il giocatore mostra lo *stemma di pietra* a Kavan nell'[[Arc J - The Stolen Gem|Arco J: La gemma rubata]] o all'anziano Burebis nell'[[Arc R - Trials of the Mountain|Arco R: Le prove della montagna]], lo stemma viene riconosciuto come un manufatto e un simbolo delle Dame dei Templi.
+## La lama spezzata (giustizia)
 ![[Broken Blade.png]]
-A player seeking **justice** begins the campaign with the *broken blade*, the shattered tip of an elven longsword. The blade is engraved with the sigil of a lion rampant, which seems to roar when the light of dusk touches it.
+Un giocatore in cerca di **giustizia** comincia la campagna con la *lama spezzata*, la punta frantumata di una spada lunga elfica. Sulla lama è inciso l'emblema di un leone rampante, che sembra ruggire quando lo tocca la luce del tramonto.
 
-Unbeknownst to the player, the blade once belonged to Erevan, a dusk elf prince. Erevan, a master bladesinger, practiced the style of the lion, which he also used as his personal sigil. However, Erevan refused to pay tribute to King Barov von Zarovich, a powerful warlord and the father of Strahd von Zarovich. 
+Il giocatore non lo sa, ma la lama apparteneva a Erevan, un principe degli elfi del crepuscolo. Maestro del canto della lama, Erevan praticava lo stile del leone, che aveva scelto anche come emblema personale. Erevan, però, si rifiutò di pagare il tributo a re Barov von Zarovich, un potente signore della guerra e padre di Strahd von Zarovich.
 
-Rahadin, a dusk elf who had spurned Erevan's rule, helped King Barov conquer the dusk elf kingdom. Rahadin then broke Erevan's blade and personally executed Erevan and his family as punishment for his defiance. When it senses the presence of Death House, the blade emits a high-pitched hum and begins to tremble violently, spinning like a compass needle in the direction of the house.
+Rahadin, un elfo del crepuscolo che aveva rinnegato il dominio di Erevan, aiutò re Barov a conquistare il regno degli elfi del crepuscolo. Poi spezzò la lama di Erevan e giustiziò di persona lui e la sua famiglia per punirne la ribellione. Quando avverte la presenza della Casa della Morte, la lama emette un ronzio acuto e comincia a tremare con violenza, girando come l'ago di una bussola in direzione della casa.
 
-The player who possesses the *broken blade* should have strong, vivid reasons to believe that their ancestors were refugees, driven forth from their ancestral lands and persecuted, and that the blade will one day deliver justice to the traitor who destroyed them.
+Il giocatore che possiede la *lama spezzata* deve avere ragioni forti e vivide per credere che i suoi antenati fossero profughi, cacciati e perseguitati dalle terre dei loro padri, e che un giorno la lama renderà giustizia contro il traditore che li ha distrutti.
 
-***Developments.*** If the player shows the *broken blade* to Kasimir Velikov in [[Arc E - The Missing Vistana]], he mournfully recalls its history and asks the player how they came to possess it. If the player informs Kasimir of how they came to inherit it, Kasimir greets them as family, wondering aloud if more of the dusk elves may have escaped Strahd's slaughter outside of Barovia.
+***Sviluppi.*** Se il giocatore mostra la *lama spezzata* a Kasimir Velikov nell'[[Arc E - The Missing Vistana|Arco E: La vistana scomparsa]], lui ne ricorda con dolore la storia e chiede al giocatore come ne sia entrato in possesso. Se il giocatore spiega a Kasimir come l'ha ereditata, Kasimir lo accoglie come uno di famiglia e si chiede ad alta voce se altri elfi del crepuscolo possano essere sfuggiti al massacro di Strahd, fuori da Barovia.
 
-If the *broken blade* is ever in close proximity to Rahadin, Strahd's chamberlain, it emits a high-pitched hum and trembles violently, spinning like a compass needle in his direction just as it did upon sensing Death House. If the player shows the *broken blade* to Rahadin, he at first claims to have no memory of it, noting dispassionately the thousands that he has slaughtered. However, in combat, Rahadin eventually comes to remember the blade's origins, dismissing it as "the shattered toy of a weak and worthless man."
+Se la *lama spezzata* si trova vicina a Rahadin, il ciambellano di Strahd, emette un ronzio acuto e trema con violenza, girando come l'ago di una bussola nella sua direzione, proprio come quando ha avvertito la Casa della Morte. Se il giocatore mostra la *lama spezzata* a Rahadin, lui sulle prime sostiene di non ricordarla e osserva con freddezza di averne massacrati a migliaia. Durante il combattimento, però, Rahadin finisce per ricordare l'origine della lama e la liquida come «il giocattolo rotto di un uomo debole e senza valore».

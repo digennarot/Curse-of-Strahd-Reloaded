@@ -1,386 +1,385 @@
-_An adventure for five 4th-level characters._
+_Un'avventura per cinque personaggi di 4º livello._
 
-In this arc, the players escort Ireena Kolyana to St. Andral's Church in Vallaki, fulfilling their vow to her brother, Ismark. However, Father Lucian, the church's priest, informs them that the bones of Saint Andral—the source of the church's protective magic—have recently been stolen, placing its wards and parishioners at risk.
+In questo arco i giocatori scortano Ireena Kolyana alla Chiesa di Sant'Andral, a Vallaki, e mantengono così la promessa fatta a suo fratello Ismark. Padre Lucian, il sacerdote della chiesa, rivela però che da poco qualcuno ha rubato le ossa di Sant'Andral, la fonte della magia che protegge la chiesa: le difese e i fedeli sono in pericolo.
 
-The players have until the night of their fifth day after arriving in Vallaki to identify the thief (the church groundskeeper, Milivoj), track down the bones to their hiding place (the Vallaki coffin maker's shop), and return them to their rightful place in the church. Their mission will bring them into direct conflict with Volenta Popofsky, Strahd's most sadistic vampiric bride, and her vampiric minions.
+I giocatori hanno tempo fino alla notte del quinto giorno dal loro arrivo a Vallaki per scoprire il ladro (il custode della chiesa, Milivoj), seguire le ossa fino al nascondiglio (la bottega del fabbricante di bare di Vallaki) e riportarle al loro posto in chiesa. La missione li metterà contro Volenta Popofsky, la più sadica fra le spose vampire di Strahd, e contro i suoi servi vampiri.
 
-Can the players defeat Volenta's plan and restore the church's protection? Or will the church be lost in darkness and blood, its flickering light snuffed out in the shadows?
+Riusciranno i giocatori a sventare il piano di Volenta e a restituire alla chiesa la sua protezione? O la chiesa sprofonderà nel buio e nel sangue, e la sua luce tremolante si spegnerà fra le ombre?
 
-> [!abstract]+ **An Early Start**
-> If the players bring Ireena to St. Andral's Church on their first night in Vallaki (i.e., "day zero" in Vallaki), they arrive to find Father Lucian finishing a service to his congregation. After giving reassurances to Willemina Rikalova (see [[Act I - Into the Mists/Arc C - Into the Valley#Exiting the Inn|Arc C - Into the Valley]] for more information about Willemina), Father Lucian welcomes the players and Ireena to the church and offers his assistance.
+> [!abstract]+ **Una partenza anticipata**
+> Se i giocatori portano Ireena alla Chiesa di Sant'Andral la prima notte a Vallaki (il «giorno zero» a Vallaki), trovano padre Lucian che sta concludendo una funzione per i fedeli. Dopo aver rassicurato Willemina Rikalova (per Willemina vedi [[Act I - Into the Mists/Arc C - Into the Valley#Uscire dalla locanda|Arco C: Nella valle]]), padre Lucian accoglie i giocatori e Ireena in chiesa e offre il suo aiuto.
 > 
-> If told that Ireena hopes to find sanctuary at the church, Father Lucian is glad to offer her a pallet to sleep on in the chapel. After Ireena offers to compensate him for his kindness, Father Lucian considers her request, then invites her to assist with Yeska's chores and education for the duration of her stay—a request which Ireena graciously accepts.
+> Se gli dicono che Ireena cerca asilo in chiesa, padre Lucian le offre volentieri un pagliericcio nella cappella. Quando Ireena si offre di ricambiare la gentilezza, padre Lucian ci pensa su e le propone di aiutare Yeska nelle faccende e nello studio finché resta lì; Ireena accetta con gratitudine.
 > 
-> The following morning, after St. Andral's bones are stolen as described below, Ireena visits the players at the Blue Water Inn before their conversation with Urwin Martikov described in [[Act I - Into the Mists/Arc C - Into the Valley#Urwin's Advice|Arc C - Into the Valley]] and asks them to visit the church to speak with Father Lucian about an "incident." (Father Lucian has asked her not to speak of the incident outside of the church, for fear of raising a panic.) The remainder of this arc then proceeds normally.
+> La mattina dopo, quando le ossa di Sant'Andral sono già state rubate come descritto più avanti, Ireena raggiunge i giocatori alla Locanda dell'Acqua Azzurra prima della conversazione con Urwin Martikov descritta nell'[[Act I - Into the Mists/Arc C - Into the Valley#I consigli di Urwin|Arco C: Nella valle]] e chiede loro di passare in chiesa a parlare con padre Lucian di un «incidente». (Padre Lucian le ha chiesto di non parlarne fuori dalla chiesa, per paura di scatenare il panico.) Da qui l'arco prosegue normalmente.
 
-> [!info]+ **Want a Hand?** 
-> Want access to a Discord community of _Reloaded_ DMs, on-demand campaign help from the author, and one-on-one session prep and mentoring? Check out the author's [Patreon](https://patreon.com/dragnacarta "Patreon (https://patreon.com/dragnacarta)") 
-> for: 
-> * Discord access (Bronze+) 
-> * Developer commentary blogs (Silver+) 
-> * Personal campaign help (Gold+) 
-> * One-on-one live mentorship and session prep (Platinum+)
+> [!info]+ **Ti serve una mano?** 
+> Vuoi entrare in una comunità Discord di DM di _Reloaded_, avere aiuto sulla campagna dall'autore quando ti serve e preparare le sessioni a tu per tu con lui, con un tutoraggio personale? Dai un'occhiata al [Patreon](https://patreon.com/dragnacarta "Patreon (https://patreon.com/dragnacarta)") dell'autore 
+> per: 
+> * l'accesso a Discord (Bronze e superiori) 
+> * i blog di commento dello sviluppatore (Silver e superiori) 
+> * l'aiuto personale sulla campagna (Gold e superiori) 
+> * il tutoraggio e la preparazione delle sessioni dal vivo, a tu per tu (Platinum e superiori)
 
-# D1. St. Andral's Church
-<span class="citation"><em>This scene takes place in Chapter 5: Area N1.</em></span>
+# D1. La Chiesa di Sant'Andral
+<span class="citation"><em>Questa scena si svolge nel Capitolo 5: Area N1.</em></span>
 
-The church is largely as described in <span class="citation">N1. St. Andral's Church (p. 97)</span>.
+La chiesa è più o meno come descritta in <span class="citation">N1. Chiesa di Sant'Andral (p. 97)</span>.
 
-The church's occupants follow the following schedule unless interrupted:
+Salvo imprevisti, chi vive nella chiesa segue questa routine:
 
-* At dawn, Yeska joins Father Lucian for prayers in the chapel and assists him in preparing breakfast.
-* In the morning, Yeska runs errands around Vallaki while Father Lucian sweeps the chapel, dusts the pews, polishes the altar, and tidies up the kitchen.
-* In the afternoon, Father Lucian teaches Yeska how to read, and educates him in basic history and theology.
-* In the evening, with Yeska's assistance, Father Lucian leads the congregation in prayer and delivers a sermon promising sanctuary and comfort.
+* All'alba Yeska prega con padre Lucian nella cappella e lo aiuta a preparare la colazione.
+* La mattina Yeska sbriga commissioni in giro per Vallaki, mentre padre Lucian scopa la cappella, spolvera i banchi, lucida l'altare e mette in ordine la cucina.
+* Il pomeriggio padre Lucian insegna a Yeska a leggere e gli dà le prime nozioni di storia e di teologia.
+* La sera, con l'aiuto di Yeska, padre Lucian guida i fedeli nella preghiera e tiene un sermone che promette asilo e conforto.
 
-> [!profile]+ **Profile: Father Lucian Petrovich**
+> [!profile]+ **Profilo: padre Lucian Petrovich**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Father Lucian should inspire gratitude with his hospitality, flattery with his willingness to listen and empathize, comfort with his warmth, serenity, and wisdom, and sympathy for his anxiety regarding the missing bones and the safety of his congregation.
+> **Interpretazione**
+> ***Risonanza.*** Padre Lucian deve suscitare gratitudine per la sua ospitalità, lusinga per la disponibilità ad ascoltare e a capire, conforto per il suo calore, la sua serenità e la sua saggezza, e compassione per l'ansia che prova per le ossa scomparse e per la sicurezza dei suoi fedeli.
 >
-> ***Emotions.*** Father Lucian’s most frequent emotions are thoughtfulness, hopefulness, concern, and compassion.
+> ***Emozioni.*** Le emozioni più frequenti di padre Lucian sono la riflessione, la speranza, la preoccupazione e la compassione.
 >
-> ***Motivations.*** Father Lucian wants to keep Vallaki's spirits up, to keep the church a place of sanctuary and comfort, and to raise Yeska as best he can.
+> ***Motivazioni.*** Padre Lucian vuole tenere alto il morale di Vallaki, fare della chiesa un luogo di asilo e di conforto e crescere Yeska come meglio può.
 >
-> ***Inspirations.*** When playing Father Lucian, channel Uncle Iroh (*Avatar: The Last Airbender*), Michael Carpenter and Father Forthill (*The Dresden Files*), and Mr. Rogers (*Mr. Rogers' Neighborhood*).
+> ***Ispirazioni.*** Quando interpreti padre Lucian, ispirati a zio Iroh (*Avatar: La leggenda di Aang*), a Michael Carpenter e padre Forthill (*The Dresden Files*) e a Mister Rogers (*Mister Rogers' Neighborhood*).
 >
-> **Character Information**
+> **Informazioni sul personaggio**
 >
-> ***Persona.*** To strangers, Father Lucian is a serene, humble, and compassionate priest who is always happy to share a word of praise or a few pearls of wisdom. To those he trusts, Father Lucian is a dedicated and stalwart defender of his community, who nonetheless worries about his ability to keep his congregants safe. Deep down, Father Lucian harbors a twinge of doubt about the Morninglord's providence and power, wondering if Strahd's awakening is a test of Barovians' faith or a sign that the land is forsaken forever.
+> ***Personalità.*** Agli occhi degli estranei padre Lucian è un sacerdote sereno, umile e compassionevole, sempre pronto a una parola di lode o a qualche perla di saggezza. Per chi gode della sua fiducia è un difensore devoto e saldo della sua comunità, che però teme di non riuscire a proteggere i fedeli. Nel profondo, padre Lucian nutre un'ombra di dubbio sulla provvidenza e sul potere del Signore del Mattino e si chiede se il risveglio di Strahd sia una prova per la fede dei baroviani o il segno che la terra è abbandonata per sempre.
 >
-> ***Morale.*** In a fight, Father Lucian would prefer to dissuade his attackers, surrendering peacefully if necessary to avoid unnecessary bloodshed. However, if an innocent life or the members of his congregation were threatened, he would fight to the death with a prayer on his lips and peace in his heart.
+> ***Morale.*** In combattimento padre Lucian preferisce dissuadere chi lo attacca e se serve si arrende senza opporre resistenza per evitare uno spargimento di sangue inutile. Se però fosse minacciata una vita innocente o qualcuno dei suoi fedeli, combatterebbe fino alla morte con una preghiera sulle labbra e la pace nel cuore.
 >
-> ***Relationships.*** Father Lucian is a mentor and father figure to the orphan and altar boy Yeska, the employer of the groundskeeper Milivoj, the brother of Baroness Lydia Petrovna, and the distant descendant of Tasha Petrovna, an ancient cleric of the Morninglord whose remains are kept in the catacombs of Castle Ravenloft.
+> ***Relazioni.*** Padre Lucian è maestro e figura paterna per Yeska, orfano e chierichetto; è il datore di lavoro del custode Milivoj, il fratello della baronessa Lydia Petrovna e un lontano discendente di Tasha Petrovna, antica chierica del Signore del Mattino i cui resti riposano nelle catacombe del Castello di Ravenloft.
 
-> [!lore]+ **The Stolen Bones**
-> Though he helped House Von Zarovich ascend to power, St. Andral ironically remained a fierce and powerful foe of the undead for all his life. As Most High Priest of the Morninglord's church, Andral directed fierce crusades against undead that lurked in the dark places of King Barov's kingdom, rooting them out wherever they could be found.
+> [!lore]+ **Le ossa rubate**
+> Per ironia della sorte, Sant'Andral aiutò la casata Von Zarovich a salire al potere, eppure per tutta la vita restò un nemico accanito e potente dei non morti. Come Sommo Sacerdote della chiesa del Signore del Mattino, Andral guidò crociate feroci contro i non morti che si annidavano negli angoli bui del regno di re Barov e li stanò ovunque si nascondessero.
  >
-> So great was his hatred of undeath that, in his final hours of life, St. Andral vowed that his resting place would forever be a sanctuary from the forces of darkness. Since then, his bones have been interred in the crypt beneath Vallaki's church, its priests performing an annual ritual at dawn each year on his holy day - the day of St. Andral's Feast. So long as this rite is completed, the church remains hallowed ground for an additional year, as described in <span class="citation">Bones of St. Andral (p. 97)</span>.
+> Il suo odio per la non morte era tale che nelle ultime ore di vita Sant'Andral giurò che il luogo del suo riposo sarebbe stato per sempre un rifugio dalle forze delle tenebre. Da allora le sue ossa riposano nella cripta sotto la chiesa di Vallaki, e ogni anno, all'alba del giorno a lui consacrato, la festa di Sant'Andral, i sacerdoti celebrano un rito. Finché il rito si compie, la chiesa resta terra consacrata per un altro anno, come descritto in <span class="citation">Le ossa di Sant'Andral (p. 97)</span>.
 > 
-> When Strahd awoke from his recent hibernation, his vampiric bride Volenta Popofsky decided to impress him the only way she knew how: with a wanton display of suffering, carnage, and terror. Where better, she thought, than a gruesome massacre at St. Andral's Church on the night of its most holy feast?
+> Quando Strahd si è risvegliato dal suo ultimo letargo, la sua sposa vampira Volenta Popofsky ha deciso di fare colpo su di lui nell'unico modo che conosce: con uno sfoggio sfrenato di sofferenza, carneficina e terrore. E quale occasione migliore, ha pensato, di un massacro raccapricciante nella Chiesa di Sant'Andral, la notte della sua festa più sacra?
 > 
-> It was a dark and windy night when Volenta paid a visit to Henrik van der Voort, Vallaki's coffin-maker. Finding a macabre pleasure in the setting, and finding the lonely Henrik a perfect target for her plots, Volenta politely threatened to burn his shop to the ground unless he allowed her to use it as a base for her machinations.
+> In una notte buia e ventosa Volenta ha fatto visita a Henrik van der Voort, il fabbricante di bare di Vallaki. Il luogo le dava un piacere macabro e Henrik, uomo solitario, era il bersaglio perfetto per le sue trame: con modi garbati, Volenta lo ha minacciato di radergli al suolo la bottega se non le avesse permesso di farne la base delle sue macchinazioni.
 > 
-> A terrified Henrik soon capitulated, and Volenta established a link with the teleportation brazier in Castle Ravenloft's dungeons. Using that link, she summoned two feral **vampire spawn**—former members of Doru's rebellion driven mad with bloodlust—and a trio of crates filled with grave dirt to rest in.
+> Henrik, terrorizzato, ha ceduto presto, e Volenta ha creato un collegamento con il braciere di teletrasporto nelle segrete del Castello di Ravenloft. Attraverso quel collegamento ha fatto arrivare due **progenie vampiriche** inselvatichite, ex membri della ribellione di Doru impazziti per la sete di sangue, e tre casse piene di terra di sepoltura in cui riposare.
 > 
-> A remnant of an older age, Volenta knew that St. Andral's remains provided the church with its blessed protection. She commanded Henrik to find and steal those bones before the night of St. Andral's Feast - by any means necessary.
+> Volenta, rimasuglio di un'epoca antica, sapeva che la protezione benedetta della chiesa veniva dai resti di Sant'Andral. Ha ordinato a Henrik di trovare e rubare quelle ossa prima della notte della festa di Sant'Andral, con qualunque mezzo.
 > 
-> Given his profession, Henrik had encountered Milivoj—the church's groundskeeper—on more than one occasion. He knew that Milivoj was familiar with the church's occupants and layout, that Milivoj thought little of the Morninglord's faith, and—most importantly—that Milivoj had a host of younger siblings he was desperate to feed.
+> Per il suo mestiere Henrik aveva incontrato più di una volta Milivoj, il custode della chiesa. Sapeva che Milivoj conosceva bene la chiesa e chi ci viveva, che aveva poca considerazione per la fede nel Signore del Mattino e, soprattutto, che aveva un mucchio di fratelli e sorelle più piccoli da sfamare a ogni costo.
 > 
-> Digging into his own savings for funds, Henrik approached Milivoj with a story and an offer. St. Andral, Henrik claimed, was an ancestor of Henrik's own family—and one whose remains Henrik was anxious to claim. "In these darkened times," Henrik said somberly, "we all want our families close at hand."
+> Attingendo ai propri risparmi, Henrik è andato da Milivoj con una storia e un'offerta. Sant'Andral, ha raccontato, era un antenato della sua famiglia, e lui desiderava tanto riavere quei resti. «In tempi così bui», ha detto cupo, «tutti vogliamo avere vicino la nostra famiglia.»
 > 
-> Henrik told Milivoj his family had searched for St. Andral's remains for centuries—but that only recently had he learned them to be located somewhere in the church. Doubtless, he claimed, the good Father Lucian would be loathe to surrender such a relic, even though their only true value was sentimental.
+> Henrik ha detto a Milivoj che la sua famiglia cercava i resti di Sant'Andral da secoli, e che solo di recente aveva scoperto che si trovavano da qualche parte nella chiesa. Di certo, ha aggiunto, il buon padre Lucian non si sarebbe mai separato volentieri da una reliquia del genere, anche se il loro valore era soltanto affettivo.
 > 
-> That was where Milivoj came in. In exchange for a payment of fifteen electrum pieces, Milivoj would find and retrieve Andral's remains. Old legends, Henrik noted, indicated that those remains carried St. Andral's blessing, sanctifying the church from evil—though he personally doubted they were true. He suggested Milivoj use those legends, however, as an excuse to inquire about the remains' location, either from Father Lucian or from Yeska, the altar boy. ("Of course," Henrik noted with a dry chuckle, "I'm fairly certain I've seen Izek Strazni entering the church, so perhaps those legends have lost their luster for good cause, eh?")
+> Qui entrava in gioco Milivoj. In cambio di quindici monete di electrum, Milivoj avrebbe trovato e portato via i resti di Andral. Secondo antiche leggende, ha osservato Henrik, quei resti portavano la benedizione di Sant'Andral e proteggevano la chiesa dal male, anche se lui personalmente non ci credeva. Ha suggerito però a Milivoj di usare proprio quelle leggende come pretesto per chiedere dove fossero i resti, a padre Lucian o al chierichetto Yeska. («Certo», ha aggiunto Henrik con una risatina secca, «sono quasi sicuro di aver visto Izek Strazni entrare in chiesa, quindi forse quelle leggende hanno perso smalto per buone ragioni, no?»)
 > 
-> Milivoj, eager to secure funds to care for his siblings, was easily convinced to steal those "moldy old relics" and soon agreed to Henrik's offer. He knew Yeska, a recent orphan, was a timid and fearful child who looked to Father Lucian for safety and comfort. Though he couldn't escape the guilt he felt for leveraging the boy's fear, Milivoj decided that a few nights of Yeska's nightmares were a worthy price to pay to ensure his own family had food to eat.
+> Milivoj, ansioso di procurarsi il denaro per mantenere i fratelli, si è lasciato convincere facilmente a rubare quelle «vecchie reliquie ammuffite» e ha accettato l'offerta di Henrik. Sapeva che Yeska, rimasto orfano da poco, era un bambino timido e pauroso che cercava in padre Lucian sicurezza e conforto. Non riusciva a togliersi di dosso il senso di colpa per aver sfruttato la paura del bambino, ma ha deciso che qualche notte di incubi per Yeska era un prezzo accettabile perché la sua famiglia avesse da mangiare.
 > 
-> Six days later, shortly before Yeska's lessons with Father Lucian, Milivoj wondered aloud in front of the boy whether Strahd might attack the church with an army of vampires and demons. "I heard vampires hate the sun," Milivoj said darkly as Yeska's face paled. "And if the Devil came here, what could we possibly do to stop him?"
+> Sei giorni dopo, poco prima della lezione di Yeska con padre Lucian, Milivoj si è chiesto ad alta voce, davanti al bambino, se Strahd potesse attaccare la chiesa con un esercito di vampiri e demoni. «Ho sentito dire che i vampiri odiano il sole», ha detto cupo, mentre Yeska impallidiva. «E se il Diavolo venisse qui, che cosa potremmo mai fare per fermarlo?»
 > 
-> When Yeska's lesson began shortly thereafter, Milivoj eavesdropped outside the door—and silently cheered when Father Lucian revealed the bones' location beneath the altar. That same night, a cloaked and hooded Milivoj returned to the church with his shovel in hand, creeping through the darkened chapel and forcing open the crypt that lurked below.
+> Quando poco dopo è cominciata la lezione di Yeska, Milivoj è rimasto a origliare dietro la porta e ha esultato in silenzio quando padre Lucian ha rivelato che le ossa si trovavano sotto l'altare. Quella stessa notte Milivoj è tornato in chiesa, avvolto in un mantello con il cappuccio e con la pala in mano, ha attraversato di soppiatto la cappella buia e ha forzato l'accesso alla cripta sottostante.
 > 
-> But a splintering floorboard betrayed him—and when Milivoj emerged from the crypt, Father Lucian emerged to block the exit. Without recognizing him, Father Lucian demanded the intruder reveal his face and relinquish what he had stolen. Milivoj panicked and fled through one of the church's glass windows, shattering it. Milivoj then delivered the bones to Henrik, who paid him.
+> Ma un'asse del pavimento che si è spaccata lo ha tradito, e quando Milivoj è riemerso dalla cripta si è trovato davanti padre Lucian, che gli bloccava l'uscita. Senza riconoscerlo, padre Lucian ha intimato all'intruso di mostrare il viso e di restituire quello che aveva rubato. Milivoj, in preda al panico, è fuggito sfondando una delle vetrate della chiesa. Ha poi consegnato le ossa a Henrik, che lo ha pagato.
 > 
-> Yeska doesn't yet know that the bones were stolen. Instead, Father Lucian told him only that a broken tree branch had crashed through the window, breaking the glass and damaging the floor. The following dawn, Father Lucian sent Yeska to Henrik's shop to obtain planks and nails for the repair, which Henrik delivered personally to scope out whether Lucian suspected his involvement.
+> Yeska non sa ancora del furto. Padre Lucian gli ha detto soltanto che un ramo spezzato ha sfondato la finestra, rompendo il vetro e danneggiando il pavimento. All'alba successiva ha mandato Yeska alla bottega di Henrik a prendere assi e chiodi per la riparazione, e Henrik li ha consegnati di persona per capire se Lucian sospettasse di lui.
 > 
-> Father Lucian doesn't know who stole the bones or why. Though he gently interrogated Yeska as to whether he told anyone about the bones, Yeska truthfully told him that he hadn't. Father Lucian has been unable to discern more from his own brief inspection of the crime scene. With the date of reconsecration fast approaching, however, he fears the worst.
-## D1a. Entering the Church
-When the players first move to enter the church after the bones have been stolen, Henrik van der Voort emerges at the same time, forcing one of the players to make a DC 10 Dexterity saving throw or crash into him.
+> Padre Lucian non sa chi abbia rubato le ossa né perché. Ha chiesto con delicatezza a Yeska se avesse parlato delle ossa con qualcuno, e Yeska gli ha risposto sinceramente di no. Dal breve esame che ha fatto della scena del furto, padre Lucian non è riuscito a capire altro. La data della nuova consacrazione si avvicina in fretta, però, e lui teme il peggio.
+## D1a. Entrare in chiesa
+La prima volta che i giocatori stanno per entrare in chiesa dopo il furto delle ossa, ne esce nello stesso momento Henrik van der Voort: uno dei giocatori deve superare un tiro salvezza su Destrezza con CD 10, altrimenti gli va addosso.
 
-Whether the player succeeds or fails, the near-impact makes Henrik trip, sending him tumbling to the ground. As he does, he loses his hold on a bundle of nails and planks held in his arms, which scatter across the stairs and earth below. The farsighted Henrik also loses his pair of half-cracked spectacles in the fall, which land across the steps a short ways beneath him.
+Che il giocatore riesca o fallisca, per evitare lo scontro Henrik inciampa e finisce a terra. Nella caduta perde la presa sul fascio di chiodi e di assi che teneva fra le braccia, che si sparpagliano sui gradini e sulla terra lì sotto. Henrik, che è presbite, perde anche i suoi occhiali mezzi incrinati, che finiscono sui gradini poco più in basso.
 
-The players can help Henrik collect his glasses, nails, and planks as he scrambles helplessly to find them. If they do, he thanks them profusely, dabbing at his face and hands with a slightly soiled handkerchief. He is willing to share the following information if directly asked:
+I giocatori possono aiutare Henrik a raccogliere occhiali, chiodi e assi mentre lui li cerca a tentoni, senza riuscirci. Se lo fanno, li ringrazia a profusione, tamponandosi il viso e le mani con un fazzoletto un po' sporco. Se gli fanno domande dirette, è disposto a dire queste cose:
 
-* His name is Henrik van der Voort, and he is Vallaki's resident coffin-maker and occasional carpenter.
-* Father Lucian asked him to visit to deliver some tools and supplies to repair some damage to the floor caused by a falling tree branch the previous night.
-* His shop can be found at the south end of Arasek Stockyard. "Although," Henrik jokes awkwardly, "I do hope you won't need my services too soon."
+* Si chiama Henrik van der Voort, fa il fabbricante di bare a Vallaki e all'occorrenza il falegname.
+* Padre Lucian gli ha chiesto di portare qualche attrezzo e un po' di materiale per riparare il pavimento, danneggiato la notte prima dalla caduta di un ramo.
+* La sua bottega si trova all'estremità sud del Recinto di Arasek. «Anche se», scherza goffo, «spero proprio che non vi servano presto i miei servizi.»
 
-Henrik then excuses himself and departs to return to his shop.
-## D1b. The Chapel
-When the players first enter this area, read:
+Poi Henrik si congeda e torna alla sua bottega.
+## D1b. La cappella
+La prima volta che i giocatori entrano in quest'area, leggi:
 
 <div class="description">
-<p>A dozen ornate candelabras bathe rows of well-kept pews in candlelight, casting a soft luminescence that touches every corner of this chapel. At the far end of the room, a wooden altar stands proudly, carved with a proud sunburst with rays thrusting forth in cheery defiance.  Six tall windows flank the altar, though one appears to have been broken, with glass shards lining its dark iron pane like jagged teeth.</p>
-<p>A broad-shouldered, black-haired young man stands atop a small stepladder before the broken window, nailing a tarp into place to cover it as a young boy sweeps the chapel floor not far away. A middle-aged priest, with graying hair and crisp, clean vestments watches them work from the pews, holding a broom of his own and looking lost in thought.</p>
+<p>Una dozzina di candelabri decorati inonda di luce di candela file di banchi ben tenuti, e il loro chiarore morbido raggiunge ogni angolo della cappella. In fondo alla sala si erge fiero un altare di legno, scolpito con un grande sole i cui raggi si protendono in una sfida allegra. Sei alte finestre affiancano l'altare, ma una sembra rotta: schegge di vetro orlano il telaio di ferro scuro come denti aguzzi.</p>
+<p>Un giovane dalle spalle larghe e dai capelli neri, in piedi su una piccola scala a pioli davanti alla finestra rotta, inchioda un telo per coprirla, mentre poco lontano un ragazzino spazza il pavimento della cappella. Un sacerdote di mezza età, con i capelli brizzolati e i paramenti lindi e stirati, li guarda lavorare dai banchi, con una scopa in mano, perso nei suoi pensieri.</p>
 </div>
 
-The young man is Milivoj, who is as described in <span class="citation">N1. St. Andral's Church (p. 97)</span>. The priest is Father Lucian Petrovich. The boy is Yeska.
+Il giovane è Milivoj, descritto in <span class="citation">N1. Chiesa di Sant'Andral (p. 97)</span>. Il sacerdote è padre Lucian Petrovich. Il ragazzino è Yeska.
 
 ![[Father Lucian Petrovich.png]]
-<span class="credit">"Father Lucian Petrovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">«Father Lucian Petrovich» di Caleb Cleveland. Sostienilo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-When the players first meet [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]], he greets them warmly, recognizing them as newcomers to Vallaki, welcoming them to St. Andral's Church, and asking if they have come seeking fellowship or to pray to the Morninglord.
+La prima volta che incontra i giocatori, [[Non-Player Characters#padre Lucian Petrovich|padre Lucian]] li accoglie con calore: capisce che sono appena arrivati a Vallaki, dà loro il benvenuto nella Chiesa di Sant'Andral e chiede se cercano compagnia o se sono venuti a pregare il Signore del Mattino.
 
-After the players have exchanged pleasantries, Milivoj dismounts his stepladder and returns it to Father Lucian. The following exchange then takes place, giving the players generous time and opportunity to interrupt and respond:
+Finiti i convenevoli, Milivoj scende dalla scala e la restituisce a padre Lucian. Poi si svolge questo scambio, che lascia ai giocatori tutto il tempo e lo spazio per intervenire e rispondere:
 
-* Upon noticing the players, Milivoj immediately scowls, and asks, "Father, are these outsiders bothering you? I can ask them to leave."
-* If the players say nothing, Father Lucian chides Milivoj, noting that, "In these dark times, it's never been more important to be hospitable to others."
-* If rebuffed, Milivoj retorts: "You can't be too sure about strangers. I thought the town gates were supposed to be closed. They could be vampires, or worse." He then glowers at the players, and asks, "Unless you have some way of proving that you're not?"
+* Appena nota i giocatori, Milivoj si incupisce e chiede: «Padre, questi forestieri vi danno fastidio? Posso dirgli di andarsene.»
+* Se i giocatori non dicono niente, padre Lucian rimprovera Milivoj: «In tempi così bui, essere ospitali con gli altri è più importante che mai.»
+* Se viene respinto, Milivoj ribatte: «Con gli stranieri non si è mai troppo sicuri. Credevo che le porte della città dovessero restare chiuse. Potrebbero essere vampiri, o peggio.» Poi guarda torvo i giocatori e chiede: «A meno che non abbiate un modo per dimostrare che non lo siete?»
 
-Milivoj is eager to prevent further investigation of the church, and hopes to persuade Father Lucian to drive the players away. However, he's not willing to look suspicious, and drops the issue if the players or Father Lucian push back. "You can't be too careful," he mumbles. "Be safe, Father." He then departs.
+Milivoj vuole impedire che qualcuno indaghi ancora nella chiesa e spera di convincere padre Lucian a mandare via i giocatori. Non vuole però sembrare sospetto e lascia perdere se i giocatori o padre Lucian insistono. «La prudenza non è mai troppa», borbotta. «State attento, padre.» Poi se ne va.
 
-Once Milivoj leaves, if Father Lucian is informed that Ireena is seeking sanctuary in the church from Strahd or other monsters, he first ensures that no other congregants are present—shooing away Yeska if present—and swears the players to secrecy.
+Uscito Milivoj, se gli dicono che Ireena cerca asilo in chiesa per sfuggire a Strahd o ad altri mostri, padre Lucian si assicura per prima cosa che non ci siano altri fedeli (se c'è Yeska, lo manda via) e fa giurare ai giocatori di mantenere il segreto.
 
-If the players agree not to spread his words beyond the church, Father Lucian sorrowfully informs them that, while he would love nothing more than to extend Ireena an offer of permanent shelter, recent events have left the church's wards in a precarious state. He can also share the following additional information at the players' prompting:
+Se i giocatori promettono che le sue parole non usciranno dalla chiesa, padre Lucian spiega con tristezza che nulla gli farebbe più piacere che offrire a Ireena un rifugio stabile, ma che i fatti recenti hanno lasciato le protezioni della chiesa in una condizione precaria. Se i giocatori lo incalzano, può aggiungere queste informazioni:
 
-* The church is ordinarily hallowed ground, as though the building was protected by a *hallow* spell. This magical ward prevents fiends and undead from entering the church, and keeps them from magically charming, frightening, or possessing those within it.
-* The source of this protection is the crypt of Saint Andral, which has historically held the blessed bones of Andral himself, the founder of Vallaki's church and a great cleric of the Morninglord.
-* Originally, only Father Lucian knew of the bones' existence. However, after news the siege of Barovia reached Vallaki a few days ago, he shared the knowledge of the bones with Yeska, as described in <span class="citation">Bones of St. Andral (p. 97)</span>.
-* To retain the church's protection, Father Lucian must invoke a particular rite of protection over Saint Andral's bones once every year, at dawn on the morning of Saint Andral's Feast—a holy day that memorializes Andral's life. 
-* If the rite cannot be carried out at that time, the wards will fall until the rite is completed on a subsequent dawn.
-* Last night, someone broke into the church's crypt and stole St. Andral's bones, damaging the floorboards behind the altar and escaping through a window. Without the bones, Father Lucian can't complete the protective rite, and the wards will fall at dawn on the day of St. Andral's Feast. 
-* Father Lucian is fearful that some fell creature or wicked soul has manufactured this crisis as an opportunity to cause his congregation harm; though the Baron is confident that no monsters could breach Vallaki's walls, Father Lucian fears that the town is not as safe as it appears.
+* Di norma la chiesa è terra consacrata, come se l'edificio fosse protetto da un incantesimo *santificare*. Questa protezione magica impedisce a immondi e non morti di entrare nella chiesa e di affascinare, spaventare o possedere con la magia chi si trova all'interno.
+* La fonte della protezione è la cripta di Sant'Andral, che da sempre custodisce le ossa benedette di Andral in persona, fondatore della chiesa di Vallaki e grande chierico del Signore del Mattino.
+* In origine solo padre Lucian sapeva dell'esistenza delle ossa. Qualche giorno fa, però, quando la notizia dell'assedio di Barovia è arrivata a Vallaki, ne ha parlato a Yeska, come descritto in <span class="citation">Le ossa di Sant'Andral (p. 97)</span>.
+* Per conservare la protezione della chiesa, padre Lucian deve celebrare sulle ossa di Sant'Andral un particolare rito di protezione una volta all'anno, all'alba del giorno della festa di Sant'Andral, una ricorrenza sacra che commemora la vita del santo.
+* Se il rito non si può celebrare in quel momento, le protezioni cadono finché non lo si completa a un'alba successiva.
+* La notte scorsa qualcuno si è introdotto nella cripta e ha rubato le ossa di Sant'Andral, ha danneggiato le assi del pavimento dietro l'altare ed è fuggito da una finestra. Senza le ossa padre Lucian non può celebrare il rito di protezione, e all'alba della festa di Sant'Andral le protezioni cadranno.
+* Padre Lucian teme che qualche creatura malvagia o qualche anima perversa abbia architettato questa crisi per colpire i suoi fedeli. Il barone è sicuro che nessun mostro possa varcare le mura di Vallaki, ma padre Lucian teme che la città non sia sicura come sembra.
 
-Father Lucian can also share the date of St. Andral's Feast, which will take place on the fifth day after the players arrived in Vallaki. He has not reported the theft of the bones for the reasons described in <span class="citation">Bones of St. Andral (p. 97)</span>. He does not suspect Milivoj of stealing the bones either, having no reason to do so.
+Padre Lucian può anche dire la data della festa di Sant'Andral: cade il quinto giorno dopo l'arrivo dei giocatori a Vallaki. Non ha denunciato il furto delle ossa per le ragioni descritte in <span class="citation">Le ossa di Sant'Andral (p. 97)</span>. E non sospetta di Milivoj, perché non ha motivo di farlo.
 
-If the players express an interest in doing so, Father Lucian is glad to allow them to inspect the crime scene—having made neither heads nor tails of it himself—and to interview Yeska, so long as they promise to be patient and gentle with the boy. 
+Se i giocatori lo chiedono, padre Lucian li lascia volentieri esaminare la scena del furto, in cui lui non è riuscito a raccapezzarsi, e parlare con Yeska, purché promettano di essere pazienti e gentili con il bambino.
 
-If the players ask for the identities of other possible witnesses, Father Lucian notes that the only other employee of the church is the groundskeeper, Milivoj. Father Lucian can give the players directions to Milivoj’s house, which is located in the northwestern quarter of Vallaki.
+Se i giocatori chiedono se ci siano altri testimoni, padre Lucian ricorda che l'unico altro dipendente della chiesa è il custode, Milivoj, e può spiegare come arrivare a casa sua, nel quartiere nord-occidentale di Vallaki.
 
-Father Lucian accompanies the players as they complete their investigation, answering additional questions when asked. If the players' investigation takes them beyond the church, he insists on joining them and asks Yeska to attend the chapel in his absence. (He takes personal responsibility for the bones' disappearance, and—given his connections across the town and his service to the Morninglord—wishes to assist the players in recovering them.)
+Padre Lucian accompagna i giocatori durante l'indagine e risponde alle altre domande che gli fanno. Se l'indagine li porta fuori dalla chiesa, insiste per andare con loro e chiede a Yeska di badare alla cappella in sua assenza. (Si sente personalmente responsabile della scomparsa delle ossa e, con le sue conoscenze in città e il suo servizio al Signore del Mattino, vuole aiutare i giocatori a ritrovarle.)
 
-While accompanying the party, Father Lucian fights alongside them, but allows the players to take the lead in social encounters and exploration.
+Quando accompagna il gruppo, padre Lucian combatte al suo fianco, ma lascia ai giocatori l'iniziativa negli incontri sociali e nell'esplorazione.
 
-> [!warning]+ **Father Lucian's Aid**
-> Without Father Lucian's assistance—and, specifically, the damage output and radiant damage provided by his *spirit guardians* spell and ***divine eminence*** feature—the battle at the coffin-maker's shop in [[#D4c. Volenta's Trap]] is nearly impossible. To avoid a TPK, ensure he accompanies the players upon their departure from the church.
-## D1c. The Scene of the Crime
-[[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] is glad to lead the players to the location of the crypt if prompted. Read:
-
-<div class="description">
-<p>A small pile of fresh wooden boards rests against the altar, a small pouch of nails sitting atop their surface. Not far away, the old wooden floorboards behind the crypt have been pried up and broken, with splintered edges jutting out at odd angles. Between them, a small, dark opening descends into a dark, dusty space.</p>
-</div>
-
-The fresh boards and nails were delivered by Henrik. The opening is barely wide enough to allow one person to enter, and descends into the crypt.
-
-The crypt is as described in <span class="citation">Bones of St. Andral (p. 97)</span>, lying largely beneath the chapel's altar. If a player enters the crypt, read:
+> [!warning]+ **L'aiuto di padre Lucian**
+> Senza l'aiuto di padre Lucian, e in particolare senza i danni, anche radiosi, del suo incantesimo *guardiani spirituali* e del suo privilegio ***eminenza divina***, lo scontro nella bottega del fabbricante di bare in [[#D4c. La trappola di Volenta]] è quasi impossibile. Per evitare un TPK, fai in modo che padre Lucian accompagni i giocatori quando lasciano la chiesa.
+## D1c. La scena del furto
+Se glielo chiedono, [[Non-Player Characters#padre Lucian Petrovich|padre Lucian]] porta volentieri i giocatori alla cripta. Leggi:
 
 <div class="description">
-<p>You descend into a small, dark, damp chamber, the walls made of rough-hewn stone blocks stained with age and moisture. At the center stands a lonely stone slab, an empty, circular depression carved neatly into its surface.</p>
+<p>Contro l'altare è appoggiata una piccola pila di assi nuove, con sopra un sacchettino di chiodi. Poco lontano le vecchie assi di legno del pavimento dietro la cripta sono state divelte e spezzate, e i bordi scheggiati sporgono storti. In mezzo si apre un piccolo varco buio che scende in uno spazio scuro e polveroso.</p>
 </div>
 
-The slab held the bones until Milivoj stole them.
+Le assi nuove e i chiodi li ha portati Henrik. Il varco basta appena a far passare una persona e scende nella cripta.
 
-The players can find the following information by investigating the area around the crypt:
+La cripta è descritta in <span class="citation">Le ossa di Sant'Andral (p. 97)</span> e si trova quasi tutta sotto l'altare della cappella. Se un giocatore entra nella cripta, leggi:
 
-* While investigating the floorboards, the players can find a torn piece of gray wool fabric snagged on a nail with a successful DC 15 Intelligence (Investigation) check, and a line of rust-stained dirt smeared across a floorboard with a successful DC 20 Wisdom (Perception) check. 
-* While investigating the interior of the crypt, the players can find several clumps of earth with a successful DC 10 Wisdom (Perception) check. Each clump is in the shape of a large bootprint, and contains several blades of pale green grass and white flower petals. 
+<div class="description">
+<p>Scendete in una piccola camera buia e umida, con le pareti di blocchi di pietra grezza macchiati dal tempo e dall'umidità. Al centro c'è una lastra di pietra solitaria, con un incavo circolare vuoto scavato con cura nella superficie.</p>
+</div>
 
-* While investigating the altar or the stone slab in the crypt, the players can find a few strands of dark black hair with a DC 15 Wisdom (Perception) check. 
+La lastra custodiva le ossa finché Milivoj non le ha rubate.
 
-The fabric was torn from Milivoj's shirt as he lowered himself down, and the rust was left when he used his shovel to pry up the floorboards.
+Esaminando la zona intorno alla cripta, i giocatori possono scoprire queste cose:
 
-The clumps of earth were left when Milivoj's boots hit the floor of the crypt. Father Lucian can inform the players that the petals are from the ramson plant, which grow in several patches in the church graveyard.
+* Esaminando le assi del pavimento, con una prova di Intelligenza (Indagare) con CD 15 superata trovano un brandello di stoffa di lana grigia impigliato a un chiodo, e con una prova di Saggezza (Percezione) con CD 20 superata una striscia di terra macchiata di ruggine su un'asse.
+* Esaminando l'interno della cripta, con una prova di Saggezza (Percezione) con CD 10 superata trovano alcune zolle di terra. Ogni zolla ha la forma di una grossa impronta di stivale e contiene qualche filo d'erba verde pallido e alcuni petali di fiori bianchi.
 
-The hair is Milivoj's.
-## D1d. Interviewing Yeska
-If the players choose to interview Yeska, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] asks them not to press him too hard for information. The boy is still emotionally fragile from the death of his parents three months ago, and Father Lucian doesn't wish to harm his mental well-being over a mere suspicion of danger. (Yeska doesn't know that the bones have been stolen; Father Lucian has been careful to keep him away from the hole behind the altar.)
+* Esaminando l'altare o la lastra di pietra nella cripta, con una prova di Saggezza (Percezione) con CD 15 trovano alcuni capelli nerissimi.
 
-If one of the players asks Yeska whether he has told anyone else about the bones, he truthfully denies doing so. However, if the players ask whether anyone might have overheard his conversation with Father Lucian, Yeska shares that Milivoj was also in the church at that time. (Yeska, though alarmed by the direction of the conversation, can also be persuaded to share that Milivoj's tales of Strahd potentially attacking the church encouraged him to ask Father Lucian about the church's protection in the first place.)
+La stoffa si è strappata dalla camicia di Milivoj mentre si calava giù, e la ruggine l'ha lasciata la pala con cui ha fatto leva sulle assi.
+
+Le zolle di terra sono cadute dagli stivali di Milivoj quando è atterrato sul pavimento della cripta. Padre Lucian può spiegare ai giocatori che i petali sono di aglio orsino, che cresce a chiazze nel cimitero della chiesa.
+
+I capelli sono di Milivoj.
+## D1d. Parlare con Yeska
+Se i giocatori decidono di parlare con Yeska, [[Non-Player Characters#padre Lucian Petrovich|padre Lucian]] chiede loro di non insistere troppo con le domande. Il bambino è ancora fragile per la morte dei genitori, tre mesi fa, e padre Lucian non vuole turbarlo per un semplice sospetto. (Yeska non sa che le ossa sono state rubate: padre Lucian ha fatto attenzione a tenerlo lontano dal buco dietro l'altare.)
+
+Se uno dei giocatori chiede a Yeska se abbia parlato delle ossa con qualcuno, lui risponde sinceramente di no. Se però i giocatori chiedono se qualcuno possa aver sentito la sua conversazione con padre Lucian, Yeska racconta che in quel momento in chiesa c'era anche Milivoj. (Yeska si allarma per la piega che prende la conversazione, ma lo si può convincere a raccontare anche che a spingerlo a chiedere a padre Lucian della protezione della chiesa sono stati proprio i discorsi di Milivoj su un possibile attacco di Strahd.)
 
 ![[Yeska.png]]
-<span class="credit">"Yeska" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-# D2. Milivoj’s House
-Milivoj’s house is located in the impoverished northwest quarter of Vallaki, a short walk from St. Andral’s Church. 
+<span class="credit">«Yeska» di Caleb Cleveland. Sostienilo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+# D2. La casa di Milivoj
+La casa di Milivoj si trova nel povero quartiere nord-occidentale di Vallaki, a pochi passi dalla Chiesa di Sant'Andral.
 
 <div class="description">
-<p>The muddy road that leads into the town’s northwest quarter is rough and uneven, chilled by a persistent fog that seems to cling to the soaked earth beneath your feet. As you move further from the town’s center, the streets narrow and the houses grow grimier and more dilapidated, the smell of damp wood and mildew filling your nostrils.</p>
-<p>Your path leads you to a leaning, decrepit structure that seems to sag beneath its own weight. Its timbers are rotting, the windows cracked and filthy. At its front, a ramshackle wooden door stands slightly askew in its frame atop a small, mud-spattered porch.</p>
+<p>La strada fangosa che porta al quartiere nord-occidentale è dissestata e irregolare, gelata da una nebbia ostinata che sembra aggrapparsi alla terra fradicia sotto i vostri piedi. Più vi allontanate dal centro, più le strade si stringono e le case si fanno sudice e cadenti, e l'odore di legno umido e di muffa vi riempie le narici.</p>
+<p>La strada vi porta a una casupola decrepita e storta, che sembra afflosciarsi sotto il proprio peso. Le travi marciscono, le finestre sono incrinate e sporche. Sul davanti, in cima a un piccolo portico schizzato di fango, una porta di legno sgangherata pende un po' di traverso nel telaio.</p>
 </div>
 
-If the players knock on the door, it’s answered a few moments thereafter by Jarzinka, Milivoj’s mother. Read:
+Se i giocatori bussano, dopo qualche istante va ad aprire Jarzinka, la madre di Milivoj. Leggi:
 
 <div class="description">
-<p>The door groans open, revealing a gaunt, glassy-eyed woman standing on the other side. Her hair is matted with grease and hangs in knots across her shoulders, and a painted beaded necklace hangs around her neck, its colors faded and chipped with age.</p>
-<p>Behind her, a trio of young children wrestle and shout as they roll across a cramped living space stuffed with old, threadbare furniture and an old, stained rug. Two other children—a near-adolescent boy with long, shaggy hair, and a freckled girl of similar age wearing cracked, oversized glasses—peer curiously around a pair of overstuffed, patchwork armchairs at the sight of you.</p>
-<p>The woman at the door grunts, her hollow gaze scanning you expectantly.</p>
+<p>La porta si apre cigolando e sulla soglia compare una donna emaciata, con gli occhi vitrei. I capelli unti le ricadono sulle spalle in ciocche annodate, e al collo porta una collana di perline dipinte, coi colori sbiaditi e scrostati dagli anni.</p>
+<p>Alle sue spalle tre bambini piccoli si azzuffano e strillano rotolandosi in un soggiorno angusto, pieno di vecchi mobili consunti e con un vecchio tappeto macchiato. Altri due bambini, un ragazzino quasi adolescente con i capelli lunghi e arruffati e una ragazzina lentigginosa della stessa età con un paio di occhiali incrinati troppo grandi per lei, sbirciano curiosi da dietro due poltrone imbottite e rattoppate.</p>
+<p>La donna sulla porta grugnisce e vi scruta con lo sguardo vuoto, in attesa.</p>
 </div>
 
-The children in the armchairs are a twelve-year-old boy named Bogan and a ten-year-old girl named Zondra. The three children wrestling on the ground are named Lazlo (eight years old), Grilsha (seven years old), and Dargos (five years old).
+I ragazzi nelle poltrone sono Bogan, un ragazzino di dodici anni, e Zondra, una bambina di dieci. I tre bambini che si azzuffano per terra si chiamano Lazlo (otto anni), Grilsha (sette anni) e Dargos (cinque anni).
 
-Jarzinka is a woman of few words, and is annoyed because she has just finished the last of her dream pastries. If the players ask to speak with Milivoj, she turns to Bogan and Zondra, then grunts at them. The conversation then proceeds as follows:
+Jarzinka è una donna di poche parole, ed è di malumore perché ha appena finito l'ultimo dei suoi dolci dei sogni. Se i giocatori chiedono di parlare con Milivoj, si volta verso Bogan e Zondra e grugnisce qualcosa. La conversazione prosegue così:
 
-* Bogan cheerfully informs the players that Milivoj is sick and doesn’t want to talk to anyone today.
-* If the players succeed on a DC 10 Charisma (Persuasion) check or insist that the matter is urgent, Zondra turns and hollers, “Milo! Someone wants to speak to you.”
+* Bogan spiega allegro ai giocatori che Milivoj è malato e oggi non vuole parlare con nessuno.
+* Se i giocatori superano una prova di Carisma (Persuasione) con CD 10 o insistono che è una faccenda urgente, Zondra si gira e strilla: «Milo! C'è qualcuno che vuole parlarti.»
 
-A few moments later, the nineteen-year-old [[Non-Player Characters#Milivoj|Milivoj]] exits a swollen wooden door at the back of the room, with his three-year-old brother Jirko giggling delightedly from atop Milivoj’s shoulders and his four-year-old twin sisters, Victoria and Vasha, hanging from his biceps.
+Dopo qualche istante [[Non-Player Characters#Milivoj|Milivoj]], diciannove anni, esce da una porta di legno gonfia d'umidità in fondo alla stanza: sulle spalle ha il fratellino Jirko, tre anni, che ride beato, e appese ai bicipiti le sorelline gemelle Victoria e Vasha, di quattro anni.
 
-> [!profile]+ **Profile: Milivoj**
+> [!profile]+ **Profilo: Milivoj**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Milivoj should inspire scorn with his gruff, cynical, and stubborn personality, sympathy for his frustration at his parents' addiction to dream pastries, and endearment to him for his wholehearted dedication to provide for his siblings, no matter the cost to himself.
+> **Interpretazione**
+> ***Risonanza.*** Milivoj deve suscitare disprezzo per il suo carattere scorbutico, cinico e testardo, compassione per la frustrazione che prova davanti alla dipendenza dei genitori dai dolci dei sogni, e affetto per la dedizione totale con cui provvede ai fratelli, costi quel che costi a lui.
 >
-> ***Emotions.*** Milivoj's most frequent emotions are annoyance, worry, frustration, boredom, bitterness, and cynicism, and (when with his siblings) compassion, mirth, and joy.
+> ***Emozioni.*** Le emozioni più frequenti di Milivoj sono il fastidio, la preoccupazione, la frustrazione, la noia, l'amarezza e il cinismo, e (quando è con i fratelli) la tenerezza, l'allegria e la gioia.
 >
-> ***Motivations.*** Milivoj wants to provide for himself and his siblings.
+> ***Motivazioni.*** Milivoj vuole provvedere a sé stesso e ai fratelli.
 >
-> ***Inspirations.*** When playing Milivoj, channel Katniss Everdeen (*The Hunger Games*), Arya Stark (*Game of Thrones*), and Carl Fredericksen (*Up*).
+> ***Ispirazioni.*** Quando interpreti Milivoj, ispirati a Katniss Everdeen (*Hunger Games*), ad Arya Stark (*Il Trono di Spade*) e a Carl Fredricksen (*Up*).
 >
-> **Character Information**
-> ***Persona.*** To strangers, Milivoj is a quiet, gruff, and hardworking groundskeeper. To those he trusts, Milivoj is a loving and dedicated elder sibling, a frustrated and bitter son, and a desperate and confused young man.
+> **Informazioni sul personaggio**
+> ***Personalità.*** Agli occhi degli estranei Milivoj è un custode taciturno, burbero e gran lavoratore. Per chi gode della sua fiducia è un fratello maggiore affettuoso e devoto, un figlio frustrato e amareggiato e un giovane disperato e confuso.
 >
-> ***Morale.*** In a fight, Milivoj would brandish his shovel in an attempt to get his attacker to back down, but would quickly surrender if seriously wounded. (If defending his siblings, however, Milivoj would fiercely and gladly fight to the death.)
+> ***Morale.*** In combattimento Milivoj brandirebbe la pala per far desistere chi lo attacca, ma si arrenderebbe presto se ferito gravemente. (Per difendere i fratelli, però, combatterebbe fino alla morte, con ferocia e senza esitare.)
 >
-> ***Relationships.*** Milivoj is employed by Father Lucian Petrovich, secretly works for the coffin maker Henrik van der Voort, and is the eldest of nine children belonging to Oleg and Jarzinka, two dream pastry-addicted Vallakians.
-## D2a. Confronting Milivoj
-Upon spotting the players, Milivoj’s face visibly falls, and he gently shakes Victoria and Vasha from his arms and sets Jirko down in Bogan’s lap. A successful DC 10 Wisdom (Insight) check reveals his body language has grown tense, and that he is shifting uncomfortably. 
+> ***Relazioni.*** Milivoj lavora per padre Lucian Petrovich, lavora in segreto per il fabbricante di bare Henrik van der Voort ed è il maggiore dei nove figli di Oleg e Jarzinka, due vallakiani dipendenti dai dolci dei sogni.
+## D2a. Affrontare Milivoj
+Quando vede i giocatori, Milivoj si rabbuia a vista d'occhio; si scrolla di dosso con delicatezza Victoria e Vasha e posa Jirko in grembo a Bogan. Con una prova di Saggezza (Intuizione) con CD 10 superata si nota che si è irrigidito e che si muove a disagio.
 
-As Milivoj reaches the door, he tersely addresses Jarzinka as “Mother” and gives her a grudging nod. Jarzinka grunts and shuffles away from the door, disappearing into the room from which Milivoj came.
+Arrivato alla porta, Milivoj si rivolge a Jarzinka con un secco «Madre» e le fa un cenno svogliato con il capo. Jarzinka grugnisce, si allontana strascicando i piedi e sparisce nella stanza da cui è uscito Milivoj.
 
-If the players inform Milivoj that they want to speak with him about St. Andral’s bones, he scowls, insists that he knows nothing about the matter, and attempts to close the door. A player can prevent him from doing so with a successful DC 10 Strength or Dexterity check. (If Milivoj successfully closes the door, the players can make him open it again by making a sufficient nuisance of themselves, by succeeding on a DC 10 Charisma (Intimidation or Persuasion) check, or by forcing the door down with a successful DC 10 Strength check.)
+Se i giocatori dicono a Milivoj che vogliono parlargli delle ossa di Sant'Andral, lui si acciglia, giura di non saperne niente e prova a chiudere la porta. Un giocatore può impedirglielo superando una prova di Forza o di Destrezza con CD 10. (Se Milivoj riesce a chiudere la porta, i giocatori possono fargliela riaprire diventando abbastanza molesti, superando una prova di Carisma (Intimidire o Persuasione) con CD 10, oppure sfondando la porta con una prova di Forza con CD 10 superata.)
 
-Milivoj denies any knowledge of the bones or their theft if asked about them outright. However, he claims to have seen a cloaked figure watching the church two days ago from an alleyway. (The description of the cloaked figure coincidentally matches the appearance of Ernst Larnak, Fiona's spy, though Milivoj doesn't know Ernst or the nature of his employment.) A successful DC 10 Wisdom (Insight) check reveals that he is speaking slightly too quickly.
+Se gli si chiede delle ossa senza giri di parole, Milivoj nega di sapere qualcosa delle ossa o del furto. Dice però di aver visto due giorni fa una figura incappucciata che sorvegliava la chiesa da un vicolo. (Per coincidenza, la descrizione corrisponde a Ernst Larnak, la spia di Fiona, anche se Milivoj non conosce Ernst né sa per chi lavori.) Con una prova di Saggezza (Intuizione) con CD 10 superata si nota che parla un po' troppo in fretta.
 
-If the players accuse Milivoj of stealing the bones and succeed on a DC 15 Charisma (Intimidation) check, Milivoj admits to stealing them, as described in <span class="citation">Bones of St. Andral (p. 97)</span>. Players who confront Milivoj with evidence from the crypt automatically succeed. Milivoj can't take the players to the coffin maker's shop himself, but notes that Father Lucian can lead them there.
+Se i giocatori accusano Milivoj del furto e superano una prova di Carisma (Intimidire) con CD 15, Milivoj confessa, come descritto in <span class="citation">Le ossa di Sant'Andral (p. 97)</span>. Se i giocatori lo mettono davanti alle prove trovate nella cripta, la prova riesce automaticamente. Milivoj non può accompagnare di persona i giocatori alla bottega del fabbricante di bare, ma fa notare che padre Lucian può portarli lì.
 
-If asked his motive for stealing the bones, Milivoj shares the reasons described in <span class="citation">Bones of St. Andral (p. 97)</span>. He can also share that, after his father—a former Vallakian guard—was  wounded in a recent wolf attack, both of his parents began regularly purchasing dream pastries from the peddler Morgantha outside of the gates. With both parents addicted to Morgantha's wares, Milivoj sees himself as his siblings' sole means of avoiding total poverty. (If asked, Milivoj can provide a basic description of the effects of dream pastries, as described in <span class="citation">Dream Pastries (p. 125)</span>.)
+Se gli si chiede perché abbia rubato le ossa, Milivoj spiega le ragioni descritte in <span class="citation">Le ossa di Sant'Andral (p. 97)</span>. Può anche raccontare che, da quando suo padre, ex guardia di Vallaki, è stato ferito di recente nell'attacco di un lupo, tutti e due i genitori comprano regolarmente dolci dei sogni da Morgantha, la venditrice ambulante che sta fuori dalle porte. Con entrambi i genitori schiavi della merce di Morgantha, Milivoj si vede come l'unica cosa che separa i fratelli dalla miseria più nera. (Se glielo chiedono, Milivoj può descrivere a grandi linee gli effetti dei dolci dei sogni, come descritto in <span class="citation">Dolci dei sogni (p. 125)</span>.)
 
-If informed that the bones may have been stolen to allow an attack upon the church, Milivoj dismisses the idea, insisting that the bones are just a "moldy old relic" and that "he doesn't have time to believe in fairy tales." He can also share that Henrik told him the bones were a powerless family heirloom, and that Henrik sought to recover them to honor his ancestor.
+Se gli dicono che le ossa potrebbero essere state rubate per permettere un attacco alla chiesa, Milivoj liquida l'idea: le ossa sono solo una «vecchia reliquia ammuffita» e lui «non ha tempo per credere alle favole». Può anche raccontare che Henrik gli ha detto che le ossa erano un cimelio di famiglia senza alcun potere, e che voleva recuperarle per onorare il suo antenato.
 
-> [!abstract]+ **Milivoj’s Revelation**
+> [!abstract]+ **Milivoj capisce**
 >
-> If he is later informed that Henrik's actions were directed by one of Strahd's vampire spawn, and that the theft of the bones could have allowed a slaughter at the church, [[Non-Player Characters#Milivoj|Milivoj]] is overcome with anxiety, horror, and guilt. He prostrates himself before Father Lucian and begs for his forgiveness, offering to exile himself to the Svalich Woods if doing so will make up for the harm he has caused. (Father Lucian, of course, declines, tearfully embracing and forgiving Milivoj instead.)
-## D2b. Departing the House
-Once Milivoj has admitted to the bones' theft, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] can lead the players to the coffin maker's shop. (He knows the owner, Henrik, well, and hopes that he can reason with the man.) If the players appear skeptical, Father Lucian—who has the statistics of a **priest**—reveals that he bears the holy symbol of Tasha Petrovna—his ancestor and a mighty follower of Saint Markovia—and promises them that he is more than capable of defending himself.
+> Se più tardi viene a sapere che dietro Henrik c'era una delle progenie vampiriche di Strahd, e che il furto delle ossa poteva permettere un massacro in chiesa, [[Non-Player Characters#Milivoj|Milivoj]] è sopraffatto dall'ansia, dall'orrore e dal senso di colpa. Si prostra davanti a padre Lucian e gli implora perdono, offrendosi di andare in esilio nei Boschi di Svalich se questo può riparare il male che ha causato. (Padre Lucian, naturalmente, rifiuta: lo abbraccia in lacrime e lo perdona.)
+## D2b. Lasciare la casa
+Quando Milivoj ha confessato il furto, [[Non-Player Characters#padre Lucian Petrovich|padre Lucian]] può accompagnare i giocatori alla bottega del fabbricante di bare. (Conosce bene il proprietario, Henrik, e spera di farlo ragionare.) Se i giocatori sembrano dubbiosi, padre Lucian, che ha le statistiche di un **sacerdote**, mostra di portare il simbolo sacro di Tasha Petrovna, sua antenata e potente seguace di Santa Markovia, e assicura che sa difendersi benissimo.
 
-If the players suggest reporting the theft of the bones to the burgomaster, Father Lucian is reluctant to do so, fearing the possibility of raising a panic. With a successful DC 15 Charisma (Persuasion) check, however, the players can convince Father Lucian to join them in reporting the theft to Baron Vallakovich, who responds as described in **N6. Coffin Maker's Shop.** (If the players don't have Father Lucian with them, the burgomaster refuses to believe that the bones are responsible for the church's divine protection or to assist the players in recovering them.)
+Se i giocatori propongono di denunciare il furto al borgomastro, padre Lucian è restio, perché teme di scatenare il panico. Con una prova di Carisma (Persuasione) con CD 15 superata, però, i giocatori possono convincerlo ad andare con loro a denunciare il furto al barone Vallakovich, che reagisce come descritto in **N6. Bottega del fabbricante di bare**. (Se i giocatori non hanno con sé padre Lucian, il borgomastro si rifiuta di credere che le ossa siano la fonte della protezione divina della chiesa e non li aiuta a recuperarle.)
 
-> [!abstract]+ **Reporting the Theft**
+> [!abstract]+ **Denunciare il furto**
 >
-> If the players report the theft to Baron Vallakovich and do not accompany his guards, the four guards gain access to the coffin maker's shop as described in **N6. Coffin Maker's Shop**, but are slaughtered when they accidentally trigger Volenta's trap and alert the vampires to their presence.
+> Se i giocatori denunciano il furto al barone Vallakovich e non accompagnano le sue guardie, le quattro guardie entrano nella bottega del fabbricante di bare come descritto in **N6. Bottega del fabbricante di bare**, ma vengono massacrate quando fanno scattare per sbaglio la trappola di Volenta e i vampiri si accorgono di loro.
 >
-> One day later, Baron Vallakovich responds by sending Izek to summon the players to **N3. Burgomaster's Mansion**, where he accuses them of causing his faithful guards to disappear and threatens to exile them from Vallaki. (The players can win back his good graces by promising to recover the bones themselves.)
+> Il giorno dopo il barone Vallakovich manda Izek a convocare i giocatori alla **N3. Villa del borgomastro**, dove li accusa di aver fatto sparire le sue guardie fedeli e minaccia di cacciarli da Vallaki. (I giocatori possono riconquistare il suo favore promettendo di recuperare loro stessi le ossa.)
 
-# D3. Arasek Stockyard
-<span class="citation"><em>This scene takes place in Chapter 5: Area N5.</em></span>
+# D3. Il Recinto di Arasek
+<span class="citation"><em>Questa scena si svolge nel Capitolo 5: Area N5.</em></span>
 
-Arasek Stockyard is largely as described in <span class="citation">N5. Arasek Stockyard (p. 115)</span>. However, while Rictavio's wagon is mostly covered by old and faded paint, the Carnival of Wonders sign on its side is brand new and fresh-painted.
+Il Recinto di Arasek è più o meno come descritto in <span class="citation">N5. Recinto di Arasek (p. 115)</span>. Il carrozzone di Rictavio però è quasi tutto coperto di vernice vecchia e sbiadita, mentre l'insegna del Carnevale delle Meraviglie sul fianco è nuova di zecca e dipinta di fresco.
 
-If one of the players expresses an interest in breaking into the wagon, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] discourages them from doing so if he is present.
+Se uno dei giocatori mostra l'intenzione di forzare il carrozzone, [[Non-Player Characters#padre Lucian Petrovich|padre Lucian]], se è presente, cerca di dissuaderlo.
 
-If a player nonetheless attempts to unlock or force open the door to the wagon, the entire wagon suddenly rocks violently from side to side. The players can also hear the sound of something with large, heavy claws scratching against the interior of the wagon. (The rocking and scratches are made by the ghost of Erasmus van Richten, a **poltergeist** seeking to protect Arabelle by scaring visitors away.)
+Se un giocatore prova lo stesso ad aprire o a forzare la porta del carrozzone, all'improvviso tutto il carrozzone ondeggia violentemente da una parte all'altra. I giocatori sentono anche il rumore di qualcosa con artigli grandi e pesanti che graffia l'interno. (A far ondeggiare il carrozzone e a graffiare è il fantasma di Erasmus van Richten, un **poltergeist** che cerca di proteggere Arabelle spaventando chi si avvicina.)
 
-If the players successfully break the door to the wagon or pick its padlock, they find that the wagon’s interior contains a soft bed of straw, a comfortable woolen blanket, a few books, and a young Vistana girl—Arabelle—who is clutching a plush saber-toothed tiger to her chest and wearing a beaded necklace with a carved copper amulet. (For more information about Arabelle, see [[Arc E - The Missing Vistana]].)
-# D4. Coffin Maker's Shop
-<span class="citation"><em>This scene takes place in Chapter 5: Area N6.</em></span>
+Se i giocatori riescono a sfondare la porta o a scassinare il lucchetto, dentro al carrozzone trovano un morbido letto di paglia, una comoda coperta di lana, qualche libro e una bambina vistana, Arabelle, che stringe al petto una tigre dai denti a sciabola di peluche e porta una collana di perline con un amuleto di rame intagliato. (Per Arabelle vedi l'[[Arc E - The Missing Vistana|Arco E: La vistana scomparsa]].)
+# D4. La bottega del fabbricante di bare
+<span class="citation"><em>Questa scena si svolge nel Capitolo 5: Area N6.</em></span>
 
-The coffin maker's shop is largely as described in <span class="citation">N6. Coffin Maker's Shop (p. 116)</span>. However, the crates in <span class="citation">N6f. Vampire Nest (p. 118)</span> have been replaced by three coffins packed with grave dirt from Castle Ravenloft, which contain two **vampire spawn** and **Volenta Popofsky**, one of Strahd's vampiric brides. In addition, players who explore <span class="citation">N6f. Vampire Nest (p. 118)</span> find a faded green-tinged pentagram 5 feet in diameter burned onto the floor at the edge of the room, just beyond the vampires' coffins.
+La bottega del fabbricante di bare è più o meno come descritta in <span class="citation">N6. Bottega del fabbricante di bare (p. 116)</span>. Le casse in <span class="citation">N6f. Nido dei vampiri (p. 118)</span> però sono state sostituite da tre bare piene di terra di sepoltura del Castello di Ravenloft, in cui riposano due **progenie vampiriche** e **Volenta Popofsky**, una delle spose vampire di Strahd. Inoltre chi esplora il <span class="citation">N6f. Nido dei vampiri (p. 118)</span> trova sul pavimento, ai margini della stanza, appena oltre le bare dei vampiri, un pentagramma sbiadito di 1,5 m di diametro, impresso a fuoco e dai riflessi verdastri.
 
-> [!lore]+ **The Burned Pentagram**
-> The green pentagram is a remnant of Volenta's use of the teleportation brazier in <span class="citation">K78. Brazier Room (p. 82)</span>. If asked, Henrik doesn't know what it signifies. However, he can share with the players that, one night shortly after he first met Volenta, a sickly green light flashed through the shop, with her two **vampire spawn** companions exiting from  <span class="citation">N6f. Vampire Nest (p. 118)</span> shortly thereafter.
+> [!lore]+ **Il pentagramma bruciato**
+> Il pentagramma verde è ciò che resta dell'uso che Volenta ha fatto del braciere di teletrasporto in <span class="citation">K78. Stanza del braciere (p. 82)</span>. Se gli si chiede, Henrik non sa che cosa significhi. Può però raccontare ai giocatori che una notte, poco dopo aver conosciuto Volenta, una luce verde malsana ha attraversato la bottega con un lampo, e poco dopo dal <span class="citation">N6f. Nido dei vampiri (p. 118)</span> sono uscite le due **progenie vampiriche** che le fanno compagnia.
 
-Henrik van der Voort, the coffin maker, follows the following schedule:
+Henrik van der Voort, il fabbricante di bare, segue questa routine:
 
-* In the morning, he sleeps in, remaining in bed in **N6e. Henrik's Bedroom**.
-* In the late morning, he anxiously checks that the wardrobe containing St. Andral's bones hasn't been disturbed, and then prepares breakfast in **N6d. Kitchen**.
-* In the afternoon, he builds coffins in **N6c. Workshop**.
-* In the evening, he prepares an evening meal in **N6d. Kitchen**.
-* At night, he sleeps in **N6e. Henrik's Bedroom.**
-## D4a. Entering the Shop
-The players cannot access the shop through persuasion, deception, or intimidation; in each case, Henrik will respond as described in **N6. Coffin Maker's Shop**. 
+* La mattina dorme fino a tardi e resta a letto in **N6e. Camera di Henrik**.
+* In tarda mattinata controlla con ansia che nessuno abbia toccato l'armadio con le ossa di Sant'Andral, poi prepara la colazione in **N6d. Cucina**.
+* Il pomeriggio costruisce bare in **N6c. Laboratorio**.
+* La sera prepara la cena in **N6d. Cucina**.
+* La notte dorme in **N6e. Camera di Henrik**.
+## D4a. Entrare nella bottega
+I giocatori non riescono a entrare nella bottega con la persuasione, l'inganno o le minacce: in ogni caso Henrik reagisce come descritto in **N6. Bottega del fabbricante di bare**.
 
-Additionally, note that the windows are locked from the inside and the doors are barred. As such, the players cannot open a window or door by use of *thieves tools*. Instead, the players can enter the shop by either of the following means:
+Le finestre poi sono chiuse dall'interno e le porte sbarrate, quindi i giocatori non possono aprire una finestra o una porta con gli *arnesi da scasso*. Possono invece entrare nella bottega in uno di questi modi:
 
-* They can break down one or both of the barred doors with a successful DC 20 Strength (Athletics) check. Doing so alerts Henrik, who comes to confront them. (Doing so doesn't alert Volenta or the **vampire spawn**, who merely assume Henrik has dropped a coffin or other wooden object.)
-* They can use magic (e.g., *mage hand* or *misty step*) to open the windows or doors from the inside. Doing so avoids alerting Henrik, who remains in his current location.
+* Sfondare una o entrambe le porte sbarrate superando una prova di Forza (Atletica) con CD 20. Il rumore mette in allarme Henrik, che va ad affrontarli. (Non mette in allarme invece Volenta e le **progenie vampiriche**, convinte che a Henrik sia caduta una bara o qualche altro oggetto di legno.)
+* Aprire con la magia le finestre o le porte dall'interno (per esempio con *mano magica* o *passo velato*). In questo modo Henrik non si accorge di niente e resta dov'è.
 
-In either case, Henrik offers no resistance as soon as he sees that the players have entered the shop. Instead, he rightfully guesses that they have come to recover the bones and informs them of the bones' location and the danger of the vampire nest, as described in **N6. Coffin Maker's Shop**. In exchange, he pleads with them to protect him from the vampires, who he rightfully fears will butcher him for his betrayal. He won't retrieve the bones alone, but will accompany the players upstairs if demanded.
+In entrambi i casi Henrik non oppone alcuna resistenza appena vede i giocatori dentro la bottega. Intuisce, giustamente, che sono venuti a recuperare le ossa e dice loro dove si trovano e quanto è pericoloso il nido dei vampiri, come descritto in **N6. Bottega del fabbricante di bare**. In cambio li supplica di proteggerlo dai vampiri, che, lo teme a ragione, lo faranno a pezzi per il suo tradimento. Non va a prendere le ossa da solo, ma se glielo impongono accompagna i giocatori al piano di sopra.
 
-Henrik does not know that Volenta has secretly installed a poison needle trap and tripwire bell in the wardrobe secret compartment where the bones are kept. He assumes that the players will be able to quietly recover the bones, depart the shop, and escort him elsewhere to safety.
+Henrik non sa che Volenta ha piazzato in segreto una trappola ad ago avvelenato e un filo collegato a un campanello nello scomparto segreto dell'armadio dove sono nascoste le ossa. Pensa che i giocatori riusciranno a recuperare le ossa senza far rumore, a lasciare la bottega e a portarlo in salvo da qualche altra parte.
 
-> [!abstract]+ **Ambushing the Vampires**
-> Players who attempt to ambush the vampires in <span class="citation">N6f. Vampire Nest (p. 118)</span> before recovering the bones must succeed on a DC 14 Dexterity (Stealth) check to approach a crate without awakening the nearby vampires, and a DC 14 Dexterity (Stealth) check with disadvantage to open it. A woken vampire attacks intruders on sight.
-## D4b. Recovering the Bones
-The bones have been concealed as described in <span class="citation">N6e. Henrik's Bedroom (p. 117)</span>. However, Volenta Popofsky has added two additional safeguards to the secret compartment:
+> [!abstract]+ **Tendere un agguato ai vampiri**
+> I giocatori che cercano di tendere un agguato ai vampiri nel <span class="citation">N6f. Nido dei vampiri (p. 118)</span> prima di recuperare le ossa devono superare una prova di Destrezza (Furtività) con CD 14 per avvicinarsi a una cassa senza svegliare i vampiri vicini e una prova di Destrezza (Furtività) con CD 14 con svantaggio per aprirla. Un vampiro sveglio attacca gli intrusi appena li vede.
+## D4b. Recuperare le ossa
+Le ossa sono nascoste come descritto in <span class="citation">N6e. Camera di Henrik (p. 117)</span>. Volenta Popofsky ha però aggiunto allo scomparto segreto due ulteriori protezioni:
 
-* a **poison needle** trap (<span class="citation">Dungeon Master's Guide, p. 123</span>), which triggers unless a particular wooden panel is pushed before the compartment is opened, and
-* a hidden wire attached to the compartment's opening, which connects to a noisemaker at the base of the compartment shaped vaguely like the head of the toymaker Gadof Blinsky, including his jester’s cap and bells. 
+* una trappola ad **ago avvelenato** (<span class="citation">Guida del Dungeon Master, p. 123</span>), che scatta se prima di aprire lo scomparto non si preme un certo pannello di legno;
+* un filo nascosto attaccato all'apertura dello scomparto e collegato a un congegno rumoroso sul fondo, che ricorda vagamente la testa del giocattolaio Gadof Blinsky, con tanto di berretto a sonagli da giullare.
 
-The poison needle trap can be identified and disarmed as described in the <span class="citation">Dungeon Master's Guide (p. 123)</span>. 
+La trappola ad ago avvelenato si può individuare e disinnescare come descritto nella <span class="citation">Guida del Dungeon Master (p. 123)</span>.
 
-> [!warning]+ **Which Needle?**
-> There are two official poison needle traps in *Dungeons & Dragons* 5th Edition: the ***poison needle*** provided on page 123 of the *Dungeon Master's Guide*, and the ***poison needle trap*** provided on page 114 of *Xanathar's Guide to Everything*. This guide refers to the former, which merely poisons its victim instead of paralyzing them.
+> [!warning]+ **Quale ago?**
+> In *Dungeons & Dragons* quinta edizione esistono due trappole ufficiali ad ago avvelenato: l'***ago avvelenato*** a pagina 123 della *Guida del Dungeon Master* e la ***trappola ad ago avvelenato*** a pagina 114 della *Guida omnicomprensiva di Xanathar*. Questa guida si riferisce alla prima, che avvelena la vittima senza paralizzarla.
 
-The hidden wire can be identified before the compartment is fully opened with a successful DC 20 Intelligence (Investigation) check, and disarmed with a successful DC 20 Dexterity (Thieves' Tools) check.
+Il filo nascosto si può individuare prima di aprire del tutto lo scomparto con una prova di Intelligenza (Indagare) con CD 20 superata e disinnescare con una prova di Destrezza (arnesi da scasso) con CD 20 superata.
 
-Opening the compartment without disabling the wire or unsuccessfully attempting to disarm the wire causes the noisemaker to loudly screech, “Is no fun, is no Blinsky!” repeatedly for 1 minute, alerting the vampires in **N6f. Vampire Nest**.
+Se si apre lo scomparto senza neutralizzare il filo, o se si fallisce il tentativo di disinnescarlo, il congegno strilla a tutto volume «Se non è divertente, non è Blinsky!» per 1 minuto e mette in allarme i vampiri in **N6f. Nido dei vampiri**.
 
-> [!lore]+ **The Noisemaker**
-> Volenta purchased the noisemaker from Gadof Blinsky of Blinsky Toys, described further in <span class="citation">N7. Blinsky Toys (p. 118)</span>, several nights ago. Though tempted to kill him or take the toy by force, Blinsky's affinity for the macabre led Volenta to regard him as a kindred spirit, and she elected to spare his life on a whim. 
+> [!lore]+ **Il congegno rumoroso**
+> Qualche notte fa Volenta ha comprato il congegno da Gadof Blinsky dei Giocattoli Blinsky, descritto in <span class="citation">N7. Giocattoli Blinsky (p. 118)</span>. Era tentata di ucciderlo o di prendersi il giocattolo con la forza, ma per la passione di Blinsky per il macabro Volenta lo ha considerato un'anima affine e per capriccio gli ha risparmiato la vita.
 
-> [!abstract]+ **Disabling the Noisemaker**
-> If the players successfully retrieve the bones without alerting the vampires, Volenta discovers the bones to be missing shortly after she awakens at dusk that night. If Henrik is still within the shop, she disembowels and beheads him, then leaves his head staked on a spear leaning against the statue at the center of <span class="citation">N8. Town Square (p. 119)</span>. In either case, Volenta then departs Vallaki for Castle Ravenloft, slinking back to the keep in shame.
-## D4c. Volenta's Trap
-If the players allow the noisemaker to activate, [[Non-Player Characters#Volenta Popofsky|Volenta]] and her two loyal **vampire spawn** arise to confront them one round later, either by forcing their way into **N6d. Kitchen** or (if the players have already exited **N6e. Henrik's Bedroom**) by obstructing the players' path down the stairs. When the vampires appear, they use their ***spider climb*** to clamber across the walls before dropping down to the players’ level, with Volenta crouching upside-down on the ceiling behind them.
+> [!abstract]+ **Neutralizzare il congegno rumoroso**
+> Se i giocatori recuperano le ossa senza mettere in allarme i vampiri, Volenta si accorge che sono sparite poco dopo il risveglio al tramonto di quella notte. Se Henrik è ancora nella bottega, lo sventra e lo decapita, poi ne lascia la testa infilzata su una lancia appoggiata alla statua al centro della <span class="citation">N8. Piazza della città (p. 119)</span>. In ogni caso Volenta lascia poi Vallaki e torna al Castello di Ravenloft, strisciando nella fortezza piena di vergogna.
+## D4c. La trappola di Volenta
+Se i giocatori lasciano scattare il congegno rumoroso, un round dopo [[Non-Player Characters#Volenta Popofsky|Volenta]] e le sue due fedeli **progenie vampiriche** si alzano per affrontarli: irrompono in **N6d. Cucina** oppure (se i giocatori sono già usciti da **N6e. Camera di Henrik**) sbarrano loro la strada giù per le scale. Quando compaiono, i vampiri usano il ***movimento del ragno*** per arrampicarsi sulle pareti prima di calarsi all'altezza dei giocatori, mentre Volenta resta acquattata a testa in giù sul soffitto alle loro spalle.
 ![[Volenta Popofsky.png]]
-<span class="credit">"Volenta Popofsky" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">«Volenta Popofsky» di Caleb Cleveland. Sostienilo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+> [!profile]+ **Profilo: Volenta Popofsky**
+>
+> **Interpretazione**
+> ***Risonanza.*** Volenta deve suscitare ribrezzo per la sua ossessione per il dolore e il sangue, disagio per il suo carattere sadico e psicotico e una strana forma di lusinga per i suoi modi civettuoli, per quanto eccentrici.
+>
+> ***Emozioni.*** Volenta si sente quasi sempre divertita, curiosa, irritata, annoiata, affascinata, furiosa ed esultante.
+>
+> ***Motivazioni.*** Volenta vuole fare colpo su Strahd e conquistarsi il primo posto fra le sue spose, soddisfare i suoi frequenti impulsi sadici e trovare modi nuovi di infliggere sofferenza e dolore armeggiando e inventando.
+>
+> ***Ispirazioni.*** Quando interpreti Volenta, ispirati a Jinx (*Arcane*), a Ty Lee (*Avatar: La leggenda di Aang*) e a Harley Quinn (*Batman*).
+>
+> **Informazioni sul personaggio**
+>
+> ***Personalità.*** Agli occhi degli estranei Volenta è una sadica maniacale, impulsiva e dal grilletto facile, con un talento per l'invenzione e la novità.
+>
+> ***Morale.*** In combattimento Volenta coglierebbe al volo, esultante, l'occasione di provare le sue armi fatte su misura su soggetti ostili e, se spinta abbastanza in là, di farli a pezzi a mani nude e a morsi.
+>
+> ***Relazioni.*** Volenta è fanaticamente fedele a Strahd von Zarovich e guarda le altre spose e consorti, soprattutto Anastrasya, Ludmilla ed Escher, con profondo rancore, gelosia e sospetto.
 
-> [!profile]+ **Profile: Volenta Popofsky**
->
-> **Roleplaying Information**
-> ***Resonance.*** Volenta should inspire revulsion with her obsession with pain and gore, discomfort with her sadistic and psychotic personality, and a strange sort of flattery with her flirtatious—if eccentric—attitude.
->
-> ***Emotions.*** Volenta most often feels amused, curious, irritated, bored, fascinated, enraged, and gleeful.
->
-> ***Motivations.*** Volenta wants to impress Strahd and earn her place as foremost among his brides, to satisfy her frequent sadistic urges, and to find novel ways to cause suffering and pain through tinkering and innovation.
->
-> ***Inspirations.*** When playing Volenta, channel Jinx (*Arcane*), Ty Lee (*Avatar: The Last Airbender*), and Harley Quinn (*Batman*).
->
-> **Character Information**
->
-> ***Persona.*** To strangers, Volenta is a manic, impulsive, and trigger-happy sadist with a flair for invention and innovation.
->
-> ***Morale.*** In a fight, Volenta would gleefully relish the opportunity to test her custom-made weapons on hostile subjects—and, when pushed far enough, to tear those subjects apart with her bare hands and teeth.
->
-> ***Relationships.*** Volenta is fanatically loyal to Strahd von Zarovich, and views his other brides and consorts—especially Anastrasya, Ludmilla, and Escher—with deep resentment, jealousy, and suspicion.
+Volenta si fa scudo con le due progenie vampiriche che ha con sé, piazzandole fra sé e i giocatori. Poi li saluta così, lasciando ogni volta ai giocatori il tempo di rispondere:
 
-Volenta uses the two vampire spawn with her as cover, placing them between her and the players. She then greets them as follows, providing them with an opportunity to respond each time:
+* Volenta chiama i giocatori «i nuovi giocattoli del mio Signore», divertita e incredula.
+* Dice che sono «meno impressionanti» di quanto si aspettasse e si vanta che né loro né «Ludmilla, Anastrasya o il nuovo trastullo pelle e ossa del mio Signore possono reggere il confronto con la mia visione». (Il «nuovo trastullo pelle e ossa» è Escher.)
+* Giura che i giocatori non potrebbero fermare il suo piano nemmeno provandoci. «Quando avrò fatto scorrere il sangue fra i banchi della vostra chiesetta», farnetica, «il mio amato riconoscerà la vera gemma del suo regno: _me!_»
+* Osserva che è una fortuna che si trovino in una bottega di bare e aggiunge: «Dopotutto, a qualcuno servirà *un posto* dove mettere i vostri pezzi quando avrò finito con voi.» Poi ordina agli altri vampiri di attaccare.
 
-* Volenta addresses the players as "her Lord's new toys" with amusement and disbelief.
-* She claims that they're "less impressive" than she'd expected, and boasts that neither they nor "Ludmilla, Anastrasya, or her Lord's skinny new plaything could hold a candle to her vision." (The "skinny new plaything" is referring to Escher.)
-* She insists that the players couldn't stop her scheme if they tried. "Once I make the pews of your little church run red with blood," she raves, "my beloved will recognize the real gem of his realm—_me!_"
-* She observes that it's lucky that they're in a coffin shop, adding, "After all, they'll need *somewhere* to put your parts when I'm through with you." She then directs the other vampires to attack.
-
-> [!combat]- **Combat - The First Bride**  
-> **Combat Level**: Bruising (first phase), Bruising (second phase)
-> **Expected Character Level**: 4
-> **Allies:** Father Lucian (CR 3)
-> **Expected HP Consumption:** 24% (first phase), and 24% (second phase) for a total of 48%
+> [!combat]- **Combattimento: la prima sposa**  
+> **Livello di combattimento**: impegnativo (prima fase), impegnativo (seconda fase)
+> **Livello previsto dei personaggi**: 4
+> **Alleati:** padre Lucian (GS 3)
+> **Consumo previsto di pf:** 24% (prima fase) e 24% (seconda fase), per un totale del 48%
 > 
-> ### **Enemies:**
+> ### **Nemici:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 giocatori | 4 giocatori | 5 giocatori | 6 giocatori |
 > |-|-|-|-|-|
-> | Vampire Spawn | 0 | 1 | 2 | 3 |
+> | Progenie vampirica | 0 | 1 | 2 | 3 |
 > | Volenta Popofsky | 1 | 1 | 1 | 1 |
 
-> [!warning]+ **Vampire Spawn and Grappling** 
-> To avoid vampire spawn getting trapped in place due to player abilities that slow movement, all vampire spawn in Barovia have the following ability: **Fast Grappler**. The vampire spawn does not have to spend extra movement to move a creature grappled by it if the grappled creature is the same size or smaller.
+> [!warning]+ **Progenie vampiriche e lotta** 
+> Perché le progenie vampiriche non restino bloccate dalle capacità dei giocatori che rallentano il movimento, tutte le progenie vampiriche di Barovia hanno questa capacità: **Lottatore rapido**. La progenie vampirica non deve spendere movimento extra per spostare una creatura che sta trattenendo, se la creatura è della sua stessa taglia o più piccola.
 
-> [!warning]+ **Sunlight in Barovia**
-> Remember that vampires and other creatures in Barovia are unaffected by Barovian daylight, as described in <span class="citation">Sunlight in Barovia (p. 24)</span>.
+> [!warning]+ **La luce del sole a Barovia**
+> Ricorda che i vampiri e le altre creature di Barovia non sono influenzati dalla luce del giorno baroviana, come descritto in <span class="citation">La luce del sole a Barovia (p. 24)</span>.
 
-> [!warning]+ **Vampires Aren't Humanoid**
-> Remember that **vampire spawn**, including Volenta, have the **undead** type, rather than the **humanoid** type. As such, spells and effects that target only humanoids, such as _hold person_, or which can't affect undead, such as _command_, have no effect on Volenta and the vampires accompanying her.
+> [!warning]+ **I vampiri non sono umanoidi**
+> Ricorda che le **progenie vampiriche**, Volenta compresa, sono di tipo **non morto** e non **umanoide**. Gli incantesimi e gli effetti che bersagliano solo gli umanoidi, come _blocca persone_, o che non hanno effetto sui non morti, come _comando_, non hanno effetto su Volenta e sui vampiri che la accompagnano.
 
 <div class="statblock">
-<h2>Volenta, First Form</h2>
-<em>Medium undead, chaotic evil</em>
+<h2>Volenta, prima forma</h2>
+<em>Non morto Medio, caotico malvagio</em>
 <hr>
-<strong>Armor Class</strong> 15 (natural armor)
+<strong>Classe Armatura</strong> 15 (armatura naturale)
 <br>
-<strong>Hit Points</strong> 82 (11d8 + 33)
+<strong>Punti Ferita</strong> 82 (11d8 + 33)
 <br>
-<strong>Speed</strong> 30 ft., climb 30 ft.
+<strong>Velocità</strong> 9 m, scalare 9 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -395,51 +394,51 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +7, Wis +5<br>
-<strong>Skills</strong> Acrobatics +10, Perception +5, Stealth +10<br>
-<strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 15<br>
-<strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 5 (1,800 XP)<br>
-<strong>Proficiency Bonus</strong> +3<br>
+<strong>Tiri salvezza</strong> Des +7, Sag +5<br>
+<strong>Abilità</strong> Acrobazia +10, Percezione +5, Furtività +10<br>
+<strong>Resistenze ai danni</strong> necrotico; contundente, perforante e tagliente da attacchi non magici<br>
+<strong>Sensi</strong> scurovisione 18 m, Percezione passiva 15<br>
+<strong>Linguaggi</strong> Comune<br>
+<strong>Sfida</strong> 5 (1.800 PE)<br>
+<strong>Bonus di competenza</strong> +3<br>
 <hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> Volenta doesn't have disadvantage on her ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
-<p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-<p><strong><em>Fast Grappler.</em></strong> Volenta does not have to spend extra movement to move a creature grappled by her if the grappled creature is the same size or smaller.</p>
-<p><strong><em>Nimble Escape.</em></strong> Volenta can take the Disengage or Hide action as a bonus action on each of her turns.</p>
-<p><strong><em>Awakened Bloodlust.</em></strong> When Volenta drops to 0 hit points, her nostrils flare like a bats, her claws lengthen, and her eyes begin to glow a dim crimson. Her statistics are then instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Volenta uses <strong><em>hail of daggers</em></strong> twice, <strong><em>dagger</em></strong> twice, or <strong><em>hail of daggers</em></strong> once and either <strong><em>tanglefoot</em></strong> or <strong><em>thunderstone</em></strong>.</p>
-<p><strong><em>Hail of Daggers.</em></strong> <em>Ranged Weapon Attack:</em> +7 to hit, range 15 ft., one target. <em>Hit:</em> 9 (2d4 + 4) piercing damage.</p>
-<p><strong><em>Dagger.</em></strong> <em>Melee Weapon Attack</em> +7 to hit, 5 ft., one target. <em>Hit:</em> 6 (1d4 + 4) piercing damage.</p>
-<p><strong><em>Tanglefoot (1/day).</em></strong> Volenta hurls a bag of writhing, sticky black tar at a point on the ground within 30 feet. The bag bursts on impact, covering up to two creatures within 5 feet of one another with sticky tar and forcing each target to succeed on a DC 14 Strength saving throw or be restrained. A target can repeat the saving throw at the end of each of its turns, ending the effect on a success.</p>
-<p><strong><em>Thunderstone (1/day).</em></strong> Volenta hurls a crystalline shard at a creature, object, or surface within 30 feet. The shard shatters on impact with a blast of concussive energy. Each creature within 10 feet of the point of impact must succeed on a DC 14 Constitution saving throw or be knocked prone and pushed 10 feet away from that point. A creature that fails the save is also deafened until the start of Volenta’s next turn.</p>
-<p><strong><em>Alchemist's Firebomb (1/day).</em></strong> Volenta hurls a flask of concentrated alchemist's fire at a point within 30 feet. The vial shatters on impact and detonates in a 10-foot radius. Any creature in that area must succeed on a DC 14 Dexterity saving throw or take 2d6 fire damage and be set ablaze. A creature set ablaze in this way takes 1d4 fire damage at the start of each of its turns, and can make an additional DC 14 Dexterity saving throw at the end of each of its turns to extinguish the flames.</p>
-<h3>Reactions</h3>
-<p><strong><em>Smokestick (1/day).</em></strong> When Volenta is reduced to 0 hit points, if she isn't grappled, restrained, or incapacitated, she can crack a charred, black wooden stick, releasing a cloud of thick, opaque smoke that creates a heavily obscured area in a 20-foot radius. She can then move up to her speed without triggering opportunity attacks. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it in 1 round.
+<p><strong><em>Combattente ravvicinato.</em></strong> Volenta non subisce svantaggio ai tiri per colpire a distanza quando si trova entro 1,5 m da una creatura ostile.</p>
+<p><strong><em>Rigenerazione.</em></strong> Volenta recupera 10 punti ferita all'inizio del suo turno se ha almeno 1 punto ferita e non si trova alla luce del sole o in acqua corrente. Se Volenta subisce danni radiosi o danni da acqua santa, questo tratto non funziona all'inizio del suo turno successivo.</p>
+<p><strong><em>Movimento del ragno.</em></strong> Volenta può scalare superfici difficili, anche a testa in giù sui soffitti, senza dover effettuare una prova di caratteristica.</p>
+<p><strong><em>Ipersensibilità alla luce del sole.</em></strong> Quando si trova alla luce del sole, Volenta subisce 20 danni radiosi all'inizio del suo turno e ha svantaggio ai tiri per colpire e alle prove di caratteristica.</p>
+<p><strong><em>Lottatore rapido.</em></strong> Volenta non deve spendere movimento extra per spostare una creatura che sta trattenendo, se la creatura è della sua stessa taglia o più piccola.</p>
+<p><strong><em>Fuga agile.</em></strong> Volenta può effettuare l'azione di Disimpegno o di Nascondersi come azione bonus in ognuno dei suoi turni.</p>
+<p><strong><em>Sete di sangue risvegliata.</em></strong> Quando Volenta scende a 0 punti ferita, le sue narici si dilatano come quelle di un pipistrello, gli artigli si allungano e gli occhi cominciano a brillare di un cremisi fioco. Le sue statistiche vengono subito sostituite da quelle della seconda forma. Il suo punteggio di iniziativa non cambia. I danni in eccesso non passano alla nuova forma, ma Volenta conserva le condizioni che aveva nella forma precedente.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Volenta usa due volte <strong><em>pioggia di pugnali</em></strong>, due volte <strong><em>pugnale</em></strong>, oppure una volta <strong><em>pioggia di pugnali</em></strong> e una volta <strong><em>borsa impaniante</em></strong> o <strong><em>pietra del tuono</em></strong>.</p>
+<p><strong><em>Pioggia di pugnali.</em></strong> <em>Attacco con arma a distanza:</em> +7 al tiro per colpire, gittata 4,5 m, un bersaglio. <em>Colpito:</em> 9 (2d4 + 4) danni perforanti.</p>
+<p><strong><em>Pugnale.</em></strong> <em>Attacco con arma da mischia:</em> +7 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 6 (1d4 + 4) danni perforanti.</p>
+<p><strong><em>Borsa impaniante (1/giorno).</em></strong> Volenta scaglia una borsa di catrame nero, appiccicoso e brulicante, verso un punto del terreno entro 9 m. La borsa scoppia all'impatto e ricopre di catrame appiccicoso fino a due creature che si trovano entro 1,5 m l'una dall'altra: ogni bersaglio deve superare un tiro salvezza su Forza con CD 14, altrimenti è trattenuto. Un bersaglio può ripetere il tiro salvezza alla fine di ogni suo turno, e se lo supera l'effetto finisce.</p>
+<p><strong><em>Pietra del tuono (1/giorno).</em></strong> Volenta scaglia una scheggia cristallina contro una creatura, un oggetto o una superficie entro 9 m. La scheggia va in frantumi all'impatto con un'esplosione di energia d'urto. Ogni creatura entro 3 m dal punto d'impatto deve superare un tiro salvezza su Costituzione con CD 14, altrimenti cade prona e viene spinta di 3 m in direzione opposta a quel punto. Una creatura che fallisce il tiro salvezza è anche assordata fino all'inizio del turno successivo di Volenta.</p>
+<p><strong><em>Bomba di fuoco dell'alchimista (1/giorno).</em></strong> Volenta scaglia una fiaschetta di fuoco dell'alchimista concentrato verso un punto entro 9 m. La fiala va in frantumi all'impatto ed esplode in un raggio di 3 m. Ogni creatura nell'area deve superare un tiro salvezza su Destrezza con CD 14, altrimenti subisce 2d6 danni da fuoco e prende fuoco. Una creatura che ha preso fuoco in questo modo subisce 1d4 danni da fuoco all'inizio di ogni suo turno, e alla fine di ogni suo turno può effettuare un altro tiro salvezza su Destrezza con CD 14 per spegnere le fiamme.</p>
+<h3>Reazioni</h3>
+<p><strong><em>Bastoncino fumogeno (1/giorno).</em></strong> Quando Volenta scende a 0 punti ferita, se non è afferrata, trattenuta o incapacitata, può spezzare un bastoncino di legno nero e carbonizzato che sprigiona una nube di fumo denso e opaco: crea un'area pesantemente oscurata in un raggio di 6 m. Volenta può poi muoversi fino alla sua velocità senza provocare attacchi di opportunità. Un vento moderato (almeno 15 km/h) disperde il fumo in 4 round; un vento forte (30 km/h o più) lo disperde in 1 round.
 </div>
 <br>
 <div class="statblock">
-<h2>Volenta, Second Form</h2>
-<em>Medium undead, chaotic evil</em>
+<h2>Volenta, seconda forma</h2>
+<em>Non morto Medio, caotico malvagio</em>
 <hr>
-<strong>Armor Class</strong> 15 (natural armor)
+<strong>Classe Armatura</strong> 15 (armatura naturale)
 <br>
-<strong>Hit Points</strong> 82 (11d8 + 33)
+<strong>Punti Ferita</strong> 82 (11d8 + 33)
 <br>
-<strong>Speed</strong> 30 ft., climb 30 ft.
+<strong>Velocità</strong> 9 m, scalare 9 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -454,162 +453,161 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +7, Wis +5<br>
-<strong>Skills</strong> Acrobatics +10, Perception +5, Stealth +10<br>
-<strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 15<br>
-<strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 6 (2,300 XP)<br>
-<strong>Proficiency Bonus</strong> +3<br>
+<strong>Tiri salvezza</strong> Des +7, Sag +5<br>
+<strong>Abilità</strong> Acrobazia +10, Percezione +5, Furtività +10<br>
+<strong>Resistenze ai danni</strong> necrotico; contundente, perforante e tagliente da attacchi non magici<br>
+<strong>Sensi</strong> scurovisione 18 m, Percezione passiva 15<br>
+<strong>Linguaggi</strong> Comune<br>
+<strong>Sfida</strong> 6 (2.300 PE)<br>
+<strong>Bonus di competenza</strong> +3<br>
 <hr>
-<p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>
-<p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-<p><strong><em>Fast Grappler.</em></strong> Volenta does not have to spend extra movement to move a creature grappled by her if the grappled creature is the same size or smaller.</p>
-<p><strong><em>Blood Frenzy.</em></strong> Volenta has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Volenta makes two attacks, only one of which can be a bite attack.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Volenta, incapacitated, or restrained. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Volenta regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. If the target hasn't been bitten within the last 24 hours, when finishing a long rest it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.)</p>
-<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one creature. <em>Hit:</em> 8 (2d4 + 3) slashing damage. Instead of dealing damage, Volenta can grapple the target (escape DC 13).</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Leap.</em></strong> Volenta moves up to her speed without provoking opportunity attacks. As she does, she can replace 10 feet of movement with a 10-foot high jump.</p>
-<p><strong><em>Dislocate.</em></strong> Volenta dislocates her joints, automatically escaping any nonmagical restraints, such as manacles or a creature that has her grappled.
-<h3>Reactions</h3>
-<p>Volenta can take up to three reactions per round, but only one per turn. If Volenta would lose her reactions, she loses one reaction instead.</p>
-<p><strong><em>Spit Blood.</em></strong> In response to taking damage from a melee attack, Volenta spits a wad of blood at the attacking creature’s eyes, forcing it to make a DC 15 Dexterity saving throw. On a failure, the creature is blinded until the end of its next turn.</p>
-<p><strong><em>Aggress.</em></strong> In response to taking damage from an attack or spell, Volenta moves up to her speed toward a hostile creature she can see without provoking opportunity attacks.</p>
-<p><strong><em>Abscond.</em></strong> In response to escaping a grapple, Volenta uses her <strong><em>leap</em></strong> feature.
+<p><strong><em>Rigenerazione.</em></strong> Volenta recupera 10 punti ferita all'inizio del suo turno se ha almeno 1 punto ferita e non si trova alla luce del sole o in acqua corrente. Se Volenta subisce danni radiosi o danni da acqua santa, questo tratto non funziona all'inizio del suo turno successivo.</p>
+<p><strong><em>Movimento del ragno.</em></strong> Volenta può scalare superfici difficili, anche a testa in giù sui soffitti, senza dover effettuare una prova di caratteristica.</p>
+<p><strong><em>Ipersensibilità alla luce del sole.</em></strong> Quando si trova alla luce del sole, Volenta subisce 20 danni radiosi all'inizio del suo turno e ha svantaggio ai tiri per colpire e alle prove di caratteristica.</p>
+<p><strong><em>Lottatore rapido.</em></strong> Volenta non deve spendere movimento extra per spostare una creatura che sta trattenendo, se la creatura è della sua stessa taglia o più piccola.</p>
+<p><strong><em>Frenesia di sangue.</em></strong> Volenta ha vantaggio ai tiri per colpire in mischia contro qualsiasi creatura che non abbia tutti i suoi punti ferita.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Volenta effettua due attacchi, di cui uno solo può essere un attacco con il morso.</p>
+<p><strong><em>Morso.</em></strong> <em>Attacco con arma da mischia:</em> +6 al tiro per colpire, portata 1,5 m, una creatura consenziente, oppure una creatura afferrata da Volenta, incapacitata o trattenuta. <em>Colpito:</em> 6 (1d6 + 3) danni perforanti più 7 (2d6) danni necrotici. Il massimo dei punti ferita del bersaglio si riduce di un ammontare pari ai danni necrotici subiti, e Volenta recupera altrettanti punti ferita. Il bersaglio muore se questo effetto riduce a 0 il suo massimo dei punti ferita. Se il bersaglio non è stato morso nelle ultime 24 ore, quando termina un riposo lungo può tirare uno dei suoi dadi vita e aggiungere il suo modificatore di Costituzione: il suo massimo dei punti ferita aumenta di un ammontare pari al risultato. (Questo aumento non può portare i punti ferita del bersaglio oltre il massimo originale.)</p>
+<p><strong><em>Artigli.</em></strong> <em>Attacco con arma da mischia:</em> +6 al tiro per colpire, portata 1,5 m, una creatura. <em>Colpito:</em> 8 (2d4 + 3) danni taglienti. Invece di infliggere danni, Volenta può afferrare il bersaglio (CD 13 per sfuggire).</p>
+<h3>Azioni bonus</h3>
+<p><strong><em>Balzo.</em></strong> Volenta si muove fino alla sua velocità senza provocare attacchi di opportunità. Mentre lo fa, può sostituire 3 m di movimento con un salto in alto di 3 m.</p>
+<p><strong><em>Slogarsi.</em></strong> Volenta si sloga le articolazioni e sfugge automaticamente a qualsiasi vincolo non magico, come manette o una creatura che la sta afferrando.
+<h3>Reazioni</h3>
+<p>Volenta può effettuare fino a tre reazioni per round, ma una sola per turno. Se Volenta dovesse perdere le reazioni, ne perde invece una.</p>
+<p><strong><em>Sputo di sangue.</em></strong> Quando subisce danni da un attacco in mischia, Volenta sputa un grumo di sangue negli occhi della creatura che l'ha attaccata, che deve effettuare un tiro salvezza su Destrezza con CD 15. Se lo fallisce, la creatura è accecata fino alla fine del suo turno successivo.</p>
+<p><strong><em>Assalto.</em></strong> Quando subisce danni da un attacco o da un incantesimo, Volenta si muove fino alla sua velocità verso una creatura ostile che può vedere, senza provocare attacchi di opportunità.</p>
+<p><strong><em>Svignarsela.</em></strong> Quando sfugge a una presa, Volenta usa il suo privilegio <strong><em>balzo</em></strong>.
 </div>
 
 ### 1. Volenta
-[[Non-Player Characters#Volenta Popofsky|Volenta]] begins combat in her **first form**, preferring to start the fight by lobbing her ***alchemist's firebomb.*** Afterward, she alternates between using her ***multiattack*** to use ***tanglefoot*** and ***thunderstone***.
+[[Non-Player Characters#Volenta Popofsky|Volenta]] comincia il combattimento nella **prima forma** e preferisce aprire lo scontro lanciando la sua ***bomba di fuoco dell'alchimista.*** Poi usa il ***multiattacco*** alternando ***borsa impaniante*** e ***pietra del tuono***.
 
-When using her ***hail of daggers***, Volenta prefers to target the players instead of Father Lucian. As she fights them, she taunts Father Lucian gleefully, noting, "I'd intended to rip out your throat in front of your cute little congregation, but I guess decorating the church steps with your friends' heads and entrails isn't a bad second place!"
+Quando usa ***pioggia di pugnali***, Volenta preferisce bersagliare i giocatori invece di padre Lucian. Mentre combatte, lo schernisce tutta contenta: «Volevo strapparti la gola davanti al tuo bel greggio di fedeli, ma decorare i gradini della chiesa con le teste e le budella dei tuoi amici non è un brutto secondo premio!»
 
-Volenta flees from combat if her first form is reduced to 0 hit points, using her *smokestick* reaction to escape if possible. (The other **vampire spawn** don't accompany her, and fight to the death.)
+Se la sua prima forma scende a 0 punti ferita, Volenta fugge dal combattimento, usando se può la reazione *bastoncino fumogeno* per scappare. (Le altre **progenie vampiriche** non la seguono e combattono fino alla morte.)
 
-When Volenta flees, she smashes through a nearby window and gallops across the rooftops like a four-legged beast. As she flees, she snarls, “You think your precious little church can keep you safe? He'll burn down the rest of Vallaki to get to you, and kill the rest of this stinking vermin to force you out!” She then sneers at the players and promises to see them again soon before vanishing from sight behind a chimney.
-### 2. Father Lucian
-[[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] retains the statistics of a **priest**. However, his ***divine eminence*** feature now reads as follows:
+Volenta fugge sfondando una finestra vicina e galoppa sui tetti come una bestia a quattro zampe. Mentre scappa, ringhia: «Credete che la vostra preziosa chiesetta possa proteggervi? Lui brucerà il resto di Vallaki per arrivare a voi, e ammazzerà il resto di questa feccia puzzolente per stanarvi!» Poi sogghigna ai giocatori, promette che si rivedranno presto e sparisce dietro un comignolo.
+### 2. Padre Lucian
+[[Non-Player Characters#padre Lucian Petrovich|Padre Lucian]] mantiene le statistiche di un **sacerdote**. Il suo privilegio ***eminenza divina***, però, ora funziona così:
 
-* ***Divine Eminence.*** As a reaction when he sees another creature within 30 feet hit with a weapon attack, Father Lucian can expend a spell slot to cause that attack to magically deal an extra 10 (3d6) radiant damage to a target on a hit. If Father Lucian expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.
+* ***Eminenza divina.*** Come reazione, quando vede un'altra creatura entro 9 m colpire con un attacco con un'arma, padre Lucian può spendere uno slot incantesimo perché quell'attacco infligga magicamente al bersaglio colpito 10 (3d6) danni radiosi aggiuntivi. Se padre Lucian spende uno slot di 2º livello o superiore, i danni aggiuntivi aumentano di 1d6 per ogni livello superiore al 1º.
 
-In combat, Father Lucian directs the players to form a defensive line around the door, hoping to funnel the vampires one-by-one into a choke point in order to dispatch them individually. Father Lucian himself attempts to end his turns behind full cover on each round of combat, ducking out only briefly to target vampires with his offensive spells.
+In combattimento padre Lucian fa schierare i giocatori in una linea difensiva intorno alla porta, sperando di costringere i vampiri a passare uno alla volta per una strettoia e di eliminarli così uno per uno. Lui cerca di chiudere ogni turno dietro una copertura totale e ne esce solo per un attimo per bersagliare i vampiri con i suoi incantesimi offensivi.
 
-On his first turn, Father Lucian uses his action to cast *spirit guardians*, filling the air with a galaxy of swirling, fiery suns that burn with fierce golden light. He stands as near to the front lines as possible while remaining behind full cover, seeking to ensure that any attacking vampire spawn will inevitably be drawn into range of his spell.
+Nel primo turno padre Lucian usa l'azione per lanciare *guardiani spirituali* e riempie l'aria di una galassia di soli infuocati e vorticanti, che bruciano di una luce dorata intensa. Si tiene il più vicino possibile alla prima linea senza uscire dalla copertura totale, così che qualunque progenie vampirica attacchi finisca per forza nel raggio del suo incantesimo.
 
-On his second turn, Father Lucian casts *spiritual weapon*, summoning and attacking with a golden ethereal mace whose head resembles a sunburst—a facsimile of the mace that his ancestor, Tasha Petrovna, once wielded in battle. He then casts *sacred flame*, targeting any vampire that is currently attacking the players.
+Nel secondo turno padre Lucian lancia *arma spirituale*, evoca una mazza eterea dorata con la testa a forma di sole raggiante (una copia della mazza che brandiva in battaglia la sua antenata, Tasha Petrovna) e attacca con essa. Poi lancia *fiamma sacra* contro un vampiro che in quel momento sta attaccando i giocatori.
 
-On his third and subsequent turns, Father Lucian uses his action to cast *guiding bolt* and his bonus action to attack with *spiritual weapon* once again.
+Dal terzo turno in poi padre Lucian usa l'azione per lanciare *dardo guida* e l'azione bonus per attaccare di nuovo con *arma spirituale*.
 
-If any of the players are reduced to 0 hit points, Father Lucian spends his action casting *cure wounds* on them. If his concentration is ever disrupted, he spends his action to renew *spirit guardians* instead.
+Se uno dei giocatori scende a 0 punti ferita, padre Lucian spende l'azione per lanciargli *cura ferite*. Se la sua concentrazione si interrompe, spende invece l'azione per rinnovare *guardiani spirituali*.
 
-> [!info]+ **Dying NPCs**
+> [!info]+ **PNG morenti**
 >
-> Because Volenta and her **vampire spawn** prefer to target the players instead of Father Lucian, it's unlikely that Father Lucian will be reduced to 0 hit points in this battle.
+> Volenta e le sue **progenie vampiriche** preferiscono bersagliare i giocatori invece di padre Lucian, quindi è improbabile che in questo scontro padre Lucian scenda a 0 punti ferita.
 >
-> However, as noted in **Monsters and Death** (<span class="citation">Player's Handbook, p. 198</span>), allied non-player characters—such as Father Lucian, Ireena Kolyana, and any other NPC fighting alongside the players—should fall unconscious upon being reduced to 0 hit points. When they do, they follow the same rules for death saving throws as player characters, described further in **Death Saving Throws** (<span class="citation">Player's Handbook, p. 197</span>).
-### 3. The Vampire Spawn
-The two **vampire spawn** fight by using their ***claws*** to grapple enemies, who they then drag away to feast upon in private—preferably by hauling grappled prey out of the windows and onto the rooftop of the shop. Both spawn fight to the death.
-# D5. Retrieving the Bones
-If the players and Father Lucian successfully return the stolen bones to St. Andral’s Church by dawn on Neyavr 7, Father Lucian thanks the players and invites Ireena to remain under their protection for as long as she desires. Ireena then sleeps at St. Andral's Church each night until the party departs Vallaki in [[Arc J - The Stolen Gem]]. 
+> Come indicato in **Mostri e morte** (<span class="citation">Manuale del Giocatore, p. 198</span>), però, i personaggi non giocanti alleati, come padre Lucian, Ireena Kolyana e qualsiasi altro PNG che combatte al fianco dei giocatori, perdono i sensi quando scendono a 0 punti ferita. A quel punto seguono le stesse regole dei personaggi giocanti per i tiri salvezza contro la morte, descritte in **Tiri salvezza contro la morte** (<span class="citation">Manuale del Giocatore, p. 197</span>).
+### 3. Le progenie vampiriche
+Le due **progenie vampiriche** combattono usando gli ***artigli*** per afferrare i nemici, che poi trascinano via per nutrirsene in disparte, meglio se portandoli fuori dalle finestre, sul tetto della bottega. Entrambe combattono fino alla morte.
+# D5. Riportare le ossa
+Se i giocatori e padre Lucian riportano le ossa rubate alla Chiesa di Sant'Andral entro l'alba del 7 Neyavr, padre Lucian ringrazia i giocatori e invita Ireena a restare sotto la sua protezione finché vuole. Da quel momento Ireena dorme ogni notte alla Chiesa di Sant'Andral, finché il gruppo non lascia Vallaki nell'[[Arc J - The Stolen Gem|Arco J: La gemma rubata]].
+**_Traguardo_**. Riportare le ossa di Sant'Andral completa un traguardo della storia. Quando le riportano in chiesa, assegna a ogni giocatore 1.250 PE.
+# D6. La visita di Rahadin
+Al tramonto della prima notte dopo che le ossa sono tornate al loro posto e Lady Fiona Wachter ha preso il potere nell'[[Arc F - Lady Wachter's Wish|Arco F: Il desiderio di Lady Wachter]], oppure dopo l'[[Arc G - The Strazni Siblings|Arco G: I fratelli Strazni]], Rahadin, il ciambellano di Strahd, arriva a Vallaki in sella al suo _destriero fantasma_. Ordina alla guardia cittadina di arrestare Milivoj e Henrik e di portarli nella piazza della città per il giudizio. (Lady Wachter ha dato ordine permanente di obbedire alle leggi del Castello di Ravenloft, purché non facciano del male alla brava gente di Vallaki, e quindi le guardie alle porte non disobbediscono.)
+## D6a. L'invito
+Poi Rahadin va a cavallo alla Locanda dell'Acqua Azzurra, o dovunque si trovino i giocatori. Lì consegna loro un invito a cena al Castello di Ravenloft, come descritto nell'[[Arc O - Dinner with the Devil|Arco O: Cena con il diavolo]] e se ne va.
 
-**_Milestone_**. Returning the bones of St. Andral completes a story milestone. Upon returning them to the church, award each player 1,250 XP.
-# D6. Rahadin's Visit
-At dusk on the first night after the bones have been restored and Lady Fiona Wachter has assumed power in [[Arc F - Lady Wachter's Wish]] or following [[Arc G - The Strazni Siblings]], Rahadin, Strahd's chamberlain, arrives in Vallaki atop his _phantom steed_. He then commands the town guard to arrest Milivoj and Henrik and bring them to the town square for judgment. (Because of Lady Wachter's standing orders to obey the laws of Castle Ravenloft—so long as they do not bring harm to the innocent people of Vallaki—the guards at the gates do not disobey.)
-## D6a. The Invitation
-Rahadin next rides to the Blue Water Inn or wherever else the players can be found. There, he delivers the players an invitation to dine at Castle Ravenloft, as described in [[Arc O - Dinner with the Devil]], before departing.
+Poco dopo la partenza di Rahadin, Yeska, rosso in viso e in lacrime, raggiunge i giocatori e li supplica di correre in piazza. Milivoj, racconta, è stato arrestato dalla guardia cittadina e sta per essere giustiziato. (Padre Lucian è già andato in piazza a chiedere clemenza, e quando hanno portato via Milivoj dalla chiesa ha mandato Yeska a cercare i giocatori.)
+## D6b. La sentenza
+Quando i giocatori arrivano nella piazza della città, più o meno come descritta in <span class="citation">N8. Piazza della città (p. 119)</span>, trovano una piccola folla di curiosi radunata intorno al palco con la gogna vuota. Sul palco c'è Rahadin, affiancato da due **guardie** vallakiane pallide in volto. Una delle guardie è chinata a discutere con padre Lucian, che sta ai piedi del palco.
 
-Shortly after Rahadin leaves, a red-faced, sobbing Yeska approaches the players and pleads with them to quickly come to the town square. Milivoj, he tells them, has been taken prisoner by the town guard, and is set to be executed. (Father Lucian, who has already gone to the town square to call for clemency, sent Yeska to find and summon the players when Milivoj was taken from the church grounds.)
-## D6b. The Sentencing
-When the players arrive in the town square, which is largely as described in <span class="citation">N8. Town Square (p. 119)</span>, they find a small crowd of onlookers has gathered around the platform holding the empty stocks. Atop the platform stands Rahadin, flanked by two pale-faced Vallakian **guards**. One of the guards is bending down and arguing with Father Lucian, who stands at the base of the platform.
+Ai due lati di Rahadin sono inginocchiati Milivoj e Henrik van der Voort, con gambe e piedi legati da una corda. Henrik piange di paura, Milivoj fissa il suolo con lo sguardo vuoto. Poco lontano gli otto fratellini di Milivoj, descritti in [[#D2. La casa di Milivoj]], singhiozzano e cercano di salire le scale del palco per raggiungerlo, ma una terza **guardia** sbarra loro la strada.
 
-On either side of Rahadin kneel Milivoj and Henrik van der Voort, their legs and feet bound with rope. Henrik is weeping with fear, while Milivoj is staring vacantly at the ground. Not far away, Milivoj's sobbing eight younger siblings, described further in [[#D2. Milivoj’s House]], struggle to ascend the platform stairs to reach him as a third **guard** blocks their path.
+Padre Lucian e i fratelli di Milivoj sono grati di vedere arrivare i giocatori. Padre Lucian chiede loro di aiutarlo a «fermare questa follia» e osserva a bassa voce che Milivoj avrà anche sbagliato, ma non al punto da meritare la morte.
 
-Father Lucian and Milivoj's siblings are grateful to see the players upon their arrival. Father Lucian asks the players to help "stop this madness," noting quietly that Milivoj may have made mistakes, but hardly ones deserving of death.
+Se viene affrontato, Rahadin spiega con freddezza che Milivoj e Henrik sono stati giudicati colpevoli di crimini contro Vallaki e la sua gente.
 
-If confronted, Rahadin can coldly share that Milivoj and Henrik have been found guilty of crimes against Vallaki and its people.
+Se i giocatori chiedono quali crimini abbiano commesso Milivoj e Henrik, o in un altro momento adatto del procedimento, la folla si apre per far passare Lady Fiona Wachter, scortata da quattro **guardie** e due **cultisti**. Lady Wachter pretende che Rahadin le dica di che cosa sono accusati Milivoj e Henrik. «Se i servitori del Castello di Ravenloft si permettono di requisire le mie guardie a mia insaputa e senza il mio permesso», sbotta furiosa, «almeno questo diritto ce l'ho.»
 
-If the players demand to know which crimes Milivoj and Henrik have committed, or at another suitable point during the proceedings, the crowd parts as Lady Fiona Wachter arrives, flanked by four **guards** and two **cultists**. Lady Wachter then demands Rahadin inform her of Milivoj and Henrik's crimes. "If the servants of Castle Ravenloft presume to commandeer my guards without my knowledge or permission," she fumes, "I have that right, at least."
-
-Rahadin then reads aloud the following proclamation:
+Rahadin legge allora ad alta voce questo proclama:
 
 <div class="description">
-<p>I, Strahd von Zarovich, Lord of Barovia, hereby find Henrik van der Voort of Vallaki GUILTY of the following charges: conspiracy to commit burglary; conspiracy to commit theft; accessory to theft; and receiving stolen property.</p>
-<p>I further find Milivoj of Vallaki GUILTY of the following charges: trespassing, destruction of property, conspiracy to commit burglary, burglary, and theft.</p>
-<p>It is therefore ordered that each receive suitable punishments as befitting the circumstances and nature of their crimes, to be determined and carried out by the Chamberlain of Castle Ravenloft with all reasonable haste.</p>
+<p>Io, Strahd von Zarovich, Signore di Barovia, con il presente dichiaro Henrik van der Voort di Vallaki COLPEVOLE dei seguenti capi d'accusa: associazione finalizzata al furto con scasso; associazione finalizzata al furto; concorso in furto; ricettazione.</p>
+<p>Dichiaro inoltre Milivoj di Vallaki COLPEVOLE dei seguenti capi d'accusa: violazione di domicilio, danneggiamento, associazione finalizzata al furto con scasso, furto con scasso e furto.</p>
+<p>Si ordina pertanto che ciascuno riceva la pena adeguata alle circostanze e alla natura dei suoi crimini, che il Ciambellano del Castello di Ravenloft stabilirà ed eseguirà con tutta la sollecitudine ragionevole.</p>
 </div>
 
-The proclamation is signed and sealed by Strahd.
+Il proclama porta la firma e il sigillo di Strahd.
 
-Unless the players intervene themselves, Lady Wachter speaks out, her eyes falling on the players. "As we are obedient to the laws of Barovia and its master, so too then should we allow any party possessing evidence of mitigating circumstances to come forward, so that a fair and accurate sentencing can take place."
+A meno che non intervengano prima i giocatori, prende la parola Lady Wachter, posando lo sguardo su di loro. «Poiché siamo obbedienti alle leggi di Barovia e del suo padrone, dobbiamo anche permettere a chiunque abbia prove di circostanze attenuanti di farsi avanti, perché la sentenza sia giusta ed equilibrata.»
 
-As the Chamberlain of Castle Ravenloft, Rahadin informs the players, he has determined that the sentence for these crimes is death—unless any are willing to speak in the convicted's favor, presenting mitigating circumstances that alleviate the severity of their transgressions.
+Rahadin spiega ai giocatori che, in quanto Ciambellano del Castello di Ravenloft, ha stabilito che la pena per questi crimini è la morte, a meno che qualcuno non sia disposto a parlare in favore dei condannati e a presentare circostanze attenuanti che riducano la gravità delle loro colpe.
 
-Should the players do so, Rahadin plays the role of an adversarial and cold-hearted judge, pushing back against their responses and probing at the hole in their reasoning. The players might argue the following mitigating circumstances:
+Se i giocatori lo fanno, Rahadin recita la parte del giudice ostile e senza cuore: contesta le loro risposte e va a cercare le falle nei loro ragionamenti. I giocatori possono far valere queste circostanze attenuanti:
 
-* **Henrik:** Henrik committed his crimes subject to coercion and duress by Volenta, an ostensible agent of Strahd himself. Henrik is also unlikely to commit his crime again, has no criminal history, and committed no violent act against any person. Additionally, Henrik cooperated with the players when confronted at the coffin-maker's shop.
-* **Milivoj:** Milivoj's actions were driven by the necessity of his family's poverty, rather than by malice. He was also ignorant of the implications of stealing the bones, and was manipulated by Henrik into doing so. Like Henrik, he has no criminal history and committed no violent act against any person.
+* **Henrik:** ha commesso i suoi crimini sotto la costrizione e le minacce di Volenta, apparentemente un'agente di Strahd in persona. È poco probabile che torni a delinquere, non ha precedenti e non ha usato violenza contro nessuno. Inoltre ha collaborato con i giocatori quando lo hanno affrontato nella bottega.
+* **Milivoj:** ha agito spinto dalla miseria della sua famiglia, non per cattiveria. Non sapeva quali conseguenze avrebbe avuto il furto delle ossa, ed è stato Henrik a manipolarlo. Come Henrik, non ha precedenti e non ha usato violenza contro nessuno.
 
-The players can also argue that either character has shown sincere remorse for their actions.
+I giocatori possono anche sostenere che entrambi si sono pentiti sinceramente di quello che hanno fatto.
 
-When the players conclude their arguments for each prisoner, they can make a Charisma (Persuasion) check—to attempt to convince Rahadin to decrease Milivoj and Henrik's sentences if their points are at least reasonably well-argued.
+Quando i giocatori hanno finito di perorare la causa di un prigioniero, possono effettuare una prova di Carisma (Persuasione) per convincere Rahadin a ridurre la pena di Milivoj e di Henrik, se le loro argomentazioni sono almeno ragionevolmente sostenute.
 
-The difficulty of convincing Rahadin to decrease Henrik's sentence is as follows:
+Convincere Rahadin a ridurre la pena di Henrik ha queste difficoltà:
 
-* DC 5: Rahadin agrees to a heavy sentence.
-* DC 10: Rahadin agrees to a moderate sentence.
-* DC 15: Rahadin agrees to a light sentence.
-* DC 20: Rahadin agrees to free Henrik without punishment.
+* CD 5: Rahadin accetta una pena pesante.
+* CD 10: Rahadin accetta una pena moderata.
+* CD 15: Rahadin accetta una pena lieve.
+* CD 20: Rahadin accetta di liberare Henrik senza punirlo.
 
-The difficulty of convincing Rahadin to decrease Milivoj's sentence is as follows:
+Convincere Rahadin a ridurre la pena di Milivoj ha queste difficoltà:
 
-* DC 5: Rahadin agrees to an extreme sentence.
-* DC 10: Rahadin agrees to a severe sentence.
-* DC 15: Rahadin agrees to a heavy sentence.
-* DC 20: Rahadin agrees to a moderate sentence.
+* CD 5: Rahadin accetta una pena estrema.
+* CD 10: Rahadin accetta una pena severa.
+* CD 15: Rahadin accetta una pena pesante.
+* CD 20: Rahadin accetta una pena moderata.
 
-Once the players have convinced Rahadin to decrease a prisoner's sentence, he then invites the players to suggest a suitable sentence. If the sentence they suggest is too light, he informs them and counters with an alternative suggestion of his own.
+Quando i giocatori hanno convinto Rahadin a ridurre la pena di un prigioniero, lui li invita a proporre una pena adeguata. Se quella che propongono è troppo leggera, lo dice e ribatte con una controproposta.
 
-Suitable punishments for each sentence include:
+Ecco alcune punizioni adatte a ogni pena:
 
-* **Extreme.** Life imprisonment in Castle Ravenloft. (Rahadin takes the prisoner to the castle dungeons.)
-* **Severe.** Mutilation. (Rahadin removes the prisoner's dominant hand.)
-* **Heavy.** Branding. (Rahadin commands a guard to retrieve and light a torch, which he uses to heat an iron signet ring that bears the image of Castle Ravenloft—the symbol of his office. He then uses the hot ring to brand the prisoner on the neck.)
-* **Moderate.** Flogging. (Rahadin commands a guard to fetch a whip, then delivers the agreed-upon number of lashes himself.)
-* **Light.** A fine. (Rahadin directs the prisoner to pay a fine of the agreed-upon sum, to be paid to the town coffers. If the prisoner cannot afford to pay it, Rahadin also sentences him to forced labor in the town's service until he has paid off his debt.)
+* **Estrema.** Carcere a vita nel Castello di Ravenloft. (Rahadin porta il prigioniero nelle segrete del castello.)
+* **Severa.** Mutilazione. (Rahadin taglia al prigioniero la mano dominante.)
+* **Pesante.** Marchio a fuoco. (Rahadin ordina a una guardia di prendere e accendere una torcia, con cui scalda un anello con sigillo di ferro che porta l'immagine del Castello di Ravenloft, il simbolo della sua carica. Poi marchia il prigioniero sul collo con l'anello rovente.)
+* **Moderata.** Fustigazione. (Rahadin ordina a una guardia di andare a prendere una frusta, poi infligge lui stesso il numero di frustate concordato.)
+* **Lieve.** Una multa. (Rahadin ordina al prigioniero di pagare alle casse della città una multa della somma concordata. Se il prigioniero non può pagarla, Rahadin lo condanna anche ai lavori forzati al servizio della città finché non ha saldato il debito.)
 
-Rahadin does not deliver any sentence until all have been agreed upon. If the players prove intransigent or appear to be stalling, Rahadin warns them that his patience is not infinite, and that he will choose and proceed with a suitable sentence unless the players can provide new evidence—not new arguments—mitigating the severity of the prisoners' crimes. "If any person interferes," he warns, "I will not hesitate to incapacitate them. I answer to none but the master of Castle Ravenloft, and you will not obstruct the exactment of justice this night."
+Rahadin non esegue nessuna pena finché non sono state concordate tutte. Se i giocatori si mostrano intransigenti o sembrano voler prendere tempo, Rahadin li avverte che la sua pazienza non è infinita: sceglierà ed eseguirà una pena adeguata, a meno che non portino prove nuove (non argomenti nuovi) che attenuino la gravità dei crimini dei prigionieri. «Chiunque interferisca», avverte, «non esiterò a renderlo inoffensivo. Rispondo solo al padrone del Castello di Ravenloft, e stanotte non ostacolerete il corso della giustizia.»
 
-If the players appear horrified by Rahadin's chosen sentence, he coldly reminds them that the prisoners have been found guilty of conspiring to steal from a holy church. "My lord's subjects often claim he lacks appreciation for the sacred," he says. "It seems, perhaps, that he is the only one with any appreciation at all."
+Se i giocatori sembrano inorriditi dalla pena scelta da Rahadin, lui ricorda gelido che i prigionieri sono stati giudicati colpevoli di aver cospirato per derubare una chiesa consacrata. «I sudditi del mio signore dicono spesso che non ha rispetto per il sacro», osserva. «Sembra, forse, che sia l'unico ad averne.»
 
-If the players appear unpersuaded, Milivoj tells them hoarsely, "Please, don't do anything stupid on my behalf. I did something wrong, and I'll accept any punishment. Just so long as my siblings don't suffer." (If punished with branding, flogging, or mutilation, Milivoj grits his teeth and stifles a roar of pain, but refuses to cry out and give Rahadin the satisfaction.)
+Se i giocatori non sembrano convinti, Milivoj dice loro con voce roca: «Vi prego, non fate stupidaggini per me. Ho sbagliato, e accetterò qualunque punizione. Basta che i miei fratelli non soffrano.» (Se viene punito con il marchio, la frusta o la mutilazione, Milivoj stringe i denti e soffoca un urlo di dolore, ma si rifiuta di gridare per non dare a Rahadin questa soddisfazione.)
 
-If any players appear likely to obstruct Rahadin's efforts to carry out a sentence, Lady Wachter quietly pleads with them not to be foolish. "He is the chamberlain of Castle Ravenloft and Von Zarovich's right hand," she insists. If the players have successfully bartered Rahadin down from execution, she adds: "You've already saved lives today. Don't trade your own for a doomed endeavor. Vallaki *needs* you."
+Se qualche giocatore sembra sul punto di impedire a Rahadin di eseguire una pena, Lady Wachter lo supplica sottovoce di non fare sciocchezze. «È il ciambellano del Castello di Ravenloft, il braccio destro di Von Zarovich», insiste. Se i giocatori sono riusciti a strappare a Rahadin una pena più mite della morte, aggiunge: «Oggi avete già salvato delle vite. Non barattate la vostra per un'impresa senza speranza. Vallaki *ha bisogno* di voi.»
 
-If the players actually attempt to obstruct Rahadin's efforts to carry out that sentence, he attacks, stopping once those players have been reduced to 0 hit points. Immediately before he delivers the final blow, he intones, "I find you guilty of obstruction of justice—and sentence you accordingly." While the player is unconscious, he then uses his iron signet ring to brand them on the neck with the image of Castle Ravenloft. He then delivers Henrik and Milivoj's sentences.
+Se i giocatori cercano davvero di impedire a Rahadin di eseguire la pena, lui li attacca e si ferma quando quei giocatori sono scesi a 0 punti ferita. Prima di sferrare il colpo finale, scandisce: «Vi dichiaro colpevoli di intralcio alla giustizia, e vi condanno di conseguenza.» Mentre il giocatore è privo di sensi, lo marchia sul collo con l'immagine del Castello di Ravenloft usando l'anello con sigillo di ferro. Poi esegue le pene di Henrik e di Milivoj.
 
-Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ once more and departs Vallaki for Castle Ravenloft.
+Quando ritiene che giustizia sia fatta, Rahadin evoca di nuovo il suo _destriero fantasma_ e lascia Vallaki per tornare al Castello di Ravenloft.
 
 <div class="statblock">
-<h2>Rahadin, Castle Chamberlain</h2>
-<em>Medium humanoid (elf), lawful evil</em>
+<h2>Rahadin, ciambellano del castello</h2>
+<em>Umanoide Medio (elfo), legale malvagio</em>
 <hr>
-<strong>Armor Class</strong> 18 (studded leather)
+<strong>Classe Armatura</strong> 18 (cuoio borchiato)
 <br>
-<strong>Hit Points</strong> 180 (24d8 + 72)
+<strong>Punti Ferita</strong> 180 (24d8 + 72)
 <br>
-<strong>Speed</strong> 35 ft.
+<strong>Velocità</strong> 10,5 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -624,57 +622,57 @@ Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ 
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +11, Wis +8<br>
-<strong>Skills</strong> Acrobatics +11, Deception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
-<strong>Languages</strong> Common, Elvish<br>
-<strong>Challenge</strong> 14<br>
-<strong>Proficiency Bonus</strong> +5<br>
+<strong>Tiri salvezza</strong> Des +11, Sag +8<br>
+<strong>Abilità</strong> Acrobazia +11, Inganno +9, Intuizione +8, Intimidire +14, Percezione +13, Furtività +16<br>
+<strong>Sensi</strong> scurovisione 18 m, Percezione passiva 23<br>
+<strong>Linguaggi</strong> Comune, Elfico<br>
+<strong>Sfida</strong> 14<br>
+<strong>Bonus di competenza</strong> +5<br>
 <hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> Rahadin doesn't have disadvantage on his ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
-<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Innate Spellcasting.</em></strong> Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:<br>
-- 3/day: phantom steed<br>
-- 1/day: nondetection</p>
-<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
-<p><strong><em>Murderous Instinct.</em></strong> When Rahadin drops to 0 hit points, he stows his saber and draws his twin scimitars, <em>Thorn</em> and <em>Chain</em>. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change. Excess damage doesn't carry over to his new form, and he doesn’t retain any conditions he had in his previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Rahadin makes two attacks.</p>
-<p><strong><em>Saber.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (1d8 + 6) slashing damage, and Rahadin can push the target up to 5 feet away. Instead of pushing the target, Rahadin can force it to succeed on a DC 15 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Poisoned Dart.</em></strong> <em>Ranged Weapon Attack:</em> +11 to hit, range 20/60 ft., one target. <em>Hit:</em> 8 (1d4 +6) piercing and 5 (2d4) poison damage, and the target must succeed on a DC 15 Constitution saving throw or be poisoned until the start of Rahadin's next turn.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Wind Strike.</em></strong> Rahadin moves up to his speed in a straight line toward an unoccupied space he can see, including through enemy spaces, without provoking opportunity attacks. Each creature within 5 feet of a space he passes through must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
-<p><strong><em>Whirling Blades.</em></strong> Each creature within 10 feet of Rahadin must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
-<h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)
-<p><strong><em>Punishing Strike.</em></strong> When Rahadin is hit by a melee or ranged attack, he can use his reaction to move up to his speed toward the attacker and make an attack with his saber. This movement doesn't trigger opportunity attacks.</p>
-<p><strong><em>Disarm.</em></strong> When an enemy misses Rahadin with a melee attack while wielding a weapon, he can use his reaction to force that enemy to make a DC 19 Strength saving throw, with advantage if the enemy is holding the weapon with two hands. On a failure, the enemy drops the item, which is knocked 10 feet away.</p>
-<p><strong><em>Misty Step (1/round).</em></strong> When an enemy misses Rahadin with an attack or deals damage to him, he can use his reaction to cast <em>misty step</em>. He can then immediately take the Hide action. Rahadin doesn't need to see his destination when casting <em>misty step</em> in this way.</p>
-<p><strong><em>Psychic Scream (1/day).</em></strong> When Rahadin is reduced to 0 hit points, he can use his reaction to cause his deathly choir to release a terrible scream. Each creature within 60 feet of Rahadin must make a DC 17 Wisdom saving throw, taking 11 (2d10) psychic damage on a failed save or half as much on a success. If a creature fails the saving throw by 5 or more, it is also stunned until the start of Rahadin's next turn.</p>
+<p><strong><em>Combattente ravvicinato.</em></strong> Rahadin non subisce svantaggio ai tiri per colpire a distanza quando si trova entro 1,5 metri da una creatura ostile.</p>
+<p><strong><em>Urla dei morti.</em></strong> Ogni creatura entro 3 metri da Rahadin che non è protetta da un incantesimo <em>vuoto mentale</em> sente nella mente le urla delle migliaia di persone che Rahadin ha ucciso.</p>
+<p><strong><em>Ascendenza fatata.</em></strong> Rahadin ha vantaggio ai tiri salvezza per non essere affascinato e la magia non può addormentarlo.</p>
+<p><strong><em>Incantesimi innati.</em></strong> La caratteristica da incantatore innata di Rahadin è l'Intelligenza. Rahadin può lanciare in modo innato i seguenti incantesimi, senza bisogno di componenti:<br>
+- 3/giorno: destriero fantasma<br>
+- 1/giorno: anti-individuazione</p>
+<p><strong><em>Maschera della natura selvaggia.</em></strong> Rahadin può tentare di nascondersi anche quando è solo leggermente oscurato da fogliame, pioggia battente, neve che cade, nebbia e altri fenomeni naturali.</p>
+<p><strong><em>Istinto omicida.</em></strong> Quando Rahadin scende a 0 punti ferita, ripone la sciabola e sguaina le sue scimitarre gemelle, <em>Spina</em> e <em>Catena</em>. Le sue statistiche vengono subito sostituite da quelle della sua seconda forma. Il suo punteggio di iniziativa non cambia. I danni in eccesso non passano alla nuova forma e Rahadin non mantiene le condizioni che aveva nella forma precedente.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Rahadin effettua due attacchi.</p>
+<p><strong><em>Sciabola.</em></strong> <em>Attacco con arma da mischia:</em> +11 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 10 (1d8 + 6) danni taglienti, e Rahadin può spingere il bersaglio fino a 1,5 metri di distanza. Invece di spingerlo, Rahadin può costringerlo a superare un tiro salvezza su Forza con CD 15, altrimenti il bersaglio cade prono.</p>
+<p><strong><em>Dardo avvelenato.</em></strong> <em>Attacco con arma a distanza:</em> +11 al tiro per colpire, gittata 6/18 m, un bersaglio. <em>Colpito:</em> 8 (1d4 +6) danni perforanti e 5 (2d4) danni da veleno, e il bersaglio deve superare un tiro salvezza su Costituzione con CD 15, altrimenti è avvelenato fino all'inizio del turno successivo di Rahadin.</p>
+<h3>Azioni bonus</h3>
+<p><strong><em>Colpo di vento.</em></strong> Rahadin si muove fino alla sua velocità in linea retta verso uno spazio libero che può vedere, anche attraverso gli spazi dei nemici, senza provocare attacchi di opportunità. Ogni creatura entro 1,5 metri da uno spazio che attraversa deve effettuare un tiro salvezza su Destrezza con CD 19: se lo fallisce subisce 7 (2d6) danni taglienti, se lo supera la metà.</p>
+<p><strong><em>Lame vorticanti.</em></strong> Ogni creatura entro 3 metri da Rahadin deve effettuare un tiro salvezza su Destrezza con CD 19: se lo fallisce subisce 7 (2d6) danni taglienti, se lo supera la metà.</p>
+<h3>Reazioni</h3>
+<p>Rahadin può usare fino a tre reazioni per round, ma non più di una per turno. Se un effetto o una condizione gli impedirebbe di usare reazioni, perde invece una reazione.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Innesco:</strong> una creatura ostile termina il suo turno. <strong>Effetto:</strong> Rahadin può ripetere il tiro salvezza contro un effetto o una condizione che lo colpisce in quel momento. (La reazione non ha effetto se l'effetto o la condizione non richiedevano in origine il fallimento di un tiro salvezza.)</p>
+<p><strong><em>Colpo punitivo.</em></strong> Quando Rahadin viene colpito da un attacco in mischia o a distanza, può usare la sua reazione per muoversi fino alla sua velocità verso l'attaccante ed effettuare un attacco con la sciabola. Questo movimento non provoca attacchi di opportunità.</p>
+<p><strong><em>Disarmare.</em></strong> Quando un nemico che impugna un'arma manca Rahadin con un attacco in mischia, Rahadin può usare la sua reazione per costringere quel nemico a effettuare un tiro salvezza su Forza con CD 19, con vantaggio se il nemico impugna l'arma a due mani. Se lo fallisce, il nemico lascia cadere l'oggetto, che viene sbalzato a 3 metri di distanza.</p>
+<p><strong><em>Passo velato (1/round).</em></strong> Quando un nemico manca Rahadin con un attacco o gli infligge danni, Rahadin può usare la sua reazione per lanciare <em>passo velato</em>. Subito dopo può effettuare l'azione Nascondersi. Quando lancia <em>passo velato</em> in questo modo, Rahadin non ha bisogno di vedere la destinazione.</p>
+<p><strong><em>Urlo psichico (1/giorno).</em></strong> Quando Rahadin scende a 0 punti ferita, può usare la sua reazione per far emettere al suo coro di morte un urlo terribile. Ogni creatura entro 18 metri da Rahadin deve effettuare un tiro salvezza su Saggezza con CD 17: se lo fallisce subisce 11 (2d10) danni psichici, se lo supera la metà. Se una creatura fallisce il tiro salvezza di 5 o più, è anche stordita fino all'inizio del turno successivo di Rahadin.</p>
 </div>
 <br>
 
 <div class="statblock">
-<h2>Rahadin, Kinslayer</h2>
-<em>Medium humanoid (elf), lawful evil</em>
+<h2>Rahadin, uccisore del suo sangue</h2>
+<em>Umanoide Medio (elfo), legale malvagio</em>
 <hr>
-<strong>Armor Class</strong> 18 (studded leather)
+<strong>Classe Armatura</strong> 18 (cuoio borchiato)
 <br>
-<strong>Hit Points</strong> 180 (24d8 + 72)
+<strong>Punti Ferita</strong> 180 (24d8 + 72)
 <br>
-<strong>Speed</strong> 35 ft.
+<strong>Velocità</strong> 10,5 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -689,50 +687,48 @@ Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ 
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +11, Wis +8<br>
-<strong>Skills</strong> Acrobatics +11, Deception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
-<strong>Languages</strong> Common, Elvish<br>
-<strong>Challenge</strong> 15<br>
-<strong>Proficiency Bonus</strong> +5<br>
+<strong>Tiri salvezza</strong> Des +11, Sag +8<br>
+<strong>Abilità</strong> Acrobazia +11, Inganno +9, Intuizione +8, Intimidire +14, Percezione +13, Furtività +16<br>
+<strong>Sensi</strong> scurovisione 18 m, Percezione passiva 23<br>
+<strong>Linguaggi</strong> Comune, Elfico<br>
+<strong>Sfida</strong> 15<br>
+<strong>Bonus di competenza</strong> +5<br>
 <hr>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
-<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
-<p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 19 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)
-<p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
-<p><strong><em>Haunt.</em></strong> Rahadin forces a creature he can see within 30 feet to succeed on a DC 17 Wisdom saving throw or take 7 (2d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Deathly Choir.</em></strong> Each creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell must succeed on a DC 17 Wisdom saving throw, taking 9 (2d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of Rahadin's next turn.</p>
-<p><strong><em>Swift Step.</em></strong> Rahadin takes the Dash or Disengage action.
-<h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Parry.</em></strong> Rahadin adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
-<p><strong><em>Riposte.</em></strong> When an enemy misses Rahadin with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong> attack against that enemy with advantage.</p>
+<p><strong><em>Urla dei morti.</em></strong> Ogni creatura entro 3 metri da Rahadin che non è protetta da un incantesimo <em>vuoto mentale</em> sente nella mente le urla delle migliaia di persone che Rahadin ha ucciso.</p>
+<p><strong><em>Ascendenza fatata.</em></strong> Rahadin ha vantaggio ai tiri salvezza per non essere affascinato e la magia non può addormentarlo.</p>
+<p><strong><em>Maschera della natura selvaggia.</em></strong> Rahadin può tentare di nascondersi anche quando è solo leggermente oscurato da fogliame, pioggia battente, neve che cade, nebbia e altri fenomeni naturali.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Rahadin effettua tre attacchi con le scimitarre <strong><em>Spina</em></strong> e/o <strong><em>Catena</em></strong>. Può sostituire un attacco con il suo tratto <strong><em>tormento</em></strong>.
+<p><strong><em>Spina.</em></strong> <em>Attacco con arma da mischia:</em> +11 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 9 (1d6 + 6) danni taglienti, e Rahadin può costringere il bersaglio a effettuare un tiro salvezza su Costituzione con CD 19, altrimenti sanguina per 1 minuto. (Un bersaglio che sanguina deve superare un tiro salvezza su Costituzione con CD 19 all'inizio di ogni suo turno, altrimenti subisce 1d6 danni taglienti aggiuntivi. Se supera il tiro o riceve cure magiche, il bersaglio smette di sanguinare.)
+<p><strong><em>Catena.</em></strong> <em>Attacco con arma da mischia:</em> +11 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 9 (1d6 + 6) danni taglienti, e Rahadin può costringere il bersaglio a effettuare un tiro salvezza su Costituzione con CD 19, altrimenti la sua velocità scende a 0 fino alla fine del suo turno successivo. Se il bersaglio fallisce di 5 o più, cade anche prono.
+<p><strong><em>Tormento.</em></strong> Rahadin costringe una creatura che può vedere entro 9 metri a superare un tiro salvezza su Saggezza con CD 17, altrimenti subisce 7 (2d6) danni psichici ed è spaventata e assordata dalle anime urlanti fino all'inizio del turno successivo di Rahadin.</p>
+<h3>Azioni bonus</h3>
+<p><strong><em>Coro di morte.</em></strong> Ogni creatura entro 3 metri da Rahadin che non è protetta da un incantesimo <em>vuoto mentale</em> deve superare un tiro salvezza su Saggezza con CD 17: se lo fallisce subisce 9 (2d8) danni psichici, se lo supera la metà. Se una creatura fallisce il tiro salvezza di 5 o più, è anche spaventata fino all'inizio del turno successivo di Rahadin.</p>
+<p><strong><em>Passo rapido.</em></strong> Rahadin effettua l'azione Scatto o Disimpegno.
+<h3>Reazioni</h3>
+<p>Rahadin può usare fino a tre reazioni per round, ma non più di una per turno. Se un effetto o una condizione gli impedirebbe di usare reazioni, perde invece una reazione.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Innesco:</strong> una creatura ostile termina il suo turno. <strong>Effetto:</strong> Rahadin può ripetere il tiro salvezza contro un effetto o una condizione che lo colpisce in quel momento. (La reazione non ha effetto se l'effetto o la condizione non richiedevano in origine il fallimento di un tiro salvezza.)</p>
+<p><strong><em>Parata.</em></strong> Rahadin aggiunge +5 alla sua Classe Armatura contro un attacco in mischia o a distanza che lo colpirebbe, oppure al risultato di un tiro salvezza su Destrezza fallito, oppure non subisce danni da <em>dardo incantato</em> in questo turno. Se in questo modo fa mancare un attacco in mischia, subito dopo può usare un'altra reazione, se ne ha una disponibile, per eseguire la sua Risposta contro l'attaccante.</p>
+<p><strong><em>Risposta.</em></strong> Quando un nemico manca Rahadin con un attacco in mischia, Rahadin può usare la sua reazione per muoversi fino alla sua velocità verso uno spazio libero entro 1,5 metri da quel nemico, senza provocare attacchi di opportunità. Subito dopo può effettuare contro quel nemico un attacco con <strong><em>Spina</em></strong> o <strong><em>Catena</em></strong>, con vantaggio.</p>
 </div>
 
-# Design Notes: St. Andral's Feast
-***St. Andral's Church.*** The original module's requirement that one of the players be a cleric or paladin to receive this quest has been removed to make it more accessible. 
+# Note di progettazione: la festa di Sant'Andral
+***La Chiesa di Sant'Andral.*** Il modulo originale richiedeva che uno dei giocatori fosse un chierico o un paladino per ricevere questa missione: il requisito è stato tolto per renderla accessibile a tutti.
 
-Though it doesn't exist in the original adventure, the holy day of St. Andral's Feast has been added to provide a clear deadline for the players' efforts to recover the bones, and to ensure a safe place for Ireena to stay while the arc unfolds.
+La festa di Sant'Andral non esiste nell'avventura originale. È stata aggiunta per dare ai giocatori una scadenza chiara entro cui recuperare le ossa e per garantire a Ireena un posto sicuro dove stare mentre l'arco si svolge.
 
-The date of the bones' theft has been moved to the night of the players' arrival in Vallaki to ensure that the scene of the crime is sufficiently undisturbed for the players to do substantive detective work while investigating. An assortment of clues has been added to clearly point the finger at Milivoj.
+Il furto delle ossa è stato spostato alla notte dell'arrivo dei giocatori a Vallaki, così che la scena del crimine sia abbastanza intatta da permettere loro un vero lavoro da investigatori. Sono stati aggiunti diversi indizi che puntano chiaramente il dito contro Milivoj.
 
-Milivoj himself has been relocated to his family home—both to show (not tell) his motivation for stealing the bones, to provide dramatic distance between the players' investigation and their confrontation with its prime witness, and to accentuate the appearance of Milivoj's guilty conscience.
+Milivoj stesso è stato spostato nella casa di famiglia per tre ragioni: mostrare (invece di raccontare) il motivo per cui ha rubato le ossa, mettere una distanza drammatica fra l'indagine dei giocatori e il confronto con il testimone principale, e far risaltare la sua coscienza sporca.
 
-***Return to the Church.*** Father Lucian asks to accompany the players to the coffin maker's shop in order to ensure that the party has the benefits of his *spirit guardians* spell during the fight with Volenta's **vampire spawn** (i.e., to counteract their regeneration).
+***Il ritorno alla chiesa.*** Padre Lucian chiede di accompagnare i giocatori alla bottega del fabbricante di bare perché il gruppo possa contare sul suo incantesimo *guardiani spirituali* nello scontro con le **progenie vampiriche** di Volenta, cioè per contrastarne la rigenerazione.
 
-***Arasek Stockyard.*** Erasmus' ghost has been added to discourage the players from investigating the wagon while also carefully avoiding *encouraging* them to do it out of spite.
+***Il Recinto di Arasek.*** Il fantasma di Erasmus è stato aggiunto per scoraggiare i giocatori dal frugare nel carrozzone, facendo attenzione però a non *spingerli* a farlo per ripicca.
 
-The fresh paint for the Carnival of Wonders sign has been added to intentionally foreshadow that Rictavio (who the players will confront in [[Arc E - The Missing Vistana]]) is not all that he seems.
+La vernice fresca dell'insegna del Carnevale delle Meraviglie è stata aggiunta apposta per anticipare che Rictavio (che i giocatori affronteranno nell'[[Arc E - The Missing Vistana|Arco E: La vistana scomparsa]]) non è quello che sembra.
 
-***Coffin Maker's Shop.*** Volenta's two traps have been added to increase the probability that the players do battle with the vampires, thereby introducing them directly to Strahd's minions and the threat posed by vampires. The number of **vampire spawn** has been reduced from six to three, including Volenta, to ensure that the encounter is balanced for a 4th-level party.
+***La bottega del fabbricante di bare.*** Le due trappole di Volenta sono state aggiunte per rendere più probabile lo scontro con i vampiri, così che i giocatori conoscano di persona i servitori di Strahd e la minaccia dei vampiri. Le **progenie vampiriche** sono scese da sei a tre, Volenta compresa, perché lo scontro sia bilanciato per un gruppo di 4º livello.
 
-Volenta has been placed as the mastermind of this scheme in order to provide the players with a low-level boss that they can reasonably defeat—but who will recur as an antagonist throughout the adventure.
+Volenta è diventata la mente del piano per dare ai giocatori un boss di basso livello che possono ragionevolmente sconfiggere, ma che tornerà come antagonista per tutta l'avventura.
 
-Volenta's statblock has been designed to provide the players with a dynamic, tactical experience while ensuring that she is not the first of her minions to die. 
-
-Meanwhile, Father Lucian's ***divine eminence*** feature has been modified to allow the players to reap its benefits and ensure that the encounter is not too deadly, as well as to ensure that martial characters without access to magical weapons can deal substantive damage despite the vampires' resistances to nonmagical weapon damage.
+Il profilo di Volenta è pensato per offrire ai giocatori uno scontro dinamico e tattico, facendo in modo che lei non sia la prima del suo gruppo a morire.

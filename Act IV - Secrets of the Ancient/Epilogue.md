@@ -1,497 +1,497 @@
-Strahd von Zarovich is dead, and the Sun has risen over the Balinok Mountains for the first time in centuries. But for the people of Barovia, this ending is only a new beginning.
+Strahd von Zarovich è morto, e per la prima volta da secoli il Sole è sorto sui Monti Balinok. Ma per la gente di Barovia questa fine è solo un nuovo inizio.
 
-In Vallaki, a grateful town prepares a celebration for the party of returning heroes. In Krezk, the cursed Belviews face a choice between humanity and peace. At Argynvostholt, a silver egg waits amidst the ashes of its forebear.
+A Vallaki una città riconoscente prepara una festa per gli eroi che tornano. A Krezk i Belview, colpiti da una maledizione, devono scegliere fra l'umanità e la pace. Ad Argynvostholt un uovo d'argento aspetta fra le ceneri del suo progenitore.
 
-Meanwhile, the Ladies Three have been reborn, but a fourth sister dreads their judgment. Lady Fiona Wachter must lead her people to a new future, but fears her past has left her unworthy. Victor Vallakovich must decide whether his feelings for Stella Wachter are worth fighting for. Rudolph van Richten and Doru must find a way to live where once dwelled only death. And, in the wilds of Barovia, bereft of his master, Escher must decide whether to seek redemption—or revenge.
+Intanto le Tre Dame sono rinate, ma una quarta sorella teme il loro giudizio. Lady Fiona Wachter deve guidare la sua gente verso un nuovo futuro, ma teme che il suo passato l'abbia resa indegna. Victor Vallakovich deve decidere se valga la pena di lottare per i suoi sentimenti verso Stella Wachter. Rudolph van Richten e Doru devono trovare il modo di vivere dove un tempo abitava solo la morte. E nelle terre selvagge di Barovia, privato del suo padrone, Escher deve decidere se cercare la redenzione o la vendetta.
 
-Will the players help Barovia find its first steps in this brave new world? Will they leave a legacy strong enough to endure the uncertain paths ahead? And—when the call to adventure comes once again—will they answer it or refuse?
-## 1. Return From the Castle
-***Cyrus & Lief***. When Strahd summoned the eternal night, he ordered every creature in Ravenloft to join the undead horde marching upon the settlements of Barovia. Three members of the horde, however, snuck away: Cyrus Belview, Lief Lipsiege, and (if still present in Ravenloft) Pidlwick II.
+Aiuteranno i giocatori Barovia a muovere i primi passi in questo nuovo mondo? Lasceranno un'eredità abbastanza forte da reggere sulle strade incerte che li aspettano? E quando la chiamata all'avventura arriverà di nuovo, risponderanno o la rifiuteranno?
+## 1. Il ritorno dal castello
+***Cyrus e Lief***. Quando Strahd ha evocato la notte eterna, ha ordinato a ogni creatura di Ravenloft di unirsi all'orda di non morti in marcia sugli insediamenti di Barovia. Tre membri dell'orda, però, se la sono svignata: Cyrus Belview, Lief Lipsiege e (se è ancora a Ravenloft) Pidlwick II.
 
-Since escaping Strahd’s armies, the three deserters have lingered by **I. Black Carriage (p. 37)**, watching to ensure they haven’t been missed while anxiously debating their next moves. Cyrus is terrified of the lingering undead and anxious about Strahd’s promise to restore his family’s forms, while Lief is despondent from his apparent dismissal from service. If present, Pidlwick is suspicious of the world outside the castle but delighted to explore the world beyond Ravenloft’s walls. All three are awed by the rising of the sun—though Cyrus is suspicious that it’s some sort of trick and Lief, as a wight, finds the sun’s rays taxing, painful, and “unsightly."
+Da quando sono sfuggiti agli eserciti di Strahd, i tre disertori si aggirano intorno a **I. Carrozza nera (p. 37)**, controllando che nessuno abbia notato la loro assenza e discutendo con ansia sul da farsi. Cyrus è terrorizzato dai non morti che ancora girano ed è in pensiero per la promessa di Strahd di restituire alla sua famiglia il suo aspetto, mentre Lief è abbattuto per quello che gli sembra un licenziamento. Pidlwick, se c'è, diffida del mondo fuori dal castello ma è felicissimo di poter esplorare oltre le mura di Ravenloft. Tutti e tre restano a bocca aperta davanti al sorgere del sole, anche se Cyrus sospetta che sia una specie di trucco e Lief, che è un wight, trova i raggi del sole faticosi, dolorosi e «sgradevoli alla vista».
 
-When the players arrive at the crossroads following their return from Ravenloft, will they find the deserters lingering nearby? If so, will they help Cyrus find new hope in the wake of Strahd’s broken promise, help Lief find new purpose in the destruction of Strahd’s power, and help Pidlwick II find a new home?
+Quando i giocatori arriveranno al crocevia di ritorno da Ravenloft, troveranno i disertori lì intorno? E se sì, aiuteranno Cyrus a ritrovare la speranza dopo la promessa infranta di Strahd, Lief a trovare un nuovo scopo ora che il potere di Strahd è distrutto e Pidlwick II a trovare una nuova casa?
 
-***The Town of Vallaki***. When the players departed Vallaki in [[Arc U - Dreams of Dawn]], they left their friends to face an oncoming horde of undead. Through the visions of the Heart of Sorrow, they beheld flashes of Vallaki’s fight against Strahd’s army—visions of death and life alike. Now, as they return to Vallaki, how much of the town will they find standing—and how will the town greet them?
-### 1a. The Odd Couple
-**When the players first return to I. Black Carriage (p. 37) after completing [[Arc U - Dreams of Dawn]],** read:
-
-<div class="description">
-<p>A familiar crossroads lies ahead, faintly illuminated in the morning sun. One branch leads west, toward Vallaki, and the other south, toward Barovia.</p> 
-<p>Across the way, something rustles in the bushes behind a tree. You catch a glimpse of a squat silhouette, then hear a sharp, short whine, followed by a muffled shushing noise.</p>
-</div>
-
-The squat silhouette is Cyrus Belview, who is hiding behind the tree.  Cyrus is joined by the **wight** Lief Lipsiege.
-
-**If the players didn’t retrieve Pidlwick II from Castle Ravenloft in [[Arc P - Ravenloft Heist]],** add:
+***La cittadina di Vallaki***. Quando i giocatori hanno lasciato Vallaki nell'[[Arc U - Dreams of Dawn|Arco U: Sogni dell'alba]], i loro amici sono rimasti ad affrontare un'orda di non morti in arrivo. Grazie alle visioni del Cuore della Tristezza hanno intravisto la battaglia di Vallaki contro l'esercito di Strahd, visioni di morte e di vita. Ora che tornano a Vallaki, quanta parte della città troveranno ancora in piedi e come li accoglierà la città?
+### 1a. La strana coppia
+**Quando i giocatori tornano per la prima volta a I. Carrozza nera (p. 37) dopo aver completato l'[[Arc U - Dreams of Dawn|Arco U: Sogni dell'alba]],** leggi:
 
 <div class="description">
-<p>A moment later, something clinks and whirs faintly from the underbrush nearby.</p>
+<p>Davanti a voi c'è un crocevia che conoscete, appena illuminato dal sole del mattino. Una diramazione porta a ovest, verso Vallaki, l'altra a sud, verso Barovia.</p> 
+<p>Dall'altra parte della strada qualcosa fruscia fra i cespugli dietro un albero. Intravedete una sagoma tozza, poi sentite un piagnucolio breve e acuto, seguito da un «sssh» soffocato.</p>
 </div>
 
-The whirring is Pidlwick II, who is crouching in the bushes near Cyrus and Lief.
+La sagoma tozza è Cyrus Belview, nascosto dietro l'albero.  Con lui c'è il **wight** Lief Lipsiege.
 
-**If the players have previously met Cyrus, Lief, or Pidlwick**, they recognize the sound of their voices and gears, respectively.
-
-**During this interaction,** Cyrus, Lief, and Pidlwick have the following perspectives:
-
-* **Cyrus.** Cyrus is terrified of lingering undead, determined to return to his family at the Abbey of St. Markovia, and grimly ready to defend himself.  
-* **Lief.** Lief is despondent following his apparent dismissal from service, irritated at the pains from exerting “old, aching bones," and disgusted at and fearful of the “big, ugly yellow thing" (the Sun).  
-* **Pidlwick II**. Pidlwick is simultaneously suspicious of the world outside of the castle (including the players) and delighted to be able to explore beyond Castle Ravenloft’s walls.
-
-**If the players investigate the lurkers,** their conversation might begin as follows:
-
-* **If a player calls out and succeeds on a DC 10 Charisma (Persuasion) check**, or a DC 5 Charisma (Persuasion) check if they identify themselves, Cyrus calls back, “You sure you ain’t more shamblers? ‘Cuz that’s what a shambler would say if they wanted to eat our brains." **If the players provide further reassurance,** Cyrus adds, “Fine, but if you try any funny business, I’ll take you apart." Cyrus, Lief, and Pidlwick II then reveal themselves, with Cyrus suspiciously brandishing a wooden spoon like a dagger.  
-* **If a player approaches the tree**, Cyrus calls out, “Oi! You shambley lads take one step forward, and I’ll take yer hands clean off." **If the players round the tree,** Cyrus whirls to face them, brandishing a wooden spoon like a dagger, with Lief nervously hiding behind him. “I mean it!" Cyrus warns.  
-* **If a player approaches the bushes and Pidlwick II is present,** they hear a quiet, steady ticking noise emanating from the bushes. **If a player pulls the bush’s branches aside,** Pidlwick cowers before them, holding its hands before its face.
-
-**If the players comfort or reassure the lurkers,** Cyrus and Lief relax and are willing to speak with them. **However, if the players invite Lief into the sunlight**, Lief won’t willingly leave the shadows unless sheltered by a cloak or similar protection.
-
-**If the conversation turns to the zombie army,** it might unfold as follows:
-
-* **Strahd’s Orders.** Lief shares solemnly that Strahd ordered every creature in Ravenloft to join the undead horde marching upon the settlements of Barovia. “Unacceptable," he sniffs. “I did not complete my accountancy apprenticeship to be *conscripted*."  
-* **Escape From the Horde.** Cyrus shares that he, Lief, and (if present) Pidlwick II snuck away from the horde soon after departing Ravenloft. “Don’t think none of them cared much what we were doing," he grumps. “So much the better for it. Didn’t want to give any of them shamblers a chance to take a bite out of my noggin."  
-* **Hope for Barovia.** Cyrus shares his quiet, solemn hope that “Clovin and the others made out okay." “That was an awful lot of shamblers," he mumbles, looking at the ground.
-
-**If the conversation turns to Strahd and Castle Ravenloft,** it might unfold as follows:
-
-* **Lief’s Broken Heart.** Lief asks the players whether “Lord von Zarovich" asked for Lief to return back to the castle. “I have served him faithfully for centuries," he says anxiously, fidgeting with his hands. “If I did something to displease him, I hope he might forgive it."  
-* **The Floating Castle.** Lief and Cyrus confirm that they saw “the floating castle" in the distance as they fled the horde. (Neither knows what it meant, or why the castle was floating. “Ain’t natural for a castle to float," Cyrus adds, gruffly.)  
-* **Cyrus’s Theory.** Cyrus freely shares his theory that the castle was secretly an enormous bat, and took to the skies at Strahd’s command. “It’s the only explanation that makes sense," he insists, crossing his arms.  
-* **Strahd’s Death.** **If the players share that Strahd is dead,** Cyrus’s jaw drops, and Lief freezes. “I apologize," Lief says stiffly, “but I must have misheard you." **If the players confirm that Strahd is dead,** (1) Lief grows despondent, wondering aloud how he might find work if his employer is deceased, and (2) Cyrus snarls in tearful frustration, demanding to know “how he’s gonna set his family back to rights if the old bloodsucker is dead." (Cyrus is referring to Strahd’s promise to “cure" the Belviews’ condition if Cyrus cleaned every room of Castle Ravenloft.)
-
-**If the conversation turns to the Sun**, it might unfold as follows:
-
-* **The Big, Ugly Yellow Thing.** Lief mops his head with an old, rotted handkerchief and complains about the “big, ugly yellow thing" in the sky. “My old skin is too sensitive for that kind of light," he moans. “Won’t someone extinguish it?"  
-* **The Lich-King’s Scheme.** Cyrus insists that the “giant torch in the sky" is a plot by the Lich-King Firan, who intends to use it to control the minds of every thinking creature in Barovia.   
-* **What’s a Sun?** **If informed that the Sun is the Sun**, (1) Lief glowers at it and notes that he “never cared much for the outdoors, anyway," and (2) Cyrus falls quiet, eyes the Sun worshipfully, and says softly that he had always believed it to be a myth.
-
-**If the conversation turns to the lurkers’ intentions after Strahd’s death**, it might unfold as follows:
-
-* **Lief’s Intent.** Lief bemoans the loss of his career. “With my lord gone, there is surely no place in this valley for a learned man as me," he murmurs, dabbing at a bloody tear with his handkerchief. **(If the players offer to introduce Lief to Lady Wachter or another employer**, Lief is skeptical, but cautiously grateful.)  
-* **Cyrus’s Intent.** Cyrus shares his intent to reunite with his family. “I don’t know how we’ll fix things, with *him* gone," he adds, bowing his head and slumping his shoulders. “I only went to the castle to help them—but if he’s gone, I guess it was all for nothing."  
-* **Pidlwick’s Intent.** **If present**, Pidlwick is curious about the players, and eager for any opportunities to explore Barovia further.
-
-**If the players invite the lurkers to join them**, Lief, Cyrus, and Pidlwick II are glad to do so.
-### 1b. The New Svalich Road
-**If the players depart the crossroads** for Vallaki, read:
-
-<div class="description">  
-<p>The crumbling Barovian gates hang open, their rusted hinges too old and tired to bar the way ahead. Beyond them, the road winds north through a familiar wood—but a wood that seems fresh and new again.</p>  
-<p>Flowers bloom in the soft, loamy earth beneath the trees, and a quiet creek trickles beside the road, its waters sparkling and clear. A cool wind stirs the orange-red leaves above, which seem to be on fire beneath the golden light of the autumn sun. Birdsong flows through the woodland canopies, joined by the chittering of squirrels and the tapping of a distant woodpecker.</p>  
-<p>A silhouette pads through the underbrush: a wolf, the dappled sunlight granting its gray-brown hide a golden sheen. Above it, a black-feathered raven alights upon a sturdy oak bough, where a gossamer spiderweb glistens like diamond-set silk.</p>  
-<p>Slowly—unmistakeably—the beasts bow low before you.</p>  
-</div>
-
-The wolf, raven, and spider are messengers of the Ladies Three. Regardless of the players’ response, they vanish into the woods shortly after paying their respects.
-### 1c. The Gates of Vallaki
-**When the players return to Vallaki**, read:
-
-<div class="description">  
-<p>Death surrounds the walls of Vallaki—piles of bodies, heaped a dozen high.</p>  
-<p>The walls are battered, the gates askew, and the road stained with blood. But above it all, fluttering defiantly beneath a clear blue sky, stands a proud flag painted with a golden sunburst.</p>  
-<p>People fill the road. Some drag bodies toward the mounds of the dead, while others set pyres alight, their leaping flames sending ash into the wind. Some clean debris through the streets, while others patch great holes and gouges in the town’s palisade wall.</p>  
-</div>
-
-Continue, modifying the text as necessary to reflect each character’s current status:
-
-<div class="description">  
-<p>One of the haulers catches sight of you and turns. Though his hair is stained with blood and grime, and though his clothes are torn and muddy, you recognize him: Milivoj. His eyes widen, and he sways faintly, as if in awe.</p>  
-<p>You recognize other faces in the crowd. Victor and Stella. Arrigal and Luvash, with Arabelle on Luvash’s shoulders. One by one, they follow Milivoj’s gaze—and one by one, their eyes widen in recognition.</p>  
-<p>Someone begins to clap—slowly at first, then faster, growing in volume as more and more join in. Whoops and cries of joy break through the air, many voices mixing in a single shared message:</p>  
-<p><em>They’re back.</em></p>  
-<p><em>They’re safe.</em></p>  
-<p><em>They <strong>did it!</strong></em></p>  
-</div>
-
-* **Milivoj** is grateful and humbled to see the players, and regrets ever doubting them. **If the players sanctified St. Andral’s Church**, he can gladly share that his siblings are safe in the church with Yeska, which sheltered the town’s children and elderly during the fighting.  
-* **Victor and Stella** are joyous to see the players, having missed them since their departure and having anxiously awaited their return. Victor, in particular, quietly feared that the players would never return, but has loudly proclaimed to any others who doubted that the players were guaranteed to “put the bloodsucker back in the dirt."  
-* **Arrigal** is quietly awed by the players and impressed by their strength. Although still slightly tense regarding his suspicion that the Vallakians might reject his people, he is deeply grateful to Lady Wachter and the rest of Vallaki for accepting the Vistani and dusk elves when they came to the town’s gates seeking shelter and allies against the oncoming horde.  
-* **Luvash and Arabelle** are delighted to see the players, with Luvash loudly congratulating them and offering an enormous bear hug to any player who will accept it. Arabelle welcomes the players back, and can quietly share that her foresight extended no further than the Eternal Night. “I wanted you to succeed," she says, hugging them tightly. “But I didn’t know for sure."
-
-**If the players ask**, they can learn the following information:
-
-* **The Gathering.** As the Whispering Wall retreated, the Vistani and dusk elves came to the town’s western gates, warning of a great host of undead and pleading for sanctuary. At Lady Wachter’s command, the gates were opened to them, with any children and elderly taking up refuge in St. Andral’s Church, any noncombatants fortifying the Blue Water Inn, and the remainder taking up arms to defend the town. To mark the alliance’s defiant stand, the defenders hoisted a sunburst flag above the walls. (A blushing Stella can admit that she painted the flag and shared it with the town’s guards. “I just thought that we needed something to fight for," she says, “not just something to fight against.")  
-* **The Siege.** Strahd’s undead breached the eastern gates and nearly tore down the western gates, but Vallaki’s defenders initially held them from taking any further ground. As the town’s forces seemed about to break, the beacon to the west flashed with silver light, and they rallied. Less than a minute later, the undead army fell as one, the crimson sigils on their foreheads vanishing and life leaving them.  
-* **The Dawn.** Soon after Strahd’s army fell, shouts came from the east that a new light had appeared on the horizon—a red-golden glow from beyond the eastern rim of the Balinok Mountains. Slowly, then rapidly, the townsfolk opened their windows, flooded into the streets, and looked up at the skies at a sight that Barovia had not seen for centuries: the rising Sun. (“This lad cried a bit at that," Luvash says, teasingly jostling Victor with an elbow. “Hey!" Victor retorts. “As if you didn’t too." “Aye," Luvash adds, chuckling. “That I did.")  
-* **The Rebuild.** Since the battle ended, the townsfolk have come together to identify and gather their dead, to repair fallen structures, and to remove and burn the remains of those they felled. (“They didn’t choose to fight for him," Milivoj says quietly. “They deserved that much.") Since then, many have waited anxiously for the players to return—not only for the players’ sake, but out of fear that their victory might be Strahd’s last trick: a trap to lower their guards.  
-* **The Others.** Lady Fiona Wachter is directing the rebuild from the town square, aided by the Martikovs (providing food and drink) and Father Petrovich (providing healing to the wounded and counsel to the grieving). The Vistani and dusk elves, led by Kasimir, have taken up residence in the town square as well, and are aiding in the recovery efforts.
-### 1d. The Town Square
-**If the players travel to the town square,** read the following, modifying the text as necessary:
-
-<div class="description">  
-<p>Tents, bedrolls, and smoldering campfires fill Vallaki’s town square, joined by throngs of people working, talking, or simply staring up at the sky in awe.</p>  
-<p>A line of townsfolk has assembled by the square’s wooden platform, where Urwin and Danika Martikov serve chunks of bread and stew from a great metal pot. You catch glimpses of Lady Wachter and Father Lucian going separately from fire to fire, pausing by each person, speaking quietly and kindly to them, then moving to the next. By the stocks, Blinsky acts out a play with a pair of puppets, a crowd of delighted children watching enraptured.</p>  
-</div>
-
-* **Urwin and Danika** are tired after a long night of aiding in the town’s defense, but relieved and grateful for the safety of their children. They’re delighted to see that the players are safe (and Danika is even happier to put them to work bringing deliveries of bread to some of the elderly and wounded in the square—though she and Urwin insist that the players eat their own fill first).  
-* **Lady Wachter** is heartened and deeply grateful to see the players. Although she does her best to remain polite and refined, she is sincerely and genuinely glad for their return and company. (“Thank you," she shares, earnestly, the tension leaving her shoulders. “I—*we*—would have been lost without you.")   
-* **Father Lucian** is overjoyed to see the players, and embraces them on sight. Although he’s eager to discuss the Sun’s return and the fate of Castle Ravenloft, he insists on seeing to the players’ needs first. (“You’ve returned!" he proclaims, looking them up and down. “Are you harmed? Have you had a chance to rest?")   
-* **Blinsky** is doing his best to distract and delight Vallaki’s children, especially those whose family members were wounded in the fighting. Although the children were initially intimidated by Blinsky’s macabre toys, he accidentally made them laugh by accidentally locking himself in the stocks—and for the past hour or so has been keeping them entertained by putting on a self-deprecating “silly" slapstick show with some of his toys and puppets.  
-* **Yeska, Brom, and Bray** are watching Blinsky’s show by the stocks alongside Milivoj’s siblings and several other Vallakian children. All are glad to see the players’ return.
-
-If the players ask after Kasimir, any Vistani, dusk elf, or Martikov can share that he departed the town a short while ago to return home. (“He said he needed to see something.")
-### 1e. The Vistani Camp
-**If the players travel to the Vistani encampment**, read:
-
-<div class="description">  
-<p>The hilltop stands bare, bereft of the great tent and many wagons that once stood here. Below it, the dusk elves’ small cottages stand silent and empty around the hilltop. A lone silhouette lies on the hillside, the grasses swaying in a sweet and gentle breeze.</p>  
-</div>
-
-The silhouette is **Kasimir**, who is watching the sky and thinking. 
-
-Kasimir is glad to see the players, though thoughtful and somber. He can share that he came here to escape the noise and bustle and think. (“I felt I had more I could do," he says, “but Miss Dorakova insisted that I rest—and so I came here.") 
-
-Kasimir has come to the hill to reflect on everything—his people, his sister, his regrets, and his future. (“For five hundred years, my people’s fates have been dictated by the whims of House Von Zarovich," he says. “To think of what might come after—I struggle to grapple with it, I admit.")
-
-Kasimir welcomes any thoughts or guidance the players may be willing to provide. Although he is grateful if the players join him on the hill for a little while, he is glad to accompany them back to Vallaki.
-## 2. The Festival of the Dawn
-When the players return to Vallaki, Urwin, Danika, Victor, and Stella urge Lady Wachter to organize a festival to celebrate their victory and Barovia’s freedom from Strahd. Publicly reluctant, but quietly pleased, Lady Wachter makes the necessary arrangements, with the Martikovs providing food and drink, Blinsky providing decorations and games, the Vistani providing music, the dusk elves providing stories, and the town’s resident mages—Victor and Kasimir—providing colorful displays of magic.
-
-But behind the festival lurks a collage of uncertainties. Lady Wachter, from the high table, wonders if her lack of faith leaves her unworthy to lead Vallaki into a new dawn. Victor, from the mages’ stage, wonders if he can muster up the courage to tell Stella how he feels. Escher, sulking in the darkened alleys, wonders if he can escape the sins of his past. And the Dreamer, cloaked and disguised, wonders if she can mend her relationship with her sisters, the Ladies Three. Will the players help each of these lost attendees find their path forward?
-### 2a. The Flickering Beacon
-Shortly after the players return to Vallaki, Lady Wachter visits them personally to request their aid.
-
-Lady Wachter shares that the beacon of Argynvostholt, which shone brightly through Strahd’s unending night, fell dark when the Sun rose over Barovia. Since then, however, she’s received reports that the beacon has lit again—but that, this time, it’s begun to flicker strangely with an odd, irregular pattern.
-
-Lady Wachter isn’t sure what the relit beacon means, but shares her concern that it may be some kind of message or distress signal. If the players are willing, she asks them to travel to Argynvostholt swiftly to uncover the truth. However, she also shares that traces of undead have been seen in the woods, and insists that the players return by dusk in case any return.
-
-> [!info]+ **Lady Wachter’s Scheme**  
-> Lady Wachter is telling only half the truth: Argynvost’s beacon *has* relit, and has been seen to flicker oddly. However, her request is merely a pretext to get the players out of Vallaki while she oversees the necessary preparations for the celebration of their victory. Moreover, while her scouts have seen “traces" of undead in the nearby woods, those traces have been limited to undead *remains*; Lady Wachter’s true motivation is to ensure that the players return in time for the festival.
-### 2b. The Empty Mansion
-If the players return to Argynvostholt, read the following when they arrive:
+**Se i giocatori non hanno portato via Pidlwick II dal Castello di Ravenloft nell'[[Arc P - Ravenloft Heist|Arco P: Il colpo a Ravenloft]],** aggiungi:
 
 <div class="description">
-<p>The once-grand manor stands silently before you. Where once a cold shadow dwelled, there is now only emptiness—save for a faint silver light that pulses from the top of the mansion’s tallest tower.</p>
+<p>Un attimo dopo, dal sottobosco lì vicino arriva un debole tintinnio, accompagnato da un ronzio.</p>
 </div>
 
-If the players ascend to <span class="citation">Q53. Beacon of Argynvostholt (p.142)</span>, read:
+Il ronzio è Pidlwick II, accucciato fra i cespugli vicino a Cyrus e Lief.
+
+**Se i giocatori hanno già incontrato Cyrus, Lief o Pidlwick**, ne riconoscono la voce, o il rumore degli ingranaggi.
+
+**Durante questa scena,** Cyrus, Lief e Pidlwick la vedono così:
+
+* **Cyrus.** Cyrus è terrorizzato dai non morti che ancora girano, è deciso a tornare dalla sua famiglia all'Abbazia di Santa Markovia ed è pronto, con aria cupa, a difendersi.  
+* **Lief.** Lief è abbattuto per quello che gli sembra un licenziamento, irritato dai dolori alle «vecchie ossa doloranti» sotto sforzo, disgustato e spaventato dalla «grossa cosa gialla e brutta» (il Sole).  
+* **Pidlwick II**. Pidlwick diffida del mondo fuori dal castello (giocatori compresi) e allo stesso tempo è felicissimo di poter esplorare oltre le mura del Castello di Ravenloft.
+
+**Se i giocatori vanno a vedere chi si nasconde,** la conversazione può cominciare così:
+
+* **Se un giocatore li chiama e supera una prova di Carisma (Persuasione) con CD 10**, o con CD 5 se dice chi è, Cyrus risponde: «Sicuri che non siete altri barcolloni? Perché è proprio quello che direbbe un barcollone che vuole mangiarci il cervello». **Se i giocatori lo rassicurano ancora,** Cyrus aggiunge: «Va be', ma se fate scherzi vi smonto pezzo per pezzo». Poi Cyrus, Lief e Pidlwick II escono allo scoperto, con Cyrus che brandisce sospettoso un cucchiaio di legno come se fosse un pugnale.  
+* **Se un giocatore si avvicina all'albero**, Cyrus grida: «Ehi! Voialtri barcolloni, fate un passo avanti e vi stacco le mani di netto». **Se i giocatori girano intorno all'albero,** Cyrus si volta di scatto verso di loro brandendo un cucchiaio di legno come un pugnale, con Lief che si nasconde nervoso dietro di lui. «Dico sul serio!», avverte Cyrus.  
+* **Se un giocatore si avvicina ai cespugli e Pidlwick II è presente,** sente un ticchettio leggero e regolare che viene dai cespugli. **Se un giocatore scosta i rami,** Pidlwick si rannicchia davanti a lui, con le mani davanti alla faccia.
+
+**Se i giocatori confortano o rassicurano i tre,** Cyrus e Lief si rilassano e sono disposti a parlare. **Se però i giocatori invitano Lief a uscire al sole**, Lief non lascia volentieri l'ombra a meno di essere riparato da un mantello o da una protezione simile.
+
+**Se la conversazione arriva all'esercito di zombi,** può andare così:
+
+* **Gli ordini di Strahd.** Lief racconta con solennità che Strahd ha ordinato a ogni creatura di Ravenloft di unirsi all'orda di non morti in marcia sugli insediamenti di Barovia. «Inaccettabile», dice tirando su col naso. «Non ho completato l'apprendistato da contabile per essere *arruolato*».  
+* **La fuga dall'orda.** Cyrus racconta che lui, Lief e (se è presente) Pidlwick II se la sono svignata poco dopo aver lasciato Ravenloft. «Mica gli importava a nessuno di quello che facevamo», brontola. «Meglio così. Non ci tenevo a dare a uno di quei barcolloni l'occasione di staccarmi un morso di zucca».  
+* **Una speranza per Barovia.** Cyrus confida, a bassa voce e serio, la sua speranza che «Clovin e gli altri se la siano cavata». «Erano un sacco di barcolloni», borbotta, guardando per terra.
+
+**Se la conversazione arriva a Strahd e al Castello di Ravenloft,** può andare così:
+
+* **Il cuore spezzato di Lief.** Lief chiede ai giocatori se «lord von Zarovich» ha chiesto che Lief torni al castello. «L'ho servito fedelmente per secoli», dice ansioso, tormentandosi le mani. «Se ho fatto qualcosa che lo ha scontentato, spero che possa perdonarmi».  
+* **Il castello volante.** Lief e Cyrus confermano di aver visto in lontananza «il castello che volava» mentre fuggivano dall'orda. (Nessuno dei due sa che cosa volesse dire, né perché il castello volasse. «Non è naturale che un castello voli», aggiunge Cyrus, burbero.)  
+* **La teoria di Cyrus.** Cyrus espone volentieri la sua teoria: il castello era in segreto un pipistrello gigante e ha preso il volo al comando di Strahd. «È l'unica spiegazione che ha senso», insiste, a braccia conserte.  
+* **La morte di Strahd.** **Se i giocatori dicono che Strahd è morto,** a Cyrus cade la mascella e Lief si irrigidisce. «Chiedo scusa», dice Lief, rigido, «ma devo aver capito male». **Se i giocatori confermano che Strahd è morto,** (1) Lief si abbatte e si chiede ad alta voce come troverà lavoro se il suo datore è defunto, e (2) Cyrus ringhia di frustrazione con le lacrime agli occhi e chiede di sapere «come farà a rimettere a posto la sua famiglia se il vecchio succhiasangue è morto». (Cyrus si riferisce alla promessa di Strahd di «curare» la condizione dei Belview se Cyrus avesse pulito ogni stanza del Castello di Ravenloft.)
+
+**Se la conversazione arriva al Sole**, può andare così:
+
+* **La grossa cosa gialla e brutta.** Lief si tampona la testa con un vecchio fazzoletto marcio e si lamenta della «grossa cosa gialla e brutta» nel cielo. «La mia vecchia pelle è troppo delicata per una luce del genere», geme. «Nessuno può spegnerla?»  
+* **Il piano del Re-Lich.** Cyrus insiste che la «torcia gigante nel cielo» è un complotto del Re-Lich Firan, che vuole usarla per controllare la mente di ogni creatura pensante di Barovia.   
+* **Che cos'è un Sole?** **Se gli spiegano che il Sole è il Sole**, (1) Lief lo guarda torvo e osserva che «tanto non gli è mai piaciuto stare all'aperto», e (2) Cyrus tace, guarda il Sole con adorazione e dice piano che lo aveva sempre creduto una leggenda.
+
+**Se la conversazione arriva a che cosa faranno i tre ora che Strahd è morto**, può andare così:
+
+* **Le intenzioni di Lief.** Lief piange la fine della sua carriera. «Con il mio signore scomparso, in questa valle non c'è più posto per un uomo istruito come me», mormora, tamponandosi una lacrima di sangue con il fazzoletto. **(Se i giocatori si offrono di presentare Lief a Lady Wachter o a un altro datore di lavoro**, Lief è scettico, ma con cautela riconoscente.)  
+* **Le intenzioni di Cyrus.** Cyrus dice che vuole ricongiungersi alla sua famiglia. «Non so come sistemeremo le cose, ora che *lui* non c'è più», aggiunge, a testa bassa e con le spalle cadenti. «Sono andato al castello solo per aiutarli. Ma se lui non c'è più, è stato tutto per niente».  
+* **Le intenzioni di Pidlwick.** **Se è presente**, Pidlwick è curioso dei giocatori e non vede l'ora di avere occasioni per esplorare ancora Barovia.
+
+**Se i giocatori invitano i tre a unirsi a loro**, Lief, Cyrus e Pidlwick II accettano volentieri.
+### 1b. La nuova Strada di Svalich
+**Se i giocatori lasciano il crocevia** diretti a Vallaki, leggi:
 
 <div class="description">  
-<p>The tower’s peak is quiet and empty—save for a large silver egg that lies upon the floor, pulsing with an iridescent light.</p>  
+<p>I cancelli di Barovia, ormai in rovina, sono spalancati, con i cardini arrugginiti troppo vecchi e stanchi per sbarrare il passo. Oltre di essi la strada si snoda verso nord attraverso un bosco che conoscete, ma che sembra di nuovo fresco e nuovo.</p>  
+<p>Nella terra morbida e grassa sotto gli alberi sbocciano fiori, e accanto alla strada scorre un ruscello tranquillo, dalle acque limpide e scintillanti. Un vento fresco muove le foglie rosso arancio in alto, che sembrano prendere fuoco sotto la luce dorata del sole d'autunno. Fra le chiome del bosco scorre il canto degli uccelli, insieme al cicaleccio degli scoiattoli e al picchiettare di un picchio lontano.</p>  
+<p>Una sagoma avanza silenziosa nel sottobosco: un lupo, e la luce del sole che filtra fra le foglie dà al suo pelo grigio bruno un riflesso dorato. Sopra di lui un corvo dalle piume nere si posa su un robusto ramo di quercia, dove una ragnatela sottilissima luccica come seta tempestata di diamanti.</p>  
+<p>Lentamente, senza possibilità di equivoco, le bestie si inchinano davanti a voi.</p>  
 </div>
 
-The light fades permanently if the egg is touched.
+Il lupo, il corvo e il ragno sono messaggeri delle Tre Dame. Qualunque cosa facciano i giocatori, poco dopo aver reso omaggio spariscono nel bosco.
+### 1c. Le porte di Vallaki
+**Quando i giocatori tornano a Vallaki**, leggi:
 
-> [!info]+ **The Egg**  
-> The egg is the child—or reincarnation—of Argynvost, brought into being by the immolation of his spirit.  
+<div class="description">  
+<p>La morte circonda le mura di Vallaki: mucchi di cadaveri, ammassati a decine.</p>  
+<p>Le mura sono malconce, le porte storte e la strada macchiata di sangue. Ma sopra tutto, sotto un cielo azzurro e limpido, sventola fiera una bandiera con un sole raggiante dipinto d'oro.</p>  
+<p>La strada è piena di gente. Alcuni trascinano i corpi verso i mucchi di morti, altri accendono le pire, e le fiamme guizzanti mandano cenere nel vento. Alcuni sgomberano le macerie per le strade, altri tappano i grandi buchi e gli squarci nella palizzata della città.</p>  
+</div>
+
+Continua, adattando il testo alla situazione attuale di ogni personaggio:
+
+<div class="description">  
+<p>Uno di quelli che trascinano i corpi vi vede e si volta. Ha i capelli sporchi di sangue e di sudiciume e i vestiti strappati e infangati, ma lo riconoscete: è Milivoj. Spalanca gli occhi e barcolla appena, come stordito dallo stupore.</p>  
+<p>Fra la folla riconoscete altri volti. Victor e Stella. Arrigal e Luvash, con Arabelle sulle spalle di Luvash. Uno dopo l'altro seguono lo sguardo di Milivoj, e uno dopo l'altro spalancano gli occhi: vi hanno riconosciuti.</p>  
+<p>Qualcuno comincia ad applaudire, prima piano, poi più in fretta, sempre più forte man mano che altri si uniscono. Nell'aria esplodono grida di gioia, molte voci che si mescolano in un unico messaggio:</p>  
+<p><em>Sono tornati.</em></p>  
+<p><em>Sono salvi.</em></p>  
+<p><em>Ce l'hanno <strong>fatta!</strong></em></p>  
+</div>
+
+* **Milivoj** è grato e commosso di vedere i giocatori e si pente di aver mai dubitato di loro. **Se i giocatori hanno santificato la Chiesa di Sant'Andral**, può dire con gioia che i suoi fratelli sono al sicuro in chiesa con Yeska: durante i combattimenti la chiesa ha dato riparo ai bambini e agli anziani della città.  
+* **Victor e Stella** sono felicissimi di vedere i giocatori: hanno sentito la loro mancanza da quando sono partiti e ne hanno aspettato con ansia il ritorno. Victor in particolare temeva in silenzio che i giocatori non tornassero più, ma a chiunque dubitasse ha proclamato a gran voce che di sicuro avrebbero «rimesso il succhiasangue sotto terra».  
+* **Arrigal** è colpito in silenzio dai giocatori e impressionato dalla loro forza. È ancora un po' teso, perché sospetta che i vallakiani possano respingere la sua gente, ma è profondamente grato a Lady Wachter e al resto di Vallaki per aver accolto i Vistani e gli elfi del crepuscolo quando sono arrivati alle porte della città in cerca di riparo e di alleati contro l'orda.  
+* **Luvash e Arabelle** sono felicissimi di vedere i giocatori: Luvash si congratula a gran voce e offre un enorme abbraccio da orso a ogni giocatore che lo accetti. Arabelle dà il bentornato ai giocatori e può confidare sottovoce che la sua preveggenza non arrivava oltre la Notte Eterna. «Volevo che ce la faceste», dice, stringendoli forte. «Ma non lo sapevo per certo».
+
+**Se i giocatori lo chiedono**, possono scoprire quanto segue:
+
+* **L'alleanza.** Mentre il Muro dei Sussurri si ritirava, i Vistani e gli elfi del crepuscolo sono arrivati alle porte occidentali della città avvertendo che stava arrivando una grande schiera di non morti e chiedendo asilo. Per ordine di Lady Wachter le porte sono state aperte: i bambini e gli anziani si sono rifugiati nella Chiesa di Sant'Andral, chi non combatteva ha fortificato la Locanda dell'Acqua Azzurra e gli altri hanno preso le armi per difendere la città. Per segnare la resistenza dell'alleanza, i difensori hanno issato sulle mura una bandiera con il sole raggiante. (Stella, arrossendo, può ammettere di aver dipinto lei la bandiera e di averla data alle guardie della città. «Pensavo solo che ci servisse qualcosa per cui combattere», dice, «non solo qualcosa contro cui combattere».)  
+* **L'assedio.** I non morti di Strahd hanno sfondato le porte orientali e quasi abbattuto quelle occidentali, ma all'inizio i difensori di Vallaki sono riusciti a impedire che guadagnassero altro terreno. Quando le forze della città sembravano sul punto di cedere, a ovest il faro ha mandato un lampo di luce argentea, e i difensori hanno ripreso coraggio. Meno di un minuto dopo l'esercito di non morti è caduto tutto insieme: i sigilli cremisi sulla fronte sono svaniti e la vita li ha abbandonati.  
+* **L'alba.** Poco dopo la caduta dell'esercito di Strahd, da est sono arrivate grida: all'orizzonte era comparsa una luce nuova, un bagliore rosso e oro oltre il bordo orientale dei Monti Balinok. Prima lentamente, poi sempre più in fretta, gli abitanti hanno aperto le finestre, si sono riversati nelle strade e hanno alzato gli occhi al cielo davanti a uno spettacolo che Barovia non vedeva da secoli: il sorgere del Sole. («Questo ragazzo ha pianto un po', a vederlo», dice Luvash, dando per scherzo una gomitata a Victor. «Ehi!», ribatte Victor. «Come se tu no». «Sì», aggiunge Luvash, ridacchiando. «Anch'io».)  
+* **La ricostruzione.** Da quando la battaglia è finita, gli abitanti si sono uniti per riconoscere e raccogliere i loro morti, riparare gli edifici crollati e portare via e bruciare i resti di quelli che hanno abbattuto. («Non hanno scelto loro di combattere per lui», dice piano Milivoj. «Questo glielo dovevamo».) Da allora in molti aspettano con ansia il ritorno dei giocatori, per il loro bene e per paura che la vittoria sia l'ultimo trucco di Strahd: una trappola per far loro abbassare la guardia.  
+* **Gli altri.** Lady Fiona Wachter dirige la ricostruzione dalla piazza della città, aiutata dai Martikov (che forniscono cibo e bevande) e da padre Petrovich (che cura i feriti e consola chi è in lutto). Anche i Vistani e gli elfi del crepuscolo, guidati da Kasimir, si sono sistemati nella piazza e danno una mano.
+### 1d. La piazza della città
+**Se i giocatori vanno alla piazza della città,** leggi quanto segue, adattando il testo dove serve:
+
+<div class="description">  
+<p>Tende, giacigli e fuochi da campo che ancora fumano riempiono la piazza di Vallaki, insieme a una folla di gente che lavora, parla o semplicemente guarda il cielo a bocca aperta.</p>  
+<p>Davanti alla pedana di legno della piazza si è formata una fila di abitanti, a cui Urwin e Danika Martikov servono pezzi di pane e stufato da un grande pentolone di metallo. Intravedete Lady Wachter e padre Lucian che passano, ognuno per conto suo, da un fuoco all'altro, si fermano accanto a ogni persona, le parlano piano e con gentilezza, poi passano alla successiva. Vicino alla gogna, Blinsky recita una storia con un paio di burattini, davanti a una folla di bambini rapiti dallo spettacolo.</p>  
+</div>
+
+* **Urwin e Danika** sono stanchi dopo una lunga notte passata a difendere la città, ma sollevati e grati che i loro figli siano al sicuro. Sono felicissimi di vedere i giocatori sani e salvi (e Danika è ancora più felice di metterli al lavoro a portare il pane a qualche anziano e a qualche ferito della piazza, anche se lei e Urwin insistono perché prima i giocatori mangino a sazietà).  
+* **Lady Wachter** è rincuorata e profondamente grata di vedere i giocatori. Cerca di restare cortese e composta, ma è sinceramente felice del loro ritorno e della loro compagnia. («Grazie», dice, con sincerità, mentre la tensione le scivola via dalle spalle. «Io, anzi, *noi*, saremmo stati perduti senza di voi».)   
+* **Padre Lucian** è felicissimo di vedere i giocatori e appena li vede li abbraccia. Non vede l'ora di parlare del ritorno del Sole e della sorte del Castello di Ravenloft, ma insiste per occuparsi prima di quello di cui i giocatori hanno bisogno. («Siete tornati!», esclama, squadrandoli da capo a piedi. «Siete feriti? Avete avuto modo di riposare?»)   
+* **Blinsky** fa del suo meglio per distrarre e divertire i bambini di Vallaki, soprattutto quelli che hanno parenti feriti nei combattimenti. All'inizio i bambini erano intimiditi dai suoi giocattoli macabri, ma Blinsky li ha fatti ridere per sbaglio rimanendo chiuso nella gogna, e da circa un'ora li tiene allegri con uno spettacolo comico e un po' sciocco, in cui prende in giro sé stesso con alcuni giocattoli e burattini.  
+* **Yeska, Brom e Bray** guardano lo spettacolo di Blinsky vicino alla gogna, insieme ai fratelli di Milivoj e ad altri bambini vallakiani. Sono tutti contenti del ritorno dei giocatori.
+
+Se i giocatori chiedono di Kasimir, qualunque Vistana, elfo del crepuscolo o Martikov può dire che ha lasciato la città poco fa per tornare a casa. («Ha detto che doveva vedere una cosa».)
+### 1e. L'accampamento vistani
+**Se i giocatori vanno all'accampamento vistani**, leggi:
+
+<div class="description">  
+<p>La cima della collina è spoglia: non ci sono più il grande tendone e i molti carrozzoni che stavano qui. Più in basso, intorno alla collina, le casette degli elfi del crepuscolo sono silenziose e vuote. Una sagoma solitaria è distesa sul pendio, fra l'erba che ondeggia in una brezza dolce e leggera.</p>  
+</div>
+
+La sagoma è **Kasimir**, che guarda il cielo e pensa. 
+
+Kasimir è contento di vedere i giocatori, anche se è pensieroso e cupo. Può dire di essere venuto qui per sfuggire al rumore e alla confusione e per pensare. («Mi sembrava di poter fare di più», dice, «ma la signora Dorakova ha insistito che riposassi, e così sono venuto qui».) 
+
+Kasimir è venuto sulla collina a riflettere su tutto: la sua gente, sua sorella, i suoi rimpianti e il suo futuro. («Per cinquecento anni il destino della mia gente è stato dettato dai capricci della casata Von Zarovich», dice. «Pensare a quello che potrebbe venire dopo... ammetto che faccio fatica ad affrontarlo».)
+
+Kasimir accoglie volentieri le idee e i consigli che i giocatori vorranno dargli. È grato se i giocatori si fermano un po' con lui sulla collina, ma è felice di accompagnarli di nuovo a Vallaki.
+## 2. La Festa dell'Alba
+Quando i giocatori tornano a Vallaki, Urwin, Danika, Victor e Stella insistono con Lady Wachter perché organizzi una festa per celebrare la vittoria e la liberazione di Barovia da Strahd. In pubblico Lady Wachter si mostra riluttante, ma in segreto ne è contenta e prende le disposizioni necessarie: i Martikov si occupano di cibo e bevande, Blinsky delle decorazioni e dei giochi, i Vistani della musica, gli elfi del crepuscolo dei racconti e i maghi della città, Victor e Kasimir, di spettacoli di magia colorati.
+
+Ma dietro la festa si nasconde un mosaico di incertezze. Lady Wachter, dal tavolo d'onore, si chiede se la sua mancanza di fede la renda indegna di guidare Vallaki verso una nuova alba. Victor, dal palco dei maghi, si chiede se troverà il coraggio di dire a Stella quello che prova. Escher, che si rintana imbronciato nei vicoli bui, si chiede se potrà sfuggire ai peccati del suo passato. E la Sognatrice, incappucciata e travestita, si chiede se potrà ricucire il rapporto con le sue sorelle, le Tre Dame. Aiuteranno i giocatori ognuno di questi ospiti smarriti a trovare la sua strada?
+### 2a. Il faro tremolante
+Poco dopo il ritorno dei giocatori a Vallaki, Lady Wachter va a trovarli di persona per chiedere il loro aiuto.
+
+Lady Wachter racconta che il faro di Argynvostholt, che ha brillato per tutta la notte senza fine di Strahd, si è spento quando il Sole è sorto su Barovia. Da allora, però, le è stato riferito che il faro si è riacceso, ma che questa volta ha cominciato a tremolare in modo strano, con un ritmo bizzarro e irregolare.
+
+Lady Wachter non sa che cosa significhi, ma teme che possa essere una specie di messaggio o una richiesta d'aiuto. Se i giocatori sono disposti, chiede loro di andare in fretta ad Argynvostholt per scoprire la verità. Aggiunge però che nei boschi si sono viste tracce di non morti e insiste perché i giocatori tornino entro il tramonto, nel caso ne ritornino.
+
+> [!info]+ **Lo stratagemma di Lady Wachter**  
+> Lady Wachter dice solo metà della verità: il faro di Argynvost *si è* riacceso, e lo hanno visto tremolare in modo strano. La sua richiesta però è solo un pretesto per allontanare i giocatori da Vallaki mentre lei sorveglia i preparativi per la festa della vittoria. E se è vero che i suoi esploratori hanno visto «tracce» di non morti nei boschi vicini, quelle tracce erano solo *resti* di non morti: Lady Wachter vuole soltanto che i giocatori tornino in tempo per la festa.
+### 2b. La dimora vuota
+Se i giocatori tornano ad Argynvostholt, leggi quanto segue quando arrivano:
+
+<div class="description">
+<p>La dimora, un tempo grandiosa, si erge silenziosa davanti a voi. Dove un tempo abitava un'ombra fredda ora c'è solo il vuoto, tranne una debole luce argentea che pulsa in cima alla torre più alta.</p>
+</div>
+
+Se i giocatori salgono a <span class="citation">Q53. Faro di Argynvostholt (p.142)</span>, leggi:
+
+<div class="description">  
+<p>La cima della torre è silenziosa e vuota, tranne un grande uovo d'argento che giace sul pavimento e pulsa di una luce iridescente.</p>  
+</div>
+
+La luce si spegne per sempre se qualcuno tocca l'uovo.
+
+> [!info]+ **L'uovo**  
+> L'uovo è il figlio, o la reincarnazione, di Argynvost, nato dall'immolazione del suo spirito.  
 >   
-> A player who succeeds on a DC 15 Intelligence (Arcana or Nature) check recalls that the egg of a silver dragon can only incubate in a suitable environment—typically, ice or snow—and might take months to years to hatch.
-### 2c. Let the Festivities Commence!
-When the players return to Vallaki, the guards at the western gate inform them that Lady Wachter has requested their presence in the town square. (The guards refuse to divulge further information, insisting only that they were told that the players were needed on “urgent business.")
+> Un giocatore che supera una prova di Intelligenza (Arcano o Natura) con CD 15 ricorda che l'uovo di un drago d'argento può incubarsi solo in un ambiente adatto, di solito ghiaccio o neve e che possono volerci da mesi ad anni prima che si schiuda.
+### 2c. Che la festa abbia inizio!
+Quando i giocatori tornano a Vallaki, le guardie della porta occidentale li informano che Lady Wachter li aspetta nella piazza della città. (Le guardie si rifiutano di dire altro e insistono soltanto che è stato detto loro che i giocatori servono per «una faccenda urgente».)
 
-As the players traverse Vallaki’s streets, read:
-
-<div class="description">  
-<p>The town’s streets are quiet—near deserted. Not a light flickers in the windows of St. Andral’s Church, and the Blue Water Inn stands empty and dark. In the distance, however, light shines past the rooftops surrounding the distant town square—and faint tones of music float through the air.</p>  
-</div>
-
-If the players proceed to the town square, continue:
+Mentre i giocatori attraversano le strade di Vallaki, leggi:
 
 <div class="description">  
-<p>A now-familiar street splits off from the main road toward the town square, winding south past dark houses and empty storefronts. The sound of distant music grows stronger, now matched by swells of laughter and the echoes of many voices.</p>  
-<p>The street bends once more—and the town square comes into view, filled with life and color and <em>light</em>.</p>  
-<p>Golden banners and garlands criss-cross the square, and flags bearing sunbursts hang from a dozen windows and roofs. A hundred lanterns hang from hooks around the perimeter, their flickering light illuminating hundreds of people talking, laughing, dancing. At the center of the square, near the stone fountain, a great bonfire has been raised, its fierce tongues of flame casting shadows across a troupe of Vistani musicians and dancers who lead a circle of celebrants in a frolic around the fire’s edge.</p>  
-<p>Eight points of shimmering light streak into the clear sky above, then explode in showers of blue and violet light. Atop the wooden stage overlooking the square, you see Victor and Kasimir standing with arms outstretched, conjuring another stream of arcane fireworks as their royal-blue cloaks whip in the cool wind.</p>  
-<p>"They’re here!" Stella Wachter, from a position posted beside the nearest lantern, turns toward the stage and waves her hand excitedly while gesturing toward you. “They’re here!" A cheer runs through the crowd, which surges toward you in welcome.</p>  
+<p>Le strade della città sono silenziose, quasi deserte. Non brilla nemmeno una luce alle finestre della Chiesa di Sant'Andral, e la Locanda dell'Acqua Azzurra è vuota e buia. In lontananza, però, una luce splende oltre i tetti intorno alla piazza della città, e nell'aria fluttua una musica leggera.</p>  
 </div>
 
-Unless the players resist, they soon find themselves well-supplied with mugs of wine, cheese pastries, and honey cakes. 
+Se i giocatori proseguono verso la piazza, continua:
 
-Soon after Stella’s arrival, Lady Wachter arrives to greet them personally. Lady Wachter makes no apologies for her deception, but is honored to formally welcome the players as the guests of honor to “the Festival of the Dawn." (“I am not particularly fond of “festivals," she sniffs, smiling wryly, “but I found myself outvoted.")
+<div class="description">  
+<p>Una strada che ormai conoscete si stacca dalla via principale verso la piazza e si snoda verso sud, fra case buie e botteghe vuote. La musica lontana si fa più forte, accompagnata ora da scoppi di risate e dall'eco di tante voci.</p>  
+<p>La strada piega un'ultima volta, e appare la piazza della città, piena di vita, di colori e di <em>luce</em>.</p>  
+<p>Stendardi e ghirlande dorati attraversano la piazza in ogni direzione, e da una dozzina di finestre e tetti pendono bandiere con il sole raggiante. Tutto intorno, a dei ganci, sono appese cento lanterne, e la loro luce tremolante illumina centinaia di persone che parlano, ridono, ballano. Al centro della piazza, vicino alla fontana di pietra, è stato acceso un grande falò, e le sue lingue di fuoco proiettano ombre su un gruppo di musicisti e ballerini vistani che guidano un cerchio di festaioli in un girotondo intorno al fuoco.</p>  
+<p>Otto punti di luce scintillante sfrecciano nel cielo limpido e poi esplodono in piogge di luce blu e viola. Sopra il palco di legno che domina la piazza vedete Victor e Kasimir a braccia tese, che evocano un'altra raffica di fuochi d'artificio arcani mentre i loro mantelli blu reale sbattono nel vento fresco.</p>  
+<p>«Sono qui!» Stella Wachter, appostata accanto alla lanterna più vicina, si volta verso il palco e agita la mano tutta eccitata, indicandovi. «Sono qui!» Un'ovazione attraversa la folla, che vi si riversa incontro per accogliervi.</p>  
+</div>
 
-> [!info]+ **The Decorations**  
-> The decorations are leftovers from old Vallakovich festivals that Blinsky kept stored in his cellar.
+A meno che i giocatori non resistano, presto si ritrovano con le mani piene di boccali di vino, sfoglie al formaggio e dolci al miele. 
 
-Lady Wachter invites the players to relax and celebrate, and encourages them to enjoy themselves. “Our walls are well-watched tonight," she assures them. “You have more than earned a night of feasting and festivities."
-### 2d. Festival Games
-If the players explore the festival, they can find the following attractions:
+Poco dopo l'arrivo di Stella, Lady Wachter va a salutarli di persona. Non si scusa per l'inganno, ma è onorata di accogliere ufficialmente i giocatori come ospiti d'onore della «Festa dell'Alba». («Non ho una particolare passione per le “feste”», dice tirando su col naso, con un sorriso ironico, «ma sono stata messa in minoranza».)
 
-* A game of “pin-the-tail-on-the-nightmare," run by Blinsky outside his shop. (To play, a character must make a Wisdom check. On a result of 20 or more, the character pins the tail on the nightmare and wins a free toy from <span class="citation">Blinsky Toy (p. 50)</span> or <span class="citation">N7. Blinsky Toys (p. 118)</span>. The lower the result, the further the tail lands.)  
-* A wine stand run by any Martikovs still in Vallaki, at which Davian Martikov is loudly telling the tale of the players’ defeat of Baba Lysaga to anyone who will listen. (If asked, Urwin or Danika can share that the Vistani had several barrels of wine in their wagons and tent and gladly donated them to the festivities.) Davian’s audience includes Nikolai and Karl Wachter, who gleefully challenge the players to a drinking competition—soon joined by Arrigal, who asks slyly if the players would mind “an additional competitor." (To play, a character must make a Constitution saving throw each time they drink a glass. The DC begins at 4 and increases by 2 with each successive glass. The first time a character fails a saving throw, they become ****poisoned****—i.e., drunk—and the DC resets to 4. The second time a character fails a saving throw, they fall unconscious.)  
-* A fortunetelling stand run by Sofiya Zalken, a young Vistani woman with a tabby cat named Joie (pronounced “Zhwah") curled up around her neck. Sofiya is glad to offer Tarokka readings for a silver piece, but insists that the players don’t pay if she learns their identities. (Although Sofiya plays up her “inner eye" for children and onlookers, she freely admits that she is no true seer. “Nevertheless," she says, with a gleam in her eye and a grin on her face, “I’ve always thought that the future one sees in the cards is often the future that one *needed* to see—or at least, that’s what my mother always told me.")
+> [!info]+ **Le decorazioni**  
+> Le decorazioni sono avanzi delle vecchie feste dei Vallakovich che Blinsky teneva in cantina.
 
-Other attendees of the festival include Milivoj (with his siblings and Yeska), Luvash (with Arabelle), and Szoldar and Yevgeni.
-### 2e. Tales of Faith & Victory
-Once the players have had an opportunity to enjoy the festival, they’re approached by Lady Wachter and Father Lucian, who can share the following information:
+Lady Wachter invita i giocatori a rilassarsi e a festeggiare e li incoraggia a divertirsi. «Stanotte le nostre mura sono ben sorvegliate», li rassicura. «Vi siete più che meritati una notte di banchetti e di festa».
+### 2d. I giochi della festa
+Se i giocatori esplorano la festa, possono trovare queste attrazioni:
 
-* Lady Wachter intends to officially dedicate the festival in a ceremony later this evening, and would be honored if one or more of the players would tell the tale of Strahd’s defeat to the festivalgoers.  
-* Father Lucian intends to open the ceremony with an invocation, but is uncertain how to properly acknowledge the “nature goddesses" he’s heard about from Lady Wachter. He would appreciate the players’ help or guidance in doing so.
+* Un gioco di «attacca la coda all'incubo», gestito da Blinsky fuori dal suo negozio. (Per giocare, un personaggio deve effettuare una prova di Saggezza. Con un risultato di 20 o più attacca la coda all'incubo e vince un giocattolo gratis da <span class="citation">Giocattoli Blinsky (p. 50)</span> o da <span class="citation">N7. Giocattoli Blinsky (p. 118)</span>. Più basso è il risultato, più lontano finisce la coda.)  
+* Un banco del vino gestito dai Martikov ancora presenti a Vallaki, dove Davian Martikov racconta a gran voce a chiunque voglia ascoltarlo come i giocatori hanno sconfitto Baba Lysaga. (Se glielo chiedono, Urwin o Danika possono dire che i Vistani avevano diverse botti di vino nei carrozzoni e nel tendone e le hanno donate volentieri alla festa.) Fra chi ascolta Davian ci sono Nikolai e Karl Wachter, che sfidano allegramente i giocatori a una gara di bevute, a cui presto si unisce Arrigal, che chiede con aria furba se ai giocatori dispiace «un concorrente in più». (Per giocare, un personaggio deve effettuare un tiro salvezza su Costituzione ogni volta che beve un bicchiere. La CD parte da 4 e aumenta di 2 a ogni bicchiere successivo. La prima volta che un personaggio fallisce il tiro salvezza diventa ****avvelenato****, cioè ubriaco, e la CD torna a 4. La seconda volta che fallisce un tiro salvezza, perde i sensi.)  
+* Un banco della buona ventura gestito da Sofiya Zalken, una giovane vistana con un gatto soriano di nome Joie (si pronuncia «Juà») acciambellato intorno al collo. Sofiya legge volentieri i Tarokka per una moneta d'argento, ma insiste perché i giocatori non paghino se scopre chi sono. (Anche se con i bambini e i curiosi esagera parlando del suo «occhio interiore», Sofiya ammette senza problemi di non essere una vera veggente. «Eppure», dice, con un luccichio negli occhi e un sorriso sulle labbra, «ho sempre pensato che il futuro che si vede nelle carte sia spesso il futuro che si *aveva bisogno* di vedere. O almeno, così diceva sempre mia madre».)
 
-> [!abstract]+ **Milivoj’s Plea**  
-> If Father Lucian is dead, Milivoj instead approaches the players separately shortly after Lady Wachter’s request. He shares that, given Father Lucian’s absence and Yeska’s youth, Lady Wachter has invited him to deliver an invocation to begin the ceremony. However, Milivoj has no idea how to give a proper invocation, and feels unworthy of doing so given his past complicity with Strahd’s schemes. Milivoj is grateful for any help or guidance the players can provide.
+Fra gli altri ospiti della festa ci sono Milivoj (con i fratelli e Yeska), Luvash (con Arabelle) e Szoldar e Yevgeni.
+### 2e. Racconti di fede e di vittoria
+Dopo che i giocatori hanno avuto modo di godersi la festa, si avvicinano a loro Lady Wachter e padre Lucian, che possono dire quanto segue:
 
-> [!abstract]+ **Fiona’s Uncertainty**  
-> A player with a passive Wisdom (Insight) score of 13 or more notices that Lady Wachter appears distracted and somewhat anxious. If pressed, Lady Wachter quietly admits that she wonders whether she is truly qualified to lead Vallaki into this new age. “I failed to see the sunrise until it had very nearly risen," she confesses. “I pushed for acquiescence instead of resilience, and schemed instead of defending. What right have I to lead these people—my neighbors—when I failed to fight for them for so long?"  
+* Lady Wachter vuole dedicare ufficialmente la festa con una cerimonia più tardi in serata e sarebbe onorata se uno o più giocatori raccontassero agli ospiti la sconfitta di Strahd.  
+* Padre Lucian vuole aprire la cerimonia con un'invocazione, ma non sa come rendere il giusto omaggio alle «dee della natura» di cui gli ha parlato Lady Wachter. Gli farebbe piacere l'aiuto o il consiglio dei giocatori.
+
+> [!abstract]+ **La supplica di Milivoj**  
+> Se padre Lucian è morto, poco dopo la richiesta di Lady Wachter è Milivoj ad avvicinarsi ai giocatori, per conto suo. Racconta che, vista l'assenza di padre Lucian e la giovane età di Yeska, Lady Wachter ha invitato lui a pronunciare l'invocazione che apre la cerimonia. Milivoj però non ha idea di come si faccia un'invocazione come si deve e si sente indegno di farla, visto che in passato è stato complice dei piani di Strahd. Milivoj è grato di qualunque aiuto o consiglio i giocatori possano dargli.
+
+> [!abstract]+ **L'incertezza di Fiona**  
+> Un giocatore con un punteggio di Saggezza (Intuizione) passiva pari o superiore a 13 nota che Lady Wachter sembra distratta e un po' in ansia. Se la incalzano, Lady Wachter ammette a bassa voce di chiedersi se sia davvero adatta a guidare Vallaki in questa nuova epoca. «Non ho visto l'alba finché non era quasi sorta», confessa. «Ho spinto per la sottomissione invece che per la resistenza, ho tramato invece di difendere. Che diritto ho di guidare queste persone, i miei vicini, quando per tanto tempo non ho combattuto per loro?»  
 >   
-> Lady Wachter is grateful for any guidance or counsel the players can provide.
+> Lady Wachter è grata di qualunque consiglio o guida i giocatori possano darle.
 
-At a suitable time after speaking with Lady Wachter and Father Lucian, Lady Wachter invites the players to speak on stage as parts of the ceremony. Unless the players intervene or otherwise alter the agenda, the ceremony unfolds as follows:
+Al momento opportuno, dopo aver parlato con lei e con padre Lucian, Lady Wachter invita i giocatori a parlare sul palco durante la cerimonia. A meno che i giocatori non intervengano o non cambino comunque il programma, la cerimonia si svolge così:
 
-* Lady Wachter stands atop the wooden platform and welcomes the attendees to the Festival of the Dawn, “the day when Vallaki—and all of Barovia—celebrates our freedom from the neverending night."  
-* Lady Wachter shares her hope that the attendees are enjoying the festival—receiving a hearty cheer in response—and thanks them for their “spirited defense of our home, at a time when all seemed lost."  
-* Lady Wachter invites the following “exceptional individuals" to the stage to receive “tokens of Vallaki’s gratitude": the Vistana Arabelle, for “courageous and timely foresight"; the mages Kasimir Velikov and Victor Vallakovich, for “igniting a fire in the dark"; and the players, for “returning sunlight to a land that had long forgotten it." She then affixes a golden pin in the shape of a sunburst to each character’s chest, proclaiming them a “friend of Vallaki" and guest of honor of the festival.  
-* While the guests of honor linger on the stage, Father Lucian delivers an invocation to the Morninglord and Ladies Three, thanking the Morninglord for “lighting the way" to dawn and thanking the Ladies for “restoring a land long-lost to darkness and decay." He concludes by asking the gods to bless Vallaki, the valley of Barovia, and all their people, for “this night and all the nights to come."  
-* Lady Wachter then invites one or more of the players to deliver the tale of Strahd’s defeat, which the attendees receive with enraptured delight. (The players are welcome to make this tale as long and inclusive as they would like.)
-### 2f. Tales of Fear and Forgiveness
-Shortly after the ceremony, the players are prompted to action by one or both of the following events:
+* Lady Wachter sale sulla pedana di legno e dà il benvenuto agli ospiti alla Festa dell'Alba, «il giorno in cui Vallaki, e tutta Barovia, festeggia la sua liberazione dalla notte senza fine».  
+* Lady Wachter si augura che gli ospiti si stiano godendo la festa (e riceve in risposta un'ovazione calorosa) e li ringrazia per la loro «coraggiosa difesa della nostra casa, in un momento in cui tutto sembrava perduto».  
+* Lady Wachter chiama sul palco queste «persone eccezionali» per ricevere «un segno della gratitudine di Vallaki»: la vistana Arabelle, per la sua «preveggenza coraggiosa e tempestiva»; i maghi Kasimir Velikov e Victor Vallakovich, per aver «acceso un fuoco nel buio»; e i giocatori, per aver «restituito la luce del sole a una terra che l'aveva dimenticata da tempo». Poi appunta sul petto di ognuno una spilla d'oro a forma di sole raggiante e li proclama «amici di Vallaki» e ospiti d'onore della festa.  
+* Mentre gli ospiti d'onore restano sul palco, padre Lucian pronuncia un'invocazione al Signore del Mattino e alle Tre Dame: ringrazia il Signore del Mattino per aver «illuminato la strada» verso l'alba, e ringrazia le Dame per aver «risanato una terra da tempo perduta nel buio e nella rovina». Conclude chiedendo agli dèi di benedire Vallaki, la valle di Barovia e tutta la sua gente, «per questa notte e per tutte le notti a venire».  
+* Poi Lady Wachter invita uno o più giocatori a raccontare la sconfitta di Strahd, e gli ospiti ascoltano rapiti e felici. (I giocatori possono rendere questo racconto lungo e ricco quanto vogliono.)
+### 2f. Racconti di paura e di perdono
+Poco dopo la cerimonia, uno di questi eventi, o tutti e due, spinge i giocatori ad agire:
 
-***Victor’s Hesitation.*** Kasimir asks the players to help him find Victor, who has gone missing shortly before their fireworks “grand finale." A player who succeeds on a DC 10 Wisdom (Perception) or Intelligence (Investigation) check, or who finds and asks a suitable witness, can track Victor to the stone fountain at the center of the square, where he’s sitting slumped on the ground with his head in his hands.
+***L'esitazione di Victor.*** Kasimir chiede ai giocatori di aiutarlo a trovare Victor, sparito poco prima del «gran finale» dei loro fuochi d'artificio. Un giocatore che supera una prova di Saggezza (Percezione) o di Intelligenza (Indagare) con CD 10, o che trova un testimone adatto e lo interroga, rintraccia Victor alla fontana di pietra al centro della piazza, dove se ne sta seduto per terra, accasciato, con la testa fra le mani.
 
-A player who treats Victor kindly can convince him to share that he nearly asked Stella to dance with him by the fire after the ceremony, but lost his nerve at the last minute and offered to fetch them honey cakes instead. Victor is uncomfortable with the romantic feelings he’s developed for Stella, and terrified of losing her friendship if he shares them with her. He is grateful for any guidance or counsel the players can provide.
+Un giocatore che tratta Victor con gentilezza può convincerlo a confidare che dopo la cerimonia stava per chiedere a Stella di ballare con lui vicino al fuoco, ma all'ultimo momento ha perso il coraggio e si è offerto invece di andare a prendere i dolci al miele. Victor è a disagio con i sentimenti romantici che ha cominciato a provare per Stella e ha il terrore di perdere la sua amicizia se glieli confessa. È grato di qualunque consiglio o guida i giocatori possano dargli.
 
-***The Dreamer’s Return.*** If the players redeemed the Dreamer’s heart in [[Arc U - Dreams of Dawn]], a player with the highest passive Wisdom (Perception) score notices a figure watching them from an alleyway. Read:
-
-<div class="description">  
-<p>You feel a prickling on the back of your neck and sense the temperature around you suddenly plummet. Out of the corner of your eye, you catch a figure watching you from a darkened alleyway, its form concealed beneath a pale blue cloak. It lingers beneath your gaze for a moment, regarding you silently—then recedes and vanishes around a corner.</p>  
-</div>
-
-The figure is a manifestation of the Dreamer. If the players initially ignore it, the figure appears twice more to them from an alleyway during the festival before disappearing into the night.
-
-If the players follow the figure into the alley, read:
+***Il ritorno della Sognatrice.*** Se nell'[[Arc U - Dreams of Dawn|Arco U: Sogni dell'alba]] i giocatori hanno redento il cuore della Sognatrice, il giocatore con il punteggio di Saggezza (Percezione) passiva più alto nota una figura che li osserva da un vicolo. Leggi:
 
 <div class="description">  
-<p>The light and laughter of the festival seems so distant here, and the cold and darkness everpresent. A light, chill mist crawls across the earth, a faint lattice of frost forming across the nearby windows.</p>  
-<p>A small butterfly flutters down from the night sky above, its pale violet wings glittering like faerie dust beneath the silver moon. It pauses before you, then turns to fly deeper into the shadows, as if to beckon you forward.</p>  
+<p>Sentite un formicolio sulla nuca e avvertite la temperatura intorno a voi precipitare all'improvviso. Con la coda dell'occhio scorgete una figura che vi osserva da un vicolo buio, nascosta sotto un mantello azzurro pallido. Sostiene il vostro sguardo per un attimo, osservandovi in silenzio, poi si ritrae e sparisce dietro un angolo.</p>  
 </div>
 
-If the players follow the butterfly, read:
+La figura è una manifestazione della Sognatrice. Se all'inizio i giocatori la ignorano, durante la festa la figura compare loro altre due volte in un vicolo, prima di sparire nella notte.
+
+Se i giocatori seguono la figura nel vicolo, leggi:
 
 <div class="description">  
-<p>You round the corner—and find a dead end, blocked by a wooden fence and a pile of old barrels. A puddle around the barrels has frozen over, crystals of ice shimmering beneath the pale moonlight.</p>  
-<p>A figure, wearing a cloak of pale blue, stands at the end of the alley, the ground beneath its feet frozen solid. The butterfly alights upon its shoulder, settling comfortably beside the figure’s neck.</p>  
+<p>Qui la luce e le risate della festa sembrano lontanissime, e il freddo e il buio sono ovunque. Una nebbiolina gelida striscia sul terreno, e sulle finestre vicine si forma un sottile reticolo di brina.</p>  
+<p>Una piccola farfalla scende svolazzando dal cielo notturno, con le ali viola pallido che scintillano come polvere di fata sotto la luna d'argento. Si ferma davanti a voi, poi si volta e vola più a fondo nell'ombra, come per invitarvi a seguirla.</p>  
 </div>
 
-The figure is a manifestation of the Dreamer. If she speaks, a player who spoke with her in [[Arc U - Dreams of Dawn#U3h. The Lonely Maid|The Lonely Maid]] recognizes her voice.
-
-If not addressed first, the Dreamer greets the players and apologizes for watching them. She then removes the hood to her cloak, revealing a young woman’s features, pale violet eyes, slightly pointed ears, and snow-white hair that falls past her shoulders.
-
-The Dreamer can share the following information:
-
-* She has had many names but most call her “Dreamer." (If asked, the Dreamer can also sadly confirm that she is also sometimes called “Lady Winter," though she winces at the name.)  
-* She is the youngest of her sisters, whom she believes the players are familiar with. If asked, she confirms that her sisters’ names are Weaver, Huntress, and Seeker, though her eyes grow sad at the mention of their names.  
-* Long ago, she perished at the hands of her sisters for crimes she had committed. “You need not fear, however," she assures the players. “I have had long to reflect on my folly, and I accept the justice they meted out to me."  
-* After her death, her essence lay fallow amidst the “whispering mists" for many years—until it was taken and encased in amber by a guild of mages. “I do not know how many years my spirit lay imprisoned," she confesses. “Little of my mind remained, and that which did was twisted by pain and hate."  
-* From time to time, mortals would come to her prison seeking power. Each time she granted such power, she took a sliver of their soul as compensation—and as she did, she grew in awareness.  
-* By the time the “blood-drinker"—Strahd—came to her prison, she had enough awareness to smell the stench of his darkness—and to recognize the power of her sisters that flowed within him. He tore her from her prison, then imprisoned her anew in a heart of crystal blood. “I know not how he did it," she says, “but he forced the entirety of my sisters’ power through me—to focus it, to control it. But it was tainted and corrupted, and too much for the shreds of my mind to bear. It was agony—until you saved me."  
-* The Dreamer saw the players, their faces refracted through the many facets of the crystal heart, as they ascended the tower and fought the “blood-drinker" beneath “a void of blackest night." “When you struck him down," she says, “his prison shattered—and for the first time in an eternity, I was free."  
-* Her body—her mantle of power—called to her from the western valley, and she was drawn to it “like a moth to a firelight." Infused with the lingering power of her sisters’ Fanes, she united with her ancient remains—and so was reborn. In doing so, she also gained the memories of her heart, and saw the players as her heart had seen them, both in the whispering mists and upon the frozen lake.  
-* Since then, she has traversed the cold and dark places of the valley, searching for her saviors in the hopes of thanking them for her freedom.
-
-The Dreamer comes to the players with two things: a gift and a plea.
-
-***The Dreamer’s Gift.*** The Dreamer, still empowered by the lingering energies of the Heart of Sorrow and the Grand Conjunction, can offer the players a single boon, “so long as it is within my power to give." The Dreamer’s boon takes the form of a *wish* spell, with the following constraints:
-
-* The spell’s effects must relate to darkness, cold, ice, sleep, or dreams.  
-* The spell can’t be used to duplicate a spell of 8th or 9th level.  
-* The spell can’t affect a range larger than a single community.  
-* The spell can’t manipulate space or time.  
-* The Dreamer won’t use the spell to harm innocents.
-
-***The Dreamer’s Plea.*** The Dreamer senses that her sisters have returned to power. She wants nothing more than to reconcile with them—to apologize for the evil she once wrought, and for the jealousy that made her a monster. “But I am too ashamed to face them," she says, “and they would not have me if I did. You are their champions—is there no hope for me at all? What should I do?"
-
-The Dreamer is grateful for any guidance or counsel the players can provide. When satisfied, she dissipates into a shroud of chill grey mist, which soon fades into the night air.
-## 3. Return to Krezk
-
-> [!abstract]+ **Cyrus’s Request**  
-> If the players escorted Cyrus to Vallaki, he approaches them following the [[Epilogue#2. The Festival of the Dawn|Festival of the Dawn]] to request their escort to Krezk and the Abbey of St. Markovia. “I will return a failure," he says mournfully, “but better to be a failure with family than a failure without. They deserve to know the truth, if nothing else."
-### 3a. Arrival at the Walls
-If the players return to the village of Krezk after defeating Strahd, they find the gate guarded by Zygfrek and Otto Belview.
-
-Zygfrek and Otto are glad to welcome the players back to Krezk, and can share the following information:
-
-* The village was attacked by an onslaught of undead, but fought them off in a great battle.  
-* To help keep the village safe, Zygfrek and Otto have been deputized as “official guards" by the village. (Otto puffs up at the thought, and even Zygfrek seems somewhat proud.)  
-* The Abbot is helping the “important man" (Baron Krezkov) tend to the wounded at the “big house" (the Krezkovs’ cottage).
-
-Zygfrek and Otto are glad to open the gates and lead the players to Ithuriel and the Krezkovs if asked.
-### 3b. Krezk’s Gratitude
-If the players visit the burgomaster’s cottage, they can find the following characters there:
-
-* **Ithuriel**, if redeemed, is—with Vasilka’s assistance—tending to the wounded, changing bandages, pouring water, and sharing prayers to the Morninglord. (“My healing touch is less than it was," he says, abashedly, “but I shall still do what I can.")  
-* **Anna and Dmitri Krezkov** are discussing repairs to the walls with a small group of townsfolk. (If asked, they can share that Ilya and Kala have gone to the Shrine of the White Sun to play. “I didn’t want to let either of them out of my sight," Anna says, biting her lip. “But something about the light just makes it feel . . . safe." Dmitri can also privately share, if asked, that Emil is helping him and Ilya learn to meditate in order to commune with and calm the wolf within. “I still don’t know that I like him," he says. “But I suppose I’m beginning to understand him, against my better judgment.")  
-* **Zuleika** is assisting Ithuriel with healing and tending to the wounded, and discussing lore of the Morninglord and Mother Night (while engaging in friendly debate about the merits of serving either).  
-* **Emil** is helping to deliver fresh blankets and food where needed.
-
-**If the players ascend to the Abbey of St. Markovia,** they find that some of the Belviews have been released from their cells or sheds to play, bicker, weed, and bask in the garden beneath the warm light of the sun, beneath the watchful eye of Clovin Belview and the flesh golem.
-
-**If the players reunite Ithuriel and Cyrus Belview**, Ithuriel prostrates himself before Cyrus and begs his forgiveness for his lies and sins against him—specifically, his offering of Cyrus to Strahd as a servant and failing to dispute Strahd’s implication that he could help “cure" Cyrus’s family. Cyrus, surprised to see the “new" Abbot, looks to the players for guidance before responding.
-
-Although Cyrus still hopes for an opportunity to cure his family of their madness, Ithuriel has few ideas for how to do so. “The Sun has helped some of them regain a semblance of their wits, but many are still lost in the darkness of their minds and instincts," Ithuriel says. “The Morninglord is not a master of the minds or bodies of the beasts of the woods. I fear that my abilities to help them are limited and, perhaps, have always been so, despite my best efforts otherwise."
-
-Ithuriel is grimly determined to continue doing what he can to help the Belviews—by making them comfortable, if nothing else. If the players suggest seeking the help of the Huntress at the Forest Fane, he is surprised, but more than willing to assist them.
-### 3c. Return to the Forest Fane
-If the players return to Yester Hill, they are greeted by a gray-brown **wolf** where the path emerges from the trees—the same wolf they encountered in [[#1b. The New Svalich Road]]. The wolf, a servant of the Huntress, can guide them to the Forest Fane atop Yester Hill. The Fane is largely as the players left it in [[Arc T - The Three Fanes]], except that the oak sapling has grown into a young, sturdy tree, approximately ten feet in height.
-
-If the players attempt to commune with the Huntress at the Forest Fane, read:
+Se i giocatori seguono la farfalla, leggi:
 
 <div class="description">  
-<p>Tongues of emerald flame wreathe the trunk of the oak tree, dancing in feral delight. The flames suggest the faint shape of a woman—a stalwart maid of long hair, a spear clasped in her hand.</p>  
+<p>Girate l'angolo e vi trovate in un vicolo cieco, chiuso da uno steccato di legno e da una pila di vecchie botti. Una pozzanghera intorno alle botti è gelata, e i cristalli di ghiaccio luccicano sotto la luce pallida della luna.</p>  
+<p>In fondo al vicolo c'è una figura con un mantello azzurro pallido, e il terreno sotto i suoi piedi è ghiacciato. La farfalla le si posa sulla spalla e si accomoda accanto al collo.</p>  
 </div>
 
-The Huntress welcomes the “champions of the Forest Fane" to her demesne, and is glad to do what she can to help the Belviews if asked. If the players haven’t brought a Belview, she invites them to bring one of the Belviews to the Fane so that she can study “the nature of their affliction."
+La figura è una manifestazione della Sognatrice. Se parla, un giocatore che le ha parlato in [[Arc U - Dreams of Dawn#U3h. La fanciulla solitaria|La fanciulla solitaria]] ne riconosce la voce.
 
-If the players bring one of the Belviews to the Forest Fane, the Huntress asks them to touch the trunk of the burning tree. (Depending on the Belview, this request might take some mild persuasion.) Once the Belview does so, the flames run across their skin, briefly wreathing them in fire before returning to the trunk. (The flames are warm, but not hot, and might be observed to “tickle.")
+Se nessuno le rivolge la parola per primo, la Sognatrice saluta i giocatori e si scusa per averli osservati. Poi si toglie il cappuccio e rivela i lineamenti di una giovane donna, con gli occhi viola pallido, le orecchie un po' a punta e i capelli bianchi come la neve che le scendono oltre le spalle.
 
-After inspecting a Belview, the Huntress can solemnly share the following information:
+La Sognatrice può dire quanto segue:
 
-* She cannot heal the dark magic that has twisted their souls and bodies. “Beast and man live as one within them," she says, “instincts and rationality at war within their minds. I cannot separate them without destroying both."  
-* She can, however, allow them to complete their transformation fully—to allow them to become one of the beasts whose bodies they share. “They would not be human anymore," she says, “but they would be whole and whole-minded."
+* Ha avuto molti nomi, ma quasi tutti la chiamano «Sognatrice». (Se glielo chiedono, conferma con tristezza che a volte la chiamano anche «Dama dell'Inverno», ma a quel nome trasale.)  
+* È la più giovane delle sorelle, che crede i giocatori conoscano. Se glielo chiedono, conferma che le sue sorelle si chiamano la Tessitrice, la Cacciatrice e il Cercatore, ma quando le nomina gli occhi le si velano di tristezza.  
+* Tanto tempo fa morì per mano delle sorelle, per crimini che aveva commesso. «Non dovete temere, però», rassicura i giocatori. «Ho avuto molto tempo per riflettere sulla mia follia e accetto la giustizia che mi hanno inflitto».  
+* Dopo la sua morte la sua essenza rimase inerte fra le «nebbie sussurranti» per molti anni, finché una gilda di maghi non la prese e la racchiuse nell'ambra. «Non so per quanti anni il mio spirito sia rimasto imprigionato», confessa. «Della mia mente restava poco, e quel poco era distorto dal dolore e dall'odio».  
+* Di tanto in tanto i mortali venivano alla sua prigione in cerca di potere. Ogni volta che la Sognatrice concedeva quel potere, prendeva in cambio una scheggia della loro anima, e così diventava più consapevole.  
+* Quando il «bevitore di sangue», cioè Strahd, arrivò alla sua prigione, la Sognatrice era abbastanza consapevole da sentire il fetore della sua oscurità e da riconoscere il potere delle sue sorelle che scorreva in lui. Strahd la strappò dalla sua prigione, poi la imprigionò di nuovo in un cuore di sangue cristallizzato. «Non so come ci sia riuscito», dice, «ma ha fatto passare attraverso di me tutto il potere delle mie sorelle, per concentrarlo, per controllarlo. Ma era contaminato e corrotto, e troppo per quel che restava della mia mente. È stata un'agonia, finché non mi avete salvata».  
+* La Sognatrice ha visto i giocatori, i loro volti rifratti nelle molte facce del cuore di cristallo, mentre salivano la torre e combattevano il «bevitore di sangue» sotto «un vuoto di notte nerissima». «Quando lo avete abbattuto», dice, «la sua prigione è andata in frantumi, e per la prima volta da un'eternità ero libera».  
+* Il suo corpo, il suo manto di potere, la chiamava dalla valle occidentale, e lei ne è stata attirata «come una falena dalla luce del fuoco». Impregnata del potere che ancora restava nei Templi delle sorelle, si è unita ai suoi antichi resti, ed è rinata. Così ha ricevuto anche i ricordi del suo cuore e ha visto i giocatori come li aveva visti il cuore, sia fra le nebbie sussurranti sia sul lago gelato.  
+* Da allora ha percorso i luoghi freddi e bui della valle in cerca dei suoi salvatori, sperando di ringraziarli per la libertà.
 
-Any Belview who comes to the Forest Fane and chooses to undergo the Huntress’s transformation is engulfed by a cocoon of emerald flame. When the flames retreat, the Belview is transformed into a beast of their choice from one of their mutations. 
+La Sognatrice si presenta ai giocatori con due cose: un dono e una supplica.
 
-> [!info]+ **The Belviews’ Choice**  
-> If offered the opportunity, Otto chooses to undergo the transformation, but asks the players whether he should choose to be a wolf, a lion, or a donkey.  
+***Il dono della Sognatrice.*** La Sognatrice, ancora potenziata dalle energie residue del Cuore della Tristezza e della Grande Congiunzione, può offrire ai giocatori un solo favore, «purché sia in mio potere concederlo». Il favore della Sognatrice ha la forma di un incantesimo *desiderio*, con questi limiti:
+
+* Gli effetti dell'incantesimo devono riguardare l'oscurità, il freddo, il ghiaccio, il sonno o i sogni.  
+* L'incantesimo non può riprodurre un incantesimo di 8° o 9° livello.  
+* L'incantesimo non può avere effetto su un'area più grande di una sola comunità.  
+* L'incantesimo non può manipolare lo spazio o il tempo.  
+* La Sognatrice non userà l'incantesimo per fare del male a degli innocenti.
+
+***La supplica della Sognatrice.*** La Sognatrice sente che le sorelle sono tornate al potere. Non desidera altro che riconciliarsi con loro, chiedere perdono per il male che ha fatto un tempo e per la gelosia che l'ha resa un mostro. «Ma mi vergogno troppo per affrontarle», dice, «e se lo facessi non mi vorrebbero. Voi siete i loro campioni: non c'è proprio nessuna speranza per me? Che cosa dovrei fare?»
+
+La Sognatrice è grata di qualunque consiglio o guida i giocatori possano darle. Quando è soddisfatta, si dissolve in un velo di nebbia grigia e fredda, che presto svanisce nell'aria della notte.
+## 3. Ritorno a Krezk
+
+> [!abstract]+ **La richiesta di Cyrus**  
+> Se i giocatori hanno accompagnato Cyrus a Vallaki, dopo la [[Epilogue#2. La Festa dell'Alba|Festa dell'Alba]] lui va da loro a chiedere che lo scortino a Krezk e all'Abbazia di Santa Markovia. «Tornerò da fallito», dice triste, «ma meglio un fallito con la famiglia che un fallito senza. Se non altro, meritano di sapere la verità».
+### 3a. L'arrivo alle mura
+Se i giocatori tornano al villaggio di Krezk dopo aver sconfitto Strahd, trovano la porta sorvegliata da Zygfrek e Otto Belview.
+
+Zygfrek e Otto sono felici di riaccogliere i giocatori a Krezk e possono dire quanto segue:
+
+* Il villaggio è stato attaccato da un'ondata di non morti, ma li ha respinti in una grande battaglia.  
+* Per aiutare a tenere il villaggio al sicuro, il villaggio ha nominato Zygfrek e Otto «guardie ufficiali». (A quel pensiero Otto si gonfia d'orgoglio, e perfino Zygfrek sembra un po' fiera.)  
+* L'Abate sta aiutando «l'uomo importante» (il barone Krezkov) a curare i feriti nella «casa grande» (la casa dei Krezkov).
+
+Se glielo chiedono, Zygfrek e Otto aprono volentieri la porta e accompagnano i giocatori da Ithuriel e dai Krezkov.
+### 3b. La gratitudine di Krezk
+Se i giocatori vanno alla casa del borgomastro, possono trovarci questi personaggi:
+
+* **Ithuriel**, se è stato redento, cura i feriti con l'aiuto di Vasilka: cambia bende, versa acqua e recita preghiere al Signore del Mattino. («Il mio tocco guaritore non è più quello di una volta», dice imbarazzato, «ma farò comunque quello che posso».)  
+* **Anna e Dmitri Krezkov** discutono delle riparazioni alle mura con un gruppetto di abitanti. (Se glielo chiedono, possono dire che Ilya e Kala sono andati a giocare al Santuario del Sole Bianco. «Non volevo perderli di vista nemmeno un attimo», dice Anna, mordendosi il labbro. «Ma quella luce... mi fa sentire che sono al sicuro». Se glielo chiedono, Dmitri può anche confidare in privato che Emil sta insegnando a lui e a Ilya a meditare, per entrare in contatto con il lupo che hanno dentro e calmarlo. «Non so ancora se mi piace», dice. «Ma credo che comincio a capirlo, mio malgrado».)  
+* **Zuleika** aiuta Ithuriel a curare i feriti e discute con lui delle tradizioni del Signore del Mattino e di Madre Notte (in un dibattito amichevole sui meriti di servire l'uno o l'altra).  
+* **Emil** aiuta a portare coperte pulite e cibo dove servono.
+
+**Se i giocatori salgono all'Abbazia di Santa Markovia,** scoprono che alcuni dei Belview sono stati fatti uscire dalle celle o dai capanni e giocano, litigano, strappano erbacce e si crogiolano in giardino sotto la luce calda del sole, sotto lo sguardo vigile di Clovin Belview e del golem di carne.
+
+**Se i giocatori fanno incontrare Ithuriel e Cyrus Belview**, Ithuriel si prostra davanti a Cyrus e lo supplica di perdonarlo per le menzogne e i torti che gli ha fatto: in particolare per averlo offerto a Strahd come servitore e per non aver contraddetto Strahd quando lasciava intendere di poter «curare» la famiglia di Cyrus. Cyrus, sorpreso di vedere il «nuovo» Abate, guarda i giocatori in cerca di un consiglio prima di rispondere.
+
+Cyrus spera ancora di guarire la famiglia dalla follia, ma Ithuriel ha poche idee su come riuscirci. «Il Sole ha aiutato alcuni di loro a ritrovare un po' di lucidità, ma molti sono ancora persi nel buio della loro mente e dei loro istinti», dice Ithuriel. «Il Signore del Mattino non è padrone della mente né del corpo delle bestie dei boschi. Temo che i miei poteri per aiutarli siano limitati, e forse lo siano sempre stati, nonostante tutti i miei sforzi».
+
+Ithuriel è cupamente deciso a continuare a fare il possibile per i Belview, almeno per farli stare bene. Se i giocatori propongono di cercare l'aiuto della Cacciatrice al Tempio della Foresta, è sorpreso, ma più che disposto ad aiutarli.
+### 3c. Ritorno al Tempio della Foresta
+Se i giocatori tornano alla Collina di Yester, dove il sentiero esce dagli alberi li accoglie un **lupo** grigio bruno: lo stesso lupo che hanno incontrato in [[#1b. La nuova Strada di Svalich]]. Il lupo, un servitore della Cacciatrice, può guidarli al Tempio della Foresta in cima alla Collina di Yester. Il Tempio è più o meno come i giocatori lo hanno lasciato nell'[[Arc T - The Three Fanes|Arco T: I tre templi]], tranne che l'alberello di quercia è diventato un albero giovane e robusto, alto circa 3 metri.
+
+Se i giocatori provano a entrare in comunione con la Cacciatrice al Tempio della Foresta, leggi:
+
+<div class="description">  
+<p>Lingue di fiamma color smeraldo avvolgono il tronco della quercia, danzando in una gioia selvaggia. Le fiamme suggeriscono la forma vaga di una donna: una fanciulla robusta dai capelli lunghi, con una lancia stretta in mano.</p>  
+</div>
+
+La Cacciatrice dà il benvenuto ai «campioni del Tempio della Foresta» nel suo dominio e se glielo chiedono è felice di fare il possibile per aiutare i Belview. Se i giocatori non hanno portato con sé un Belview, li invita a portarne uno al Tempio perché lei possa studiare «la natura del loro male».
+
+Se i giocatori portano un Belview al Tempio della Foresta, la Cacciatrice gli chiede di toccare il tronco dell'albero in fiamme. (A seconda del Belview, può servire un po' di persuasione.) Quando il Belview lo tocca, le fiamme gli corrono sulla pelle, lo avvolgono per un attimo nel fuoco e poi tornano al tronco. (Le fiamme sono tiepide, non calde, e si può notare che «fanno il solletico».)
+
+Dopo aver esaminato un Belview, la Cacciatrice può dire con solennità quanto segue:
+
+* Non può guarire la magia oscura che ha deformato la loro anima e il loro corpo. «In loro bestia e uomo vivono come una cosa sola», dice, «e istinto e ragione si fanno la guerra nella loro mente. Non posso separarli senza distruggerli entrambi».  
+* Può però permettere loro di completare la trasformazione, di diventare del tutto una delle bestie di cui condividono il corpo. «Non sarebbero più umani», dice, «ma sarebbero interi, e interi nella mente».
+
+Ogni Belview che viene al Tempio della Foresta e sceglie di subire la trasformazione della Cacciatrice viene avvolto da un bozzolo di fiamme color smeraldo. Quando le fiamme si ritirano, il Belview si è trasformato in una bestia a sua scelta, fra quelle delle sue mutazioni. 
+
+> [!info]+ **La scelta dei Belview**  
+> Se gliene viene data la possibilità, Otto sceglie di trasformarsi, ma chiede ai giocatori se dovrebbe diventare un lupo, un leone o un asino.  
 >   
-> If the players have treated her kindly, Zygfrek chooses to remain humanoid. Otherwise, she chooses to become a lizard, scrambling off into the foliage soon after her transformation.  
+> Se i giocatori l'hanno trattata con gentilezza, Zygfrek sceglie di restare umanoide. Altrimenti sceglie di diventare una lucertola e corre via fra le foglie poco dopo la trasformazione.  
 >  
-> If brought to the Forest Fane, Mishka Belview becomes a spider and scurries into the woods, while Marzena Belview becomes a bat and flies into the air.  
+> Se viene portata al Tempio della Foresta, Mishka Belview diventa un ragno e scappa nel bosco, mentre Marzena Belview diventa un pipistrello e si alza in volo.  
 >  
-> Neither Clovin nor Cyrus choose to undergo the transformation, having mastered their animal instincts years ago. However, both are simultaneously sorrowful to bid their family members farewell and glad to see them finally at peace.
-## 4. Return to Barovia
-### 4a. The Raven and the Rider
-If the players return to <span class="citation">F. River Ivlis Crossroads (p. 35)</span> after defeating Strahd, read:
+> Né Clovin né Cyrus scelgono di trasformarsi, perché hanno imparato a dominare il loro istinto animale anni fa. Tutti e due, però, sono insieme tristi di dire addio ai familiari e felici di vederli finalmente in pace.
+## 4. Ritorno a Barovia
+### 4a. Il corvo e il cavaliere
+Se i giocatori tornano a <span class="citation">F. Crocevia del fiume Ivlis (p. 35)</span> dopo aver sconfitto Strahd, leggi:
 
 <div class="description">  
-<p>The old wooden gallows stands quietly beneath the warm, golden light, its aged wood speckled with lush green moss and lichens. Near the small graveyard rests a pile of bones beneath the watchful vigil of a raven.</p>  
+<p>La vecchia forca di legno se ne sta tranquilla sotto la luce calda e dorata, con il legno antico chiazzato di muschio verde e di licheni. Vicino al piccolo cimitero c'è un mucchio di ossa, sorvegliato da un corvo.</p>  
 </div>
 
-The pile of bones are the remains of the skeletal rider—Dalvan Olensky and his stolen horse—whose spirit found peace when the Mists dissipated. A player who inspects the remains finds the bones of a horse and a man, as well as a lopsided, rusty lantern.
+Il mucchio di ossa sono i resti del cavaliere scheletrico, Dalvan Olensky, e del cavallo che aveva rubato: il suo spirito ha trovato pace quando le Nebbie si sono dissolte. Un giocatore che esamina i resti trova le ossa di un cavallo e di un uomo, e una lanterna arrugginita e sbilenca.
 
-The raven is an ordinary raven and servant of the Seeker, come to honor Dalvan’s remains for his service to the Seeker.
-### 4b. Return to Tser Pool
-If the players return to <span class="citation">G. Tser Pool Encampment (p. 36)</span>, they find that only two tents remain: Stanimir’s tent and Madam Eva’s. (The other Vistani have traveled to the village of Barovia to assist in the rebuilding efforts. Only Stanimir and his family—who are currently out hunting—have remained to tend to the encampment and Madam Eva.)
+Il corvo è un corvo comune e un servitore del Cercatore, venuto a onorare i resti di Dalvan per il servizio che ha reso al Cercatore.
+### 4b. Ritorno allo Stagno di Tser
+Se i giocatori tornano a <span class="citation">G. Accampamento dello Stagno di Tser (p. 36)</span>, scoprono che sono rimaste solo due tende: quella di Stanimir e quella di Madam Eva. (Gli altri Vistani sono andati al villaggio di Barovia per aiutare nella ricostruzione. Sono rimasti solo Stanimir e la sua famiglia, che ora è a caccia, per badare all'accampamento e a Madam Eva.)
 
-Stanimir is delighted to see the players, whom he assumes are responsible for the return of the Sun and Strahd’s evident defeat. However, while he believes that Strahd’s defeat was necessary for the good of all Barovia, he quietly mourns the future and legacy of the young soldier his ancestors once aided on the battlefield, as described in <span class="citation">Mysterious Visitors (p. 19)</span>. “I know not how darkness came to consume him," he says sorrowfully. “If only a man of such power and ambition had put his spark to good, instead of ill, what might he have accomplished?"
+Stanimir è felicissimo di vedere i giocatori, perché pensa che siano loro i responsabili del ritorno del Sole e della sconfitta di Strahd, che ormai è evidente. Crede che la sconfitta di Strahd fosse necessaria per il bene di tutta Barovia, ma in silenzio piange il futuro e l'eredità del giovane soldato che i suoi antenati aiutarono un tempo sul campo di battaglia, come descritto in <span class="citation">Visitatori misteriosi (p. 19)</span>. «Non so come l'oscurità sia arrivata a divorarlo», dice con tristezza. «Se un uomo con tanto potere e tanta ambizione avesse messo la sua scintilla al servizio del bene invece che del male, che cosa avrebbe potuto fare?»
 
-If the players enter Madam Eva’s tent, read:
+Se i giocatori entrano nella tenda di Madam Eva, leggi:
 
 <div class="description">  
-<p>The open tent-flap casts a ray of warm light into the dark, quiet tent. At its center, Madam Eva lies slumped over her black velvet-covered table, as though sleeping. A piece of parchment lies on the table before her, an inkwell and quill a few inches from her fingers.</p>  
+<p>Il lembo aperto della tenda getta un raggio di luce calda nella tenda buia e silenziosa. Al centro, Madam Eva è accasciata sul tavolo coperto di velluto nero, come se dormisse. Davanti a lei, sul tavolo, c'è un foglio di pergamena, con un calamaio e una penna d'oca a pochi centimetri dalle dita.</p>  
 </div>
 
-A player who inspects Madam Eva finds that she is unresponsive, but has a warm, genuine smile on her face. A successful DC 2 Wisdom (Medicine) check confirms that she is dead; on a result of 10 or more, the players learn that she has been dead for only a few hours, evidently of natural causes.
+Un giocatore che esamina Madam Eva scopre che non reagisce, ma ha sul viso un sorriso caldo e sincero. Una prova di Saggezza (Medicina) con CD 2 superata conferma che è morta; con un risultato di 10 o più i giocatori capiscono che è morta da poche ore, a quanto pare per cause naturali.
 
-The parchment appears to be an incomplete letter. It reads, simply:
+La pergamena sembra una lettera incompiuta. Dice soltanto:
 
 <div class="description">  
-<p>My dearest Varushka,</p>  
-<p>I have so much to tell you.</p>  
+<p>Carissima Varushka,</p>  
+<p>ho tante cose da raccontarti.</p>  
 </div>
 
-If the players tell Stanimir of Eva’s death, he reverently and mournfully shares that Eva has watched over the Tser Pool Encampment since “his birth, and his father’s birth, and his father’s father’s birth." “To lose her wisdom is a grievous loss indeed," he says. “But I hope she found peace." (Stanimir doesn’t know Eva’s true identity as Katarina or the avatar of the Seeker, or how she has remained alive for centuries, but has always believed that she remained at Tser Pool for a purpose. “Perhaps that purpose has now been fulfilled," he ponders.)
+Se i giocatori dicono a Stanimir della morte di Eva, lui racconta con reverenza e tristezza che Eva ha vegliato sull'accampamento dello Stagno di Tser fin «dalla sua nascita, e da quella di suo padre, e da quella del padre di suo padre». «Perdere la sua saggezza è davvero un lutto grave», dice. «Ma spero che abbia trovato la pace». (Stanimir non sa che la vera identità di Eva era Katarina, né che era un avatar del Cercatore, né come sia rimasta in vita per secoli, ma ha sempre creduto che restasse allo Stagno di Tser per uno scopo. «Forse quello scopo ora si è compiuto», riflette.)
 
-After the players depart Tser Pool, if they helped the Dreamer in [[#2f. Tales of Fear and Forgiveness]], they encounter a brief vision of the Rozana reunited. Read or paraphrase: 
+Dopo che i giocatori lasciano lo Stagno di Tser, se hanno aiutato la Sognatrice in [[#2f. Racconti di paura e di perdono]], hanno una breve visione delle Rozana riunite. Leggi o riassumi: 
 
 <div class="description">  
-<p>As you turn to depart the crossroads, a warm breeze sighs through the woods, sending a flurry of fallen, red-gold leaves dancing across the road. Beyond the lonely graveyard, something catches your eye: the silhouette of a woman, raven-haired, robed in the blues of the darkest storm, and with a raven atop her shoulder. Beside her stands a tall, stocky, fur-clad woman with fiery red hair and a tall, sharp spear; and a shorter, squatter woman whose dress seems to be woven from long grasses and flowering vines. All three stand proudly beside a fourth figure: a slender maid, clad in gossamer ice and mist, her eyes bright and full of joy. They incline their heads in greeting—and then vanish with the gusting wind.</p>  
+<p>Mentre vi voltate per lasciare il crocevia, una brezza tiepida sospira fra i boschi e fa danzare sulla strada un turbinio di foglie cadute, rosse e dorate. Oltre il piccolo cimitero solitario qualcosa vi cattura lo sguardo: la sagoma di una donna dai capelli corvini, avvolta nei blu della tempesta più cupa, con un corvo sulla spalla. Accanto a lei ci sono una donna alta e robusta, vestita di pelli, con i capelli rosso fuoco e una lancia alta e affilata, e una donna più bassa e tarchiata, con un abito che sembra intessuto di erbe lunghe e rampicanti in fiore. Tutte e tre stanno fiere accanto a una quarta figura: una fanciulla snella, vestita di ghiaccio sottile e di nebbia, con gli occhi luminosi e pieni di gioia. Chinano il capo in segno di saluto, poi svaniscono con una folata di vento.</p>  
 </div>
-### 4c. A Heroes’ Welcome
-If the players return to the village of Barovia, they can find:
+### 4c. Accoglienza da eroi
+Se i giocatori tornano al villaggio di Barovia, possono trovare:
 
-* **Four of the five Vistani families** from Tser Pool recamped to tents at the foot of Lugdana’s Knoll, just outside the village, assisting the villagers with the rebuilding efforts.  
-* **Ismark** at the Blood of the Vine tavern, having established a small “office" in the taproom from which to manage and oversee the rebuilding efforts.  
-* **Father Donavich**, **Van Richten**, **Erasmus**, and **Parriwimple** at the village church, tending to the wounded and grieving.  
-* **Gertruda** and **Mary** in their home, preparing stew and bread for the wounded in the church, and to be distributed to those whose homes were damaged or destroyed in the fighting.  
-* **Doru** in a soil-filled crate in his room during the day, helping Mary and Gertruda distribute food at dusk and evening, and in Gertruda’s room or on her rooftop at night.
+* **Quattro delle cinque famiglie vistani** dello Stagno di Tser, che si sono accampate con le tende ai piedi del Poggio di Lugdana, appena fuori dal villaggio e aiutano gli abitanti nella ricostruzione.  
+* **Ismark** alla Taverna Sangue della Vite, dove ha sistemato nella sala comune un piccolo «ufficio» da cui dirigere e sorvegliare la ricostruzione.  
+* **Padre Donavich**, **Van Richten**, **Erasmus** e **Parriwimple** nella chiesa del villaggio, a curare i feriti e a consolare chi è in lutto.  
+* **Gertruda** e **Mary** a casa loro, a preparare stufato e pane per i feriti della chiesa e da distribuire a chi ha avuto la casa danneggiata o distrutta nei combattimenti.  
+* **Doru** di giorno in una cassa piena di terra nella sua stanza; al tramonto e la sera aiuta Mary e Gertruda a distribuire il cibo; la notte è nella stanza di Gertruda o sul suo tetto.
 
-All are glad to see the players again, and assume that their actions are responsible for the rising of the Sun and the defeat of the undead army. 
+Sono tutti felici di rivedere i giocatori e pensano che il sorgere del Sole e la sconfitta dell'esercito di non morti siano merito loro. 
 
-If the players remain until nightfall, Ismark insists that they attend a celebration—with all drinks paid—at the Blood of the Vine tavern that night.
+Se i giocatori restano fino al tramonto, Ismark insiste perché quella sera partecipino a una festa alla Taverna Sangue della Vite, con tutte le bevute pagate.
 
-Before the players depart, if the players helped Doru overcome his bloodthirst in [[Arc B - Welcome to Barovia]], Van Richten and Doru approach them with a proposition and a request. They can share the following information:
+Prima che i giocatori partano, se nell'[[Arc B - Welcome to Barovia|Arco B: Benvenuti a Barovia]] hanno aiutato Doru a vincere la sete di sangue, Van Richten e Doru si avvicinano con una proposta e una richiesta. Possono dire quanto segue:
 
-* Following Strahd’s defeat at the players’ hands and Van Richten’s reunion with his son, Van Richten believes that the time has come for him to retire.  
-* However, upon seeing the evidence of Doru’s ability to resist his bloodthirst, and following Van Richten’s experience with his own curse and redemption, Van Richten believes that he can still do good as a *rehabilitator* of monsters and the accursed, rather than as a slayer of monsters. Doru intends to join him in this venture, as his apprentice and partner.  
-* Van Richten has heard that the Abbey of Saint Markovia was once a holy place of healing and refuge, and that the Abbot there is a holy man of great stature. “If it would not be too great an imposition," he says, “I would most appreciate an introduction."
-## 5. Escher’s Fate
-Escher’s ultimate fate depends on the players’ choices and actions earlier in the campaign:
+* Dopo la sconfitta di Strahd per mano dei giocatori e dopo essersi ricongiunto con il figlio, Van Richten crede che per lui sia arrivato il momento di ritirarsi.  
+* Però, vista la prova che Doru sa resistere alla sete di sangue, e dopo la sua esperienza con la propria maledizione e la propria redenzione, Van Richten crede di poter fare ancora del bene come *riabilitatore* di mostri e di maledetti, invece che come cacciatore di mostri. Doru vuole unirsi a lui in questa impresa, come apprendista e come socio.  
+* Van Richten ha sentito dire che l'Abbazia di Santa Markovia un tempo era un luogo santo di cura e di rifugio e che l'Abate è un sant'uomo di grande levatura. «Se non è chiedere troppo», dice, «apprezzerei molto una presentazione».
+## 5. Il destino di Escher
+Il destino di Escher dipende dalle scelte e dalle azioni dei giocatori nel corso della campagna:
 
-* If the players (1) reunited Escher with Doru (e.g., during [[Arc P - Ravenloft Heist]], (2) treated Escher with respect and compassion, and (3) encouraged Escher to seek redemption, run [[#5a. Escher’s Quest]].  
-* If the players achieved only two of these three prerequisites, run [[#5b. Escher’s Isolation]].  
-* If the players achieved only one of these three prerequisites, run [[#5c. Escher’s Temptation]].  
-* If the players achieved none of these three prerequisites, run [[#5d. Escher’s Fall]].
-### 5a. Escher’s Quest
-Shortly after Strahd’s defeat, Escher seeks out the players in Vallaki, traveling by night and presenting himself openly at the gates. 
+* Se i giocatori (1) hanno fatto ritrovare Escher e Doru (per esempio durante l'[[Arc P - Ravenloft Heist|Arco P: Il colpo a Ravenloft]], (2) hanno trattato Escher con rispetto e compassione e (3) lo hanno incoraggiato a cercare la redenzione, conduci [[#5a. La ricerca di Escher]].  
+* Se i giocatori hanno soddisfatto solo due di queste tre condizioni, conduci [[#5b. L'isolamento di Escher]].  
+* Se i giocatori hanno soddisfatto solo una di queste tre condizioni, conduci [[#5c. La tentazione di Escher]].  
+* Se i giocatori non hanno soddisfatto nessuna di queste condizioni, conduci [[#5d. La caduta di Escher]].
+### 5a. La ricerca di Escher
+Poco dopo la sconfitta di Strahd, Escher va a cercare i giocatori a Vallaki: viaggia di notte e si presenta apertamente alle porte. 
 
-* ***If the players are known to be present in Vallaki,*** one of the town guards fetches them and asks them to come to the gate, where “one of the Devil’s spawn" is asking for them.  
-* ***If the players aren’t known to be present in Vallaki***, Escher insists that he be allowed to meet them and requests an audience with Lady Wachter. Upon her arrival, he surrenders to her and insists that he be granted an opportunity to speak with the players. At Lady Wachter’s direction, Escher is bound in manacles and imprisoned in <span class="citation">N4t. Cult Headquarters (p. 114)</span>, whose secret door is locked and guarded by two **guards** until the players return to Vallaki.
+* ***Se si sa che i giocatori sono a Vallaki,*** una delle guardie della città va a chiamarli e chiede loro di venire alla porta, dove «una delle progenie del Diavolo» li cerca.  
+* ***Se non si sa che i giocatori sono a Vallaki***, Escher insiste per incontrarli e chiede udienza a Lady Wachter. Quando lei arriva, Escher le si arrende e insiste perché gli sia data la possibilità di parlare con i giocatori. Per ordine di Lady Wachter, Escher viene messo in catene e rinchiuso in <span class="citation">N4t. Quartier generale del culto (p. 114)</span>, la cui porta segreta resta chiusa a chiave e sorvegliata da due **guardie** finché i giocatori non tornano a Vallaki.
 
-If the players subsequently speak with Escher, he surrenders to them and asks them to decide his fate. “I can’t atone for the things I did or the people I hurt," he says, his voice choked with tears. “Every time I sleep, I see their faces in my dreams. Please—I just want it to stop."
+Se poi i giocatori parlano con Escher, lui si arrende a loro e chiede che siano loro a decidere della sua sorte. «Non posso espiare quello che ho fatto né il male che ho fatto alle persone», dice, con la voce rotta dalle lacrime. «Ogni volta che dormo, vedo le loro facce nei sogni. Vi prego. Voglio solo che finisca».
 
-Escher is willing to accept any decision the players make.
-### 5b. Escher’s Isolation
-One to two weeks after Strahd’s defeat, local hunters report sightings of dead livestock and wildlife in the woods around Vallaki, with two puncture wounds in each victim’s neck. Fearing a new kind of bestial vampire, Lady Wachter asks the players to investigate and deal with any threat.
+Escher è disposto ad accettare qualunque decisione dei giocatori.
+### 5b. L'isolamento di Escher
+Una o due settimane dopo la sconfitta di Strahd, i cacciatori del posto raccontano di aver trovato nei boschi intorno a Vallaki bestiame e animali selvatici morti, ognuno con due fori sul collo. Temendo un nuovo tipo di vampiro bestiale, Lady Wachter chiede ai giocatori di indagare e di eliminare la minaccia.
 
-Szoldar Szoldarovich and Yevgeni Krushkin can lead the players to Jander’s Hollow, a small valley in the Svalich Woods where the most recent victims have been found. Upon their arrival, the players can find a dead stag with two puncture wounds along its throat. A DC 15 Wisdom (Medicine) check reveals that the puncture wounds were likely made by sharp humanoid teeth—not a beast.
+Szoldar Szoldarovich e Yevgeni Krushkin possono guidare i giocatori alla Conca di Jander, una piccola valle nei Boschi di Svalich dove sono state trovate le vittime più recenti. Arrivati lì, i giocatori trovano un cervo morto con due fori lungo la gola. Una prova di Saggezza (Medicina) con CD 15 rivela che i fori sono stati fatti probabilmente da denti umanoidi aguzzi, non da una bestia.
 
-* If the players investigate the area during the day, they can also find a trail of fresh footprints leading around the edge of the hollow into a small cavern below an ancient oak tree. Within the cavern, the players can find Escher, asleep in a small depression in the ground and covered with pine boughs. Escher swiftly surrenders if awakened.  
-* If the players investigate the area at night, they are watched by Escher from the trees, who attempts to conceal himself in the shadows. If a player’s Wisdom (Perception) check or passive Wisdom (Perception) score exceeds Escher’s Dexterity (Stealth) check, they automatically detect his silhouette crouched in the canopy. Escher attempts to flee if detected, but swiftly surrenders if caught.
+* Se i giocatori esplorano la zona di giorno, possono anche trovare una pista di impronte fresche che costeggia il bordo della conca e porta a una piccola caverna sotto un'antica quercia. Nella caverna i giocatori trovano Escher, addormentato in una piccola buca nel terreno e coperto di rami di pino. Se viene svegliato, Escher si arrende subito.  
+* Se i giocatori esplorano la zona di notte, Escher li osserva dagli alberi e cerca di nascondersi nell'ombra. Se la prova di Saggezza (Percezione) di un giocatore, o il suo punteggio di Saggezza (Percezione) passiva, supera la prova di Destrezza (Furtività) di Escher, il giocatore scorge automaticamente la sua sagoma accucciata fra le fronde. Se viene scoperto, Escher cerca di fuggire, ma se lo prendono si arrende subito.
 
-If caught, Escher can share that he fled Strahd’s army shortly after its departure from Castle Ravenloft, and sought refuge in the woods following the rise of the Sun. Since then, he has done his best to live off the blood of beasts instead of human blood, hoping to “avoid any more trouble."
+Se viene preso, Escher racconta di essere fuggito dall'esercito di Strahd poco dopo la sua partenza dal Castello di Ravenloft e di essersi rifugiato nei boschi dopo il sorgere del Sole. Da allora ha fatto del suo meglio per vivere del sangue delle bestie invece che di quello umano, sperando di «non creare altri problemi».
 
-Players who show Escher compassion and respect and succeed on a DC 10 Charisma (Persuasion) check can convince him to seek rehabilitation, rolling with advantage if they mention Doru or Van Richten’s goal of rehabilitating “monsters." 
+I giocatori che mostrano a Escher compassione e rispetto e superano una prova di Carisma (Persuasione) con CD 10 possono convincerlo a cercare la riabilitazione e tirano con vantaggio se nominano Doru o il progetto di Van Richten di riabilitare i «mostri». 
 
-Escher fights only in self-defense, but prefers to flee if attacked.
-### 5c. Escher’s Temptation
-Shortly after Strahd’s downfall, Escher searches the ruins of Castle Ravenloft in search of the secret to becoming a vampire lord, determined not to let his immortality be in vain. After multiple nights of searching, he unearths Strahd’s teleportation brazier and uses it to teleport to the Amber Temple, where he’s driven out of the amber vault by the ghost of Exethanter. 
+Escher combatte solo per difendersi, ma se viene attaccato preferisce fuggire.
+### 5c. La tentazione di Escher
+Poco dopo la caduta di Strahd, Escher fruga fra le rovine del Castello di Ravenloft in cerca del segreto per diventare un signore dei vampiri, deciso a non sprecare la sua immortalità. Dopo diverse notti di ricerche trova il braciere di teletrasporto di Strahd e lo usa per teletrasportarsi al Tempio d'Ambra, dove il fantasma di Exethanter lo caccia dalla cripta d'ambra. 
 
-Before fleeing the temple, Escher accepts the dark gift of Zrin-Hala, hungry to exact revenge on the players for “destroying his life." He then proceeds to fight his way down Mount Ghakis, defeating or escaping multiple amber-cursed demons and slaughtering a group of Mountain Folk hunters before entering the valley and tracking the players down.
+Prima di fuggire dal tempio, Escher accetta l'oscuro dono di Zrin-Hala, affamato di vendetta contro i giocatori che gli hanno «distrutto la vita». Poi si fa strada combattendo giù per il Monte Ghakis, sconfiggendo o seminando diversi demoni maledetti dall'ambra e massacrando un gruppo di cacciatori del Popolo della Montagna, prima di entrare nella valle e mettersi sulle tracce dei giocatori.
 
-Approximately two weeks after Strahd’s downfall, Escher attacks the players on a night and at a time of his choosing, hoping to ambush and kill one of them before fleeing, then repeating the pattern each night thereafter. When he does, he has the statistics of a **vampire spawn**, with the following changes:
+Circa due settimane dopo la caduta di Strahd, Escher attacca i giocatori di notte, nell'ora che sceglie lui, sperando di sorprenderne uno e ucciderlo prima di fuggire, per poi ripetere lo schema ogni notte. Quando lo fa, ha le statistiche di una **progenie vampirica**, con queste modifiche:
 
-* He has a Strength of 19 (+4).  
-* He has an **armanite**’s ***claw*** and ***magic resistance*** features, as well as a resistance to lightning damage.  
-* He can cast *call lightning* and *lightning bolt* without components twice per day each. Each time he casts either spell, he must make a DC 5 Charisma saving throw, transforming into an **armanite** on a failure and increasing the DC of future saving throws by 3 on a success.  
-* His feet have fused into cloven hooves, two bony horns have burst from his head, and his fingernails have sharpened into long, jagged claws.
+* Ha Forza 19 (+4).  
+* Ha i privilegi ***artiglio*** e ***resistenza alla magia*** di un **armanite** e resistenza ai danni da fulmine.  
+* Può lanciare *invocare il fulmine* e *fulmine* senza componenti, due volte al giorno ciascuno. Ogni volta che lancia uno dei due incantesimi deve effettuare un tiro salvezza su Carisma con CD 5: se lo fallisce si trasforma in un **armanite**, se lo supera la CD dei tiri salvezza successivi aumenta di 3.  
+* I piedi gli si sono fusi in zoccoli fessi, dalla testa gli sono spuntate due corna ossute e le unghie si sono affilate in artigli lunghi e frastagliati.
 
-Escher fights to the death, fleeing only if he successfully kills one of the players.
-### 5d. Escher’s Fall
-Three weeks after Strahd’s downfall, an isolated and blood-starved Escher journeys to Vallaki, where he takes up residence in an abandoned house and begins preying upon townsfolk in the streets. After a Vallakian woman named Miruna Swilova narrowly escapes death at his hands, Lady Wachter directs the players to find the “vampire" still haunting Vallaki’s streets.
+Escher combatte fino alla morte, e fugge solo se riesce a uccidere uno dei giocatori.
+### 5d. La caduta di Escher
+Tre settimane dopo la caduta di Strahd, Escher, isolato e affamato di sangue, va a Vallaki, dove si stabilisce in una casa abbandonata e comincia a cacciare gli abitanti per le strade. Dopo che una vallakiana di nome Miruna Swilova sfugge per un pelo alla morte, Lady Wachter incarica i giocatori di trovare il «vampiro» che infesta ancora le strade di Vallaki.
 
-Miruna can direct the players to an abandoned house three doors down from Milivoj’s home in northern Vallaki, where she first saw the vampire’s silhouette crouched upon the roof. If asked, Milivoj can confirm that, although the home’s residents died in Strahd’s siege, he’s had a strange feeling of being *watched* whenever he’s passed by that home on recent nights.
+Miruna può indicare ai giocatori una casa abbandonata tre porte più in là rispetto a quella di Milivoj, nella parte nord di Vallaki: lì ha visto per la prima volta la sagoma del vampiro accucciata sul tetto. Se glielo chiedono, Milivoj può confermare che gli abitanti della casa sono morti durante l'assedio di Strahd, ma che nelle ultime notti, passandoci davanti, ha avuto la strana sensazione di essere *osservato*.
 
-* If the players investigate the home during the day, Escher is asleep in a coffin in the basement. Escher immediately attacks if awakened.  
-* If the players investigate the home at night, Escher is watching the players from atop a roof on the opposite side of the street. If a player’s Wisdom (Perception) check or passive Wisdom (Perception) score exceeds Escher’s Dexterity (Stealth) check, they automatically detect his silhouette crouched on the rooftop. If detected, Escher descends into an alley and hides there, hoping to lure the players into an ambush. Whether the players detect him or not, Escher subsequently stalks the players through the night, hoping to ambush them and drain their blood.
+* Se i giocatori esplorano la casa di giorno, Escher dorme in una bara nello scantinato. Se viene svegliato, attacca subito.  
+* Se i giocatori esplorano la casa di notte, Escher li osserva dal tetto di una casa dall'altra parte della strada. Se la prova di Saggezza (Percezione) di un giocatore, o il suo punteggio di Saggezza (Percezione) passiva, supera la prova di Destrezza (Furtività) di Escher, il giocatore scorge automaticamente la sua sagoma accucciata sul tetto. Se viene scoperto, Escher scende in un vicolo e ci si nasconde, sperando di attirare i giocatori in un'imboscata. Che i giocatori lo scoprano o no, Escher li pedina per tutta la notte, sperando di sorprenderli e di prosciugarne il sangue.
 
-Escher’s anger, isolation, and hunger have driven him to forsake his humanity altogether, reducing him to an enraged, near-feral state. He refuses to listen to reason and fights to the death.
-## 6. Endings & Beginnings
-### 6a. The Council
-Within two weeks of Strahd’s defeat, Lady Fiona Wachter invites the players—either by a letter, messenger, or personal invitation—to a meeting at Wachterhaus to discuss Barovia’s future.
+La rabbia, l'isolamento e la fame hanno spinto Escher a rinnegare del tutto la sua umanità, riducendolo a uno stato furioso, quasi animale. Si rifiuta di ascoltare ragioni e combatte fino alla morte.
+## 6. Fine e inizi
+### 6a. Il consiglio
+Entro due settimane dalla sconfitta di Strahd, Lady Fiona Wachter invita i giocatori, con una lettera, un messaggero o di persona, a una riunione a Wachterhaus per discutere del futuro di Barovia.
 
-The meeting, which takes place in **N4j. Dining Room (p. 112)**, is attended by Lady Wachter, Kasimir Velikov, Ismark Kolyanovich, Dmitri Krezkov, Urwin Martikov, Luvash, and Stanimir (or their replacements, if any are deceased).
+Alla riunione, che si tiene in **N4j. Sala da pranzo (p. 112)**, partecipano Lady Wachter, Kasimir Velikov, Ismark Kolyanovich, Dmitri Krezkov, Urwin Martikov, Luvash e Stanimir (o chi ne ha preso il posto, se qualcuno è morto).
 
-The purpose of this meeting, Lady Wachter explains, is as follows:
+Lo scopo della riunione, spiega Lady Wachter, è questo:
 
-* to evaluate and address the remnants of Strahd’s court and castle, including the “druidic tribes" (i.e., the Forest Folk and Mountain Folk), the werewolf pack, the hag coven (if still alive), and any of Strahd’s surviving vampire spawn (if any)  
-* to confirm the fate of the Order of the Silver Dragon  
-* to discuss the valley’s governance, trade, and common defense  
-* to discuss the valley’s reintroduction to the outside world (i.e., exploring the local area and establishing diplomatic relations)  
-* to facilitate the return of the Barovian refugees to their home village, for those that wish to do so
+* valutare e affrontare quello che resta della corte e del castello di Strahd, comprese le «tribù druidiche» (cioè il Popolo della Foresta e il Popolo della Montagna), il branco di lupi mannari, la congrega di megere (se è ancora viva) e le progenie vampiriche di Strahd sopravvissute (se ce ne sono)  
+* accertare la sorte dell'Ordine del Drago d'Argento  
+* discutere del governo della valle, del commercio e della difesa comune  
+* discutere del ritorno della valle nel mondo esterno (cioè esplorare le terre vicine e stabilire relazioni diplomatiche)  
+* agevolare il ritorno dei profughi baroviani al loro villaggio, per chi lo desidera
 
-The meeting’s attendees have the following goals and interests, though they can be swayed from these interests with suitable arguments and a Charisma (Persuasion) check:
+I partecipanti hanno questi obiettivi e interessi, anche se argomenti adatti e una prova di Carisma (Persuasione) possono fargli cambiare idea:
 
-* **Lady Wachter** hopes to create a defensive and trade alliance between the three settlements, with Vallaki as a senior partner due to its size and resources, and to provide for the centralized (or at least coordinated) government of the valley to ensure shared prosperity, facilitate reintegration with the outside world, and provide for defense against external threats.  
-* **Kasimir** hopes to preserve the culture, dignity, and independence of the dusk elves while allowing them to reintegrate with Barovia’s population. (“Perhaps we have lingered too long in the shadows of the past," he muses, “unwilling to let go of memories and grief.")  
-* **Ismark** hopes to bolster and fund the village of Barovia’s restoration efforts, especially following Strahd’s second siege, to facilitate the return of the refugees to Barovia, and to ensure the village’s prosperity and defense in the future (especially due to its exposure to the valley’s eastern pass and lack of walls).  
-* **Dmitri** (still somewhat suspicious of outsiders, and faithful of his village’s high walls and self-sufficiency) hopes to preserve Krezk’s independence and autonomy.  
-* **Urwin** (who has assumed command of the Keepers of the Feather following Davian’s recent retirement) hopes to preserve the Keepers’ independence and to avoid allowing any political leader to control them for martial use or surveillance.  
-* **Luvash** has no strong opinions on politics or government, but wants to ensure the freedom of Vistani caravans (and traders) to come and go as they please while preserving Vistani culture and providing a safe, permanent, place for the Vallakian encampment to remain.  
-* **Stanimir** is present merely to inform the other attendees that, following Madam Eva’s death, the Tser Pool encampment will be disbanding, with some caravans relocating to the Vallakian encampment and others (including Stanimir) departing for distant lands. 
+* **Lady Wachter** spera di creare un'alleanza difensiva e commerciale fra i tre insediamenti, con Vallaki come socio di maggioranza per dimensioni e risorse e di dare alla valle un governo centrale (o almeno coordinato) che assicuri una prosperità comune, agevoli il ritorno nel mondo esterno e provveda alla difesa dalle minacce esterne.  
+* **Kasimir** spera di preservare la cultura, la dignità e l'indipendenza degli elfi del crepuscolo, permettendo loro allo stesso tempo di integrarsi di nuovo con la popolazione di Barovia. («Forse siamo rimasti troppo a lungo nell'ombra del passato», riflette, «senza voler lasciar andare i ricordi e il dolore».)  
+* **Ismark** spera di sostenere e finanziare la ricostruzione del villaggio di Barovia, soprattutto dopo il secondo assedio di Strahd, di agevolare il ritorno dei profughi a Barovia e di garantire al villaggio prosperità e difesa in futuro (soprattutto perché è esposto al passo orientale della valle e non ha mura).  
+* **Dmitri** (ancora un po' diffidente verso gli stranieri e fiducioso nelle alte mura e nell'autosufficienza del suo villaggio) spera di preservare l'indipendenza e l'autonomia di Krezk.  
+* **Urwin** (che ha preso il comando dei Custodi della Piuma dopo il recente ritiro di Davian) spera di preservare l'indipendenza dei Custodi e di evitare che un capo politico li controlli per scopi militari o di sorveglianza.  
+* **Luvash** non ha opinioni precise sulla politica o sul governo, ma vuole garantire ai carrozzoni vistani (e ai mercanti) la libertà di andare e venire come vogliono, preservando la cultura vistana e dando all'accampamento di Vallaki un posto sicuro e permanente dove restare.  
+* **Stanimir** è presente solo per informare gli altri che, dopo la morte di Madam Eva, l'accampamento dello Stagno di Tser si scioglierà: alcuni carrozzoni si trasferiranno all'accampamento di Vallaki, altri (compreso quello di Stanimir) partiranno per terre lontane. 
 
-The attendees welcome the players’ input and assistance as mediators. However, none are willing to live beneath the rule of a monarch again.
-### 6b. Into the Mists
-Shortly after Lady Wachter’s council, Muriel Vinshaw approaches the players alongside Ezmerelda and Elvir Martikov. (If Ireena entered a romantic relationship with Ezmerelda, Ireena accompanies them as well.) All carry heavy packs containing supplies for several days’ travel.
+I partecipanti accolgono volentieri le idee dei giocatori e il loro aiuto come mediatori. Nessuno però è disposto a vivere di nuovo sotto il governo di un monarca.
+### 6b. Nelle Nebbie
+Poco dopo il consiglio di Lady Wachter, Muriel Vinshaw si avvicina ai giocatori insieme a Ezmerelda e a Elvir Martikov. (Se Ireena ha cominciato una relazione sentimentale con Ezmerelda, c'è anche Ireena.) Tutti portano zaini pesanti, con provviste per diversi giorni di viaggio.
 
-Muriel and Ezmerelda have learned, both from migrating flocks of ravens and traveling Vistani caravans, that—although Strahd has been defeated and Barovia freed—the Mists (or a near-identical phenomenon) still survive elsewhere, and that the Powers that entrapped Barovia may have ensnared other innocent settlements within them. (“It seems Barovia may not have been the only victim of the Mists," Ezmerelda says grimly. “I’ve heard tales of far-off lands spirited away—desert kingdoms, jungle temples, and sprawling cities where the living sleep forever.")
+Muriel ed Ezmerelda hanno saputo, sia dagli stormi di corvi in migrazione sia dai carrozzoni vistani in viaggio, che anche se Strahd è stato sconfitto e Barovia è libera, le Nebbie (o un fenomeno quasi identico) esistono ancora altrove e che i Poteri che hanno intrappolato Barovia potrebbero averci imprigionato altri insediamenti innocenti. («A quanto pare Barovia potrebbe non essere stata l'unica vittima delle Nebbie», dice cupa Ezmerelda. «Ho sentito racconti di terre lontane portate via: regni nel deserto, templi nella giungla e città sterminate dove i vivi dormono per sempre».)
 
-Muriel, Ezmerelda, Elvir, and Ireena intend to travel to these lands with the aid of an item called a *mist talisman* that Ezmerelda obtained from a Vistani merchant. (See **Domains of Ravenloft (*Van Richten’s Guide to Ravenloft*, p. 61**) for a list of mist talismans that Ezmerelda might have obtained.) Upon their arrival in each land, Muriel intends to found new chapters of the Keepers of the Feather—and will need new members to help do so.
+Muriel, Ezmerelda, Elvir e Ireena vogliono raggiungere queste terre con l'aiuto di un oggetto chiamato *talismano delle nebbie*, che Ezmerelda ha avuto da un mercante vistana. (Vedi **Domini di Ravenloft (*Guida di Van Richten a Ravenloft*, p. 61**) per un elenco dei talismani delle nebbie che Ezmerelda potrebbe aver avuto.) In ogni terra che raggiungeranno Muriel vuole fondare nuove sezioni dei Custodi della Piuma, e le serviranno nuovi membri per farlo.
 
-The four have come to bid the players farewell—and, if they’re interested, to invite any of them to join their venture. (“So long as any of us are trapped in the Mists," Ireena says, with steely determination, “all of us are.")
+I quattro sono venuti a salutare i giocatori e, se sono interessati, a invitare chi vuole a unirsi all'impresa. («Finché qualcuno di noi è intrappolato nelle Nebbie», dice Ireena, con una determinazione d'acciaio, «lo siamo tutti».)
 
-Even if no players join their expedition, the travelers thank the players for their efforts to aid Barovia and bid them warm farewells.
+Anche se nessun giocatore si unisce alla spedizione, i viaggiatori ringraziano i giocatori per quello che hanno fatto per Barovia e li salutano con affetto.
 
-> [!tip] You've Reached the End of the Mists
-> You’ve reached the end of the current public release of the *Curse of Strahd: Reloaded* guide.
+> [!tip] Sei arrivato alla fine delle Nebbie
+> Sei arrivato alla fine della versione pubblica attuale della guida *Curse of Strahd: Reloaded*.
 > 
-> To get a sneak peek at revisions of published arcs and other future work, support the guide by joining the author’s [Patreon](https://www.patreon.com/DragnaCarta)!
+> Per avere un'anteprima delle revisioni degli archi già pubblicati e degli altri lavori futuri, sostieni la guida unendoti al [Patreon](https://www.patreon.com/DragnaCarta) dell'autore!
